@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-OPC-15005802</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2015-01-05</date_registration>
+      <primary_sponsor>Shenzhen Second People's Hospital, The First Affiliated Hospital of Shenzhen University</primary_sponsor>
+      <public_title>Autologous hematopoietic stem cell gene therapy for Metachromatic Leukodystrophy and Adrenoleukodystrophy</public_title>
+      <acronym />
+      <scientific_title>Lentiviral Hematopoietic Stem Cell Gene Therapy for Developped Metachromatic Leukodystrophy and adrenoleukodystrophy</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2015-01-10</date_enrolment>
+      <type_enrolment />
+      <target_size>1:16;2:16;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=10228</url>
+      <study_type>Observational study</study_type>
+      <study_design>Case series</study_design>
+      <phase>I+II (Phase I+Phase II)</phase>
+      <hc_freetext>Metachromatic Leukodystrophy; Adrenoleukodystroph</hc_freetext>
+      <i_freetext>1:Lentiviral Hematopoietic Stem Cell Gene Therapy;2:No Lentiviral Hematopoietic Stem Cell Gene Therapy;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Lian Qizhou</firstname>
+        <middlename />
+        <lastname />
+        <address>3001 Shungang Road, Futian, Shenzhen, China</address>
+        <city />
+        <country1 />
+        <zip>518035</zip>
+        <telephone>+86 18507555077</telephone>
+        <email>dalilian2000@aliyun.com</email>
+        <affiliation>Shenzhen Second People's Hospital, The First Affiliated Hospital of Shenzhen University</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Zhou JiaCai</firstname>
+        <middlename />
+        <lastname />
+        <address>3001 Shungang Road, Futian, Shenzhen, China</address>
+        <city />
+        <country1 />
+        <zip>518035</zip>
+        <telephone>+86 0755-83366388-8197</telephone>
+        <email>jiacai8199@163.com</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2 />
+    </countries>
+    <criteria>
+      <inclusion_criteria>For MLD inclusion criteria
+1.Confirmed diagnosis as MLD by ARSA genetic diagnosis , MRI imaging and low ARSA A activity ( below 20% or normal level) 
+2.The patient' symptoms and lesions   have not been developed to the end stage of MLD.
+  
+For ALD inclusion criteria
+1.Confirmed diagnosis as MLD by ABCD1genetic diagnosis , MRI imaging and high VLCFA level, abnormal highlevel  of adrenocorticotropic hormone，ACTH.
+2.  The patient' symptoms and lesions   have  not been developed to the end stage of ALD</inclusion_criteria>
+      <agemin>1</agemin>
+      <agemax>35</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>For MLD exclusion criteria. 
+1.No clinical symptoms of MLD.
+2.ARSA  Activity &gt;50% of healthy controls
+3.end stage of MLD
+4. Other complications .ie. Cancer.
+5.HIV RNA and/or HCV RNA and/or HBV DNA positive patients
+6.Patient who underwent allogenic hematopoietic stem cell transplantation with evidence of residual cells of donor origin
+
+For ALD exclusion criteria.
+1.No clinical symptoms
+2.Normal level of VLCFAs in blood
+3.End stage of ALD
+4.Other complications .ie. Cancer.
+5.HIV RNA and/or HCV RNA and/or HBV DNA positive patients.
+6.Patient who underwent allogenic hematopoietic stem cell transplantation with evidence of residual cells of donor origin.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>Neural scores;ARSA activity (MLD);VLCFA level ( ALD);</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Taiwan Juridical Association of MLD Care</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2014-04-26</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

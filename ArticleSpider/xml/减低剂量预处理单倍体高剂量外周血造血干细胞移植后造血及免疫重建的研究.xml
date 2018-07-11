@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-ONC-16009421</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2016-10-15</date_registration>
+      <primary_sponsor>Hematologic disease center,First Affiliated Hospital of XinJiang Medical University </primary_sponsor>
+      <public_title>Research to hematopoiesis and immune reconstruction after reduced-intensity conditioning HLA-haploidentical high dose peripheral blood hematopoietic stem cell transplantation</public_title>
+      <acronym />
+      <scientific_title>Research to hematopoiesis and immune reconstruction after reduced-intensity conditioning HLA-haploidentical high dose peripheral blood hematopoietic stem cell transplantation</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2016-10-01</date_enrolment>
+      <type_enrolment />
+      <target_size>Hematopoietic stem cell transplantation group:40;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=15794</url>
+      <study_type>Observational study</study_type>
+      <study_design>Case series</study_design>
+      <phase>New Treatment Measure Clinical Study</phase>
+      <hc_freetext>hematologic malignance</hc_freetext>
+      <i_freetext>Hematopoietic stem cell transplantation group:Reduced-intensity conditioning regimen related HLA-haploidentical non T cell-depleted in vitro peripheral hematopoietic stem cell transplantation;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Hongbo Wang</firstname>
+        <middlename />
+        <lastname />
+        <address>8 Liyushan road, Urumuqi, Xinjiang Uygur Autonomous Region, China </address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 15276821839</telephone>
+        <email>xjwhb001@sina.com</email>
+        <affiliation>Hematologic disease center, First Affiliated Hospital of Xinjiang Medical University </affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Ming Jiang</firstname>
+        <middlename />
+        <lastname />
+        <address>8 Liyushan road, Urumuqi, Xinjiang Uygur Autonomous Region, China </address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13609910116</telephone>
+        <email>jiangmingyy@126.com</email>
+        <affiliation>Hematologic disease center, First Affiliated Hospital of Xinjiang Medical University </affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Patients aged 50 to 65 years old with hematologic malignancies;
+2. Patients who is below 50 years old have the fellowing situtation:
+1) Patients have an urgent need for transplantation, but with uncured infection. Exp. Patiens have Tuberculosis with residual lesions after anti-TB treatment at 6-9 months, or with standard anti-TB treatment over 3 months; Patiens have remaining infection lesions after infection of bacterial and fungal but stable condition;
+2) Organ disfunction: Patients have cardiovascular, respiratory system disease, and dysfunction of liver and kidney who is evaluated to tolerated to RIC-RHNT-PBSCT;
+3) Patients can not received MAC transplantation whose bodies are also weaker for some reason.</inclusion_criteria>
+      <agemin>14</agemin>
+      <agemax>65</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. Patient who is over 65 years old;
+2. Patients who suffer uncontrollable infection;
+3. Patiens with severe cardiovascular,respiratory system disease and dysfunction of liver and kidney;
+4. Patients with mental disease;
+5. Patients who refuse to sign the informed consent.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>Engraft rate;Acute graft versus host disease;The cumulative incidence of infection;Costimulatory molecules;Basic immunologic function;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>Chronic graft versus host disease;Overall Surviver;Disease free survival;Transplantation related mortality;Relapse rate;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Natural Science Foundation of China</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2016-03-04</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

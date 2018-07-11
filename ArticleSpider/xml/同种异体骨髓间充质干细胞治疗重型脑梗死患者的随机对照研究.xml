@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-INR-16008908</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2016-07-25</date_registration>
+      <primary_sponsor>Sun Yat-Sen Memorial Hospital, Sun Yat-Sen University</primary_sponsor>
+      <public_title>Allogenic bone marrow-derived mesenchymal stem cells transplantation in severe cerebral infarction patients: a randomized controlled clinical trail</public_title>
+      <acronym />
+      <scientific_title>Allogenic bone marrow-derived mesenchymal stem cells transplantation in severe cerebral infarction patients: a randomized controlled clinical trail</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2016-07-22</date_enrolment>
+      <type_enrolment />
+      <target_size>intervention group:31;control group:31;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=14716</url>
+      <study_type>Interventional study</study_type>
+      <study_design>Randomized parallel controlled trial</study_design>
+      <phase>New Treatment Measure Clinical Study</phase>
+      <hc_freetext>stroke</hc_freetext>
+      <i_freetext>intervention group:regular treatment plus intrathecal injection of stem cells;control group:regular treatment;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Yidong Wang</firstname>
+        <middlename />
+        <lastname />
+        <address>107 West Yanjiang Road, Yuexiu District, Guangzhou, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 020-34070569</telephone>
+        <email>wydys@126.com</email>
+        <affiliation>Sun Yat-Sen Memorial Hospital, Sun Yat-Sen University</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Yidong Wang</firstname>
+        <middlename />
+        <lastname />
+        <address>107 West Yanjiang Road, Yuexiu District, Guangzhou, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 020-34070569</telephone>
+        <email>wydys@126.com</email>
+        <affiliation>Sun Yat-Sen Memorial Hospital, Sun Yat-Sen University</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. aged 18-75 years old;
+2. between 1 to 3 months from stroke onset;
+3. met diagnostic criteria of stroke; first onset or previous illness but good recovery (no dysfunction);
+4. legacy severe neurologic deficits, but no longer progress, NIHSS scores 15-25;
+5. written informed consents were obtained from all subjects.</inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax>75</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. the specific causes of cerebral infarction(Such as the central nervous system vasculitis, syphilitic cerebrovascular inflammation, blood clotting disorders, etc), cerebral infarction again within 3 months;
+2. cerebral infarction complicated with cerebral hemorrhage, subarachnoid hemorrhage and hemorrhagic transformation;
+3. severe disturbance of consciousness(Lethargy or coma);
+4. cerebral hernia, status epilepticus;
+5. critically ill: Vital signs (respiration, blood pressure, blood oxygen, heart rate, etc.) are not stable and/or multiple organ dysfunction;
+6. cerebral infarction complicated with infections, infectious disease, myocardial infarction (within 3 months), chronic renal insufficiency, liver function abnormalities, diabetes(poor blood glucose control) or with severe nerve vascular complications, autoimmune diseases;
+7. other neurological disorders, dementia, or mental illness affecting the compliance and evaluation;
+8. cancer patients;
+9. abnormal blood system: HGB&lt;90g/L, WBC&lt;4.0×10^9/L, PLT&lt;100×10^9/L, or blood coagulation disorders;
+10. allergic constitution;
+11. pregnant or lactating women.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>mRS scale;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>NIHSS score;infarct volume;neurologic function score;mortality within 13 months after treatment;cerebralspinal fluid biomarkers;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Guangdong public welfare research and capacity building special fund project (social development field)</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2016-05-25</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

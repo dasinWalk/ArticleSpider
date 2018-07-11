@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-INR-17012403</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2017-08-17</date_registration>
+      <primary_sponsor>Shanghai Ninth People's Hospital, Shanghai Jiaotong University School of Medicine</primary_sponsor>
+      <public_title>Application of erythropoietin in enriched bone marrow stem cells technique to promote bone regeneration</public_title>
+      <acronym />
+      <scientific_title>Application of erythropoietin in enriched bone marrow stem cells technique to promote bone regeneration</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2017-09-01</date_enrolment>
+      <type_enrolment />
+      <target_size>treatment group:44;controlled group:44;</target_size>
+      <recruitment_status>Pending</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=18844</url>
+      <study_type>Interventional study</study_type>
+      <study_design>Randomized parallel controlled trial</study_design>
+      <phase>New Treatment Measure Clinical Study</phase>
+      <hc_freetext>bone defect, bone non-union and lumber spinal stenosis</hc_freetext>
+      <i_freetext>treatment group:administer erythropoietin (150U/kg) three to five times via subcutaneous or intravenous injection before operation;controlled group:administer  normal saline three times via subcutaneous or intravenous injection before operation;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Xin Wang</firstname>
+        <middlename />
+        <lastname />
+        <address>639 Zhizaoju Road, Huangpu District, Shanghai, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 17195866947</telephone>
+        <email>walsheim@163.com</email>
+        <affiliation>Shanghai Ninth People's Hospital, Shanghai Jiaotong University School of Medicine</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>YaoKai Gan</firstname>
+        <middlename />
+        <lastname />
+        <address>639 Zhizaoju Road, Huangpu District, Shanghai, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 15021317328</telephone>
+        <email>ganyk2004@126.com</email>
+        <affiliation>Shanghai Ninth People's Hospital, Shanghai Jiaotong University School of Medicine</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>(1) Aged from 30 to 65 years, male and female; 
+(2) the patients who suffer from bone un-union, bone defect or two or three segmental lumber spine disease requiring decompression surgery and intervertebral fusion;
+(3) Be willing to sign the informed consent. </inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax>65</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. malignant or benign tumor; 
+2. polycythemia vera;
+3. myelodysplastic syndrome; 
+4. infected disease; 
+5. high dose chemoradiotherapy; 
+6. blood system disease; 
+7. operation site with infection or Hemoculture positive recently;
+8. Hb＜7g/dl or severe coagulation disorders such as PT&gt;10 seconds and platelet less than 60×10^9/L 
+9. pregnant woman;
+10. patients with decompensated cirrhosis,uremia or severe brain trauma; 
+11. patient paticipating in other clinial trials in the same time. </exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>clinical union time;the amount of bone marrow stem cells;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>the amount of bone callus;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Clinical Research Program of 9th People's Hospital,Shanghai Jiao Tong University School of Medicine</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2017-03-28</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

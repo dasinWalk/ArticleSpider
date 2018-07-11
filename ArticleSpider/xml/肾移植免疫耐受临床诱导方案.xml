@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-TNC-09000399</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2009-04-22</date_registration>
+      <primary_sponsor>Zhongshan Hospital, Fudan University</primary_sponsor>
+      <public_title>Research on Induction of Renal Transplant tolerance</public_title>
+      <acronym />
+      <scientific_title>Donor Hematopoietic Stem Cells to Induce Tolerance in Kidney Transpant Recipients</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2009-03-01</date_enrolment>
+      <type_enrolment />
+      <target_size>Study group:10;</target_size>
+      <recruitment_status>Completed</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=9134</url>
+      <study_type>Observational study</study_type>
+      <study_design>Before-After control</study_design>
+      <phase>I (Phase I study)</phase>
+      <hc_freetext>End stage renal failure, renal transplantation</hc_freetext>
+      <i_freetext>Study group:irradiation, ATG, Renal and Hematopoietic-Cell Transplantation  ;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Xuanchuan Wang</firstname>
+        <middlename />
+        <lastname />
+        <address>No.180, Fenglin Road, Xuhui District, Shanghai, China</address>
+        <city />
+        <country1 />
+        <zip>200032</zip>
+        <telephone>+86 0 13774267928</telephone>
+        <email>0256039@fudan.edu.cn</email>
+        <affiliation>Zhongshan Hospital, Fudan University</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Tongyu Zhu</firstname>
+        <middlename />
+        <lastname />
+        <address>No.180, Fenglin Road, Xuhui District, Shanghai, China</address>
+        <city />
+        <country1 />
+        <zip>200032</zip>
+        <telephone>+86 0 13311920325</telephone>
+        <email>tyzhu@fudan.edu.cn</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Patient fully informed, signed informed consent;
+2. Patient is receiving first renal transplant: living related;
+3. HLA match 3 to 6 locus, PRA&lt;=10%, Negative lymphocyte cytotoxicity; 
+4. Patient has good compliance and agrees to follow-up regularly;
+5. Weight &gt;=40 kg.</inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax>60</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. Patient previously received/receiving transplant other than kidney;
+2. Weight &lt;40 kg or BMI &gt; 30;
+3. Recipient/donor is ELISA positive for human immunodeficiency virus (HIV), antibody positive for hep. C, or surface antigen positive for hep. B;
+4. Recipient/donor is positive for TB;
+5. Patient has current uncontrolled infections;
+6. Patient has current malignancy or history of malignancy within past 5 years;
+7. Patients has significant liver disease;
+8. Patients has significant cardiac or lung disease;
+9. CMV/EBV negative recipients of CMV/EBV positive donor; 
+10. Patient does not have good compliance and agree to follow-up regularly.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>Liver function;Chimerism;Renal function;Lymphocyte cytotoxicity;Biopsy;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>Urine routine;CsA C0,C2;MMF AUC;Blood routine and lymphocyte type;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Zhongshan Hospital, Fudan University</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2009-04-02</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

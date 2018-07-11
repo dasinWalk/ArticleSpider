@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-INR-17012152</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2017-07-26</date_registration>
+      <primary_sponsor>Shanghai Tongji Hospital</primary_sponsor>
+      <public_title>Clinical research of transplantation of functional scaffold seeded with mesenchymal stem cells for the treatment of traumatic spinal cord injury</public_title>
+      <acronym />
+      <scientific_title>Clinical research of transplantation of functional scaffold seeded with mesenchymal stem cells for the treatment of traumatic spinal cord injury</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2017-09-30</date_enrolment>
+      <type_enrolment />
+      <target_size>functional scaffold only:6;functional scaffold seeded with low dose of mesenchymal stem cells:6;functional scaffold seeded with moderate dose of mesenchymal stem cells:6;functional scaffold seeded with high dose of mesenchymal stem cells:6;</target_size>
+      <recruitment_status>Pending</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=20729</url>
+      <study_type>Interventional study</study_type>
+      <study_design>Randomized parallel controlled trial</study_design>
+      <phase>New Treatment Measure Clinical Study</phase>
+      <hc_freetext>spinal cord injury</hc_freetext>
+      <i_freetext>functional scaffold only:transplantation of functional scaffold only;functional scaffold seeded with low dose of mesenchymal stem cells:transplantation of functional scaffold seeded with low dose of mesenchymal stem cells;functional scaffold seeded with moderate dose of mesenchymal stem cells:transplantation of functional scaffold seeded with moderate dose of mesenchymal stem cells;functional scaffold seeded with high dose of mesenchymal stem cells:transplantation of functional scaffold seeded with high dose of mesenchymal stem cells;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Wei Xu</firstname>
+        <middlename />
+        <lastname />
+        <address>389 Xincun Road, Putuo District, Shanghai, China</address>
+        <city />
+        <country1 />
+        <zip>200065</zip>
+        <telephone>+86 17301809358</telephone>
+        <email>lorings@163.com</email>
+        <affiliation>Shanghai Tongji Hospital</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Liming Cheng</firstname>
+        <middlename />
+        <lastname />
+        <address>389 Xincun Road, Putuo District, Shanghai, China</address>
+        <city />
+        <country1 />
+        <zip>200065</zip>
+        <telephone>+86 13701959550</telephone>
+        <email>chlm.d@163.com</email>
+        <affiliation>Shanghai Tongji Hospital</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. T1-11complete spinal cord injury (ASIA spinal cord injury assessment grade A, proved by electrophysiology test and MRI, injury level will be confirmed by physical examination);
+2. The glial scar after spinal cord injury less than 2cm (proved by MRI);
+3. Male or female aged 18-60 years with acute or subacute spinal cord injury (less than 3 months, ASIA grade A), no improvement after rehabilitation training;
+4. Good muscle condition, function of peripheral nerves should be normal;
+5. Good general condition,function of major organs should be normal; major laboratory examinations should be normal;
+6. No brain diseases or psychological diseases;
+7. Good compliance and knowledge level, have an objective understanding  to the condition and prognosis of the disease.</inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax>60</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. Combined with diseases that affect the recovery of spinal cord injury or rehabilitation training;
+2. Non thoracic spinal cord injury;
+3. Incomplete spinal cord injury or undefined injury site and range;
+4. No rehabilitation training after spinal cord injury;
+5. Muscle atrophy or fibrosis;
+6. Degeneration of peripheral nerve;
+7. Allergic constitution;
+8. Received immunomodulator or experimental drug treatment 60 days before the research;
+9. Severe background diseases, diabetes, autoimmune diseases, tumor or severe high blood pressure;
+10. Poor general condition, malfunction of major organs, intolerance of surgery;
+11. MODS, sepsis associated organ failure assessment score≥12;
+12. Routine laboratory examinations inadequate and at least 1 positive result of the blood test: HCV antibody, HIV antibody or HTLV-1 antibody;
+13. Severe bleeding tendency or coagulation disorders;
+14. surgical site inflammation or skin ulcer;
+15. Pregnancy or lactation period;
+16. Refuse to sign the informed consent form.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>vital signs;blood routine examination;blood biochemistry examination;urine routine examination;blood coagulation examination;urinary sediment examination;stool OB examination;syphilis test;ECG;chest X-ray examination;psychological test;ASIA spinal cord injury assesment;motor score of key muncles;sensory score of key sites;function independent measure;electromyography;electrophysiology;MRI examination;urodynamic test;spasm;pain;gene analysis of blood sample;immune factors test of blood sample;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Shanghai shenkang hospital development center clinical science and technology innovation project</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>1990-01-01</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

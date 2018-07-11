@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR1800015640</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2018-04-12</date_registration>
+      <primary_sponsor>Shanghai Ninth People's Hospital Affiliated to Shanghai JiaoTong University School of Medcine</primary_sponsor>
+      <public_title>A study for Pegaspargase, Gemicitabine, Oxaliplatin and Dexamethasone (Peg-GemOD) Regimen followed by ASCT in the treatment of advanced-stage Extranodal NK/T cell lymphoma</public_title>
+      <acronym />
+      <scientific_title>A study for Pegaspargase, Gemicitabine, Oxaliplatin and Dexamethasone (Peg-GemOD) Regimen followed by ASCT in the treatment of advanced-stage Extranodal NK/T cell lymphoma</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2018-04-01</date_enrolment>
+      <type_enrolment />
+      <target_size>Case series:37;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=26617</url>
+      <study_type>Observational study</study_type>
+      <study_design>Case series</study_design>
+      <phase>Post-market</phase>
+      <hc_freetext>Nk/T cell lymphoma</hc_freetext>
+      <i_freetext>Case series:Pegaspargase, Gemicitabine, Oxaliplatin and Dexamethasone (Peg-GemOD) Regimen followed by ASCT;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Zhu Qi</firstname>
+        <middlename />
+        <lastname />
+        <address>639 Zhizaiju Road, Shanghai, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13764188348</telephone>
+        <email>zhuqi70@hotmail.com</email>
+        <affiliation>Shanghai Ninth People's Hospital Affiliated to Shanghai JiaoTong University School of Medcine</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Yao yiyun</firstname>
+        <middlename />
+        <lastname />
+        <address>639 Zhizaiju Road, Shanghai, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13818327362</telephone>
+        <email>wdx0707@sina.com</email>
+        <affiliation>Shanghai Ninth People's Hospital Affiliated to Shanghai JiaoTong University School of Medcine</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. diagnosed NK/T cell lymphoma  with the pathologically and immunohistochemically confirmed by tumor  tissue;
+2. intermediate or high subtype by PINKE risk-factor model with at least one measurable focus;
+3. aged &gt;= 16 years;
+4. ECOG performance status of &lt;3 with anticipated survival exceeding 3 months;
+5. lab tests suitable for chemotherapy.</inclusion_criteria>
+      <agemin>16</agemin>
+      <agemax>75</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. relapsed or progressed patients treated by Aspargase-contained chemotherapies in recent 6 months;
+2. concurrent with HCV or HIV infection;
+3. combination with pancreatitis;
+4. concurrent with server infection needing ICU care;
+5. with serious complications, such as fulminant DIC;
+6. important organ failure;
+7. pregnant or lactation period;
+8. psychonosema;
+9. allergy to the drug ofchemotherapy;
+10. with secondary tumor need to under operation or chemotherapy in 6 months ahead;
+11. in other correlated clinical trial.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>Overall survival;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>progress free survival;response rate;toxicity evaluation;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Project of Clinical Research， Shanghai Ninth People's Hospital Affiliated to Shanghai JiaoTong University School of Medcine</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2018-03-13</approval_date>
+        <contact_name>Zheng Hong</contact_name>
+        <contact_address>639 Zhizaiju Road, Shanghai, China</contact_address>
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

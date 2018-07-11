@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-TNRC-11001488</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2011-08-27</date_registration>
+      <primary_sponsor>General Hospital of Chinese People's Armed Police Forces</primary_sponsor>
+      <public_title>Efficacy of umbilical cord mesenchymal stem cell transplantation in the treatment of cirrhosis patients</public_title>
+      <acronym />
+      <scientific_title>Efficacy of umbilical cord mesenchymal stem cell transplantation in the treatment of cirrhosis patients</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2011-09-15</date_enrolment>
+      <type_enrolment />
+      <target_size>A:20;</target_size>
+      <recruitment_status>Completed</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=8051</url>
+      <study_type>Observational study</study_type>
+      <study_design>Non randomized control</study_design>
+      <phase>II (Phase II study)</phase>
+      <hc_freetext>cirrhosis</hc_freetext>
+      <i_freetext>A:umbilical cord mesenchymal stem cells transplantation ;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Yihua An</firstname>
+        <middlename />
+        <lastname />
+        <address>69 Yongding Road, Haidian District, Beijing, China</address>
+        <city />
+        <country1 />
+        <zip>100050</zip>
+        <telephone>+86 10 57976848</telephone>
+        <email>riveran@163.com</email>
+        <affiliation>General Hospital of Chinese People's Armed Police Forces</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Yihua An</firstname>
+        <middlename />
+        <lastname />
+        <address>69 Yongding Road, Haidian District, Beijing, China</address>
+        <city />
+        <country1 />
+        <zip>100050</zip>
+        <telephone>+86 10 57976849</telephone>
+        <email>riveran@163.com</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>cirrhosis patients whose Child grade were &lt;3</inclusion_criteria>
+      <agemin>35</agemin>
+      <agemax>63</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>Severe cardiovascular disease or imunocompromised</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>biochemical markers of liver;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>liver ultrasoun;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Self-support</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2011-08-13</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-ONN-16009932</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2016-11-20</date_registration>
+      <primary_sponsor>Xin Hua Hospital, Shanghai Jiao Tong University School of Medicine </primary_sponsor>
+      <public_title>Osteoarthritis Articular Cartilage Stem Cells Activation, Popularization and Application</public_title>
+      <acronym />
+      <scientific_title>Osteoarthritis Articular Cartilage Stem Cells Activation, Popularization and Application</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2016-12-01</date_enrolment>
+      <type_enrolment />
+      <target_size>1:100;2:100;</target_size>
+      <recruitment_status>Pending</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=16925</url>
+      <study_type>Observational study</study_type>
+      <study_design>Non randomized control</study_design>
+      <phase>New Treatment Measure Clinical Study</phase>
+      <hc_freetext>osteoarthritis</hc_freetext>
+      <i_freetext>1:TGF-β/Smad Activator;2:NF-κB pathway inhibitor;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Zhang Xiaoling</firstname>
+        <middlename />
+        <lastname />
+        <address>Room 1230, P.O.X 116, Life Science Building, Block A, 320 Yueyang Road, Xuhui District, Shanghai, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13564636096</telephone>
+        <email>xlzhang@sibs.ac.cn</email>
+        <affiliation>Xin Hua Hospital, Shanghai Jiao Tong University School of Medicine</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Zhang Xiaoling</firstname>
+        <middlename />
+        <lastname />
+        <address>Room 1230, P.O.X 116, Life Science Building, Block A, 320 Yueyang Road, Xuhui District, Shanghai, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13564636096</telephone>
+        <email>xlzhang@sibs.ac.cn</email>
+        <affiliation>Xin Hua Hospital, Shanghai Jiao Tong University School of Medicine</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>osteoarthritis patients</inclusion_criteria>
+      <agemin>30</agemin>
+      <agemax>70</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>serious osteoarthritis patients who need surgery</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>joint MRI;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Shanghai Hospital Development Center</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Not approved</status>
+        <approval_date>2013-08-26</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

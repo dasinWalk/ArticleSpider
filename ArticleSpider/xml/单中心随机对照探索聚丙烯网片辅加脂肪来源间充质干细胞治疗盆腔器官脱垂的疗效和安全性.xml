@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-ICR-15006045</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2015-03-06</date_registration>
+      <primary_sponsor>Peking Union Medical College Hospital</primary_sponsor>
+      <public_title>Explore the efficacy and  and safety of single-center randomized controlled  polypropylene mesh auxiliary plus adipose-derived mesenchymal stem cells in the treatment of pelvic organ prolapse</public_title>
+      <acronym />
+      <scientific_title>Explore the efficacy and  and safety of single-center randomized controlled  polypropylene mesh auxiliary plus adipose-derived mesenchymal stem cells in the treatment of pelvic organ prolapse</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2015-05-01</date_enrolment>
+      <type_enrolment />
+      <target_size>One:10;Two:10;</target_size>
+      <recruitment_status>Pending</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=10516</url>
+      <study_type>Interventional study</study_type>
+      <study_design>Randomized parallel controlled trial</study_design>
+      <phase>New Treatment Measure Clinical Study</phase>
+      <hc_freetext>Pelvic organ prolapse</hc_freetext>
+      <i_freetext>One:polypropylene mesh;Two:polypropylene mesh auxiliary plus adipose-derived mesenchymal stem cells;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Ding Jing</firstname>
+        <middlename />
+        <lastname />
+        <address>No.1 ShuaiFu Road, Dongcheng District, Beijing</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 18813019415</telephone>
+        <email>dingdingdangdang11@126.com</email>
+        <affiliation>Peking Union Medical College Hospital</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Zhu Lan</firstname>
+        <middlename />
+        <lastname />
+        <address>No.1 ShuaiFu Road, Dongcheng District, Beijing</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13911714696</telephone>
+        <email>zhu_julie@vip.sina.com</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2 />
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. To aged 55 to 65 year-old woman, suffering from the symptoms of prolapse or vault prolapse POP-Q III-IV stage, suitable for surgery, the researchers agreed to participate and signed informed consent;
+2. stress incontinence need simultaneously transvaginal mid urethral sling (TVT-O).</inclusion_criteria>
+      <agemin />
+      <agemax />
+      <gender>Female</gender>
+      <exclusion_criteria>Generally poor, difficult to tolerate serious medical complications of laparoscopic surgery;
+1. a history of patch application pelvic organ prolapse surgery;
+2. reproductive system, urinary system, or with active systemic infection, surgery can be postponed until after the infection cleared;
+3. coagulation disorders or are receiving therapeutic anticoagulation drugs;
+4. had previously received chemotherapy or pelvic radiotherapy;
+5. impact of bladder or bowel function systemic diseases (such as Parkinson's disease, multiple sclerosis, spina bifida, spinal cord injury, etc.);
+6. patients with chronic pelvic pain;
+7. poorly controlled chronic cough;
+8. BMI≥30;
+9. The researchers believe there may be other medical or mental illness can not be with the completion of the investigator.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>effectiveness;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>safety;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>National</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>1990-01-01</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

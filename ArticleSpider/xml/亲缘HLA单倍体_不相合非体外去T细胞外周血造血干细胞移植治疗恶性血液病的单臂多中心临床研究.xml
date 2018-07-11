@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-OCC-15006663</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2015-06-29</date_registration>
+      <primary_sponsor>Hematologic disease center,First Affiliated Hospital of XinJiang Medical University</primary_sponsor>
+      <public_title>Multicenter clinical research of related HLA-haploidentical/mismatched allogeneic non T cell-depleted in vitro peripheral blood hematopoietic stem cell transplantation for hematologic malignance</public_title>
+      <acronym />
+      <scientific_title>Multicenter clinical research of related HLA-haploidentical/mismatched allogeneic non T cell-depleted in vitro peripheral blood hematopoietic stem cell transplantation for hematologic malignance</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2015-07-01</date_enrolment>
+      <type_enrolment />
+      <target_size>Case series:100;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=11325</url>
+      <study_type>Observational study</study_type>
+      <study_design>Case series</study_design>
+      <phase>New Treatment Measure Clinical Study</phase>
+      <hc_freetext>hematologic malignance</hc_freetext>
+      <i_freetext>Case series:Related HLA-haploidentical/mismatched allogeneic non T cell-depleted in vitro peripheral blood hematopoietic stem cell transplantation;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>XianLin Duan</firstname>
+        <middlename />
+        <lastname />
+        <address>8 Liyushan road, Urumuqi, Xinjiang Uygur Autonomous Region, China</address>
+        <city />
+        <country1 />
+        <zip>830061</zip>
+        <telephone>+86 18690172656</telephone>
+        <email>wqw.056@163.com</email>
+        <affiliation>Hematologic disease center, First Affiliated Hospital of Xinjiang Medical University</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Ming Jiang</firstname>
+        <middlename />
+        <lastname />
+        <address>8 Liyushan road, Urumuqi, Xinjiang Uygur Autonomous Region, China</address>
+        <city />
+        <country1 />
+        <zip>830061</zip>
+        <telephone>+86 13609910116</telephone>
+        <email>jiangmingyy@126.com</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1) Age: 15 to 50 years old;
+2) Confirmed diagnosis hematological malignancies, including: ALL in initial treatment (standard risk and high risk group), AML in initial treatment?except M3 (moderated and high risk group), MDS (IPSS up 3.5), recurrence of refractory ALL and AML(note: use a IPSS MDS - R scoring system);
+3) HLA-matching all used high resolution genotyping and choose 2/6 or 3/6 HLA-halpltype (HLA - A, B and DRB1);
+4) Patiens haven't severely organ injury of heart, lung, kidney, only mild damage to liver function (Child class A);
+5) The following feasible transplantation: patients with hepatitis b virsus, hepatitis c virsus of not actively liver damage and strict monitoring viral replication in normal copy number; with TB infection of infected has been control, under continue to anti-TB treatment; patients have?fungal infection?recently of full control of infected site;
+6) All volunteer signed the informed consent.</inclusion_criteria>
+      <agemin>15</agemin>
+      <agemax>50</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1) There is difficult to control the active infection;
+2) Patients have organ injury of heart, lung, kidney and severe liver damage (Child class B, C);
+3) Pregnancy;
+4) Mental illness;
+5) Patients don't sign the informed consent.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>Acute graft versus host disease;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>Chronic   graft versus host disease;Engraftment;Overall Surviver;disease free survival;transplantation related mortality;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>self-financing</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2014-12-05</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

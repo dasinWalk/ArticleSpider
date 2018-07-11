@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-OND-16009502</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2016-10-20</date_registration>
+      <primary_sponsor>The Second Affiliated Hospital of Chongqing Medical University</primary_sponsor>
+      <public_title>Observational study of  different dosages of ATG-F used in conditioning of HLA haploidentical hematopoietic stem cell transplantation without in vitro T cell depletion </public_title>
+      <acronym />
+      <scientific_title>Observational study of different dosages of ATG-F  used in conditioning of HLA haploidentical hematopoietic stem cell transplantation without in vitro T cell depletion </scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2016-10-20</date_enrolment>
+      <type_enrolment />
+      <target_size>A:20;B:20;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=16301</url>
+      <study_type>Observational study</study_type>
+      <study_design>Dose comparison</study_design>
+      <phase>New Treatment Measure Clinical Study</phase>
+      <hc_freetext>hematologic malignancy </hc_freetext>
+      <i_freetext>A:ATG-F  5mg/kg*2d;B:ATG-F  5mg/kg*4d;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Yun Luo</firstname>
+        <middlename />
+        <lastname />
+        <address>74 Linjiang Road, Chongqing, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13452393932</telephone>
+        <email>luo555@163.com</email>
+        <affiliation>The Second Affiliated Hospital of Chongqing Medical University</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Yun Luo</firstname>
+        <middlename />
+        <lastname />
+        <address>74 Linjiang Road, Chongqing, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13452393932</telephone>
+        <email>luo555@163.com</email>
+        <affiliation>The Second Affiliated Hospital of Chongqing Medical University</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Aged 15-60y;
+2. hematological malignancies;
+3. prepared for related haploidentical HSCT;
+4. signed consent form. </inclusion_criteria>
+      <agemin>15</agemin>
+      <agemax>60</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. Allergic to ATG-F;
+2. unconsented.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>GVHD;the relapse of leukemia post-transplantation;2-years OS post-transplantation;2-years DFS post-tansplantation;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Provide their own</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Not approved</status>
+        <approval_date>2013-08-26</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

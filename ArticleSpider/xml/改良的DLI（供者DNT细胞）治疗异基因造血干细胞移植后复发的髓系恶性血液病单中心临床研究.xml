@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-ONB-15007431</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2015-11-18</date_registration>
+      <primary_sponsor>Department  of Hematology, Anhui Provincial Hospital</primary_sponsor>
+      <public_title>Modified DLI (donor double negative T cells) in the treatment of relapse after allogeneic hematopoietic stem cell transplantation of myeloid malignancies single clinical research center</public_title>
+      <acronym />
+      <scientific_title>Modified DLI (donor double negative T cells) in the treatment of myeloid malignancies relapse after allogeneic hematopoietic stem cell transplantation  single clinical research center</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2015-09-10</date_enrolment>
+      <type_enrolment />
+      <target_size>DNT treatment group:9;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=12516</url>
+      <study_type>Observational study</study_type>
+      <study_design>Before-After control</study_design>
+      <phase>New Treatment Measure Clinical Study</phase>
+      <hc_freetext>myeloid malignancies </hc_freetext>
+      <i_freetext>DNT treatment group:donor DNT cells infusion;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Xiaoyu Zhu</firstname>
+        <middlename />
+        <lastname />
+        <address>17 Lujiang Road, Hefei,  Anhui, China</address>
+        <city />
+        <country1 />
+        <zip>230001</zip>
+        <telephone>+86 15255456091</telephone>
+        <email>bayinhexy@126.com</email>
+        <affiliation>Anhui Provincial Hospital</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Zimin Sun</firstname>
+        <middlename />
+        <lastname />
+        <address>17 Lujiang Road, Hefei,  Anhui, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 18963789126</telephone>
+        <email>zmsun_vip@163.com</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Any age, any gender, any race;
+2. Myeloid malignancies including acute myeloid leukemia (AML)(except APL), myelodysplastic syndrome (MDS), myelodysplastic syndrome (MDS/MPD)/bone marrow hyperplastic disease, chronic myelogenous leukemia (CML), all patients were diagnosed through MICM (in accordance with the WHO diagnostic criteria);
+3. All the patients were treated with HSCT;
+4. The primary disease in patients was relapse after transplantation: leukemia cells were recurrence in peripheral blood or  &gt; 5% in bone marrow(except for other reasons such as bone marrow recovery, etc.), or extramedullary leukemia cell infiltration or recurrence of molecular biology or genetics;
+5. STR PCR results show that there is still a donor cell;
+6. Karnofsky score 60% or higher, eastern group (ECOG) tumor physical status score 0 to 2 points;
+7. In group 2 weeks before the serum total bilirubin &lt;=1.5 times of normal cap (of the same age group);Alanine aminotransferase (ALT) and aspertate aminotransferase (AST) &lt;=3times of normal cap (of the same age group); Serum creatinine&lt;=2 times of normal cap (of the same age group); Myocardial enzyme &lt; 2 times of normal cap (of the same age group);
+8. Anti-HIV(-);
+9. Each participant must sign a consent form (ICF), shows that he/she understand the study purpose and procedures, and are willing to participate in research;Considering from the patient, if the signature is not conducive to patient treatment, it is signed by the legal representative of ICF.</inclusion_criteria>
+      <agemin />
+      <agemax />
+      <gender>Both</gender>
+      <exclusion_criteria>1. Any serious complications, such as pulmonary infection, or diseases (such as uncontrolled diabetes, etc.);
+2. Serious viscera dysfunction or disease, such as serious diseases and function disorder in heart, liver, kidney and pancreas;
+3. Patients with pregnancy;
+4. Researchers believe that can damage the unnecessary risks to safety, make the results of the study subjects any life-threatening illness, condition or organ system dysfunction; drug dependence; uncontrolled mental disease ; cognitive impairment;
+5. Participants and/or authorized family members refused to accept DNT immune cell therapy;
+6. Participate in other clinical researches in 3 months;
+7. Researchers think that the patient doesn't fit into the group (e.g., patients are expected to be discontinue because of funding problems).</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>complete remission;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>Hematopoietic cells recovery time;Duration of CR;Early mortality;1 year overall survival;1 year leukemia free survival;Minimal residual disease,WT - 1 gene, tumor gene, chromosome ebb and flow rate before and after treatment;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>National Natural Science Foundation of China</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2015-09-10</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

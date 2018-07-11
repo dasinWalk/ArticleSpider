@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR1800016261</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2018-05-22</date_registration>
+      <primary_sponsor>Stomatological Hospital of Shandong University</primary_sponsor>
+      <public_title>Effects of aging of periodontal ligament stem cells on T lymphocyte immune response</public_title>
+      <acronym />
+      <scientific_title>Effects of aging of periodontal ligament stem cells on T lymphocyte immune response</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2018-06-01</date_enrolment>
+      <type_enrolment />
+      <target_size>1:30;2:30;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=27652</url>
+      <study_type>Basic science</study_type>
+      <study_design>Randomized parallel controlled trial</study_design>
+      <phase>Other</phase>
+      <hc_freetext>Regeneration of periodontal ligament stem cells</hc_freetext>
+      <i_freetext>1:Draw Blood;2:Draw Blood;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Li Xiaoyu</firstname>
+        <middlename />
+        <lastname />
+        <address>44-1 Wenhua Road West, Ji'nan, Shandong, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 15275417361</telephone>
+        <email>850137449@qq.com</email>
+        <affiliation>Stomatological Hospital of Shandong University</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Wei Fulan</firstname>
+        <middlename />
+        <lastname />
+        <address>44-1 Wenhua Road West, Ji'nan, Shandong, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13969169965</telephone>
+        <email>fulanwei777@126.com</email>
+        <affiliation>Stomatological Hospital of Shandong University</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. The biochemical indexes of the patients were within the normal range;
+2. The function of the important organs is normal;
+3. Voluntary sign of informed consent is signed voluntarily.</inclusion_criteria>
+      <agemin />
+      <agemax />
+      <gender>Both</gender>
+      <exclusion_criteria>1. Mental system disease;
+2. Infectious diseases;
+3. High blood pressure, hyperglycemia and hyperlipidemia;
+4. Withdrawing from the midway;
+5. Metabolic disorders.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>The number of peripheral blood mononuclear cells;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>The National Natural Science Fund</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Not approved</status>
+        <approval_date>2013-08-26</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

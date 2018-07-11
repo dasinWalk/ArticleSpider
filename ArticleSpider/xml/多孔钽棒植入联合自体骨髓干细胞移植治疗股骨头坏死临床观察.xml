@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-TRC-12002091</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2012-03-28</date_registration>
+      <primary_sponsor>Department of Orthopaedics, Daping Hospital, Chongqing</primary_sponsor>
+      <public_title>Clinical observation of the porous tantalum implantation combined with autologous bone marrow stem cell transplantation for the treatment of osteonecrosis</public_title>
+      <acronym />
+      <scientific_title>Clinical observation of the porous tantalum implantation combined with autologous bone marrow stem cell transplantation for the treatment of osteonecrosis</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2008-04-30</date_enrolment>
+      <type_enrolment />
+      <target_size>Experimental group:20;Control group:30;</target_size>
+      <recruitment_status>Completed</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=7458</url>
+      <study_type>Interventional study</study_type>
+      <study_design>Randomized parallel controlled trial</study_design>
+      <phase>I (Phase I study)</phase>
+      <hc_freetext>Osteonecrosis of Femoral Head</hc_freetext>
+      <i_freetext>Experimental group:Porous tantalum implantation combined with autologous bone marrow stem cell transplantation;Control group:Porous tantalum implantation;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Zhang Qi</firstname>
+        <middlename />
+        <lastname />
+        <address>10 Changjiang Road, Yuzhong District, Chongqing</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 15823442490</telephone>
+        <email>Azithromycin@qq.com</email>
+        <affiliation>Department of Orthopaedics, Daping Hospital, Chongqing</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Wang Aimin</firstname>
+        <middlename />
+        <lastname />
+        <address>10 Changjiang Road, Yuzhong District, Chongqing</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13308302730</telephone>
+        <email>Trauma2@163.com</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Hospitalized patients younger than 65, both men and women;
+2. The Steinberg stage is Phase I-II;
+3. Subjects guardians and / or subjects is voluntary and informed consent, and signed the informed consent.</inclusion_criteria>
+      <agemin>12</agemin>
+      <agemax>65</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. Surgical contraindications;
+2. Suffering from serious heart, brain, lung, liver, kidney, blood diseases;
+3. Pregnant or lactating women;
+4. Combined with other diseases, researchers will not be able to evaluate the efficacy, or unlikely to complete the expected follow-up of patients;
+5. The researchers believe that there is any inappropriate stituation.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>Harris hip score;Ficat staging;Steinberg staging;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>None</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Not approved</status>
+        <approval_date>2013-08-26</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

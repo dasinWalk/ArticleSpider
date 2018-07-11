@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR1800014601</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2018-01-23</date_registration>
+      <primary_sponsor>the First Affiliated Hospital of Guangxi Medical University</primary_sponsor>
+      <public_title>Autologous bone marrow derived stem cells in the treatment of intrauterine adhesions and thin endometrium</public_title>
+      <acronym />
+      <scientific_title>Autologous bone marrow derived stem cells in the treatment of intrauterine adhesions and thin endometrium</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2018-02-01</date_enrolment>
+      <type_enrolment />
+      <target_size>BSC:20;G-GSF group:20;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=24043</url>
+      <study_type>Observational study</study_type>
+      <study_design>Cohort study</study_design>
+      <phase>New Treatment Measure Clinical Study</phase>
+      <hc_freetext>Asherman's syndrome and thinned endometrium</hc_freetext>
+      <i_freetext>BSC:BSC perfusion;G-GSF group:G-GSFperfusion;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Hang Fu</firstname>
+        <middlename />
+        <lastname />
+        <address>6 Shuangyong Road, Nanning, Guangxi, China</address>
+        <city />
+        <country1 />
+        <zip>530021</zip>
+        <telephone>+86 13978628631</telephone>
+        <email>hangfu@yahoo.com</email>
+        <affiliation>the First Affiliated Hospital of Guangxi Medical University</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Qin Aiping</firstname>
+        <middlename />
+        <lastname />
+        <address>6 Shuangyong Road, Nanning, Guangxi, China</address>
+        <city />
+        <country1 />
+        <zip>530021</zip>
+        <telephone>+86 13977102456</telephone>
+        <email>aini02456@126.com</email>
+        <affiliation>the First Affiliated Hospital of Guangxi Medical University</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Age 20-40 years-old;
+2. Previous hysteroscopy diagnosis of intrauterine adhesions, thinned endometrium or  endometrial atrophy;
+3. previously endometrium thickness ≤5mm during  pre-ovulatory phase of natural cycle or hormone replacement therapy (HRT)cycle;
+4. Normal liver, heart and kidney function;
+5. Absence of psychiatric pathology and ability to accomplish the treatment;
+6. β-hCG negative;
+7. Absence of STDs, hepatitis B or hepatitis C;
+8. At least 2 high quality D3 embryos available for ET;
+9. willingness to join and complete this study.</inclusion_criteria>
+      <agemin>20</agemin>
+      <agemax>40</agemax>
+      <gender>Female</gender>
+      <exclusion_criteria>1. Acute urogenital infection;
+2. Combined with other genital disease ingcluding hysteromyoma, adenomyosis, hydrosalpinx or other chronic disease that incapable for pregnancy;
+3. Allergy to G-CSF or contraindication to G-CSF.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>Endometrial thickness;Endometrial blood flow;Biochemical pregnancy rate;Clinical pregnancy rate;Continue the pregnancy rate;Miscarriage rate;Endometrial shape;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Self-funding</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2017-12-29</approval_date>
+        <contact_name>huangfeng</contact_name>
+        <contact_address>The First Affiliated Hospital of Guangxi Medical University</contact_address>
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

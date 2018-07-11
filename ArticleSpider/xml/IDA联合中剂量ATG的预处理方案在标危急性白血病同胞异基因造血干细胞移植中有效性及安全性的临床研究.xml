@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-OIN-16007780</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2016-01-17</date_registration>
+      <primary_sponsor>The First Affilited Hospital of Guangxi Medical University </primary_sponsor>
+      <public_title>Efficacy and safety of conditioning including idarubicin and antithymocyte globulin in sibling donor allogeneic hematopoietic stem cell transplantation for standard-risk acute leukemia</public_title>
+      <acronym />
+      <scientific_title>Efficacy and safety of conditioning including idarubicin and antithymocyte globulin in sibling donor allogeneic hematopoietic stem cell transplantation for standard-risk acute leukemia</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2016-01-01</date_enrolment>
+      <type_enrolment />
+      <target_size>one:30;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=13013</url>
+      <study_type>Observational study</study_type>
+      <study_design>Non randomized control</study_design>
+      <phase>IV (Phase IV study)</phase>
+      <hc_freetext>Acute leukemia</hc_freetext>
+      <i_freetext>one:conditioning including idarubicin and antithymocyte globulin ;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Zhongming Zhang</firstname>
+        <middlename />
+        <lastname />
+        <address>6 Shuangyong road, Qingxiu district, Nanning, Guangxi Zhuang Autonomous Region</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 15807801369</telephone>
+        <email>15807801369@126.com</email>
+        <affiliation>The First Affilited Hospital of Guangxi Medical University </affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Yongrong Lai</firstname>
+        <middlename />
+        <lastname />
+        <address>6 Shuangyong road, Qingxiu district, Nanning, Guangxi Zhuang Autonomous Region</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>13517711828</telephone>
+        <email>laiyongrong@263.net</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Standard-risk acute leukemia;
+2. Age: 18 to 40 years old; Gender: Male or female; 
+3. Patients in the first complete remission(CR1);
+4. HLA-matched or one allele mismatched sibling donor allogeneic hematopoietic stem cell transplantation;
+5. In good general condition, ECOG score less than 1;
+6. Enrolled patients signed informed consent. </inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax>40</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. Cardiac dysfunction (ejection fraction less than 60%); Lung function insufficiency(obstruction and/or restrictive ventilatory disorders); Hepatic dysfunction (total bilirubin more than 34umol/L, ALTAST more than 2 times the upper limit of normal); Renal insufficiency (serum creatinine more than 130umol/L); 
+2. Severe invasive fungal infections uncontrolled before transplantation; 
+3. Contraindicated in using IDA, IDA total cumulative dose up to 300 mg/m2; 
+4. Severe allergic on Antithymocyte globulin (anaphylactic shock or laryngeal edema); 
+5. Unrelated donor or autologous allogeneic hematopoietic stem cell transplantation; reduced-intensity conditioning transplantation;
+6. Other circumstances which do not meet the inclusion criteria.  </exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>the relapse of leukemia post-transplantation;graft-versus-host disease post-transplantation;2-years OS post-transplantation;2-years DFS post-tansplantation;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>self-financing</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>1990-01-01</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-INR-16009871</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2016-11-16</date_registration>
+      <primary_sponsor>Shanghai Ninth People's Hospital,Shanghai Jiaotong University School of Medicine</primary_sponsor>
+      <public_title>A randomized controlled clinical trial of rapidly prepared bioactive materials as bone graft using bone marrow stem cells screen-and-enrich-and-combine(-biomaterials) circulating system(SECCS) versus autologous bone graft for bone regeneration</public_title>
+      <acronym />
+      <scientific_title>A randomized controlled clinical trial of rapidly prepared bioactive materials as bone graft using bone marrow stem cells screen-and-enrich-and-combine(-biomaterials) circulating system(SECCS) versus autologous bone graft for bone regeneration</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2016-11-25</date_enrolment>
+      <type_enrolment />
+      <target_size>treatment group:82;controlled group:82;</target_size>
+      <recruitment_status>Pending</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=16813</url>
+      <study_type>Interventional study</study_type>
+      <study_design>Randomized parallel controlled trial</study_design>
+      <phase>New Treatment Measure Clinical Study</phase>
+      <hc_freetext>bone defect and bone non-union</hc_freetext>
+      <i_freetext>treatment group:rapidly prepared bioactive materials as bone graft using bone marrow stem cells screen-and-enrich-and-combine(-biomaterials) circulating system(SECCS);controlled group:autologous bone graft;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Xin Wang</firstname>
+        <middlename />
+        <lastname />
+        <address>639 Zhizaoju Road, Shanghai, China</address>
+        <city />
+        <country1 />
+        <zip>200011</zip>
+        <telephone>+86 15921963129</telephone>
+        <email>walsheim@163.com</email>
+        <affiliation>Shanghai Ninth People's Hospital, Shanghai Jiaotong University School of Medicine</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>YaoKai Gan</firstname>
+        <middlename />
+        <lastname />
+        <address>639 Zhizaoju Road, Shanghai, China</address>
+        <city />
+        <country1 />
+        <zip>200011</zip>
+        <telephone>+86 15021317328</telephone>
+        <email>ganyk2004@126.com</email>
+        <affiliation>Shanghai Ninth People's Hospital, Shanghai Jiaotong University School of Medicine</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Aged 15 to 65 years male and female;
+2. patients require bone grafting including:
+(1) bone defect which need less than 15ml bone grafts;
+(2) bone non-union or delayed union;
+(3) spinal operation needing 5~60ml bone grafts;
+3. Be willing sign the informed consent.</inclusion_criteria>
+      <agemin>15</agemin>
+      <agemax>65</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. malignant tumor;
+2. myelodysplastic syndrome;
+3. infected disease;
+4. high dose chemoradiotherapy;
+5. blood system disease;
+6. operation site with infection or Hemoculture positive recently;
+7. Hb＜7g/dl or severe coagulation disorders such as PT&gt;10 seconds and platelet less than 60×10^9/L
+8. pregnant woman;
+9. patients with decompensated cirrhosis,uremia or severe brain trauma;
+10. patient paticipating in other clinial trials in the same time.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>union rate;clinical union time;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>bone callus amout;incidence rate of complication;enrichment rate of stem cells;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Clinical Research Plan of SHDC</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2016-11-11</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

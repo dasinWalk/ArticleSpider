@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-INR-16007755</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2016-01-15</date_registration>
+      <primary_sponsor>the First Affiliated Hospital of Soochow University</primary_sponsor>
+      <public_title>Low-dose decitabine combined with modified busulfan/ cyclophosphamide as a conditioning regimen followed by allogeneic stem cell transplantation for the treatment of high-risk patients with acute myeloid leukaemia: a prospective randomized controlled clinical study</public_title>
+      <acronym />
+      <scientific_title>Low-dose decitabine combined with modified busulfan/ cyclophosphamide as a conditioning regimen followed by allogeneic stem cell transplantation for the treatment of high-risk patients with acute myeloid leukaemia: a prospective randomized controlled clinical study</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2016-01-15</date_enrolment>
+      <type_enrolment />
+      <target_size>decitabine group :45;control group:45;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=12939</url>
+      <study_type>Interventional study</study_type>
+      <study_design>Randomized parallel controlled trial</study_design>
+      <phase>New Treatment Measure Clinical Study</phase>
+      <hc_freetext>acute myeloid leukemia</hc_freetext>
+      <i_freetext>decitabine group :decitabine combined with modified Bu/Cy conditioning regimen;control group:modified Bu/Cy conditioning regimen;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Tang XiaoWen</firstname>
+        <middlename />
+        <lastname />
+        <address>188 Shizi Road, Suzhou, Jiangsu, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13913538266</telephone>
+        <email>xwtang1020@163.com</email>
+        <affiliation>the First Affiliated Hospital of Soochow University</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Wu Depei、Tang XiaoWen</firstname>
+        <middlename />
+        <lastname />
+        <address>188 Shizi Road, Suzhou, Jiangsu, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13913538266</telephone>
+        <email>xwtang1020@163.com</email>
+        <affiliation>the First Affiliated Hospital of Soochow University</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. with inform consent;
+2. patients with AML not in remission or in remission (&gt;=CR2), no contraindication for allogeneic transplantation,such as active infection, liver and renal function damage;
+3. Aged 12-60 years;
+4. suitable donors.</inclusion_criteria>
+      <agemin>12</agemin>
+      <agemax>60</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. uncontrolled infection or significant bleeding
+2. Organ failure
+3. with mental disease.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>Disease-free survival;Overall Survival;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>Disease Response;Toxicity;Graft-versus-host disease;Non-relapse mortality;Relapse rate;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Self-financing</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2015-12-01</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

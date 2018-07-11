@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-TRC-14004411</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2014-02-23</date_registration>
+      <primary_sponsor>Taihe Hospital, Hubei University of Medicine</primary_sponsor>
+      <public_title>The effects of Umbilical cord blood stem cells in treatment of patients with decompensated HBV-associated live cirrhosis: a randomized controlled trial</public_title>
+      <acronym />
+      <scientific_title>The effects of Umbilical cord blood stem cells in treatment of patients with decompensated HBV-associated live cirrhosis: a randomized controlled trial</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2014-03-01</date_enrolment>
+      <type_enrolment />
+      <target_size>Treatment group:30;Control group:30;</target_size>
+      <recruitment_status>Completed</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=5159</url>
+      <study_type>Interventional study</study_type>
+      <study_design>Randomized parallel controlled trial</study_design>
+      <phase>Other</phase>
+      <hc_freetext>Liver cirrhosis</hc_freetext>
+      <i_freetext>Treatment group:Umbilical cord blood stem cells;Control group:0.9% Sodium chloride containing 1% Human Albumin;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Zhongji Meng</firstname>
+        <middlename />
+        <lastname />
+        <address>32 South Renmin Road, Shiyan Hubei, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 071 98801821</telephone>
+        <email>zhongji.meng@163.com</email>
+        <affiliation>Taihe Hospital, Hubei University of Medicine</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Zhongji Meng</firstname>
+        <middlename />
+        <lastname />
+        <address>32 South Renmin Road, Shiyan Hubei, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 071 98801821</telephone>
+        <email>zhongji.meng@163.com</email>
+        <affiliation>Taihe Hospital, Hubei University of Medicine</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. A history of chronic HBV infection;
+2. Ultrasonographic evidence of LC;
+3. HBV DNA &gt;100 IU/ ml;
+4. CTP Score more than 7.</inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax>65</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. The presence of HCC and any underlying neoplasm; 
+2. Liver failure (TBil&gt;10 ULN, PTA&lt;40%);
+3. A history of variceal bleeding 2 months prior to the enrolment; 
+4. The presence of severe comorbidities; 
+5. Coinfection with HAV, HCV, HDV, HEV, HIV, etc;
+6. Evidence of extrahepatic biliary diseases;
+7. The presence of hepatic, portal, or splenic vein thromboses on Doppler ultrasonography; 
+8. Active substance abuse; 
+9. A history of nucleot(s)ides administration 6 months prior to the enrolment;
+10. Unwillingness to sign the informed consent form.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>Liver function;liver stiffnes;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>HBV DNA;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Science and technology department of Hubei Province</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2014-01-20</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

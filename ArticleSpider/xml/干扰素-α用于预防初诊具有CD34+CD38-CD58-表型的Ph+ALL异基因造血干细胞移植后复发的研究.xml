@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-OPC-14005546</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2014-11-24</date_registration>
+      <primary_sponsor>Peking University People's Hospital</primary_sponsor>
+      <public_title>Clincal study of interferon-alpha for prevention of relapse after transplantation in Ph+ALL patients with CD34+CD38-CD58- phenotype at diagnosis</public_title>
+      <acronym />
+      <scientific_title>Clincal study of interferon-alpha for prevention of relapse after transplantation in Ph+ALL patients with CD34+CD38-CD58- phenotype at diagnosis</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2014-11-20</date_enrolment>
+      <type_enrolment />
+      <target_size>case series:15;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=9917</url>
+      <study_type>Observational study</study_type>
+      <study_design>Case series</study_design>
+      <phase>I (Phase I study)</phase>
+      <hc_freetext>acute lymphoblastic leukemia</hc_freetext>
+      <i_freetext>case series:IFN-alpha ;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>SUN YU-QIAN</firstname>
+        <middlename />
+        <lastname />
+        <address>NO.11, South Xizhimen street, Xicheng district, Beijing</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 010-88324670</telephone>
+        <email>sunyuqian83@163.com</email>
+        <affiliation>Peking University People's Hospital</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>HUANG XIAO-JUN</firstname>
+        <middlename />
+        <lastname />
+        <address>NO.11, South Xizhimen street, Xicheng district, Beijing</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 010-88324577</telephone>
+        <email>sunyuqian83@163.com</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Ph positive ALL in CR1/CR2 and received allo-HSCT;
+2. with CD34+CD38-CD58- phenotype at diagnosis;
+3. in CR at 4.5 months after HSCT;
+4. adults (14-60);
+5. with written informed consent.</inclusion_criteria>
+      <agemin>14</agemin>
+      <agemax>60</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. active GVHD;
+2. myelosuppression: WBC less than 2*10^9/L, ANC less than 1*10^9/L, PLT less than 50*10^9/L, HB less than 65g/L;
+3. severe infection;
+4. organ failure;
+5. with prior history of DLI;
+6. refuse to receive.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>toxicity;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>self supported</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2014-09-23</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

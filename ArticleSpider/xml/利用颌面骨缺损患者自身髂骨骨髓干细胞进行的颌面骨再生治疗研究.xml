@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR1800015644</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2018-04-12</date_registration>
+      <primary_sponsor>Nanjing Stomatological Hospital</primary_sponsor>
+      <public_title>A study of bone regeneration for maxillofacial bone defect patient using autologous iliac bone marrow stem cells </public_title>
+      <acronym />
+      <scientific_title>A study of bone regeneration for maxillofacial bone defect patient using autologous iliac bone marrow stem cells </scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2015-11-20</date_enrolment>
+      <type_enrolment />
+      <target_size>control group:10;Stem Cell transplantation group:10;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=26546</url>
+      <study_type>Treatment study</study_type>
+      <study_design>Non randomized control</study_design>
+      <phase>New Treatment Measure Clinical Study</phase>
+      <hc_freetext>Maxillofacial bone defect</hc_freetext>
+      <i_freetext>control group:Guided bone regeneration technique;Stem Cell transplantation group:autologous iliac bone marrow mensenchymal stem cell transplant;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Dongyu Bao</firstname>
+        <middlename />
+        <lastname />
+        <address>30 Zhongyang Road, Xuan Wu District, Nanjing, Jiangsu, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 15651989007</telephone>
+        <email>baodongyu_anson@163.com</email>
+        <affiliation>Nanjing Stomatological Hospital, Medical School of Nanjing University </affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Haiyan Qin</firstname>
+        <middlename />
+        <lastname />
+        <address>30 Zhongyang Road, Xuan Wu District, Nanjing, Jiangsu, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13611580285</telephone>
+        <email>haiyanandrew@163.com</email>
+        <affiliation>Nanjing Stomatological Hospital</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Maxillofacial bone defect patients between 16 to 60 years old, without gender limit;
+2. The maxillofacial bone defect should be caused by severe periodontitis, cleft lip and palate or alveolar cleft;
+3. No systemic disease;
+4. No unhealthy living habit;
+5. The patients must be informed and agreed with this experiment with signing Informed consent form.</inclusion_criteria>
+      <agemin>16</agemin>
+      <agemax>60</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. Patient has participated in other clinical experiment in four weeks before the initiation of our experiment; 
+2. Using or once long term used bisphosphonates;
+3. Using aspirin in nearly 5 days;
+4. Pregnant or lactating women;
+5. Failed to meet the age requirement;
+6. Systemic disease or abnormal renal and liver function.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>Bone mass and bone mineral density;esthetic and function of soft and hard tissue(white-and-pink esthetic);Long term successful rate;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>self-raised funds</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2015-12-04</approval_date>
+        <contact_name>Nan Zhou</contact_name>
+        <contact_address>30 Zhongyang Road, Xuan Wu District, Nanjing, Jiangsu, China</contact_address>
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

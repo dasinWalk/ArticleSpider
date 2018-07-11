@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR1800016741</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2018-06-21</date_registration>
+      <primary_sponsor> Peking University People's Hospital</primary_sponsor>
+      <public_title>MLL–rearranged directed interferon-α intervention for relapse prophylaxis in acute leukemia after allogeneic stem cell transplantation</public_title>
+      <acronym />
+      <scientific_title>MLL–rearranged directed interferon-α intervention for relapse prophylaxis in acute leukemia after allogeneic stem cell transplantation</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2018-07-01</date_enrolment>
+      <type_enrolment />
+      <target_size>Intervention group:15;Observation group:15;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=28523</url>
+      <study_type>Treatment study</study_type>
+      <study_design>Non randomized control</study_design>
+      <phase>II (Phase II study)</phase>
+      <hc_freetext>Acute leukemia</hc_freetext>
+      <i_freetext>Intervention group:IFN-α;Observation group:None;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Mo Xiaodong</firstname>
+        <middlename />
+        <lastname />
+        <address>11 Xizhimen Street South, Xicheng District, Beijing, China</address>
+        <city />
+        <country1 />
+        <zip>100044</zip>
+        <telephone>+86 13810096698</telephone>
+        <email>mxd453@163.com</email>
+        <affiliation>Peking University People's Hospital</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Mo Xiaodong</firstname>
+        <middlename />
+        <lastname />
+        <address>11 Xizhimen Street South, Xicheng District, Beijing, China</address>
+        <city />
+        <country1 />
+        <zip>100044</zip>
+        <telephone>+86 13810096698</telephone>
+        <email>mxd453@163.com</email>
+        <affiliation>Peking University People's Hospital</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. MLL-positive acute leukemia,receiving allo-HSCT in CR1 or CR2;
+2. MLL turned positive after allo-HSCT;
+3. Without active GVHD, active infection,organ failure,and severe bone marrow suppression.</inclusion_criteria>
+      <agemin>2</agemin>
+      <agemax>60</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. active GVHD;
+2. severe infection;
+3. organ failure;
+4. severe bone marrow suppression;
+5. died within 30 days after allo-HSCT;
+6. enrolled in other trial within 1 month.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>Relapse;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>Leukemia-free survival;non-relapse mortality;Molecules response;Overall survival;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Capital’s Funds for Health Improvement and Research </source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>1990-01-01</approval_date>
+        <contact_name>Wang Fang</contact_name>
+        <contact_address>11 Xizhimen Street South, Xicheng District, Beijing, China</contact_address>
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-OPC-15006322</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2015-04-28</date_registration>
+      <primary_sponsor>Research Institute of Surgery, Daping Hospital, Third Military Medical University, Chongqing</primary_sponsor>
+      <public_title>Effective and safety evaluation of human umbilical cord derived mesenchymal stem cells (hU-MSCs)in systemic lupus erythematosus</public_title>
+      <acronym />
+      <scientific_title>Effective and safety evaluation of human umbilical cord derived mesenchymal stem cells (hU-MSCs)in systemic lupus erythematosus</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2015-06-01</date_enrolment>
+      <type_enrolment />
+      <target_size>treatment group:35;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=10879</url>
+      <study_type>Observational study</study_type>
+      <study_design>Case series</study_design>
+      <phase>I (Phase I study)</phase>
+      <hc_freetext>systemic lupus erythematosus</hc_freetext>
+      <i_freetext>treatment group:human umbilical cord derived mesenchymal stem cells (hU - MSCs);</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Yi Yang</firstname>
+        <middlename />
+        <lastname />
+        <address>Department of Rheumatology and Immunology,Daping Hospital, Third Military Medical University, Chongqing</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 18502389013</telephone>
+        <email>yangyilyx@163.com</email>
+        <affiliation>Department of Rheumatology and Immunology,Daping Hospital, Third Military Medical University, Chongqing</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Xiang Xu</firstname>
+        <middlename />
+        <lastname />
+        <address>Research Institute of Surgery, Daping Hospital, Third Military Medical University, Chongqing</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13637843870</telephone>
+        <email>xiangxu@ymail.com</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Patients must sign an informed consent indicating that they are aware of the investigational nature of the study in keeping with the policy of the hospital;
+2. Patients of SLE, to be aged 18 years to 65 years old;
+3. All patients fulfilled the 2012 SLICC of SLE classification criteria, SLEDAI &gt;=8;or BILAG score A/B;
+4. Lupus nephritis with 24h urine protein&gt;=1g;
+5. Refractory disease as determined by failure of the following regimens:
+  5.1 Trial of corticosteroids (oral prednisone more than 7.5 mg/day);
+  5.2 Trial of cyclophosphamide 0.4~0.6 / m2 every two weeks for six months, or other immunosuppressive drugs, such as MMF 2 g/day, for three months.</inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax>65</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. Patients with uncorrected disease, such as advanced cancer or other terminal illness, the prospective survival period less than 28 days;
+2. Patients in the foreseeable dying state;
+3. Have the bone marrow, lungs, liver, pancreas, or small bowel transplantation history;
+4. Known or potential of portal hypertension, chronic icteric, chronic liver cirrhosis and ascites; 
+5.Have severe heart and lung failure, or irreversible damage or failure of other major organs;
+6. Uncontrolled infection; 
+7. Patient participating or having participated in a clinical trial with another investigational drug Within 30 days before the start of this clinical trial; 
+8. Patient is pregnant or nursing; 
+9. History of patient is allergic to biological products; 
+10. HIV infected;</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>SLEDAI;BILAG;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>Lupus serology;Renal function;Liver function;Routine blood test;Electromyography;Imaging;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>self-financed</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2015-03-06</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR1800014599</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2018-01-23</date_registration>
+      <primary_sponsor>Nanjing municipal hospital of chinese medicine</primary_sponsor>
+      <public_title>Preliminary clinical study on the treatment of complicated anal fistula with autologous adipose derived stem cells (ADSC)</public_title>
+      <acronym />
+      <scientific_title>Preliminary clinical study on the treatment of complicated anal fistula with autologous adipose derived stem cells (ADSC)</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2018-02-01</date_enrolment>
+      <type_enrolment />
+      <target_size>Treatment:20;Control:20;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=24548</url>
+      <study_type>Treatment study</study_type>
+      <study_design>Case-Control study</study_design>
+      <phase>New Treatment Measure Clinical Study</phase>
+      <hc_freetext>complicated anal fistula </hc_freetext>
+      <i_freetext>Treatment:Adipose derived stem cells;Control:Regular operation;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Yang Zhang</firstname>
+        <middlename />
+        <lastname />
+        <address>1 Jinling Road, Nanjing, Jiangsu, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 17714419014</telephone>
+        <email>21670235@qq.com</email>
+        <affiliation>Nanjing municipal hospital of chinese medicine</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Bin Jiang</firstname>
+        <middlename />
+        <lastname />
+        <address>1 Jinling Road, Nanjing, Jiangsu, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 18951755051</telephone>
+        <email>jbfirsth@aliyun.com</email>
+        <affiliation>Nanjing municipal hospital of chinese medicine</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Subjects of either sex aged over 18 years;
+2. Signed informed consent;
+3. Subjects with complex anal fistula diagnosed at least 12 months earlier and with one prior surgery;
+4. Good general state of health according to the findings of the clinical history and the physical examination.</inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax />
+      <gender>Both</gender>
+      <exclusion_criteria>1. Presence of severe proctitis or dominant active luminal disease requiring immediate therapy, assessed by rectosigmoidoscopy;
+2. Subjects with an abscess;
+3. The presence of setons unless removed prior to treatment start;
+4. Subjects with rectal and/or anal stenosis;
+5. Subjects who have received infliximab or any other anti-TNF agent in the 8 weeks before the cell treatment administration;
+6. Subjects who have received tracrolimus or ciclosporine in the 4 weeks before the cell treatment administration.
+7. Subjects with a history of abuse of alcohol or other addictive substances in the 6 months prior to inclusion;
+8. Subjects with malignant tumor, except for basal cell or cutaneous squamous cell carcinoma, or Subjects with a prior history of malignant tumors, unless the neoplastic disease has been in remission for the previous 5 years.
+9. Subjects with cardiopulmonary disease;
+10. Subjects with any type of medical or psychiatric disease.
+11. Subjects with congenital or acquired immunodeficiencies;
+12. Subjects with abnormal laboratory test findings that contraindicate their inclusion in the study;
+13. Subjects allergic to anesthetics or MRI contrast;
+14. MRI is unfeasible, (e.g. due to the presence of pacemakers, hip replacements or severe claustrophobia);
+15. Subjects in need of surgery in the perianal region for reasons other than fistulas at the time of inclusion in the study, or a need for such surgery is foreseen in this region in the 26 weeks after treatment administration;
+16. Subjects who have suffered major surgery or severe trauma in the prior 6 months;
+17. Pregnant or breastfeeding women;
+18. Subjects currently receiving, or having received within 1 month prior to enrolment into this clinical trial, any investigational drug.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>Life quality;Pain degree;anal sphincter function;Wound healing time and recovery rate;Recurrence time and recurrence rate;evalution by MRI;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Government funds and Self-raised funds</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2017-05-25</approval_date>
+        <contact_name>Xuelong Zhao</contact_name>
+        <contact_address>1 Jinling Road, Nanjing, Jiangsu, China</contact_address>
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

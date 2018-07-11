@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-OCN-15006595</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2015-06-15</date_registration>
+      <primary_sponsor>Southwest Hospital, Third Military Medical University</primary_sponsor>
+      <public_title>Umbilical cord mesenchymal stem cells in the application of hematopoietic stem cell transplantation</public_title>
+      <acronym />
+      <scientific_title>Umbilical cord mesenchymal stem cells in the application of hematopoietic stem cell transplantation</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2015-07-01</date_enrolment>
+      <type_enrolment />
+      <target_size>1:70;2:70;</target_size>
+      <recruitment_status>Pending</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=11223</url>
+      <study_type>Observational study</study_type>
+      <study_design>Non randomized control</study_design>
+      <phase>New Treatment Measure Clinical Study</phase>
+      <hc_freetext>Hematological malignancies</hc_freetext>
+      <i_freetext>1:mesenchymal stem cells with hematopoietic stem cell transplantation  ;2:hematopoietic stem cell transplantation  ;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Li Xi</firstname>
+        <middlename />
+        <lastname />
+        <address>Center for Hematology, SouthwestHospital, ThirdMilitary Medical University, 29 Gao Tanyan Street, Chongqing, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 15223038417</telephone>
+        <email>lixi1988xn@163.com</email>
+        <affiliation>SouthwestHospital, ThirdMilitaryMedical University</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Chen Jieping</firstname>
+        <middlename />
+        <lastname />
+        <address>Center for Hematology, SouthwestHospital, ThirdMilitary Medical University, 29 Gao Tanyan Street, Chongqing, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13983766908</telephone>
+        <email>chenjpxn@163.com</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Aged between 18 and 65 years;
+2. KPS score &gt; 60 points and estimated survival time &gt; 3 months; 
+3. With confirmed hematological malignancies and to be treated with hematopoietic stem cell transplantation;
+4. Without serious mental illness and serious heart, liver, kidney or pulmonary insufficiency, and other fatal diseases; 
+5. Agreed to participate in this study, and signed the informed consent form.</inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax>65</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. Serious mental patient; 
+2. Serious heart, liver, kidney or pulmonary insufficiency; 
+3. In gestation period or suckling period; 
+4. HIV infection or substance abuse.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>disease-free survival;overall survival;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>Graft implantation rate;Hematopoietic reconstruction rate;incidence of GVHD;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Southwest Hospital, Third Military Medical University</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>1990-01-01</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

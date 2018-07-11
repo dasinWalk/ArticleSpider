@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-TRC-12002237</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2012-06-05</date_registration>
+      <primary_sponsor>Peking University People's Hospital</primary_sponsor>
+      <public_title>prophylactic donor lymphocyte infusion after stem cell transplant for refractory/relapsed leukemia - a randomized, controlled, clinical trial</public_title>
+      <acronym />
+      <scientific_title>prophylactic donor lymphocyte infusion after stem cell transplant for refractory/relapsed leukemia - a randomized, controlled, clinical trial</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2012-06-18</date_enrolment>
+      <type_enrolment />
+      <target_size>trial group:80;control group:80;</target_size>
+      <recruitment_status>Completed</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=7313</url>
+      <study_type>Interventional study</study_type>
+      <study_design>Randomized parallel controlled trial</study_design>
+      <phase>Other</phase>
+      <hc_freetext>leukemia</hc_freetext>
+      <i_freetext>trial group:prophylactic DLI;control group:without prophylactic DLI  ;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Wang Yu</firstname>
+        <middlename />
+        <lastname />
+        <address>11 Xizhimen South Street, Beijing, China</address>
+        <city />
+        <country1 />
+        <zip>100044</zip>
+        <telephone>+86 10 88324952</telephone>
+        <email>ywyw31720@yahoo.com.cn</email>
+        <affiliation>Peking University People's Hospital</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Huang Xiao-jun</firstname>
+        <middlename />
+        <lastname />
+        <address>11 Xizhimen South Street, Beijing, China</address>
+        <city />
+        <country1 />
+        <zip>100044</zip>
+        <telephone>+86 10 88326006</telephone>
+        <email>huangxiaojun@bjmu.edu.cn</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. refractory/relapsed leukemia undergoing HSCT;
+2. remaining in CR one month after HSCT;
+3. without GVHD or GVHD controlled, without severe infection, without organ failure within 30-60d post HSCT.</inclusion_criteria>
+      <agemin>2</agemin>
+      <agemax>60</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. active GVHD;
+2. uncontrolled infection;
+3. organ failure;
+4. early relapse or death.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>relapse rate;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Peking University People's Hospital</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2012-05-25</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

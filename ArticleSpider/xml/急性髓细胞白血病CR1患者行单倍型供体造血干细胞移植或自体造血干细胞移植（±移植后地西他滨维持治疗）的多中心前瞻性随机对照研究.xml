@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-TRC-14004196</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2014-01-24</date_registration>
+      <primary_sponsor>Department of Hematology, the First Affiliated Hospital of Soochow University</primary_sponsor>
+      <public_title>Haplo-mismatch Donor Stem Cell Transplantation (SCT) versus Autologous SCT followed or not by maintenance therapy, for Patients with Acute Myeloid Leukemia (AML) in First Remission: A Chinese Randomized Multicenter Study</public_title>
+      <acronym />
+      <scientific_title>Haplo-mismatch Donor Stem Cell Transplantation (SCT) versus Autologous SCT followed or not by maintenance therapy, for Patients with Acute Myeloid Leukemia (AML) in First Remission: A Chinese Randomized Multicenter Study</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2014-01-01</date_enrolment>
+      <type_enrolment />
+      <target_size>haplo-SCT:106;ASCT:106;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=5372</url>
+      <study_type>Interventional study</study_type>
+      <study_design>Randomized parallel controlled trial</study_design>
+      <phase>IV (Phase IV study)</phase>
+      <hc_freetext>Acute Myeloid Leukemia</hc_freetext>
+      <i_freetext>haplo-SCT:undergo haplo-SCT;ASCT:undergo ASCT;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>CHEN Jia</firstname>
+        <middlename />
+        <lastname />
+        <address>188 Shizi Street, Suzhou, Jiangsu, China</address>
+        <city />
+        <country1 />
+        <zip>215006</zip>
+        <telephone>+86 0512-67781856</telephone>
+        <email>c_jerry_j@163.com</email>
+        <affiliation>Department of Hematology, the First Affiliated Hospital of Soochow University</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>WU Depei</firstname>
+        <middlename />
+        <lastname />
+        <address>188 Shizi Street, Suzhou, Jiangsu, China</address>
+        <city />
+        <country1 />
+        <zip>215006</zip>
+        <telephone>+86 0512-67781856</telephone>
+        <email>wudepei@medmail.com.cn</email>
+        <affiliation>Department of Hematology, the First Affiliated Hospital of Soochow University</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Aged 18 year and more;
+2. Diagnosed as AML (except acute promyelocytic leukemia M3) for the first time;
+3. Minimal Residual Disease (MRD) test can be achieved (molecular biology first if applicable, and/or cytogenetics and/or immunophenotyping);
+4. Presence of an available haplo-mismatch related donor.</inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax>100</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. Contra-indications of chemotherapy or  hematopoietic stem cell transplantation;
+2. Presence of an available identical sibling donor or a 10/10 HLA loci-matched unrelated donor;
+3. Participating in other clinical trials concerning the prophylaxis of disease recurrence after ASCT;
+4. No effective contraception;
+5. Pregnant or lactating females;
+6. Other causes which are not suitable for the trial in investigator's consideration.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>Leukemia Free Survival;Non-relapse Mortarlity;Incidence of Engraftment;Quality of Life;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>Overall Survival;Relapse Incidence;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Supported by Jiangsu Province’s Key Medical Center (ZX201102); National Public Health Grand Research Foundation (No.201202017); National High-tech R&amp;D Program (863 Program) (2012AA02A505）</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2013-12-10</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

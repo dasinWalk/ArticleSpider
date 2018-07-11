@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-TRC-12003518</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2012-03-21</date_registration>
+      <primary_sponsor>Military 302 hospital of China</primary_sponsor>
+      <public_title>Clinic trial of combination therapy with Autologous hematopoietic stem cell transplantation and artificial liver system for the liver failure patients</public_title>
+      <acronym />
+      <scientific_title>Clinic trial of ombination therapy with Autologous hematopoietic stem cell transplantation and artificial liver system for the liver failure patients</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2012-05-31</date_enrolment>
+      <type_enrolment />
+      <target_size>1:20;2:20;3:20;</target_size>
+      <recruitment_status>Completed</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=6042</url>
+      <study_type>Interventional study</study_type>
+      <study_design>Randomized parallel controlled trial</study_design>
+      <phase>I (Phase I study)</phase>
+      <hc_freetext>HBV-related acute-on-chronic liver failure</hc_freetext>
+      <i_freetext>1:Routine supportive care +PBHSCT+PE  ;2:Routine supportive care +C-GSF ;3:Routine supportive care +PE  ;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Zhihong Wan</firstname>
+        <middlename />
+        <lastname />
+        <address>100 Xisihuan Middle Road, Fengtai District, Beijing, China</address>
+        <city />
+        <country1 />
+        <zip>100039</zip>
+        <telephone>+86 010-66933434</telephone>
+        <email>wan1011@yahoo.cn</email>
+        <affiliation>Liver failure treatment and research center, Military 302 hospital of China</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Shaojie Xin</firstname>
+        <middlename />
+        <lastname />
+        <address>100 Xisihuan Middle Road, Fengtai District, Beijing, China</address>
+        <city />
+        <country1 />
+        <zip>100039</zip>
+        <telephone>+86 010-66933434</telephone>
+        <email>xsj302@yahoo.com.cn</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Signed the informed consent form before participation;
+2. Between 18 and 65 years old;
+3. Serum HBsAg (+);
+4. chronic-on-acute liver failure;
+5. Peripheral blood WBC&gt;3.0×10^9/L.</inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax>65</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. complicated with other virus infection (HAV, HCV, HDV, HEV, CMV, EBV and HIV);
+2. Primary liver cancer;
+3. Exists any other severe active physical or mental diseases, including uncontrolled clinically significant primary renal, cardiac, pulmonary, vascular, nervous, digestive, metabolic diseases, immune deficiency, and cancer;
+4. Creatinine &gt; 133 umo1/L;
+5. Existence of uncontrolled severe infection;
+6. Shock;
+7. Active gastrointestinal bleeding 8. Highly allergic to plasma, heparin, and protamine,</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>Survial Time and Survival Rate;liver function indicators;PTA;Urea;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Military 302 hospital of China</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2012-01-11</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-ONRC-14005106</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2014-08-06</date_registration>
+      <primary_sponsor>The First Affiliated Hospital of Wenzhou Medical University</primary_sponsor>
+      <public_title>HIGH DOSE RITUXIMAB IN COMBINATION WITH AUTOLOGOUS STEM-CELL TRANSPLANTATION (BEFORE AND AFTER) FOR RELAPSED AGGRESSIVE B-CELL NON-HODGKIN'S LYMPHOMAS.</public_title>
+      <acronym />
+      <scientific_title>HIGH DOSE RITUXIMAB IN COMBINATION WITH AUTOLOGOUS STEM-CELL TRANSPLANTATION (BEFORE AND AFTER) FOR RELAPSED AGGRESSIVE B-CELL NON-HODGKIN'S LYMPHOMAS</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2006-01-01</date_enrolment>
+      <type_enrolment />
+      <target_size>1:20;2:20;</target_size>
+      <recruitment_status>Completed</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=4469</url>
+      <study_type>Observational study</study_type>
+      <study_design>Non randomized control</study_design>
+      <phase>Clinical pre-test</phase>
+      <hc_freetext>B cell lymphoma</hc_freetext>
+      <i_freetext>1:autologous stem cell transplantation;2:rituximab combined with autologous stem cell transplantation;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Shi Yifen</firstname>
+        <middlename />
+        <lastname />
+        <address>The Department of Hematology, the First Affiliated Hospital of Wenzhou Medical University, Nanbaixiang street, Ouhai district, Wenzhou, Zhejiang, China</address>
+        <city />
+        <country1 />
+        <zip>325015</zip>
+        <telephone>+86 13676772628</telephone>
+        <email>shiyifen1999@163.com</email>
+        <affiliation>The First Affiliated Hospital of Wenzhou Medical University</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Yu Kang</firstname>
+        <middlename />
+        <lastname />
+        <address>The Department of Hematology, the First Affiliated Hospital of Wenzhou Medical University, Nanbaixiang street, Ouhai district, Wenzhou, Zhejiang, China</address>
+        <city />
+        <country1 />
+        <zip>325015</zip>
+        <telephone>+86 13806681379</telephone>
+        <email>yukang62@126.com</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>Eligible patients were age 18 to 65 years and had aggressive CD20 B-cell non-Hodgkin's lymphoma, and had experienced relapse or did not achieve CR with a standard anthracycline-based regimen. Before enrollment, CD20 aggressive B-cell lymphoma was histologically con?rmed in all patients. Eligible patients had a WHO performance status of 0 to 1, sensitive to chemotherapy,normal heart function,renal function and liver function.</inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax>65</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>Exclusion criteria included:
+1. CNS involvement; 
+2. history of HIV infection; 
+3. post-transplantation lymphoproliferative disorder; 
+4. previous organ transplant and pregnancy; 
+5. allergic to rituximab; 
+6. The patients disagree to join this study; 
+7. Any factor that interfere the patient to participate or complete the study.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>3 year overall survival rate;3 year disease free survival rate;recovery of the neutrophil and platelet count;Immune Reconstitution;prognosis factor;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>The First Affiliated Hospital of Wenzhou Medical University</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2014-07-31</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

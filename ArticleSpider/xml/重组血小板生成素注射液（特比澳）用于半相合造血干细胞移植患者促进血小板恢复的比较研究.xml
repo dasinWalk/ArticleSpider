@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-TRC-11001774</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2011-12-03</date_registration>
+      <primary_sponsor>Institute of Hematology, People's Hospital, Peking University, Beijing, China</primary_sponsor>
+      <public_title>A compare study on Human recombinant Thrombopoietin (TPIAO) promote platelet recovery in haploidentical Hematopoietic Stem Cell Transplantation recipients</public_title>
+      <acronym />
+      <scientific_title>A compare study on Human recombinant Thrombopoietin (TPIAO) promote platelet recovery in haploidentical Hematopoietic Stem Cell Transplantation recipients</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2010-11-16</date_enrolment>
+      <type_enrolment />
+      <target_size>A:60;B:60;</target_size>
+      <recruitment_status>Completed</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=7772</url>
+      <study_type>Interventional study</study_type>
+      <study_design>Randomized parallel controlled trial</study_design>
+      <phase>Post-market</phase>
+      <hc_freetext>malignant hematological disease, Hematopoietic Stem Cell Transplantation</hc_freetext>
+      <i_freetext>A:TPIAO;B:No treatment;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Lanping Xu</firstname>
+        <middlename />
+        <lastname />
+        <address>11 South Xizhimen Street, Beijing, China</address>
+        <city />
+        <country1 />
+        <zip>100044</zip>
+        <telephone>+86 13641028627</telephone>
+        <email>lpxu_0415@sina.com</email>
+        <affiliation>Institute of Hematology, People's Hospital, Peking University, Beijing, China</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Xiaojun Huang</firstname>
+        <middlename />
+        <lastname />
+        <address>11 South Xizhimen Street, Beijing, China</address>
+        <city />
+        <country1 />
+        <zip>100044</zip>
+        <telephone>+86 13701389625</telephone>
+        <email>xjhrm@medmail.com.cn</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. 18-60 years old;
+2. malignant hematological disease，Hematopoietic Stem Cell Transplantation;
+3. platelet above 100*10^9/L before conditioning;
+4. BUCY+ATG regimen for conditioning;
+5. have normal liver and renal function, or GPT/GOT &lt;1.5 normal uplimit.</inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax>60</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>not fit for any one of the five inclusion criteria</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>incidence of platelet engraftment;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>SUNSHINE pharmaceutical limited company</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2010-11-16</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR1800016458</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2018-06-02</date_registration>
+      <primary_sponsor>Peking University People's Hospital &amp; Peking University Institute of Hematology</primary_sponsor>
+      <public_title>Minimal residual disease assessed by multi-parameter flow cytometry for leukemia stem cells in patients with acute myeloid leukaemia who underwent allogeneic stem cell transplantation</public_title>
+      <acronym />
+      <scientific_title>Minimal residual disease assessed by multi-parameter flow cytometry for leukemia stem cells in patients with acute myeloid leukaemia who underwent allogeneic stem cell transplantation</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2018-06-30</date_enrolment>
+      <type_enrolment />
+      <target_size>Case series:360;</target_size>
+      <recruitment_status>Pending</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=27944</url>
+      <study_type>Observational study</study_type>
+      <study_design>Case series</study_design>
+      <phase>Other</phase>
+      <hc_freetext>Acute leukemia</hc_freetext>
+      <i_freetext>Case series:Post allogeneic stem cell transplantation;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Chang Yingjun</firstname>
+        <middlename />
+        <lastname />
+        <address>11 Xizhimen Street South, Xicheng District, Beijing, China</address>
+        <city />
+        <country1 />
+        <zip>100044</zip>
+        <telephone>+86 13520536738</telephone>
+        <email>rmcyj@bjmu.edu.cn</email>
+        <affiliation>Peking University People's Hospital &amp; Peking University Institute of Hematology</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Chang Yingjun</firstname>
+        <middlename />
+        <lastname />
+        <address>11 Xizhimen Street South, Xicheng District, Beijing, China</address>
+        <city />
+        <country1 />
+        <zip>100044</zip>
+        <telephone>+86 13520536738</telephone>
+        <email>rmcyj@bjmu.edu.cn</email>
+        <affiliation>Peking University People's Hospital &amp; Peking University Institute of Hematology</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1) Allogeneic stem cell transplantation candidates with acute myeloid leukemia. Donor selection was performed as the follows: HLA-matched sibling donor was the first choice for allo-transplantation. If an HLA-matched sibling donor was unavailable, subjects without a suitable closely HLA-matched unrelated donor (URD; &gt;8 of 10 matching HLA-A, B, C, DR, and DQloci and &gt;5 of 6 matching HLA-A, B, and DR loci) after 2 cycles of consolidation were eligible for HLA-haplotype transplantation;
+2) Between 6 and 60 years-old; 
+3) To be able to provide written informed consent.</inclusion_criteria>
+      <agemin>6</agemin>
+      <agemax>60</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1) Contraindications of transplantation; 
+2) Subjects who cannot comply with the study.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>Relapse;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>the National Key Research and Development Program of China</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2017-07-25</approval_date>
+        <contact_name>Liu Kaiyan</contact_name>
+        <contact_address>Peking University People's Hospital, 11 Xizhimen Street South, Xicheng District, Beijing, China</contact_address>
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-ONC-17011948</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2017-07-11</date_registration>
+      <primary_sponsor>Bone Marrow Transplantation Center of the First Affiliated Hospital,College of Medicine, Zhejiang University</primary_sponsor>
+      <public_title>A single-arm prospective study on treatment of myelodysplastic syndromes and acute myeloid leukemia associated with myelodysplastic syndromes with chemotherapy plus HLA mismatched peripheral blood stem cell transplantation</public_title>
+      <acronym />
+      <scientific_title>A single-arm prospective study on treatment of myelodysplastic syndromes and acute myeloid leukemia associated with myelodysplastic syndromes with chemotherapy plus HLA mismatched peripheral blood stem cell transplantation</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2017-08-01</date_enrolment>
+      <type_enrolment />
+      <target_size>study group:30;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=20112</url>
+      <study_type>Observational study</study_type>
+      <study_design>Case series</study_design>
+      <phase>New Treatment Measure Clinical Study</phase>
+      <hc_freetext>Myelodysplastic syndromes and </hc_freetext>
+      <i_freetext>study group:chemotherapy plus HLA-mismatched donor's hematopoitic stem cells infusion;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Jie Sun</firstname>
+        <middlename />
+        <lastname />
+        <address>79 Qingchun Street, Hangzhou, Zhejiang, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 15305714109</telephone>
+        <email>jsun1492@zju.edu.cn</email>
+        <affiliation>Bone Marrow Transplantation Center of the First Affiliated Hospital,College of Medicine,Zhejiang University</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Jie Sun</firstname>
+        <middlename />
+        <lastname />
+        <address>79 Qingchun Street, Hangzhou, Zhejiang, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 15305714109</telephone>
+        <email>jsun1492@zju.edu.cn</email>
+        <affiliation>Bone Marrow Transplantation Center of the First Affiliated Hospital,College of Medicine,Zhejiang University</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Patients are diagnosed as AML-MRC and High-risk MDS according to the 2016 WHO diagnostic criteria;
+2. Patients are not suitable or not willing to undergo allogeneic hematopoietic stem cell transplantation;
+3. Patients are willing to bear the cost of decitabine and does not have decitabine allergy histor;
+4. Patients have suitable donor willing to donate stem cells (HLA haploidentical or not matched healthy donors;
+5. Patients or legal representative have signed informed consent before clinical study start.</inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax>75</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. Patients does not meet the diagnostic criteria;
+2. patients with severe liver and kidney function, cardiorespiratory insufficiency;
+3. uncontrolled or severe infection;
+4. there may be a mental illness that may prevent subjects from completing treatment or informed consent.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>complete remission;1 year's OS;2-year OS;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>partial remission;total response rate;relapse rate;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>National nature and science foundation (81372031)</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2017-02-23</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

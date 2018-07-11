@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-ONRC-10002070</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2010-05-10</date_registration>
+      <primary_sponsor>Fourth Military Medical University</primary_sponsor>
+      <public_title>Autologous peripheral blood stem cells (PBSC) in patients with end stage liver diseases</public_title>
+      <acronym />
+      <scientific_title>Safty and efficacy of autologous peripheral blood stem cells (PBSC) in patients with end stage liver diseases</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2005-08-01</date_enrolment>
+      <type_enrolment />
+      <target_size>stem cells therapy:200;Control:200;</target_size>
+      <recruitment_status>Completed</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=7479</url>
+      <study_type>Observational study</study_type>
+      <study_design>Non randomized control</study_design>
+      <phase>II (Phase II study)</phase>
+      <hc_freetext>end stage of liver diseases</hc_freetext>
+      <i_freetext>stem cells therapy:PBSC  therapy;Control:Routine medicine therapy;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Han Ying</firstname>
+        <middlename />
+        <lastname />
+        <address>127 West Changle Road, Xi'an, Shaanxi, China</address>
+        <city />
+        <country1 />
+        <zip>710032</zip>
+        <telephone>+86 29 84771539</telephone>
+        <email>hanying1@fmmu.edu.cn</email>
+        <affiliation>Department of Digestive Diseases, Xijing Hospital, FMMU</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Han Ying</firstname>
+        <middlename />
+        <lastname />
+        <address>127 West Changle Road, Xi'an, Shaanxi, China</address>
+        <city />
+        <country1 />
+        <zip>710032</zip>
+        <telephone>+86 29 84771506</telephone>
+        <email>hanying@fmmu.edu.cn</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>Aged 18 to 69 years, CHB,CHC,NAFLD,AFLD, DILI,and idiopathic cirrhosis; ultrasonographic or CT evidences of cirrhosis and portal hypertension, mild ascitis,abnormal serum albumin&lt;30g/L and/or bilirubin&lt;170umol/L and/or prothrombin time&gt;20s,  hematoglobin&gt;=7.0 g/L, platelet &gt;=300 000/mL, a Child-Turcotte-Pugh (CTP) score or prior CTP score &gt;=7 at screen.</inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax>69</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>severe ascites, history of moderate to severe hepatic encephalopathy or variceal bleeding during the last one month before enrolment; serum creatinine &gt;=2 mg/dL, serum sodium&lt;125 mEq/L; serum total bilirubin more than 3 mg/dL; presence of active untreated infectious disease; presence of hepatic, portal, or splenic vein thromboses on Doppler ultrasonography; presence of severe comorbid diseases (e.g., severe renal, respiratory, or cardiac disease), or presence of any type of malignancy; history of alcohol abuse, or use of hepatotoxic drugs within the last six months before enrolment; active substance abuse; pregnancy or lactation; can not sign the informed consent.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>Death;liver transplantation;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>Child pugh score, MELD;ALT, AST, TBIL;ALB, CHO, CHE, AT;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Discipline supporting program funding from Xijing Hospital, FMMU</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2005-07-17</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

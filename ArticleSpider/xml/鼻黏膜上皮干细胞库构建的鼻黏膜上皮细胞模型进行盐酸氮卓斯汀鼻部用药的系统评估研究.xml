@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-IOR-16010200</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2016-12-21</date_registration>
+      <primary_sponsor>Hong Haiyu</primary_sponsor>
+      <public_title>Systematic study of azelastine hydrochloride in human nasal epithelial cell model constructed from the bank of human nasal epithelial stem cell </public_title>
+      <acronym />
+      <scientific_title>Systematic study of azelastine hydrochloride in human nasal epithelial cell model constructed from the bank of human nasal epithelial stem cell </scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2017-01-01</date_enrolment>
+      <type_enrolment />
+      <target_size>Histamine stimulation group:30;Azelastine hydrochloride Group:30;Allergen stimulation group:30;Bacterial stimulation group:30;Virus stimulation group:30;</target_size>
+      <recruitment_status>Pending</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=17390</url>
+      <study_type>Interventional study</study_type>
+      <study_design>Randomized parallel controlled trial</study_design>
+      <phase>Other</phase>
+      <hc_freetext>chronic rhinosinusitis; nasal polyps</hc_freetext>
+      <i_freetext>Histamine stimulation group:Histamine stimulation;Azelastine hydrochloride Group:Treatment with azelastine hydrochloride;Allergen stimulation group:Allergen stimulation ;Bacterial stimulation group:Bacterial product stimulation and treatment in cells culture;Virus stimulation group:Viral product stimulation and treatment in cells culture;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Hong Haiyu</firstname>
+        <middlename />
+        <lastname />
+        <address>Department of Otolaryngology and Head Neck Surgery of 5th Hospital Affiliated with Sun Yat-sen University, 52 Maihua East Road, Xiangzhou District, Zhuhai city, Guangdong, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13823070089</telephone>
+        <email>sumshhy@139.com</email>
+        <affiliation>5th Hospital Affiliated with Sun Yat-sen University</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Hong Haiyu</firstname>
+        <middlename />
+        <lastname />
+        <address>Department of Otolaryngology and Head Neck Surgery of 5th Hospital Affiliated with Sun Yat-sen University, 52 Maihua East Road, Xiangzhou District, Zhuhai city, Guangdong, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13823070089</telephone>
+        <email>sumshhy@139.com</email>
+        <affiliation>5th Hospital Affiliated with Sun Yat-sen University</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>Adult patients(18-60 years old) diagnosed with CRSwNP and CRSsNP, according to the Chinese and European Position Paper on Rhinosinusitis and Nasal Polyps, were recruited and they had undergone functional endoscopic sinus surgery (FESS) as part of the management for their disease at the Otolaryngology and Head Neck Surgery Department of the 5th Affiliated Hospital of Sun Yat-sen University. </inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax>60</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>Patients were excluded from the study if they had treatment with antibiotics or corticosteroids within a 4-week period before surgery, unilateral disease, allergic fungal rhinosinusitis, antrochoanal polyps, or cystic fibrosis.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;;;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>Th2 inflammatory factors;Th1 inflammatory factors;Th17 inflammatory factors;marker of Apoptosis;marker  related mucosa;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>Epithelial cytokines;marker of mucosal epithelial pathway;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Science and Technology Project of Guangdong Province</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>1990-01-01</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

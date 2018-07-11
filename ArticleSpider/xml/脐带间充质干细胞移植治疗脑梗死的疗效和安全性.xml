@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-ONRC-12002929</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2012-12-05</date_registration>
+      <primary_sponsor>The 105th Hospital of PLA</primary_sponsor>
+      <public_title>Safety and efficacy study of umbilical cord mesenchymal stem cells transplantation for the treatment of cerebral infarction</public_title>
+      <acronym />
+      <scientific_title>Safety and efficacy study of umbilical cord mesenchymal stem cells transplantation for the treatment of cerebral infarction</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2009-09-27</date_enrolment>
+      <type_enrolment />
+      <target_size>Lumbar puncture stem cells therapy:75;Control:50;Vein group:75;</target_size>
+      <recruitment_status>Completed</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=6626</url>
+      <study_type>Observational study</study_type>
+      <study_design>Non randomized control</study_design>
+      <phase>II (Phase II study)</phase>
+      <hc_freetext>cerebral infarction</hc_freetext>
+      <i_freetext>Lumbar puncture stem cells therapy:Infusion of  umbilical cord mesenchymal stem cells;Control:Using conventional drug therapy, including the application of cerebral protection agent (such as cell two choline and intravenous infusion of 10 d/course), improve microcirculation (Salvia miltiorrhiza injection and intravenous infusion of 10 d/course), antiplatelet drugs (aspirin 100 mg/d ), statins (simvastatin for 40 mg\d ).  ;Vein group:Infusion of umbilical cord mesenchymal stem cells;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Hongjuan Liu</firstname>
+        <middlename />
+        <lastname />
+        <address>424 Changjiang Road West, Heifei, Anhui, China</address>
+        <city />
+        <country1 />
+        <zip>230031</zip>
+        <telephone>+86 13965053597</telephone>
+        <email>liuhongjuan105@yahoo.cn</email>
+        <affiliation>Department of Neurology,The 105th Hospital of PLA</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Qingsong Wang</firstname>
+        <middlename />
+        <lastname />
+        <address>424 Changjiang Road West, Heifei, Anhui, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 18909696277</telephone>
+        <email>wangqs65@yahoo.com</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>Individuals aged 18–80 years of both sexes were eligible for the study if they had the following characteristics:
+1. Ischemic stroke in the middle cerebral artery (MCA) territory evidenced by computed tomography or MRI occurring within 14 days;
+2. Recanalization of the involved MCA as assessed by transcranial Doppler studies or by magnetic resonance angiography;
+3. A score between four and 17 according to the National Institutes of Health Stroke Scale (NIHSS).</inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax>80</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. Ipsilateral carotid stenosis (&gt;50%,by Doppler studies);
+2. Neurological worsening (&gt;four points in the NIHSS) before injection due to either edema or intracerebral hemorrhage;
+3. Thrombophilias or primary hematological diseases;
+4. Previous stroke with modifed Rankin Scale(mRS) of more than 2;
+5. Neurodegenerative disorders;
+6. Autoimmune disorders;
+7. Intracardiac thrombus;
+8. Sepsis;
+9. History of neoplasia or other comorbidity that could impact a patients short-term survival;
+10. renal failure (serum creatinine &gt;2 mg/ml);
+11. Pregnancy or previous participation in other clinical trials;
+12. Diffculty in obtaining vascular access for percutaneous procedure;
+13. Liver failure;(14)Lacunar stroke;(15)Any condition that in the judgment of the investigator would place the patient under undue risk.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>NIHSS-Score;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Discipline supporting program funding from the 105th Hospital of PLA</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2011-12-12</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

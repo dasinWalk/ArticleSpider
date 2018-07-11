@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-TNRC-11001348</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2011-06-03</date_registration>
+      <primary_sponsor>Institute of Hematology of Union Hospital</primary_sponsor>
+      <public_title>Relapse leukemia treatment  following  allogeneic HSCT by CIK</public_title>
+      <acronym />
+      <scientific_title>Relapse leukemia treatment following allogeneic HSCT by recipient derived donor origin CIK</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2011-06-01</date_enrolment>
+      <type_enrolment />
+      <target_size>Group A:15;Group B:20;Group C:20;</target_size>
+      <recruitment_status>Completed</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=8191</url>
+      <study_type>Observational study</study_type>
+      <study_design>Non randomized control</study_design>
+      <phase>I+II (Phase I+Phase II)</phase>
+      <hc_freetext>Actue leukemia</hc_freetext>
+      <i_freetext>Group A:Chemothrapy+DLI;Group B:Chemothrapy+CIK;Group C:Chemotherapy;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Yong You</firstname>
+        <middlename />
+        <lastname />
+        <address>1277 Jiefang Road, Wuhan, China</address>
+        <city />
+        <country1 />
+        <zip>430022</zip>
+        <telephone>+86 13907146261</telephone>
+        <email>youunion@126.com</email>
+        <affiliation>Union Hospital of Wuhan</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Yong You</firstname>
+        <middlename />
+        <lastname />
+        <address>1277 Jiefang Road, Wuhan, China</address>
+        <city />
+        <country1 />
+        <zip>430022</zip>
+        <telephone>+86 13907146261</telephone>
+        <email>youunion@126.com</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. the relapsed leukemia is confirmed by cytomytric and cytogenetic tests as recipient origin;
+2. Patients must have adequate renal function with a serum creatinine of &lt; 2 mg/dl or creatinine clearance &gt; 50 ml/min;
+3. Patients must have adequate liver function with a total bilirubin &lt; 2 mg/dl or transaminases &lt; 3 times the upper limit of normal;
+4. HIV negative;
+5. Patients must sign informed consent prior to initiation of any study-related treatments;
+6. The mononuclears in the peripheral blood of patients should nearly be donor type.</inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax>55</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. LVEF &lt; 45%;
+2. Pulmonary diffusion capacity &lt; 50% predicted; 
+3. Total bilirubin &gt; 2 mg/dl; 
+4. Creatinine &gt; 2 mg/dl; 
+5. Pregnancy;
+6. Patients positive for HIV; 
+7. Patients have the active ,uncontrolled infection;
+8. The mononuclears in peripheral blood are not totally donor type.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>leukemia free survival;GVHD;over all survival;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Institute of Hematology of Union Hospital</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Not approved</status>
+        <approval_date>2013-08-26</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

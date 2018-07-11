@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-INR-17011765</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2017-06-26</date_registration>
+      <primary_sponsor>Tianjin First Central Hospital</primary_sponsor>
+      <public_title>Clinical study of human umbilical cord blood mesenchymal stem cells in the treatment of refractory lupus nephritis</public_title>
+      <acronym />
+      <scientific_title>Clinical study of human umbilical cord blood mesenchymal stem cells in the treatment of refractory lupus nephritis</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2017-08-01</date_enrolment>
+      <type_enrolment />
+      <target_size>MSCs infusion group:15;control group:15;</target_size>
+      <recruitment_status>Pending</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=20065</url>
+      <study_type>Interventional study</study_type>
+      <study_design>Randomized parallel controlled trial</study_design>
+      <phase>New Treatment Measure Clinical Study</phase>
+      <hc_freetext>lupus nephritis</hc_freetext>
+      <i_freetext>MSCs infusion group:On the basis of conventional doses of corticosteroids + immunosuppressive agents, four 1*10^7/Kg UC MSCs (first, seventh, and six months after the first and seventh days) were administered;control group:Routine dose of glucocorticoid + immunosuppressive agent;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Shen Peng</firstname>
+        <middlename />
+        <lastname />
+        <address>24 Fukang Road, Nankai District, Tianjin, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13820789789</telephone>
+        <email>shenpm@163.com</email>
+        <affiliation>Tianjin First Central Hospital</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Qi Wufang</firstname>
+        <middlename />
+        <lastname />
+        <address>24 Fukang Road, Nankai District, Tianjin, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13702061222</telephone>
+        <email>13702061222@163.com</email>
+        <affiliation>Tianjin First Central Hospital</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>SLE patients met the following criteria:
+1. meet the American College of Rheumatology 1997 revised SLE classification diagnostic criteria, aged 16~70 years old;
+2. lupus nephritis (LN), urine protein (24h) = 1000mg/24h;
+3. dimensional prednisone = 20mg/d; cyclophosphamide (CTX);
+4. CTX total cumulative amount of invalid 8~10g refers to patients before a recent treatment (12~18 months) accumulation, or other immunosuppressive agents (cyclosporine A, azathioprine, mycophenolate mofetil etc) is invalid for 3 months.</inclusion_criteria>
+      <agemin>16</agemin>
+      <agemax>70</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>The patient had an infection that was not controlled; the patient had one or more organ failure; pregnancy or breast feeding; rejected mesenchymal stem cell transplantation; could not be followed up</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>24H urinary protein quantitation;WBC;PLT;creatinine;SLEDAI score;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Tianjin Health Bureau/ Tianjin First Cental Hospital</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2017-04-25</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR1800014354</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2018-01-08</date_registration>
+      <primary_sponsor>Army General Hospital, affiliated BaYi Brain Hospital</primary_sponsor>
+      <public_title>A Phase II/III Adaptive Crossover Study of Intracerebral Transplantation of Neural Stem Cells for the Treatment of Paralysis Due to Ischemic Stroke</public_title>
+      <acronym />
+      <scientific_title>A Phase II/III Adaptive Crossover Study of Intracerebral Transplantation of Neural Stem Cells for the Treatment of Paralysis Due to Ischemic Stroke</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2018-01-01</date_enrolment>
+      <type_enrolment />
+      <target_size>Stem Cell Group:18;Placebo Surgery Group:18;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=24530</url>
+      <study_type>Interventional study</study_type>
+      <study_design>Randomized cross-over control</study_design>
+      <phase>II (Phase II study)</phase>
+      <hc_freetext>sequel of cerebral infarction</hc_freetext>
+      <i_freetext>Stem Cell Group:intracerebral transplantation of NSI-566RSC;Placebo Surgery Group:Craniostomy only;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Zhang Guangzhu</firstname>
+        <middlename />
+        <lastname />
+        <address>5 Nan Men Cang, Dongcheng District, Be ijing, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13810000416</telephone>
+        <email>zhangguangzhu@81bh.com</email>
+        <affiliation>Army General Hospital, Affiliated BaYi Brain Hospital</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Xu RuXiang</firstname>
+        <middlename />
+        <lastname />
+        <address>5 Nan Men Cang, Dongcheng District, Be ijing, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13810000416</telephone>
+        <email>zjxuruxiang@163.com</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Have the ability to understand the requirements of the study, provide written informed consent, understand and provide written authorization for the use and disclosure of Protected Health Information (PHI) and comply with the study procedures;
+2. Men and women 30-65 years old;
+3. Women must have a negative serum pregnancy test and practice an acceptable method of contraception or be of non-childbearing potential (post-menopausal for at least 2 years or who have undergone hysterectomy or oophorectomy or surgical sterilization);
+4. At least 4 months but no more than 24 months from time of stroke at the time of screening, with a motor neurological deficit;
+5. Documented history of completed ischemic stroke in subcortical region of MCA or lenticulostriate artery with or without cortical involvement, with correlated findings by MRI;
+6. Modified Rankin Score of 2, 3, or 4;
+7. FMMS score of 55 or less;
+8. Two evaluations at approximately 3 weeks apart prior to surgery with no more than +/- 4 point change in the NIHSS;
+9. Able and willing to meet all follow-up requirements;
+10. Able and willing to undergo post-physical therapy/rehabilitation.</inclusion_criteria>
+      <agemin>30</agemin>
+      <agemax>65</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. Any history of neurodegenerative disease or psychiatric disorders which could directly impact the assessments of this trial.  This includes any disorder with a cognitive imparment component;
+2. History of more than one symptomatic stroke, TIAs allowed;
+3. History of another major neurological injury;
+4. Cerebral infarct size &gt;8cm in any one measurement;
+5. Myocardial infarction within the 3 months prior to screening;
+6. History of seizures or current use of antiepileptic medication;
+7. Receipt of any investigational drug or device within 30 days prior to screening;
+8. Receipt of any cell infusion other than blood transfusion;
+9. Any concomitant medical disease or condition noted below;
+(1) Coagulopathy with INR &gt; 1.4 at the time of surgery;
+(2) Panel Reactive Antibodies (PRA) &gt; 20% at initial screen;
+(3) Active hypotension requiring vasopressor therapy;
+(4) Skin breakdown over the site of surgery;
+(5) Active or history of malignancy;
+(6) Primary or secondary immune deficiency;
+(7) Persistent MRI artifact that would prevent imaging pre- and post-operation or unable to undergo MRI
+(8) Creatinine &gt;115μmol/L;
+(9) Liver function tests (SGOT/SGPT, Bilirubin, Alk Phos) &gt; 2x upper limit of normal;
+(10) Hematocrit/hemoglobin &lt; 30/10;
+(11) Total WBC &lt; 4000/mm3, platelet count &lt;100,000/mm3;
+(12) Uncontrolled hypertension (systolic &gt; 180mmHg or diastolic&gt; 100mmHg);
+(13) Uncontrolled diabetes (defined as hemoglobin A1C&gt;8%);
+(14) Evidence of GI bleeding by hemoccult test;
+(15) Positive antiserum for tuberculosis;
+(16) Positive antiserum for hepatitis B or C;
+(17) Positive antiserum for human immunodeficiency virus (HIV);
+10. Presence of any of the following conditions;
+(1) Current drug abuse or alcoholism;
+(2) Unstable medical conditions;
+(3) Unstable psychiatric illness including psychosis;
+11. Any condition that the Investigator or primary physician feels may interfere with participation in the study or may endanger the subject;
+12. Any condition that the surgeon feels may pose complications for the surgery;
+13. Known hypersensitivity to tacrolimus or corticosteroids;
+14. Use of antiplatelet drugs less than 2 weeks before surgery.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code>I69.301</hc_code>
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>vital signs;treatment-emergent adverse events;clinical laboratory tests;physical examination;whole CNS MR;Fugl-Meyer Motor Scale;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>NIH Stroke Scale;modified Ranking Scale;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Suzhou Neuralstem Biopharmaceutical Co., Ltd</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2017-11-20</approval_date>
+        <contact_name>Zhang Tianyang</contact_name>
+        <contact_address>5 Nan Men Cang, Dongcheng District, Be ijing, China</contact_address>
+        <contact_phone>+86 010-66721029</contact_phone>
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

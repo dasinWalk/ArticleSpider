@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-IPR-17013115</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2017-10-26</date_registration>
+      <primary_sponsor>Huadong Hospital Affiliated to Fudan University</primary_sponsor>
+      <public_title>Administration of Amifostine in the phase of induction remission alleviating complications in Auto-HSCT: A multi-center, open control and comparative study</public_title>
+      <acronym />
+      <scientific_title>Administration of Amifostine in the phase of induction remission alleviating complications in Auto-HSCT: A multi-center, open control and comparative study</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2018-02-01</date_enrolment>
+      <type_enrolment />
+      <target_size>Amifostine:100;Control:100;</target_size>
+      <recruitment_status>Pending</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=22290</url>
+      <study_type>Interventional study</study_type>
+      <study_design>Randomized parallel controlled trial</study_design>
+      <phase>Post-market</phase>
+      <hc_freetext>Lymphoma</hc_freetext>
+      <i_freetext>Amifostine:Amifostine will be routinely administrated in the phase of induction remission;Control:Amifostine will be only administrated in auto-HSCT;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Kefei Wu</firstname>
+        <middlename />
+        <lastname />
+        <address>221 Yan'an Road West, Jing'an District, Shanghai, China</address>
+        <city />
+        <country1 />
+        <zip>200032</zip>
+        <telephone>+86 15121013309</telephone>
+        <email>wkfwkfwkf@hotmail.com</email>
+        <affiliation>Huadong Hospital Affiliated to Fudan University</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Yanhui Xie</firstname>
+        <middlename />
+        <lastname />
+        <address>221 Yan'an Road West, Jing'an District, Shanghai, China</address>
+        <city />
+        <country1 />
+        <zip>200032</zip>
+        <telephone>+86 13321957387</telephone>
+        <email>yanhuixie@163.com</email>
+        <affiliation>Huadong Hospital Affiliated to Fudan University</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. All the patients should be diagnosed with lymphoma which is verified by pathology. Chemotherapy should be well tolerated.The subjects have the willing to undertake auto-HSCT after they have been in complete or partial remission or a salvage auto-HSCT when the disease progresses or the treatment fails;
+2. Aged 15~65 years old;
+3. ECOG 0~2 degree;
+4. All the patients should be free of organ dysfunction and blood test,hepar,renal and cardiac function are basiclly normal;
+5. All the patients should have no allergic reaction to amifostine.</inclusion_criteria>
+      <agemin>15</agemin>
+      <agemax>65</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. The patients who receive treatment with other similar agents resently;
+2. Pregnant or lactating;
+3. Severe hypocalcemia (serum Calcimu&lt;2mmol/L);
+4. Severe heart disease,including recorded congestive heart failure, high risk and uncontrolled arrhythmias, drug-dependent angina, confirmed heart valvular diseases,severe heart attack and resistant hypertension;
+5. Severe hepar and renal dysfunction.(ALT&gt;8 times the upper limit of normal range,Ccr&lt;20ml/min);
+6. Severe neurological diseases,mental disease and endocrine disease;
+7. A history of substance abuse;
+8. Have inttended other pharmaceutical experiments within 3 monthes;
+9. The patients the investigater assess inappropiate to attend the study.(ex.: Those who can't tolerate the side-effects).</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>Blood regular test;Biochemistry indexes;Counts of stem cells;Estate evaluation;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Self-funding</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2017-08-29</approval_date>
+        <contact_name>Yinghao Sha</contact_name>
+        <contact_address>168 Yan'an Road West, Jing'an District, Shanghai, China</contact_address>
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

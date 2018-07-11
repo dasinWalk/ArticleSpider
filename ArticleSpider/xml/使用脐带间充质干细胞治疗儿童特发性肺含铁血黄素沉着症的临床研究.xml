@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR1800014907</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2018-02-17</date_registration>
+      <primary_sponsor>The Third Affiliated Hospital of Sun Yat-Sen University</primary_sponsor>
+      <public_title>The clinical trial of using umbilical cord mesenchymal stem cell in children with idiopathic pulmonary hemosiderosis</public_title>
+      <acronym />
+      <scientific_title>The clinical trial of using umbilical cord mesenchymal stem cell in children with idiopathic pulmonary hemosiderosis</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2018-03-01</date_enrolment>
+      <type_enrolment />
+      <target_size>Experimental group:16;Control group:16;</target_size>
+      <recruitment_status>Pending</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=25429</url>
+      <study_type>Interventional study</study_type>
+      <study_design>Randomized parallel controlled trial</study_design>
+      <phase>Other</phase>
+      <hc_freetext>idiopathic pulmonary hemosiderosis</hc_freetext>
+      <i_freetext>Experimental group:Transplantation of hUC-MSCs;Control group:None;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Ya-Ting Li</firstname>
+        <middlename />
+        <lastname />
+        <address>Pediatric Intensive Care Unit, Department of Pediatrics, The Third Affiliated Hospital of Sun Yat-Sen University, 600 Tianhe Road, Guangzhou, Guangdong, China</address>
+        <city />
+        <country1 />
+        <zip>510630</zip>
+        <telephone>+86 13533449139</telephone>
+        <email>amy_lyt109@163.com</email>
+        <affiliation>The Third Affiliated Hospital of Sun Yat-Sen University</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Ya-Ting Li</firstname>
+        <middlename />
+        <lastname />
+        <address>Pediatric Intensive Care Unit, Department of Pediatrics, The Third Affiliated Hospital of Sun Yat-Sen University, 600 Tianhe Road, Guangzhou, Guangdong, China</address>
+        <city />
+        <country1 />
+        <zip>510630</zip>
+        <telephone>+86 13533449139</telephone>
+        <email>amy_lyt109@163.com</email>
+        <affiliation>The Third Affiliated Hospital of Sun Yat-Sen University</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. aged from 5-18 years old; 
+2. conforms to the IPH diagnostic criteria; 
+3. parents or guardians agree to treat and sign written informed consent.</inclusion_criteria>
+      <agemin>5</agemin>
+      <agemax>18</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. combined with severe underlying diseases, such as systemic systemic malignancies, heart failure, liver and renal failure, immunodeficiency, severe infectious diseases, and other indications for emergency operation after lung transplantation;           
+2. patients with other pulmonary diseases;           
+3. who had previously participated in the clinical trials of stem cell therapy;            
+4. researchers think it is not appropriate to take part in other situations in the study.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>Episodes of annual pulmonary hemorrhage;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>Incidence of adverse reactions;serum iron metabolism;T lymphocyte subset;Pulmonary function tests;sputum induction test;plasma inflammatory factors test;Number of circulating fibroblasts;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>The Third Affiliated Hospital of Sun Yat-Sen University, Clinical Research Program</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2017-12-07</approval_date>
+        <contact_name>Chang Liu</contact_name>
+        <contact_address>The Third Affiliated Hospital of Sun Yat-Sen University, 600 Tianhe Road, Guangzhou, Guangdong, China</contact_address>
+        <contact_phone>+86 020-85252276</contact_phone>
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

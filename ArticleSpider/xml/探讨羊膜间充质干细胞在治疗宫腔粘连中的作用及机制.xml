@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-ONC-16008605</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2016-06-07</date_registration>
+      <primary_sponsor>University-Town Hospital of Chongqing Medical University</primary_sponsor>
+      <public_title>To investigate the effect and mechanism of amniotic mesenchymal stem cells in the treatment of intrauterine adhesion. </public_title>
+      <acronym />
+      <scientific_title>To investigate the effect and mechanism of amniotic mesenchymal stem cells in the treatment of intrauterine adhesion. </scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2016-06-07</date_enrolment>
+      <type_enrolment />
+      <target_size>Case series:60;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=14573</url>
+      <study_type>Observational study</study_type>
+      <study_design>Case series</study_design>
+      <phase>New Treatment Measure Clinical Study</phase>
+      <hc_freetext>Intrauterine adhesions </hc_freetext>
+      <i_freetext>Case series:amniotic mesenchymal stem cells;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Yanhua Mao</firstname>
+        <middlename />
+        <lastname />
+        <address>55 Daxuecheng Middle Road, Shapingba District, Chongqing, China</address>
+        <city />
+        <country1 />
+        <zip>401331</zip>
+        <telephone>+86 18581205437</telephone>
+        <email>806992912@qq.com</email>
+        <affiliation>University-Town Hospital of Chongqing Medical University</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Jia Wang</firstname>
+        <middlename />
+        <lastname />
+        <address>55 Daxuecheng Middle Road, Shapingba District, Chongqing, China</address>
+        <city />
+        <country1 />
+        <zip>401331</zip>
+        <telephone>+86 13508307321</telephone>
+        <email>752203031@qq.com</email>
+        <affiliation>University-Town Hospital of Chongqing Medical University</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>Normal term selective cesarean section, no infectious disease, amniotic fluid, maternal voluntary to give up and donate the scientific research of abandoned placenta.</inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax>40</agemax>
+      <gender>Female</gender>
+      <exclusion_criteria>Age less than 18 years old or above 40 years old, suffering from infectious diseases such as hepatitis B, hepatitis C, syphilis, AIDS, gonorrhea and other, suffering from severe maternal disease (such as intrahepatic cholestasis, fetal distress, placenta implantation). </exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>cytokines;cell surface marker;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>2.The Medical Research Project of Chongqing (NO. 20141014) ; 2.The Medical specialty construction project of Chongqing (NO. 2013-46) </source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2014-12-30</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

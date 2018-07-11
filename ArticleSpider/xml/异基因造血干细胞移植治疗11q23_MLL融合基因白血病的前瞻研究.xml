@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-ONC-12002739</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2012-11-29</date_registration>
+      <primary_sponsor>Peking University People's Hospital</primary_sponsor>
+      <public_title>prospective study on allogeneic hematopoietic stem cell transplant for the treatment of leukemia with 11q23/MLL</public_title>
+      <acronym />
+      <scientific_title>allogeneic hematopoietic stem cell transplant for the treatment of leukemia with 11q23/MLL</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2007-10-01</date_enrolment>
+      <type_enrolment />
+      <target_size>Case series:40;</target_size>
+      <recruitment_status>Completed</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=6815</url>
+      <study_type>Observational study</study_type>
+      <study_design>Before-After control</study_design>
+      <phase>Other</phase>
+      <hc_freetext>leukemia with 11q23/MLL</hc_freetext>
+      <i_freetext>Case series:allo-HSCT;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Yu Wang</firstname>
+        <middlename />
+        <lastname />
+        <address>11 Xizhimen South Street, Xicheng District, Beijing</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 10 88324952</telephone>
+        <email>ywyw3172@sina.com</email>
+        <affiliation>Peking University People's Hospital</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Xiaojun Huang</firstname>
+        <middlename />
+        <lastname />
+        <address>11 Xizhimen South Street, Xicheng District, Beijing, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 10 88326006</telephone>
+        <email>huangxiaojun@bjmu.edu.cn</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2 />
+    </countries>
+    <criteria>
+      <inclusion_criteria>leukemia with 11q23/MLL undergoing allo-HSCT</inclusion_criteria>
+      <agemin>2</agemin>
+      <agemax>60</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. contraindication for HSCT;
+2. pregnancy;
+3. mental illness.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>Relapse rate;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Peking University People's Hospital</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Not approved</status>
+        <approval_date>2013-08-26</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

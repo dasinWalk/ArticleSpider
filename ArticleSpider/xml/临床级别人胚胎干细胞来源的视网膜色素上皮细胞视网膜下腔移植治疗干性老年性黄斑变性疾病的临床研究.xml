@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-OCB-15007054</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2015-09-13</date_registration>
+      <primary_sponsor>Institute of zoology, chinese academy of sciences</primary_sponsor>
+      <public_title>Clinical study of subretinal transplantation of clinical human embryonic stem cells derived retinal pigment epitheliums in treatment of dry age-related macular degeneration diseases</public_title>
+      <acronym />
+      <scientific_title>Clinical study of subretinal transplantation of clinical human embryonic stem cells derived retinal pigment epitheliums in treatment of dry age-related macular degeneration diseases</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2015-09-10</date_enrolment>
+      <type_enrolment />
+      <target_size>One cohort:10;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=11872</url>
+      <study_type>Observational study</study_type>
+      <study_design>Before-After control</study_design>
+      <phase>New Treatment Measure Clinical Study</phase>
+      <hc_freetext>Dry age-related macular degeneration diseases</hc_freetext>
+      <i_freetext>One cohort:retinal pigment epithelium transplantation;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Hao Jie</firstname>
+        <middlename />
+        <lastname />
+        <address>25-2 North 4th Ring, Haidian District, Beijing</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 010 62558737</telephone>
+        <email>haojie@ioz.ac.cn</email>
+        <affiliation>Institute of zoology, chinese academy of sciences</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Zhou Qi</firstname>
+        <middlename />
+        <lastname />
+        <address>1-5 West Beichen Road, Chaoyang District, Beijing</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 010 64807299</telephone>
+        <email>zhouqi@ioz.ac.cn</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Aged 55-70 ys;
+2. Diagnosed as atrophic age-related macular degeneration;
+3. No CNV;
+4. The BCVA of target eye will not be better than 20/400;
+5. Diopter is greater than 8.00 D, axial length ≤28 mm;
+6. Voluntary as test subjects, signed informed consent, regular follow-up will be effected according to the specified time.</inclusion_criteria>
+      <agemin>55</agemin>
+      <agemax>70</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. The macular atrophy  caused by other disesaes in addition to AMD;
+2. With history of other eye diseases or ocular traumas;
+3. With history of intraocular surgery;
+4. With serious systerm diseases, ALT/AST)&gt; 1.5 or creatine &gt; 1.3 mg/dL;
+5. With any immunodeficiency disease;
+6. Subject who are receiving immunosuppressive therapy;
+7. Allergic to tacrolimus or Mycophenolate mofetil;</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>Early treatment of diabetic retinopathy eye chart (ETDRs);Best corrected visual acuity;Fluorescein angiography;Optical coherent tomography (OCT);mutifocal electroretinogram (MFERG);Flash electroretinogram (FERG); HRA autofluorescence;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Strategic Priority Research Program of the Chinese Academy of Sciences (XDA01030000)</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2016-01-26</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

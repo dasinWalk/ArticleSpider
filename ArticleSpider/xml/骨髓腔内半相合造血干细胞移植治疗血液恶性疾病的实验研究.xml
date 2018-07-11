@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-IPR-15005794</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2015-01-07</date_registration>
+      <primary_sponsor>Central South University Xiangya Hospital</primary_sponsor>
+      <public_title>Halploidentical hematopoietic stem cell transplant by intra-bone injection for patients with hematologic malignances</public_title>
+      <acronym>Haplploidentical-HSCT by IBM</acronym>
+      <scientific_title>Halploidentical hematopoietic stem cell transplant by intra-bone injection for patients with hematologic malignances</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2015-03-01</date_enrolment>
+      <type_enrolment />
+      <target_size>intra-bone injectioin:60;transfusion by venous:60;</target_size>
+      <recruitment_status>Pending</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=10218</url>
+      <study_type>Interventional study</study_type>
+      <study_design>Randomized parallel controlled trial</study_design>
+      <phase>III (Phase III study)</phase>
+      <hc_freetext>malignant hematologic disorders</hc_freetext>
+      <i_freetext>intra-bone injectioin:Intra-bone injection of mononuclear cells from bone marrow;transfusion by venous:transfuse the hematopietic cells by venous;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Bin Fu</firstname>
+        <middlename />
+        <lastname />
+        <address>No.87, Xiangya Rd, Changsha, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13755006662</telephone>
+        <email>xyfubin@126.com</email>
+        <affiliation>Central South University Xiangya Hospital</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Bin Fu</firstname>
+        <middlename />
+        <lastname />
+        <address>No.87, Xiangya Rd, Changsha, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13755006662</telephone>
+        <email>xyfubin@126.com</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>At the age of 14 years old to 65 years old (14 years old and 65 years old);
+According to the classification standard of diagnosis of malignant diseases of the blood system in 2008 edition of WHO, MDS and leukemia patients;
+With hematopoietic stem cell transplantation indications but no HLA matched sibling or unrelated donor transplantation; or the condition requirements as soon as possible without looking HLA haploidentical donor opportunity;
+The last time to start of chemotherapy into the group of at least 30 days; the last time to the end of chemotherapy into the group of at least 10 days;
+The specificity of HCT prognostic index (HCT-CT) of less than 4 (including 4);
+Cardiac ejection fraction greater than 50% (including 50%);
+The total bilirubin level in the normal 2 times the upper limit of the following; alanine aminotransferase and aspartate aminotransferase levels in the normal 3 times the upper limit of the following;
+Diffusion capacity for carbon monoxide (according to hemoglobin level adjusted) greater than 40% (including 40%); forced expiratory volume in one second more than 50% (including 50%);
+Creatinine clearance rate greater than 50ml/min;
+Signed informed consent.</inclusion_criteria>
+      <agemin />
+      <agemax />
+      <gender>Both</gender>
+      <exclusion_criteria>Symptoms of coronary heart disease;
+In group 4 weeks before the memory in the central nervous system leukemia (primitive cells in cerebrospinal fluid of positive);
+The fitness score less than 70 points;
+Viruses, bacteria and fungi uncontrolled infection (Advances in antifungal therapy process still condition);
+HIV seropositive;
+Other system malignant tumor history;
+Pregnant and lactating women;
+Do not agree in the trial period and male and female contraception;</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>survival time;disease free survival time;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>Death associated with transplant;incidence and degree of graft-versus-host disease;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Institutional surpport</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2015-01-04</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

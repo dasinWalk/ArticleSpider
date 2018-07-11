@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-TNRC-11001491</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2011-08-25</date_registration>
+      <primary_sponsor>General Hospital of the Chinese People's Armed Police Force</primary_sponsor>
+      <public_title>Effect of stem cell on optic atrophy and retinopathy --a preliminary clinical study</public_title>
+      <acronym />
+      <scientific_title>Effect of stem cell on optic atrophy and retinopathy  --a preliminary clinical study</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2011-08-01</date_enrolment>
+      <type_enrolment />
+      <target_size>Group A:15;</target_size>
+      <recruitment_status>Completed</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=8048</url>
+      <study_type>Observational study</study_type>
+      <study_design>Non randomized control</study_design>
+      <phase>Pilot study</phase>
+      <hc_freetext>Optic atrophy and retinopathy</hc_freetext>
+      <i_freetext>Group A:Stem cell transplantation ;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Xiaodong Wang</firstname>
+        <middlename />
+        <lastname />
+        <address>69 Yongding Road, Haidian District, Beijing</address>
+        <city />
+        <country1 />
+        <zip>100039</zip>
+        <telephone>+86 13641015688</telephone>
+        <email>xdwang2000@163.com</email>
+        <affiliation>General Hospital of the Chinese People's Armed Police Force</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Yihua An</firstname>
+        <middlename />
+        <lastname />
+        <address>69 Yongding Road, Haidian District, Beijing</address>
+        <city />
+        <country1 />
+        <zip>100039</zip>
+        <telephone>+86 18600090033</telephone>
+        <email>riveran@163.com</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>Optic atrophy caused by hypoxia and ischemia, ihjury, degeneration diseases of patient with diabetic retinopathy.</inclusion_criteria>
+      <agemin />
+      <agemax />
+      <gender>Both</gender>
+      <exclusion_criteria>Accompanied by malignant tumor, malignant hematopoietic diseases</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>visual field;fundus color photography (FCP);visual evoked potential(VEP);optical coherence tomography (OCT);color vision;vision;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>self-funding</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2011-06-06</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

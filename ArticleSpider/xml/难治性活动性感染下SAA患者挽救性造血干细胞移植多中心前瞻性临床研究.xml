@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-OCH-14005190</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2014-09-07</date_registration>
+      <primary_sponsor>Shanghai Children's Medical Center affiliated to Shanghai Jiao Tong University School of Medicine</primary_sponsor>
+      <public_title>Refractory active infection of SAA patients in the salvage of hematopoietic stem cell transplantation: a prospective multicenter clinical study</public_title>
+      <acronym />
+      <scientific_title>Refractory active infection of SAA patients in the salvage of hematopoietic stem cell transplantatio</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2014-10-01</date_enrolment>
+      <type_enrolment />
+      <target_size>Cliniacal observation group:30;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=4385</url>
+      <study_type>Observational study</study_type>
+      <study_design>Case series</study_design>
+      <phase>IV (Phase IV study)</phase>
+      <hc_freetext>aplastic anemia</hc_freetext>
+      <i_freetext>Cliniacal observation group:Allogenetic hematopoietic stem cell transplantatio;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Qin Xia</firstname>
+        <middlename />
+        <lastname />
+        <address>1678 Dong Fang Road, Shanghai</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 18602176322</telephone>
+        <email>myqinxia@163.com</email>
+        <affiliation>Shanghai Children's Medical Center affiliated to S</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Chen Jing</firstname>
+        <middlename />
+        <lastname />
+        <address>1678 Dong Fang Road, Shanghai</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 21 38626161-82073</telephone>
+        <email>chenjingscmc@hotmail.com</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Severe aplastic anemia; 2. Age: younger than 40 years old; 3. has a suitable donor; 4. Persistent neutropenia (absolute neutrophil count less than 0.5*10^9/L) and fever with no response to aggressive anti-infection treatment for three weeks or with infection site; 5. Sign the informed consent document.</inclusion_criteria>
+      <agemin>1</agemin>
+      <agemax>40</agemax>
+      <gender>Male</gender>
+      <exclusion_criteria>Severe organ dysfunction: serum ALT more than 3 times ULN, Ccr less than 60ml/min, left ventricular ejection fraction less than 50% and estimation of survival less than 1 months.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>Overall Survival;Disease Free Surviva;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Shanghai Children's Medical Center affiliated to Shanghai Jiao Tong University School of Medicine</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Not approved</status>
+        <approval_date>2013-08-26</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

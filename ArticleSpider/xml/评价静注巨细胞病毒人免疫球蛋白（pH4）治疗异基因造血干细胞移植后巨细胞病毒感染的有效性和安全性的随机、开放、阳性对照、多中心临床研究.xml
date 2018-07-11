@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR1800014783</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2018-01-30</date_registration>
+      <primary_sponsor>Blood Disease Hospital, Chinese Academy of Medical Sciences </primary_sponsor>
+      <public_title>An open-label, randomized, positive control, multi-regional clinical trial to evaluate the effectiveness and safety of human cytomegalovirus intravenous immunoglobulin (pH4) in the treatment of cytomegalovirus infection after allogeneic hematopoietic stem cell transplantation</public_title>
+      <acronym />
+      <scientific_title>An open-label, randomized, positive control, multi-regional clinical trial to evaluate the effectiveness and safety of human cytomegalovirus intravenous immunoglobulin (pH4) in the treatment of cytomegalovirus infection after allogeneic hematopoietic stem cell transplantation</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2018-01-30</date_enrolment>
+      <type_enrolment />
+      <target_size>test group 1:30;test group 2:30;Control group:30;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=25206</url>
+      <study_type>Interventional study</study_type>
+      <study_design>Dose comparison</study_design>
+      <phase>II (Phase II study)</phase>
+      <hc_freetext>Cytomegalovirus (CMV) infection after allogeneic hematopoietic stem cell transplantation</hc_freetext>
+      <i_freetext>test group 1:Antiviral drugs + 3200U / kg human cytomegalovirus intravenous immunoglobulin (pH4);test group 2:Antiviral drugs + 1600U / kg human cytomegalovirus intravenous immunoglobulin (pH4);Control group:Antiviral drugs + 100mg / kg  human intravenous immunoglobulin (pH4);</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Hu Shen</firstname>
+        <middlename />
+        <lastname />
+        <address>7 Keyuan Road South, High-tech Zone, Chengdu, Sichuan, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 028-84418152</telephone>
+        <email>534399056@qq.com</email>
+        <affiliation>Chengdu Rongsheng Pharmaceutical Co., Ltd.</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Mingzhe Han</firstname>
+        <middlename />
+        <lastname />
+        <address>288 Nanjing Road, Heping District, Tianjin, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 022-23909018</telephone>
+        <email>mzhan@ihcams.ac.cn</email>
+        <affiliation>Blood Disease Hospital, Chinese Academy of Medical Sciences</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Aged 18-60 years old (including 18,60 years of age) male and female;
+2. The blood disease patients undergoing allogeneic hematopoietic stem cell transplantation (allo-HSCT), whose transplantation type is haploidentical transplantation;
+3. In patients with CMV infection which is specifically referred to CMV-DNA viremia and is accord with any one of the following criterias: (1) Local laboratory tests showed that blood CMV-DNA ≥1000 copies / ml twice a week (two tests can not be the same day); (2) Local laboratory tests showed a blood CMV-DNA test results ≥ 5000 copies/ml.?
+4. Volunteer to participate in the trial and sign the informed consent form.</inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax>60</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. ECOG≥3;
+2. Estimated survival time &lt;3 months;
+3. Neutrophil count &lt;1.0 × 10^9/L;
+4. EBV-DNA test ≥1000 copies/ml;
+5. HBsAg anti-HCV anti-HIV or syphilis antibody positive;
+6. Creatinine clearance &lt;70ml/min;
+7. ALT or AST&gt; five times the upper limit of normal or total bilirubin&gt; 50μmol/L;
+8. Previously confirmed patients with CMV infection;
+9. CMV disease;
+10. People allergic to human immunoglobulins, especially those with selective IgA deficiency of anti-IgA antibodies;
+11. Patients who are allergic to ganciclovir or foscarnet are known;
+12. Patients who have been treated with ganciclovir foscarnet or acyclovir and other drugs that have an anti-CMV effect after CMV infection (except for the low dose aciclovir used to prevent herpes virus infection);
+13. Patients with severe (III-IV degree) acute graft-versus-host disease;
+14. Patients with post-transplant leukemia relapse or incomplete remission;
+15. Patients who participated in other clinical studies within the first three months of screening;
+16. Pregnant or lactating female subjects or unable to guarantee effective contraception during the trial;
+17. Subjects may not be able to complete the study for other reasons or because the researchers found it inappropriate to participate in the study.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>The percentage of patients with CMV-DNA &lt;1000 copies / ml twice consecutively within 2 weeks after the onset of CMV infection treatment;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Self-raised</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2017-09-30</approval_date>
+        <contact_name>Zhijian Xiao</contact_name>
+        <contact_address>288 Nanjing Road, Heping District, Tianjin, China</contact_address>
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

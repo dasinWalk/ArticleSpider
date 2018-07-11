@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR1800015944</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2018-05-02</date_registration>
+      <primary_sponsor>The First Affiliated Hospital of Guangxi Medical University</primary_sponsor>
+      <public_title>Autologous Bone Marrow-derived Mesenchymal Stem Cells (BMSCs) Transplantation for ovarian function recovery on Premature Ovarian Insufficiency (POI) patients</public_title>
+      <acronym />
+      <scientific_title>Autologous Bone Marrow-derived Mesenchymal Stem Cells (BMSCs) Transplantation for ovarian function recovery on Premature Ovarian Insufficiency (POI) patients</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2018-05-01</date_enrolment>
+      <type_enrolment />
+      <target_size>Case series:20;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=24858</url>
+      <study_type>Observational study</study_type>
+      <study_design>Before-After control</study_design>
+      <phase>New Treatment Measure Clinical Study</phase>
+      <hc_freetext> Premature Ovarian Insufficiency</hc_freetext>
+      <i_freetext>Case series:Single side ovary injection of   autologous BMSCs;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Yihua Yang</firstname>
+        <middlename />
+        <lastname />
+        <address>6 Shuangyong Road, Qingxiu District, Nanning, Guangxi Zhuang Autonomous Region, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 15007737358</telephone>
+        <email>workyyh@163.com</email>
+        <affiliation>The First Affiliated Hospital of Guangxi Medical University</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Aiping Qin</firstname>
+        <middlename />
+        <lastname />
+        <address>NO.6 Shuangyong Road, Qingxiu District, Nanning, Guangxi Zhuang Autonomous Region, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13977102456</telephone>
+        <email>aipingqin@gmail.com</email>
+        <affiliation>The First Affiliated Hospital of Guangxi Medical University</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Female aged between 18-40 years old; 
+2. Menorrhea or oligomenorrhea at least for 3-6 months;
+3. FSH level above 25 IU/L (repeated twice &gt;4 weeks apart);
+4. Presence of  bilateral ovary;
+5. No combined with male infertility;
+6. Normal karyotype 46, XX;
+7. Normal prolactin level within one year of study initiation;
+8. Normal thyroid function as evidence by normal serum TSH levels;
+9. Willing to attempt to get pregnant as part of the experimental protocol.Agree to report any pregnancy to the research staff immediately;
+10.Willing and able to comply with study requirements.</inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax>40</agemax>
+      <gender>Female</gender>
+      <exclusion_criteria>1. History of gynecologic malignancy and pelvic surgery;
+2. Contraindication to surgery or anesthesia;
+3. Combined with major physical illnesses or  mental disorders, such as heart diseases, Type I or Type II diabetes mellitus, significant anemia that precludes performance of surgery;</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>Resumption of Menses;Improvement in hormone levels (FSH, LH, E2, P, Anti-Mullerian Hormone);Number of mature follicle;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>Occurrence of pregnancy;Endometrium thickness;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Scientific research funding and hospital funding</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2018-01-30</approval_date>
+        <contact_name>Feng Huang</contact_name>
+        <contact_address>6 Shuangyong Road, Qingxiu District, Nanning, Guangxi Zhuang Autonomous Region, China</contact_address>
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

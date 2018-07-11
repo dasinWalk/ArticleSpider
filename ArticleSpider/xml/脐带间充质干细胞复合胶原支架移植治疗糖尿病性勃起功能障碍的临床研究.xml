@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-OCN-15007041</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2015-09-05</date_registration>
+      <primary_sponsor>Nanjing Drum Tower Hospital affiliated to Nanjing University Medical School</primary_sponsor>
+      <public_title>Collagen scaffolds loaded with human umbilical cord mesenchymal stem cells for the improvement of erectile function in men with diabets</public_title>
+      <acronym />
+      <scientific_title>Collagen scaffolds loaded with human umbilical cord mesenchymal stem cells for the improvement of erectile function in men with diabets</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2015-09-01</date_enrolment>
+      <type_enrolment />
+      <target_size>the Patients with Diabetic Erectile Dysfunction:10;the Patients with Diabetic Erectile Dysfunction:10;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=11814</url>
+      <study_type>Observational study</study_type>
+      <study_design>Non randomized control</study_design>
+      <phase>New Treatment Measure Clinical Study</phase>
+      <hc_freetext>diabetic erectile dysfunction</hc_freetext>
+      <i_freetext>the Patients with Diabetic Erectile Dysfunction:hUC-MSC injection to the Corpus Cavernosum;the Patients with Diabetic Erectile Dysfunction:Collagen Scaffolds Loaded with hUC-MSC injection to the Corpus Cavernosum;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Leilei Zhu</firstname>
+        <middlename />
+        <lastname />
+        <address>321 Zhongshan Road, Nanjing, Jiangsu, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 15850725901</telephone>
+        <email>zhuleilei68n@163.com</email>
+        <affiliation>Nanjing Drum Tower Hospital affiliated to Nanjing University Medical School</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Yutian Dai</firstname>
+        <middlename />
+        <lastname />
+        <address>321 Zhongshan Road, Nanjing, Jiangsu, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13913957628</telephone>
+        <email>13913957628@163.com</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. type 1 or 2 diabetes,blood glucose controlled well, no effective with oral pde-5i;
+2. have a consistent partner who is willing to engage in sexual activity more than twice per month during the study;
+3. males age 20 65 years;
+4. iief, ef(erectile function) domain score is under 16;
+5. penile arterial insufficiency or venous leakage (doppler) at the time o inclusion: psv &lt;25 cm/sec, or psv &gt;25 cm/sec, edv&gt;5cm/sec, ri&lt;0, 75;
+6. hba1c is between 6.5% 10%;
+7. physical examination with no abnormalities;
+8. who is willing to consent to participate in the study follow-up;
+9. willing to limit alcohol intake eliminate use of recreational drugs for sexual encounters.</inclusion_criteria>
+      <agemin>20</agemin>
+      <agemax>65</agemax>
+      <gender>Male</gender>
+      <exclusion_criteria>1. severe cardiovascular disease(angina, arrhythmia, cardiac failure, stroke), kidney failure, respiratory failure; history of malignancy;
+2. positive for human immunodeficiency virus (hiv), hepatitis b virus (hbv), hepatitis c virus (hcv) syphilis test;
+3. testosterone level is less than 200ng/dl;
+4. serum ast/alt &gt;3*upper limit of normal or creatinine &gt;1.5*upper limit of normal;
+5. hba1c exhibit greater than 10%;
+6. in the investigators judgment, with clinical significance of penis abnormalities, or has received penile prosthesis implantation surgery;
+7. patients partner is trying to conceive during the trial period;
+8. exposure to any investigational drug or procedure within 1 month prior to study entry or enrolled in a concurrent study that may confound results of this study;
+9. unwilling and/or not able to give written informed consent.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>IIEF-5;SEP;GAQ;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>Penile Doppler;NPT;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>National Natural Science Foundation of China (no.81170563)</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2015-08-25</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

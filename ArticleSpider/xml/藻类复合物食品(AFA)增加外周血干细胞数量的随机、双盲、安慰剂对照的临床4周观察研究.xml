@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-TRC-13003521</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2013-08-24</date_registration>
+      <primary_sponsor>411th PLA Hospital, Shanghai.</primary_sponsor>
+      <public_title>A Randomized, Double-Blind, Placebo, Controlled, Parallel, Four-Week Study of Compound Food of Algae (AFA) or Placebo in Healthy Human Volunteers to Evaluate the Effect on Circulating Stem Cells.</public_title>
+      <acronym />
+      <scientific_title>A Randomized, Double-Blind, Placebo, Controlled, Parallel, Four-Week Study of Compound Food of Algae or Placebo in Healthy Human Volunteers to Evaluate the Effect on Circulating Stem Cells.</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2013-10-10</date_enrolment>
+      <type_enrolment />
+      <target_size>Observation:18;Control:18;</target_size>
+      <recruitment_status>Completed</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=6039</url>
+      <study_type>Interventional study</study_type>
+      <study_design>Randomized parallel controlled trial</study_design>
+      <phase>Other</phase>
+      <hc_freetext>Non-Disease</hc_freetext>
+      <i_freetext>Observation:Compond Food of Algae (AFA);Control:Placebo  ;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Yingqi Zhou</firstname>
+        <middlename />
+        <lastname />
+        <address>15 Dongjiangwan Road, ShangHai, China</address>
+        <city />
+        <country1 />
+        <zip>200081</zip>
+        <telephone>+86 021-81867231</telephone>
+        <email>zhouyingqi81@163.com</email>
+        <affiliation>411th PLA Hospital, Shanghai</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Yingqi Zhou</firstname>
+        <middlename />
+        <lastname />
+        <address>15 Dongjiangwan Road, ShangHai, China</address>
+        <city />
+        <country1 />
+        <zip>200081</zip>
+        <telephone>+86 021-81867231</telephone>
+        <email>zhouyingqi81@163.com</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Male or Female;
+2. Between 18 and 40 years of age, inclusive;
+3. No chronic illness (e.g. hematologic disorders, renal disease, hepatitis, Diabetes Mellitus);
+4. General health status acceptable for participation in the study;
+5. Maximum weight no more than 100 Kg.</inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax>40</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. Violation of any inclusion criteria;
+2. Failure to perform screening or baseline examinations;
+3. Participation in another clinical trial within 30 days before the screening period of this study;
+4. Likelihood to be unable to complete the study;
+5. History or clinical evidence of drug or ethanol abuse;
+6. History or clinical evidence of acute or chronic illness;
+7. Significant abnormality of blood chemistry or hematologic parameters; 
+8. Use of corticosteroids during the previous 14 days before screening.
+Pregnant women and women with childbearing potential who are not using adequate methods to avoid pregnancy, cannot participate in the study</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>blood cell count;liver function;kidney function;kidney function;stem cell count;T Lymphocyte function;Immunoglubine;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Shanghai Standard Biotech Co.,ltd.</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2013-09-19</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

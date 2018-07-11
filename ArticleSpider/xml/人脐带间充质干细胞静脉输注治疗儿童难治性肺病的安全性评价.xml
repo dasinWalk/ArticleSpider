@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR1800015735</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2018-04-17</date_registration>
+      <primary_sponsor>Children's Hospital of Chongqing Medical University</primary_sponsor>
+      <public_title>Safety of human umbilical cord derived mesenchymal stem cells (HU - MSCs) infusion treatment of children refractory lung diseases </public_title>
+      <acronym />
+      <scientific_title>Safety of human umbilical cord derived mesenchymal stem cells (HU - MSCs) infusion treatment of children refractory lung diseases</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2015-10-01</date_enrolment>
+      <type_enrolment />
+      <target_size>one cohort:10;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=24449</url>
+      <study_type>Interventional study</study_type>
+      <study_design>Cohort study</study_design>
+      <phase>I (Phase I study)</phase>
+      <hc_freetext>Children lung diseases</hc_freetext>
+      <i_freetext>one cohort:mesenchymal stem cells infusion;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Xia yunqiu</firstname>
+        <middlename />
+        <lastname />
+        <address>136 Second Zhongshan Road, Yuzhong District, Chongqing, China</address>
+        <city />
+        <country1 />
+        <zip>400014</zip>
+        <telephone>+86 13637719980</telephone>
+        <email>xiayunqiu_0115@163.com</email>
+        <affiliation>Children's Hospital of Chongqing Medical University</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Fu zhou</firstname>
+        <middlename />
+        <lastname />
+        <address>136 Second Zhongshan Road, Yuzhong District, Chongqing, China</address>
+        <city />
+        <country1 />
+        <zip>400014</zip>
+        <telephone>+86 13983021280</telephone>
+        <email>fu_zhou79@126.com</email>
+        <affiliation>Children's Hospital of Chongqing Medical University</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. children refractory lung diseases;
+2. cannot be healed by conventional drug therapy;
+3. informed consent signed by parents and/or patients(&gt;14years old).</inclusion_criteria>
+      <agemin>0.5</agemin>
+      <agemax>12</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. complex congenital heart disease;
+2. WHO class III or IV pulmonary hypertension;
+3. congenital respiratory tract malformations;
+4. congenital anomaly of nervous system;
+5. hereditary diseases;
+6. HIV infected/viral hepatitis/tuberculosis/ syphilis;
+7. severe or uncontrolled infection not expected to survive 2 weeks;
+8. active pneumorrhagia or tension pneumothorax;
+9. malignant diseases;
+10. patient participating or having participated in a clinical trial with another investigation drugs.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>safety;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>SpO2;liver and kidney functions;myocardial biochemical marker;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Chongqing Municipal Science and Technology Commission </source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2016-01-02</approval_date>
+        <contact_name>Liu Enmei</contact_name>
+        <contact_address>136 Second Zhongshan Road, Yuzhong District, Chongqing, China</contact_address>
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

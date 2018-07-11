@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-ONB-16007725</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2016-01-08</date_registration>
+      <primary_sponsor>First Affiliated Hospital of Third Military Medical University</primary_sponsor>
+      <public_title>Preliminary study of mesenchymal stem cells combined with platelet rich plasma injection for refractory tendinopathy</public_title>
+      <acronym />
+      <scientific_title>Preliminary study of mesenchymal stem cells combined with platelet rich plasma injection for refractory tendinopathy</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2016-01-01</date_enrolment>
+      <type_enrolment />
+      <target_size>Intervention Group:30;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=13043</url>
+      <study_type>Observational study</study_type>
+      <study_design>Before-After control</study_design>
+      <phase>New Treatment Measure Clinical Study</phase>
+      <hc_freetext>Refractory tendinopathy</hc_freetext>
+      <i_freetext>Intervention Group:mesenchymal stem cells combined with platelet rich plasma injection;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Tang Kanglai</firstname>
+        <middlename />
+        <lastname />
+        <address>29 Gaotanyan, Shapingba District, Chongqing, China</address>
+        <city />
+        <country1 />
+        <zip>400038</zip>
+        <telephone>+86 13983681188</telephone>
+        <email>tangkanglai@hotmail.com</email>
+        <affiliation>First Affiliated Hospital of Third Military Medical University</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Tang Kanglai</firstname>
+        <middlename />
+        <lastname />
+        <address>29 Gaotanyan, Shapingba District, Chongqing, China</address>
+        <city />
+        <country1 />
+        <zip>400038</zip>
+        <telephone>+86 13983681188</telephone>
+        <email>tangkanglai@hotmail.com</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>(1) Age 18-45 years (18 yr and 45 yr included), male or female;
+(2) Diagnosed tendinopathy refer to "military training injury diagnostic criteria" and no obvious symptom relief in 3 months after rest and administration of oral non-steroidal anti-inflammatory drugs, topical hormone therapy;
+(3) Normal heart, lung, liver, kidney function
+(4) Normal blood coagulation;
+(5) Unwilling to receive surgery;
+(6) Agreed to sign the informed consent;
+(7) Compliance to follow-up process.</inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax>45</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>(1) Patients of age that does not meet inclusion criteria;
+(2) Fertility plan within 6 month and pregnancy or breast-feeding women;
+(3) Non-Indications for MRI Examination;
+(4) With diseases those could affect the result of the trial.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>UCLA shoulder score;Mayo elbow performance score;AOFAS ankle - hindfoot score;Adverse effects;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>PLA Fund 13CXZ008</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2015-01-19</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

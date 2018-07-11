@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-COC-16008052</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2016-03-03</date_registration>
+      <primary_sponsor>Peking University People's Hospital </primary_sponsor>
+      <public_title>Characteristic of γδT-cell reconstitution and its association with the infection of Epstein-Barr virus post haploidentical hematopoietic stem cell transplantation</public_title>
+      <acronym />
+      <scientific_title>Characteristic of γδT-cell reconstitution and its association with the infection of Epstein-Barr virus post haploidentical hematopoietic stem cell transplantation</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2016-03-04</date_enrolment>
+      <type_enrolment />
+      <target_size>Case series:100;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=13491</url>
+      <study_type>Cause</study_type>
+      <study_design>Case series</study_design>
+      <phase>Other</phase>
+      <hc_freetext>hematologic malignancies</hc_freetext>
+      <i_freetext>Case series:Nil;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Bian Zhilei</firstname>
+        <middlename />
+        <lastname />
+        <address>11 South Xizhimen Street, Beijing </address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13051580230</telephone>
+        <email>bianzhilei@sina.com</email>
+        <affiliation>Peking University People's Hospital </affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Liu Jiangying</firstname>
+        <middlename />
+        <lastname />
+        <address>11 South Xizhimen Street, Beijing</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13301001677</telephone>
+        <email>bjmuljy@163.com</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>Patients are 18 to 60 years of age with hematopoietic malignancy (including acute lymphoblastic leukemia,acute myeloid leukemia, chronic myeloid leukemia, myelodysplastic syndrome, chronic lymphocytic leukemia, and non-Hodgkin lymphoma). All patients are at complete remission status without relapse before transplantation. Patients are administrated with 10 mg/kg of ATG in conditioning regimens and receive allografts from an HLA-mismatched related donor. </inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax>60</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. The patients with poor medical compliance;
+2. Any other problems that patients could not participate this trial.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>γδT-cell reconstitution after haploHSCT;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Peking University People's Hospital </source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>1990-01-01</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

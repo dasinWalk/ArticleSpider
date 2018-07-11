@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-TRC-14005071</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2014-07-23</date_registration>
+      <primary_sponsor>Taihe Hospital of Shiyan, Hubei Province</primary_sponsor>
+      <public_title>Clinical research on subacute ischemic stroke therapy by umbilical cord blood stem cell</public_title>
+      <acronym />
+      <scientific_title>Clinical research on subacute ischemic stroke therapy by umbilical cord blood stem cell</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2014-08-01</date_enrolment>
+      <type_enrolment />
+      <target_size>Experience group:30;Control:30;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=4504</url>
+      <study_type>Interventional study</study_type>
+      <study_design>Randomized parallel controlled trial</study_design>
+      <phase>Other</phase>
+      <hc_freetext>Ischemic cerebrovascular disease</hc_freetext>
+      <i_freetext>Experience group:Stem cells;Control:Placebo + basal treatment;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Yunfu Wang</firstname>
+        <middlename />
+        <lastname />
+        <address>Neurology department of Taihe Hospital, No. 32, South Renmin Road, Shiyan, Hubei Province</address>
+        <city />
+        <country1 />
+        <zip>442000</zip>
+        <telephone>+86 13971920566</telephone>
+        <email>wyfymc@163.com</email>
+        <affiliation>Taihe Hospital of Shiyan, Hubei Province</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Yunfu Wang</firstname>
+        <middlename />
+        <lastname />
+        <address>Neurology department of Taihe Hospital, No. 32, South Renmin Road, Shiyan, Hubei Province</address>
+        <city />
+        <country1 />
+        <zip>442000</zip>
+        <telephone>+86 13971920566</telephone>
+        <email>wyfymc@163.com</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2 />
+    </countries>
+    <criteria>
+      <inclusion_criteria>Among the age of 18~75 years old, gender not limited; Participants with cerebral infarction, the basal ganglia ischemic cerebrovascular disease onset time in two weeks and confirmed by MRI, NIHSS score of 4-12 points; Without serious heart, liver, kidney and the blood coagulation dysfunction; The informed consent signed by voluntary participants or their legal guardian subjects in accordance with the participants' willingness.</inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax>75</agemax>
+      <gender>Male</gender>
+      <exclusion_criteria>Have a history of serious drug allergy or allergic constitution; Have a serious cardiovascular, liver, kidney disease; With more severe respiratory, endocrine system diseases; With serious blood system diseases; With known or suspected malignant tumor; With difficult to control the infection; With a severe brain injury, resulting in severe neurological defects or psychiatric disease; Serum HIV antibody, syphilis antibody positive; Alcoholism and drug abusers; Pregnancy or may pregnancy and lactation women; Doctors think there are other reasons can not be included in the stem cell therapy.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>NIHSS;ADL;MRI;MRS;MRA;3D-ALS of brain;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>funds of science and technology research project, Hubei Province</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2014-01-20</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

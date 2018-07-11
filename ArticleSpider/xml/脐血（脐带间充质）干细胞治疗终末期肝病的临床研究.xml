@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-ONRC-13004581</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2013-07-25</date_registration>
+      <primary_sponsor>Jinan Infectious Disease Hoapital</primary_sponsor>
+      <public_title>Umbilical cord blood (umbilical cord mesenchymal) stem cell in patients with end stage liver diseases</public_title>
+      <acronym />
+      <scientific_title>Umbilical cord blood (umbilical cord mesenchymal) stem cell in patients with end stage liver diseases</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2014-06-01</date_enrolment>
+      <type_enrolment />
+      <target_size>Stem cells therapy:30;</target_size>
+      <recruitment_status>Completed</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=4992</url>
+      <study_type>Observational study</study_type>
+      <study_design>Non randomized control</study_design>
+      <phase>I+II (Phase I+Phase II)</phase>
+      <hc_freetext>End stage liver diseases</hc_freetext>
+      <i_freetext>Stem cells therapy:Umbilical cord mesenchymal stem cell transplantation;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Jingbo Wang</firstname>
+        <middlename />
+        <lastname />
+        <address>22029 Jingshi Road, Jinan, China</address>
+        <city />
+        <country1 />
+        <zip>250021</zip>
+        <telephone>+86 13675411690</telephone>
+        <email>jingbocn@163.com</email>
+        <affiliation>Jinan Infectious Disease Hoapital</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Zhuangbo Mou</firstname>
+        <middlename />
+        <lastname />
+        <address>22029 Jingshi Road, Jinan, China</address>
+        <city />
+        <country1 />
+        <zip>250021</zip>
+        <telephone>+86 13031743690</telephone>
+        <email>symzb2003@126.com</email>
+        <affiliation>Jinan Infectious Disease Hoapital</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>Aged 18-69 years; CHB, CHC, AFLD cirrhosis; ultrasonographic or CT evidences of cirrhosis and portal hypertension, Child-Pugh A and B.</inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax>69</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>Severe hepatic encephalopathy or variceal bleeding; presence of active untreated infectious disease or  hepatorenal syndrome; presence of severe comorbid diseases (e.g., severe renal, respiratory, or cardiac disease), or presence of any type of malignancy;HIV positive; history of alcohol abuse, or use of hepatotoxic drugs within the last six months before enrolment; active substance abuse; pregnancy or lactation; can not sign the informed consent.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>Safety: incidence of liver cancer;adverse events;ALT;AST;TRIL;ALB;CHO;PTA;Child pugh score; MELD;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Self-support</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2011-03-18</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

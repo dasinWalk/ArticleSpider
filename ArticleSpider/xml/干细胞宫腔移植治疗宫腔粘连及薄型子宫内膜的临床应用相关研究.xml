@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-ONB-15007424</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2015-11-18</date_registration>
+      <primary_sponsor>Center for Reproductive Medicine，Shandong Provincial Hospital</primary_sponsor>
+      <public_title>Clinical study of stem cell treatment for severe uterine adhesion and thin endometrium</public_title>
+      <acronym />
+      <scientific_title>Clinical study of stem cell treatment for severe uterine adhesion and thin endometrium</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2015-12-01</date_enrolment>
+      <type_enrolment />
+      <target_size>rountine surgery group:20;stem cell group:15;</target_size>
+      <recruitment_status>Pending</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=12435</url>
+      <study_type>Observational study</study_type>
+      <study_design>Before-After control</study_design>
+      <phase>New Treatment Measure Clinical Study</phase>
+      <hc_freetext>uterine adhesion and thin endometrium</hc_freetext>
+      <i_freetext>rountine surgery group:rountine surgery;stem cell group:stem cell treatment;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Lei Yan</firstname>
+        <middlename />
+        <lastname />
+        <address>Office building of SDUIVF, 20 Sanlizhuang, Jingliu Road, Jinan</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13969163910</telephone>
+        <email>13969163910@163.com</email>
+        <affiliation>Shandong Provincial Hospital/Reproductive Hospital Affiliated to Shandong University</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Jinlong Ma</firstname>
+        <middlename />
+        <lastname />
+        <address>Office building of SDUIVF, 20 Sanlizhuang, Jingliu Road, Jinan</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 18678856666</telephone>
+        <email>Majinlong123@hotmail.com</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. severe uterine adhesion or uterine adhesion with 2 times of uterine cavity surgery with endometrium less than 7mm;
+2. thin endometrium less than 7mm even after endometrial preparation;
+3. cycle cancelled because of thin endometrium less than 7mm, RIF or RSA with endometrial thickness less than 8mm.</inclusion_criteria>
+      <agemin>20</agemin>
+      <agemax>42</agemax>
+      <gender>Female</gender>
+      <exclusion_criteria>1. age &gt;42;
+2. combined with other uterine disease like submucous fibroid,endometrial polyp and untreated uterine malformation;
+3. combined with serious disease, such as heart diseases, diabetes, hypertensio1ahistory of pelvic surgery.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>endometrial thickness;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>endometrial blood supply;live birth rate;endometrial cavity shape;clinical pregnancy rate;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Goverment scientific research funding,hospital funding and funding from cooperative companies</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2015-10-18</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

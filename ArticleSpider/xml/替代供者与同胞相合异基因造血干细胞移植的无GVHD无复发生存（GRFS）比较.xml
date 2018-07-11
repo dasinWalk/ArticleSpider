@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-OIN-16010031</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2016-11-28</date_registration>
+      <primary_sponsor>Department of Hematology, Anhui Provincial Hospital.</primary_sponsor>
+      <public_title>Comparison of graft-versus-host disease-free, relapse-free survival of hematopoietic stem cell transplantation using matched sibling donor and alternative donor.</public_title>
+      <acronym />
+      <scientific_title>Comparison of graft-versus-host disease-free, relapse-free survival of hematopoietic stem cell transplantation using matched sibling donor and alternative donor.</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2017-01-01</date_enrolment>
+      <type_enrolment />
+      <target_size>4:512;</target_size>
+      <recruitment_status>Pending</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=16917</url>
+      <study_type>Observational study</study_type>
+      <study_design>Non randomized control</study_design>
+      <phase>III (Phase III study)</phase>
+      <hc_freetext>Hematological malignancies</hc_freetext>
+      <i_freetext>4:different transplantation type;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Juan Tong</firstname>
+        <middlename />
+        <lastname />
+        <address>17 Lujiang Road, Hefei, Anhui, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13955114442</telephone>
+        <email>tongj5200@163.com</email>
+        <affiliation>Department of Hematology, Anhui Provincial Hospital.</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Zimin Sun</firstname>
+        <middlename />
+        <lastname />
+        <address>17 Lujiang Road, Hefei,  Anhui, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13605518126</telephone>
+        <email>zmsun_vip@163.com</email>
+        <affiliation>Department of Hematology, Anhui Provincial Hospital.</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. To be aged less than 50 years old, male and female, any race;
+2. patients with hematologic malignancies, all patients were diagnosed by MICM (according to WHO criteria), including acute myeloid leukemia (AML), acute lymphoblastic leukemia (ALL) and hybrid acute leukemia (MAL), myelodysplastic syndrome (MDS) and chronic myeloid leukemia (CML) myelodysplastic syndrome / myeloproliferative neoplasms (MDS/MPN) and malignant lymphoma;
+3. All patients had indications for allogeneic hematopoietic stem cell transplantation;
+4. Karnofsky score is more than 60%, Eastern Cooperative Oncology Group (ECOG) physical status score 0~2 (Annex 1);
+5. before entering the group for 2 weeks. Serum total bilirubin (less than or equal to the same age) 1.5 times the upper limit of normal; alanine aminotransferase (ALT) and aspartate aminotransferase (AST) = (the same age) 3 times the upper limit of the normal value; serum creatinine (the same age) is less than or equal to 2 times the upper limit of normal value; the heart muscle enzyme "(the same age) 2 times the upper limit of normal value;
+6. anti HIV test should be negative;
+7. each participant must sign the informed consent (ICF), that he / she understand the purpose and procedures, and willing to participate in the study; considering the condition of the patient, if the patient signature is not conducive to disease treatment, can be signed by the legal representative of ICF.</inclusion_criteria>
+      <agemin />
+      <agemax />
+      <gender>Both</gender>
+      <exclusion_criteria>1. patients had hematopoietic stem cell transplantation before;
+2. have any serious complications (such as pulmonary infection, etc.) or with the disease (such as the failure to control the diabetes, etc.);
+3. severe organ dysfunction or disease, such as heart, liver, kidney and pancreas and other severe diseases and dysfunction;
+4. pregnancy patients;
+5. the researchers believe that may be harm to the safety of the subjects. Any life threatening disease, physical condition, or organ system dysfunction; drug dependent persons; subjects with uncontrolled mental disease; cognitive dysfunction;
+6. subjects and / or authorized family members refused to line UCBT or UPBSCT treatment;
+7. had other clinical researchers in 7.3 months;
+8. the researchers think it is not suitable for the group (if the patient is expected to be unable to adhere to the treatment of funds and other issues).</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>GRFS;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>engraftment;infection;DFS;OS;GVHD;relapse;TRM;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>National Natural Science Foundation of China </source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2016-11-13</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

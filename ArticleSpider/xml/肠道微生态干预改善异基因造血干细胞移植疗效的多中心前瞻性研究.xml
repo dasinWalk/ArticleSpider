@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR1800016208</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2018-05-18</date_registration>
+      <primary_sponsor>the First Affiliated Hospital of Zhejiang University School of Medicine </primary_sponsor>
+      <public_title>Multicenter prospective study on the effect of intestinal microecology intervention on allogeneic hematopoietic stem cell transplantation</public_title>
+      <acronym />
+      <scientific_title>Multicenter prospective study on the effect of intestinal microecology intervention on allogeneic hematopoietic stem cell transplantation</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2018-06-01</date_enrolment>
+      <type_enrolment />
+      <target_size>1:100;2:100;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=27527</url>
+      <study_type>Observational study</study_type>
+      <study_design>Non randomized control</study_design>
+      <phase>New Treatment Measure Clinical Study</phase>
+      <hc_freetext>hematologic malignacy </hc_freetext>
+      <i_freetext>1:fecal microbiota transplantation;2:Oral Probiotics;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Tan Yamin</firstname>
+        <middlename />
+        <lastname />
+        <address>79 Qingchun Road, Hangzhou, Zhejiang, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13750825918</telephone>
+        <email>yamin0001@126.com</email>
+        <affiliation>the First Affiliated Hospital of Zhejiang University School of Medicine </affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Huang He</firstname>
+        <middlename />
+        <lastname />
+        <address>79 Qingchun Road, Hangzhou, Zhejiang, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13605714822</telephone>
+        <email>hehuangyu@126.com</email>
+        <affiliation>the First Affiliated Hospital of Zhejiang University School of Medicine</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. The informed consent is signed by the subjects or their legal representatives before the start of clinical research; 
+2. Male and female patients before allogeneic hematopoietic stem cell transplantation low microbial diversity, aged 18-65 years old;
+3. Patients after allogeneic hematopoietic stem cell transplantation;
+4. ECOG physical status score 0~2 score;
+5. No major organ dysfunction. </inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax>65</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. Patients with severe liver and renal function and heart and lung dysfunction;
+2. An uncontrolled or severe infection;
+3. It is possible to prevent mental illness from completing the treatment or informed consent. </exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>overall survival;disease-free survival;the incidence of acute GVHD;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>safety;recurrence rate;the incidence of cGVHD;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>self-funding</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Not approved</status>
+        <approval_date>2013-08-26</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

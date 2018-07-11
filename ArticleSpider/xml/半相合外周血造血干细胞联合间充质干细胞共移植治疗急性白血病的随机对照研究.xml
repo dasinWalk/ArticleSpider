@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-INR-16008399</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2016-05-01</date_registration>
+      <primary_sponsor>The first affiliated hospital of Xi'an jiaotong university</primary_sponsor>
+      <public_title>Cotransplantation of haploidentical peripheral blood stem cells and mesenchymal stem cells for acute leukemia: a randomized, controlled clinical study</public_title>
+      <acronym />
+      <scientific_title>Cotransplantation of haploidentical peripheral blood stem cells and mesenchymal stem cells for acute leukemia: a randomized, controlled clinical study</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2016-05-03</date_enrolment>
+      <type_enrolment />
+      <target_size>experimental group A:12;experimental group B:12;control group:12;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=14141</url>
+      <study_type>Interventional study</study_type>
+      <study_design>Randomized parallel controlled trial</study_design>
+      <phase>New Treatment Measure Clinical Study</phase>
+      <hc_freetext>acute leukemia</hc_freetext>
+      <i_freetext>experimental group A:cotransplantation of haploidentical peripheral blood stem cells and mesenchymal stem cells (d0);experimental group B:cotransplantation of haploidentical peripheral blood stem cells and mesenchymal stem cells (d+30);control group:haploidentical peripheral blood stem cell transplantation;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>WANG XIAONING</firstname>
+        <middlename />
+        <lastname />
+        <address>277 West Yanta Road, Xi'an, Shaanxi, China</address>
+        <city />
+        <country1 />
+        <zip>710061</zip>
+        <telephone>+86 18991232608</telephone>
+        <email>wangxn99@163.com</email>
+        <affiliation>The first affiliated hospital of Xi'an jiaotong university</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>HE PENGCHENG</firstname>
+        <middlename />
+        <lastname />
+        <address>277 West Yanta Road, Yanta District, Xi'an, China</address>
+        <city />
+        <country1 />
+        <zip>710061</zip>
+        <telephone>+86 18991232609</telephone>
+        <email>hepc@163.com</email>
+        <affiliation>The first affiliated hospital of Xi'an jiaotong university</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Acute leukemia patients (including AML and ANML) at first complete remission before transplantation;
+2. HLA matching of the donor and the patients was haploidentical;
+3. Patients recieved allogeneic hematopoietic stem cell transplantation in our hospital from January 2016 to   
+December 2019.</inclusion_criteria>
+      <agemin>14</agemin>
+      <agemax>55</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. Patients aged 14~55 years old;
+2. Patients don't achieve remission;
+3. Patients with heart,lung or kidney dysfunction;
+4. Patients with mental disorders;
+5. Pregnancy patients with leukemia.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>overall survival;rate of relapse;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>rate of graft;rate of aGVHD and cGVHD;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Clinical research project of the First Affiliated Hospital of Xi'an Jiao Tong University</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2016-01-28</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

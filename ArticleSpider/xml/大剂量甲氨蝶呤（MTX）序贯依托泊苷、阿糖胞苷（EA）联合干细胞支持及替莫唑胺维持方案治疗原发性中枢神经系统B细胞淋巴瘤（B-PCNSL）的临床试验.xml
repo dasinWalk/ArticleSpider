@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-OPN-15006417</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2015-05-13</date_registration>
+      <primary_sponsor>Department of Hematology, Peking Union Medical College Hospital</primary_sponsor>
+      <public_title>High dose Methotrexate (MTX) followed by Etoposide, Cytarabine (EA), stem cell support and temozolomide maintenance therapy in patients with newly diagnosed Primary Central Nervous System B-cell Lymphoma</public_title>
+      <acronym />
+      <scientific_title>High dose Methotrexate (MTX) followed by Etoposide, Cytarabine (EA), stem cell support and temozolomide maintenance therapy in patients with newly diagnosed Primary Central Nervous System B-cell Lymphoma</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2015-06-01</date_enrolment>
+      <type_enrolment />
+      <target_size>Case series:30;</target_size>
+      <recruitment_status>Pending</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=10959</url>
+      <study_type>Observational study</study_type>
+      <study_design>Non randomized control</study_design>
+      <phase>Post-market</phase>
+      <hc_freetext>Primary Central Nervous System B-cell Lymphoma</hc_freetext>
+      <i_freetext>Case series:High dose Methotrexate (MTX) followed by Etoposide, Cytarabine (EA), stem cell support and temozolomide maintenance therapy;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Wei Zhang</firstname>
+        <middlename />
+        <lastname />
+        <address>1 Shuaifuyuan, Wangfujing, Dongcheng District, Beijing, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13681473557</telephone>
+        <email>vv1223@vip.sina.com</email>
+        <affiliation>Department of Hematology, Peking Union Medical College Hospital</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Daobin Zhou</firstname>
+        <middlename />
+        <lastname />
+        <address>1 Shuaifuyuan, Wangfujing, Dongcheng District, Beijing, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13901113623</telephone>
+        <email>daobinzhou@yahoo.com</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2 />
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Diagnosis of Primary Central Nervous System B-cell Lymphoma;
+2. Age:18-70;
+3. Eastern Cooperative Oncology Group (ECOG) status 0-2 and no chemotherapy contraindications;
+4. Estimated survival time &gt;3 months;
+5. All patients have to sign an informed consent document indicating that they understand the purpose of and procedures required for the study and are willing to participate in the study.</inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax>70</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. Pregnant or lactating women;
+2. Patients combined with any unstable systemic diseases;
+3. Hypersensitiveness to any kind of trial regime;
+4. Histopathological diagnosis of T cell lymphoma, or Lymphoma cells in bone marrow &gt;=25%.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>Overall Response Rate;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>Grade 3/4 toxicities;Time to progress;Overall survival rate;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Self fund</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Not approved</status>
+        <approval_date>2013-08-26</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-INR-17010805</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2017-03-06</date_registration>
+      <primary_sponsor>Shanghai Ninth People's Hospital, Shanghai Jiaotong University School of Medicine</primary_sponsor>
+      <public_title>The clinical research of security and validity for applying enriched bone marrow stem cells rapidly recombinating parous biomaterial to multi-segment lumber intervertebral fusion</public_title>
+      <acronym />
+      <scientific_title>The clinical research of security and validity for applying enriched bone marrow stem cells rapidly recombinating parous biomaterial to multi-segment lumber intervertebral fusion</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2017-03-01</date_enrolment>
+      <type_enrolment />
+      <target_size>treatment group:96;controlled group:96;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=18386</url>
+      <study_type>Interventional study</study_type>
+      <study_design>Randomized parallel controlled trial</study_design>
+      <phase>New Treatment Measure Clinical Study</phase>
+      <hc_freetext>lumber spine degeneration disease and lumbar vertebral fracture</hc_freetext>
+      <i_freetext>treatment group:using enriched bone marrow stem cells recombinating parous biomaterial for implantation;controlled group:autologous bone transplantation;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Xin Wang</firstname>
+        <middlename />
+        <lastname />
+        <address>639 Zhizaoju Road, Shanghai, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 15921963129</telephone>
+        <email>walsheim@163.com</email>
+        <affiliation>Shanghai Ninth People's Hospital, Shanghai Jiaotong University School of Medicine</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Jie Zhao</firstname>
+        <middlename />
+        <lastname />
+        <address>639 Zhizaoju Road, Shanghai, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 15921963129</telephone>
+        <email>prof_zhao@189.cn</email>
+        <affiliation>Shanghai Ninth People's Hospital, Shanghai Jiaotong University School of Medicine</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>(1) Aged from 18 to 65 years, male and female;
+(2) Two or three segmental lumber spine disease requiring decompression surgery and intervertebral fusion;
+(3) No admission for other clinical study in recent three months;
+(4) No acute infection,mental disorder and calcification metabolic disorders;
+(5) Be willing to sign the informed consent.</inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax>65</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>(1) pathological fracture caused by osteopathy such as benign or malignant tumor;
+(2) acute or severe infection or chronic infection in its active phase;
+(3) osteoporosis,lacking critical bone in fracture site or comminuted fracture;
+(4) metabolic disorders,immune dysfunction or drug abuse;
+(5) accompanied of cardiac,lung,liver,kidney,hemopoietic system or endocrine system disease;
+(6) be allergic to implants or various medicine;
+(7) pregnant woman or lactating women;
+(8) patients unwilling or cannot limit activities or follow medical advice;
+(9) too weak to evaluate the security and validity of implants.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>fusion rate;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>JOA score;intervertebral space height;enrichment rate of stem cells;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Newly-developed technique joint  project of SHDC</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>1990-01-01</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

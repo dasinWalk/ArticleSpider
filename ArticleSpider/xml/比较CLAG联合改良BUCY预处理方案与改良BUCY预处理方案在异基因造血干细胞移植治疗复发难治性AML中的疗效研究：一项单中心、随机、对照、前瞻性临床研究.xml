@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-IPR-16009917</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2016-11-18</date_registration>
+      <primary_sponsor>Aerospace Center Hospital</primary_sponsor>
+      <public_title>Comparison of the curative efficacy and safety of allo-HSCT by using conditioning regiment of modified BUCY or CLAG combined with modified BUCY for refractory and relapsed patients with acute myelocytic leukemia:  a sigle-center prospective randomized controlled clinical trial </public_title>
+      <acronym />
+      <scientific_title>Comparison of the curative efficacy and safety of allo-HSCT by using conditioning regiment of modified BUCY or CLAG combined with modified BUCY for refractory and relapsed patients with acute myelocytic leukemia:  a sigle-center prospective randomized controlled clinical trial </scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2017-01-01</date_enrolment>
+      <type_enrolment />
+      <target_size>Control Group:58;Experimental Group:58;</target_size>
+      <recruitment_status>Pending</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=15668</url>
+      <study_type>Interventional study</study_type>
+      <study_design>Randomized parallel controlled trial</study_design>
+      <phase>Post-market</phase>
+      <hc_freetext>Relapse and Refractory Acute Myelocytic Leukemia</hc_freetext>
+      <i_freetext>Control Group:Modified BUCY;Experimental Group:GLAG combined with BUCY;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Weijie Zhang</firstname>
+        <middlename />
+        <lastname />
+        <address>15 Yuquan Road, Haidian District, Beijing </address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13810346595</telephone>
+        <email>zhangweijie0626@sina.com</email>
+        <affiliation>Aerospace Center Hospital</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Jingbo Wang</firstname>
+        <middlename />
+        <lastname />
+        <address>15 Yuquan Road, Haidian District, Beijing </address>
+        <city />
+        <country1 />
+        <zip>100049</zip>
+        <telephone>+86 13693587668</telephone>
+        <email>dpwangjingbo@sina.com</email>
+        <affiliation>Aerospace Center Hospital</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Agree to sign informed consent;
+2. Aged 3-59 years; 
+3. Diagnosed with AML according to MICM and meet the 2016 NCCN criteria of relapse/refractory disease;
+4. &gt; 10% blasts on a bone marrow suggested by cell morphology and immunophenotyping analysis;
+5. Receive matched sibling or unrelated donor hematopoietic stem cell transplantation.</inclusion_criteria>
+      <agemin />
+      <agemax />
+      <gender>Both</gender>
+      <exclusion_criteria>1. Mixed acute leukemia(MAL) or blastic crisis of chronic myelogenous leukemia (CML-BC) or blastic crisis of chronic myelomonocytic leukemia(CMML-BC) or MDS-RAEB;
+2. Severe heart function insufficiency, EF&lt;60% or arrhythmia, and cannot tolerate intense conditioning regiment;
+3. Severe lung function insufficiency (obstructive ventilatory dysfunction), and cannot tolerate intense conditioning regiment;
+4. Severe liver function insufficiecy with abnormal ALT and TBIL (3 times over ULN), and cannot tolerate intense conditioning regiment;
+5. Severe kidney function insufficiency with abnormal Cr (3 times over ULN), or Ccr  &lt;50ml/min  within 24 hours, and cannot tolerate intense conditioning regiment;
+6. Severe active infection before tansplantation, and cannot tolerate intense conditioning regiment;
+7. Previously treated with similar conditioning regiment, but severe AE or allergy occur;
+8. Pregnancy or ready for pregnancy or lactation;
+9. Others.
+ .  </exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>Overal Survival (3 years);Leukemia Free Survival (3 years);Recovery of platelet;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>Complete Remission (28 days after transplantation);Toxicity of the conditioning regimens;Recovery of neutrocyte ;Donor chimerism;Transplantation-realted mortality(1,2 and 3 year(s) after transplantation respectively);Relapse Rate;Cronic&amp;Aute GVHD (rate &amp; severity);Infection rate;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Beijing Municipal Science and Technology Commission </source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2016-08-19</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

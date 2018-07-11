@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-OIN-16008401</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2016-05-01</date_registration>
+      <primary_sponsor>Institute of Hematology Blood Disease Hospital, Chinese Academy of Medical Sciences Peking Union Medical College </primary_sponsor>
+      <public_title>The comparison of autologous stem cell transplantation vs. conventional chemotherapy in newly diagnosed high risk lymphoplasmacytic lymphoma / Waldenstrom macroglobulinemia </public_title>
+      <acronym />
+      <scientific_title>The comparison of autologous stem cell transplantation vs. conventional chemotherapy in newly diagnosed high risk lymphoplasmacytic lymphoma / Waldenstrom macroglobulinemia </scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2016-05-01</date_enrolment>
+      <type_enrolment />
+      <target_size>1:33;2:33;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=14224</url>
+      <study_type>Observational study</study_type>
+      <study_design>Non randomized control</study_design>
+      <phase>III (Phase III study)</phase>
+      <hc_freetext>lymphoplasmacytic lymphoma / Waldenstrom macroglobulinemia</hc_freetext>
+      <i_freetext>1:autologous stem cell transplatation;2:conventional chemotherapy;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Shuhua Yi</firstname>
+        <middlename />
+        <lastname />
+        <address>288 Nanjing Road, Heping District, Tianjin</address>
+        <city />
+        <country1 />
+        <zip>300020</zip>
+        <telephone>+86 15900265415</telephone>
+        <email>shuhuayilove@163.com</email>
+        <affiliation>Institute of Hematology Blood Disease Hospital, Chinese Academy of Medical Sciences Peking Union Medical College </affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Shuhua Yi</firstname>
+        <middlename />
+        <lastname />
+        <address>288 Nanjing Road, Heping District, Tianjin</address>
+        <city />
+        <country1 />
+        <zip>300020</zip>
+        <telephone>+86 15900265415</telephone>
+        <email>shuhuayilove@163.com</email>
+        <affiliation>Institute of Hematology Blood Disease Hospital, Chinese Academy of Medical Sciences Peking Union Medical College </affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Aged &gt;=18 years;
+2. diagnosed with high-risk LPL/WM according to the ISSWM criteria;
+3. Untreated or mild treated without standard regimens;
+4. suitable for ASCT;
+5. with life-expectary more than 3 months.</inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax>70</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. diagnosed with other malignancies outside B-NHL within one year(including active centre neural system lymphoma);
+2. Transformed lymphoma;
+3. liver or renal funcation lesion unrelated to lymphoma;
+4. serious complications such as uncontroled diabetes, gastric ulcer or other serious angiocardiopathy determined by the physician;
+5. HIV positive or active HBV infection or other uncontroled systematic infection;
+6. clincial central nervous dysfunction;
+7. serious surgery within 30 days;
+8. pregnancy or baby nursing period or uncontracept child-bearing period woman;
+9. allergy to the trail drugs.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>progression-free survival;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>overall survival;complete remission rate;duration of remission interval;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>State Science Technology Project from China</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2016-04-05</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

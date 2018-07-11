@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-OCN-15006356</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2015-05-06</date_registration>
+      <primary_sponsor>Zhejiang Provincial Hospital of Chinese Medicine</primary_sponsor>
+      <public_title>The Effect of Injecting the Peripheral Blood Stem Cell and Platelet Rich Plasma into Articular Cavity combined Oral Chinese Medicine to Treat Knee Osteoarthritis</public_title>
+      <acronym />
+      <scientific_title>The Effect of Injecting the Peripheral Blood Stem Cell and Platelet Rich Plasma into Articular Cavity combined Oral Chinese Medicine to Treat Knee Osteoarthritis</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2015-01-01</date_enrolment>
+      <type_enrolment />
+      <target_size>PRP group:20;PBSC+PRP+中药:20;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=10927</url>
+      <study_type>Interventional study</study_type>
+      <study_design>Randomized parallel controlled trial</study_design>
+      <phase>New Treatment Measure Clinical Study</phase>
+      <hc_freetext>Knee Osteoarthritis</hc_freetext>
+      <i_freetext>PRP group:intra-articular injection PRP;PBSC+PRP+中药:Injecting the Peripheral Blood Stem Cell and Platelet Rich Plasma into Articular Cavity combined Oral Chinese Medicine ;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Shen Xingchao</firstname>
+        <middlename />
+        <lastname />
+        <address>54 Youdian Road, Hangzhou, Zhejiang, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 18989848731</telephone>
+        <email>1102431247@qq.com</email>
+        <affiliation>Zhejiang Provincial Hospital of Chinese Medicine</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Tong Peijian</firstname>
+        <middlename />
+        <lastname />
+        <address>54 Youdian Road, Hangzhou, Zhejiang, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13906503677</telephone>
+        <email>tongpeijian@163.com</email>
+        <affiliation>Zhejiang Provincial Hospital of Chinese Medicine</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>(1) recurrent knee pain.
+(2) no significant injury history.
+（3）X ray and MRI showed knee degenerative changes.</inclusion_criteria>
+      <agemin>40</agemin>
+      <agemax>80</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. Rheumatoid arthritis, ankylosing spondylitis, hemophilia sex arthritis, gouty arthritis;
+2. acute knee joint infection, or systemic infection;
+3. Within 1 week of oral antiplatelet or against the use of fibrinolytic drugs, non-steroidal anti-inflammatory drugs or corticosteroids and immunosuppressive drugs;
+4. Knee joint cavity injected drugs within three months;
+5. underwent knee related to surgery within half year;
+6. has blood system diseases, cardiovascular disease, diabetes, immune deficiency diseases,tumor and so on;
+7. hemoglobin is less than 11 g/dL, platelet count is less than 100*10^9/L  white blood cell count is less than 3*10^9/L</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>WOAC score;Lequesne score;VAS score;MRI;X-Ray;BMI;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>none</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>1990-01-01</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

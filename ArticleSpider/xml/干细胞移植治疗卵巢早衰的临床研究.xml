@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-ONB-15007411</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2015-11-18</date_registration>
+      <primary_sponsor>Center for Reproductive Medicine,Shandong Provincial Hospital/ Reproductive Hospital Affiliated to Shandong University</primary_sponsor>
+      <public_title>Clinical study on cell transplatation treatment for premature ovarian failure</public_title>
+      <acronym />
+      <scientific_title>Clinical study on cell transplatation treatment for premature ovarian failure</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2015-11-02</date_enrolment>
+      <type_enrolment />
+      <target_size>Case series:20;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=12437</url>
+      <study_type>Observational study</study_type>
+      <study_design>Before-After control</study_design>
+      <phase>New Treatment Measure Clinical Study</phase>
+      <hc_freetext>premature ovarian failure</hc_freetext>
+      <i_freetext>Case series:self-adipose derived stem cell;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Lei Yan</firstname>
+        <middlename />
+        <lastname />
+        <address>Office building of SDUIVF, 20 Sanlizhuang, Jingliu Road, Jinan, Shandong, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13969163910</telephone>
+        <email>13969163910@163.com</email>
+        <affiliation>Center for Reproductive Medicine, Shandong Provincial Hospital/ Reproductive Hospital Affiliated to Shandong University</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Jinlong Ma</firstname>
+        <middlename />
+        <lastname />
+        <address>Office building of SDUIVF, 20 Sanlizhuang, Jingliu Road, Jinan, Shandong, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 18678856666</telephone>
+        <email>Majinlong123@hotmail.com</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. less than 40 years old;
+2. less than 3 years from menopause;
+3. not combined with male factor;
+4. sporadic POF;
+5. secondary amenorrhoea;
+6. ovary size larger than 1*1cm by TVB.</inclusion_criteria>
+      <agemin>20</agemin>
+      <agemax>40</agemax>
+      <gender>Female</gender>
+      <exclusion_criteria>1. history of pelvic surgery;
+2. combined with serious disease, such as heart diseases, diabetes, hypertension and hemorragic diseases that could not bear surgery.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>antral follicle count;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>FSH;LH;AMH;AMH;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Government scientific research funding,hospital funding and funding from cooperators</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2015-10-18</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

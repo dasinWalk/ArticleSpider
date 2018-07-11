@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-BOC-17010799</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2017-03-06</date_registration>
+      <primary_sponsor>Institute of Hematology and Blood Diseases Hospital, Chinese Academy of Medical Sciences &amp; Peking Union Medical College</primary_sponsor>
+      <public_title>Pathophysiological study of bone marrow mesenchymal stem cells in patients with acute myeloid leukemia</public_title>
+      <acronym />
+      <scientific_title>Pathophysiological study of bone marrow mesenchymal stem cells in patients with acute myeloid leukemia</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2017-03-15</date_enrolment>
+      <type_enrolment />
+      <target_size>Treatment group   Control group:60;Treatment group Control group:60;Treatment group Control group:60;Treatment group Control group:60;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=17014</url>
+      <study_type>Basic science</study_type>
+      <study_design>Case-Control study</study_design>
+      <phase>Other</phase>
+      <hc_freetext>Acute myeloid leukemia</hc_freetext>
+      <i_freetext>Treatment group   Control group:in vitro culture;Treatment group Control group:cytarabine;Treatment group Control group:Adriamycin;Treatment group Control group:Daunorubicin;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Jingying Cheng</firstname>
+        <middlename />
+        <lastname />
+        <address>288 Nanjing Road, Heping District, Tianjin</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13820167873</telephone>
+        <email>384891483@qq.com</email>
+        <affiliation>Institute of Hematology and Blood Diseases Hospital, Chinese Academy of Medical Sciences &amp; Peking Union Medical College</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Tianxiang Pang</firstname>
+        <middlename />
+        <lastname />
+        <address>288 Nanjing Road, Heping District, Tianjin</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 18630963859</telephone>
+        <email>pang@ihcams.ac.cn</email>
+        <affiliation>Institute of Hematology and Blood Diseases Hospital, Chinese Academy of Medical Sciences &amp; Peking Union Medical College</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Diagnosed of having an Acute Myeloid Leukemia;
+2. No limit in gender and the patients aged 3 to 80 years;
+3. Signed a patient authorization form to use and disclose personal health information (or informed consent; participants under 18 years or thoese loss language ability can be signed by their guardians). </inclusion_criteria>
+      <agemin>3</agemin>
+      <agemax>80</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. Diagnosed of having an Chronic Myeloid Leukemia;
+2. Participates in a concurrent interventional clinical trial (phase 1, 2 or 3 or a Compassionate Use or Early Access Program). </exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>Survival and proliferation in vitro;IL8 expression level;Efflux rate of chemotherapeutic agents;apoptosis rate;Expression levels of cell cycle and apoptosis related proteins;Adipogenic and osteogenic differentiation;Expression profile of IL8 related genes;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Chinese National Natural Science Foundation</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2016-03-16</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

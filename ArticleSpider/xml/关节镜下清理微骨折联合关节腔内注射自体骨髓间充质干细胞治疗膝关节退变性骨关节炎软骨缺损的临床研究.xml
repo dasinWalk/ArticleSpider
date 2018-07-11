@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-TRC-14004311</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2014-02-24</date_registration>
+      <primary_sponsor>Daping Hospital and the Research Institute of Surgery of the Third Military Medical University</primary_sponsor>
+      <public_title>The clinical research of arthroscopic debridement combined with microfracture and intra-articular injection of autologous mesenchymal stem cells for the treatment of degenerative articular cartilage defects of the knee joint</public_title>
+      <acronym />
+      <scientific_title>The clinical research of arthroscopic debridement combined with microfracture and intra-articular injection of autologous mesenchymal stem cells for the treatment of degenerative articular cartilage defects of the knee joint</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2014-03-10</date_enrolment>
+      <type_enrolment />
+      <target_size>Microfracture&amp; Injection of Stem Cells:40;Control:40;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=5258</url>
+      <study_type>Interventional study</study_type>
+      <study_design>Randomized parallel controlled trial</study_design>
+      <phase>I (Phase I study)</phase>
+      <hc_freetext>degenerative articular cartilage defects of the knee joint</hc_freetext>
+      <i_freetext>Microfracture&amp; Injection of Stem Cells:Arthroscopic microfracture and injection of autologous mesenchymal stem cells;Control:arthroscopic debridement alone;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Yan Xiong</firstname>
+        <middlename />
+        <lastname />
+        <address>10 Changjiang Branch Road, Chongqing, China</address>
+        <city />
+        <country1 />
+        <zip>400042</zip>
+        <telephone>+86 13228686341</telephone>
+        <email>xiongyandoctor@163.com</email>
+        <affiliation>Dept.of Joint and Orthopedic Surgery, Daping Hospital and the Research Institute of Surgery of the Third Military Medical University</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Yan Xiong</firstname>
+        <middlename />
+        <lastname />
+        <address>10 Changjiang Branch Road, Chongqing, China</address>
+        <city />
+        <country1 />
+        <zip>400042</zip>
+        <telephone>+86 13228686341</telephone>
+        <email>xiongyandoctor@163.com</email>
+        <affiliation>Dept.of Joint and Orthopedic Surgery, Daping Hospital and the Research Institute of Surgery of the Third Military Medical University</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>A clinical diagnosis of degenerative osteoarthritis, symptomatic osteoarthritis accompanied by cartilage defects</inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax>70</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>Age＞70, Knee flexion deformity, injury of ligament instability,knee varus malalignment (&gt;10 degrees), Systemic bone arthritis,Multiple injuries, patellar and tibial lesion, accept the stable ligament operation and follow-up less than 24 mon,non articular cartilage injury in the weight bearing area under arthroscopy,Not willing to participate in this research.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>The HSS knee score;The Tegner knee score;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>the level of pain;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Daping Hospital</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2014-01-23</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

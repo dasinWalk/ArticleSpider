@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR1800015302</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2018-03-21</date_registration>
+      <primary_sponsor>Department of Hematology, Jiading Central Hospital of Shanghai</primary_sponsor>
+      <public_title>Correlation study about the expression of HIF-1α in bone marrow mesenchymal stem cells and the prognosis evaluation in MDS</public_title>
+      <acronym />
+      <scientific_title>Correlation study about the expression of HIF-1α in bone marrow mesenchymal stem cells and the prognosis evaluation in MDS</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2016-10-01</date_enrolment>
+      <type_enrolment />
+      <target_size>1:50;2:30;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=24853</url>
+      <study_type>Cause</study_type>
+      <study_design>Case-Control study</study_design>
+      <phase>Pilot study</phase>
+      <hc_freetext>Myelodysplastic syndrome</hc_freetext>
+      <i_freetext>1:Chemotherapy and supportive treatment;2:no;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Qu Beibei</firstname>
+        <middlename />
+        <lastname />
+        <address>1 Chengbei Road, Jiading District, Shanghai, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 18918781078</telephone>
+        <email>qubeibei150@163.com</email>
+        <affiliation>Department of Hematology, Jiading Central Hospital of Shanghai</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Qu Beibei</firstname>
+        <middlename />
+        <lastname />
+        <address>1 Chengbei Road, Jiading District, Shanghai, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 18918781078</telephone>
+        <email>qubeibei150@163.com</email>
+        <affiliation>Department of Hematology, Jiading Central Hospital of Shanghai</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>There were 70 cases in group MDS (all samples came from the hospital of self hospital and ward) and 30 cases in the healthy control group. With the consent of the patients informed consent and informed consent in the experimental group, and based on the diagnostic criteria for MDS and IPSS 2008 WHO standard for evaluation were collected, detailed records of patients age, gender, percentage of bone marrow blast cells, bone marrow karyotype, peripheral blood cell counts (hemoglobin, white blood cells and platelets), and IPSS scores. Bone marrow and peripheral blood were extracted at every period of follow-up. All MDS patients received regular treatment, including regular chemotherapy and stem cell transplantation, and long-term follow-up. The grouping method was divided into high expression group and low expression group according to the expression of HIF-1 alpha in BM-MSC. </inclusion_criteria>
+      <agemin>14</agemin>
+      <agemax>90</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>Group MDS exclusion criteria: non MDS patients, including secondary Hemocytic patients and leukemia patients.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>Hypoxia inducible factor-1α;Mesenchymal stem cell;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Jiading Central Hospital of Shanghai and Jiading District health and Family Planning Commission </source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Not approved</status>
+        <approval_date>2013-08-26</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

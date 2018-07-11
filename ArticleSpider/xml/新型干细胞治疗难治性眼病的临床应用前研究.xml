@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-ONN-16009353</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2016-10-10</date_registration>
+      <primary_sponsor>Shanghai Tenth People's Hospital</primary_sponsor>
+      <public_title>Pre-clinical Application Study of Novel Stem Cell to Treat Incurable Eye Disease  </public_title>
+      <acronym />
+      <scientific_title>Pre-clinical Application Study of Novel Stem Cell to Treat Incurable Eye Disease  </scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2017-01-01</date_enrolment>
+      <type_enrolment />
+      <target_size>RP control group:40;RP treatment group:40;CU control group:50;CU treatment group:50;</target_size>
+      <recruitment_status>Pending</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=15962</url>
+      <study_type>Observational study</study_type>
+      <study_design>Non randomized control</study_design>
+      <phase>New Treatment Measure Clinical Study</phase>
+      <hc_freetext>Retinitis pigmentosa，corneal ulcer</hc_freetext>
+      <i_freetext>RP control group:No treatment;RP treatment group:autologous mesenchymal stem cells treatment;CU control group:eye drops;CU treatment group:autologous limbus stomal stem cell tratment;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Fang Wang</firstname>
+        <middlename />
+        <lastname />
+        <address>301 Yanchang Road, Shanghai, China</address>
+        <city />
+        <country1 />
+        <zip>200072</zip>
+        <telephone>+86 18917683335</telephone>
+        <email>linghui0224@126.com</email>
+        <affiliation>Shanghai Tenth People's Hospital</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Fang Wang</firstname>
+        <middlename />
+        <lastname />
+        <address>301 Yanchang Road, Shanghai, China</address>
+        <city />
+        <country1 />
+        <zip>200072</zip>
+        <telephone>+86 18917683335</telephone>
+        <email>18917683335@163.com</email>
+        <affiliation>Shanghai Tenth People's Hospital</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>（RP patients）Inclusion Criteria:
+1. Male ageed 45-60 years, male;
+2. Retinitis pigmentosa patients with similar vision of both eyes;
+3. History of night blindness, disease history more than 5 years;
+4. Retinal fundus: bone cells or irregular pigmentation, shrink color of optic disc, macular pardon area (no pigmentation);
+5. Vision field&lt; 20 degree, and electroretinogram (ERG) showed a significant decrease of volatility of b wave;
+(Corneal ulcer patients) Inclusion Criteria:
+1. Male and female aged 18-70 years;
+2. Corneal ulcer of both eyes with similar vision;
+3. Corneal appearance: corneal ulcer under the slit lamp, stromal layer was involved; corneal endothelial was in good condition.</inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax>70</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>（RP patients）Exclusion Criteria:
+1. monocular or secondary RP, nystagmus, high myopia, macular edema in OCT, a serious eye disease (cataract, cornea degeneration), previous eye surgery and eye conditions that influenced the results observed
+can't follow up;
+2. Systemic disease (asthma, heart failure, myocardial infarction, liver failure, kidney failure and other major diseases); serious adverse reaction and systemic diseases during the follow-up period.
+(Corneal ulcer patients) Exclusion Criteria:
+1. Conjunctivitis, keratitis in acute period, a serious eye disease (cataract, cornea degeneration), previous eye surgery and eye conditions that influenced the results observed;
+2. can't follow up;
+3. Systemic disease (asthma, heart failure, myocardial infarction, liver failure, kidney failure and other major diseases); serious adverse reaction and systemic diseases during the follow-up period.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>Visual Acuity;Corneal ulcer diameter;anterior chamber;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Developing center of Shanghai Shenkang hospital</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Not approved</status>
+        <approval_date>2013-08-26</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

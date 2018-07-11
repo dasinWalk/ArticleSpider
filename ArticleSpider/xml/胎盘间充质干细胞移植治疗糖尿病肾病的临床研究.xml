@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR1800014418</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2018-01-12</date_registration>
+      <primary_sponsor>First Affiliated Hospital of Nanchang University</primary_sponsor>
+      <public_title>The Clinical study on the Treatment of Placenta-derived Mesenchymal Stem Cells for Diabetic Nephropathy</public_title>
+      <acronym />
+      <scientific_title>The Clinical study on the Treatment of Placenta-derived Mesenchymal Stem Cells for Diabetic Nephropathy</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2018-01-08</date_enrolment>
+      <type_enrolment />
+      <target_size>trial group:72;control group:18;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=24042</url>
+      <study_type>Interventional study</study_type>
+      <study_design>Randomized parallel controlled trial</study_design>
+      <phase>New Treatment Measure Clinical Study</phase>
+      <hc_freetext> Diabetic Nephropathy </hc_freetext>
+      <i_freetext>trial group:placenta-derived mesenchymal stem cells;control group:blank;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Jixiong Xu</firstname>
+        <middlename />
+        <lastname />
+        <address>17 Yongwai Main Street, Nanchang, Jiangxi, China</address>
+        <city />
+        <country1 />
+        <zip>330006</zip>
+        <telephone>+86 13307086069</telephone>
+        <email>xujixiong@163.com</email>
+        <affiliation>First Affiliated Hospital of Nanchang University</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Jixiong Xu</firstname>
+        <middlename />
+        <lastname />
+        <address>17 Yongwai Main Street, Nanchang, Jiangxi, China</address>
+        <city />
+        <country1 />
+        <zip>330006</zip>
+        <telephone>+86 13307086069</telephone>
+        <email>xujixiong@163.com</email>
+        <affiliation>First Affiliated Hospital of Nanchang University</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1) Aged 18 to 70 years old male and female;
+2) One of the following conditions should be diagnosed as diabetic nephropathyA diagnosed as T2 diabetic nephropathy:(ADA guidelines fo diagnosis and treatment of diabetes in 2014) to be associated with diabetic retinopathy,albuminuria and renal damage, consistent with the clinical diagnosis of Diabetic Nephropathy Bdiabetic nephrosis after kidney puncture and biopsy pathology histology changes; and 20ml / min / 1.73 ㎡ ≤ Estimated GFR (eGFR)≤ 60ml / min / 1.73 ㎡;
+3) Subjects received at least a antidiabetic drug and ACEI/ or ARB (RAS inhibitor) therapy for at least 3 months before the screening period;
+4) 6.5% ≦ HbALc ≦ 12%;
+5)  patients do not need kidney transplantation;
+6) Participants volunteered to participate in this clinical study,  were ability to follow research or follow up procedure, and signed informed consent form.</inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax>70</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1) allergic to any ingredient used in cell culture;
+2) patients with end-stage renal disease (GFR &lt;15 ml / min); and who have undergone kidney transplantation or are enrolled Renal dialysis within the first 3 months;
+3) people with mental illness, drugs and other substance abusers;
+4) drugs which affected glucose metabolism was used, such as glucocorticoids,
+Thiazide diuretics, tricyclic antidepressants;
+5) Participated in other similar clinical trials within 3 months;
+6) Active infection;
+7) HIV or HBV or HAV positive;
+8) ALT or AST&gt; 2.5 times upper limit of normal; PT / INR&gt; 2.0;
+9) Surgery, severe trauma and other stress conditions;
+10) Previous history of cancer;
+11) A recent birth plan for pregnant or lactating women;
+12) Alcoholics: Subjects consuming&gt; 2 servings of alcoholic beverages or&gt; 14 servings per day (one Alcoholic beverages are defined as 150ml of wine, or 350ml of beer, or 50ml The standard degree of 80% (40 degrees) of spirits);
+13) smoke more than 20 cigarettes a day;
+14) Weight&gt; 175Kg;
+15) non-diabetic nephropathy, such as polycystic kidney disease;
+16) There are any more complex medical problems that may interfere with research behavior or lead to increased risk, such as cancer, blood disease, heart disease, liver disease, AIDS, viral hepatitis, etc;
+17) Patients can not cooperate with clinical researchers for other reasons.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>eGFR;serum CP;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>Cr;HbALc;IL-4;IL-17;INF-γ;24h quantitative testing for urine protein;urinary albumin to creatinine ratio;adverse event;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Jiangxi province science and technology plan key projects</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2017-07-14</approval_date>
+        <contact_name>Jichun Liu</contact_name>
+        <contact_address>17 Yongwai Main Street, Nanchang, Jiangxi, China</contact_address>
+        <contact_phone>0791-88691867</contact_phone>
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

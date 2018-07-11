@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-OOC-16008448</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2016-05-09</date_registration>
+      <primary_sponsor>Department of Hematology, Xinqiao Hospital, Third Military Medical University</primary_sponsor>
+      <public_title>Effect of chimeric antigen receptor T cells followed by allogeneic hematopoietic stem cell transplantation for relapsed/refractory acute lymphoblast leukemia: A phase II, unblind, uncotroll clincial  trial in a single center </public_title>
+      <acronym />
+      <scientific_title>Effect of chimeric antigen receptor T cells followed by allogeneic hematopoietic stem cell transplantation for relapsed/refractory acute lymphoblast leukemia: A phase II, unblind, uncotroll clincial  trial in a single center </scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2016-04-10</date_enrolment>
+      <type_enrolment />
+      <target_size>experimental group:22;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=14313</url>
+      <study_type>Observational study</study_type>
+      <study_design>Case series</study_design>
+      <phase>Other</phase>
+      <hc_freetext>relapsed/refractory acute lymphoblast leukemia</hc_freetext>
+      <i_freetext>experimental group:Chimeric antigen receptor T cells followed by allogeneic hematopoietic stem cell transplantation;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Zhang Cheng</firstname>
+        <middlename />
+        <lastname />
+        <address>183 Xinqiao Main Street, Shapingba District, Chongqing</address>
+        <city />
+        <country1 />
+        <zip>400037</zip>
+        <telephone>+86 13098770350</telephone>
+        <email>chzhang2014@163.com</email>
+        <affiliation>Department of Hematology, Xinqiao Hospital, Third Military Medical University</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Zhang Cheng</firstname>
+        <middlename />
+        <lastname />
+        <address>183 Xinqiao Main Street, Shapingba District, Chongqing</address>
+        <city />
+        <country1 />
+        <zip>400037</zip>
+        <telephone>+86 13098770350</telephone>
+        <email>chzhang2014@163.com</email>
+        <affiliation>Department of Hematology, Xinqiao Hospital, Third Military Medical University</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1) Male or Female; Aged below 55 years;
+2) Refractory/relapsed acute lymphoblast leukemia with CD19 expression and no other effectvie way to select;
+3) The estimated survial is over three months;
+4) ECOG performance status of &lt;=2 at study entry;
+5) The important organs are function, such as heart and brain;
+6)Understand and voluntarily sign an informed consent form.</inclusion_criteria>
+      <agemin>0</agemin>
+      <agemax>55</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1) The uncontrol infetion, HBV and HCV are positive;
+2) The patients received any cell immunotherapy in the past.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>One-year disease-free survival;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>Overall Survival;The Rate of graft-versus-host disease;The rate of infection;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>The special foundation for the </source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2016-04-28</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

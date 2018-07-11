@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-ONC-12002005</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2012-03-13</date_registration>
+      <primary_sponsor>General Hospital of Chinese people's Armed Police Forces</primary_sponsor>
+      <public_title>The safety and efficacy of umbilical cord mesenchymal stem cell transplantation through femoral artery interventional procedure in spinal cord injury patients</public_title>
+      <acronym />
+      <scientific_title>The safety and efficacy of umbilical cord mesenchymal stem cell transplantation through femoral artery interventional procedure in spinal cord injury patients</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2012-04-01</date_enrolment>
+      <type_enrolment />
+      <target_size>1:20;</target_size>
+      <recruitment_status>Completed</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=7543</url>
+      <study_type>Observational study</study_type>
+      <study_design>Case series</study_design>
+      <phase>II (Phase II study)</phase>
+      <hc_freetext>Spinal cord injury</hc_freetext>
+      <i_freetext>1:umbilical cord mesenchymal stem cell transplantation through femoral artery interventional procedure  ;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Yihua An</firstname>
+        <middlename />
+        <lastname />
+        <address>69 Yongding Road, Haidian District, Beijing</address>
+        <city />
+        <country1 />
+        <zip>100039</zip>
+        <telephone>+86 10 57976848</telephone>
+        <email>riveran@163.com</email>
+        <affiliation>General Hospital of Chinese people's Armed Police Forces</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Yihua An</firstname>
+        <middlename />
+        <lastname />
+        <address>69 Yongding Road, Haidian District, Beijing</address>
+        <city />
+        <country1 />
+        <zip>100039</zip>
+        <telephone>+86 10 57976848</telephone>
+        <email>riveran@163.com</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. the sequelae of spinal cord injury male patients, the injured segment T10-L1;
+2. the assessment standards of the American Spinal Injury Association, ASIA (2000) confirmed the complete injury;
+3. injured in one year or more.</inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax>65</agemax>
+      <gender>Male</gender>
+      <exclusion_criteria>Excluding syringomyelia formation of local spinal cord compression, tethered cord, bilateral hydronephrosis, bilateral hydroureter, urinary stones, the constitution of high sensitivity, liver and kidney function in patients with abnormal.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>urodynamic test;Electrophysiology: movement and somatosensory evoked potentials;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>General Hospital of Chinese people's Armed Police Forces</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2012-03-12</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

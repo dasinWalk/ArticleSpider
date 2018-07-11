@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-ONC-11001873</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2011-12-01</date_registration>
+      <primary_sponsor>The Kidney Disease Center of the First Affiliated Hospital of Zhejiang University</primary_sponsor>
+      <public_title>Effect of co-transplantation of  hematopoietic stem cell transplantation and  renal transplantation in long-term outcome of allograft</public_title>
+      <acronym />
+      <scientific_title>Effect of co-transplantation of  hematopoietic stem cell transplantation and  renal transplantation in long-term outcome of allograft</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2008-01-01</date_enrolment>
+      <type_enrolment />
+      <target_size>Case series:3;</target_size>
+      <recruitment_status>Completed</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=7675</url>
+      <study_type>Observational study</study_type>
+      <study_design>Before-After control</study_design>
+      <phase>I (Phase I study)</phase>
+      <hc_freetext>renal transplantation</hc_freetext>
+      <i_freetext>Case series:co-transplantation of hematopoietic stem cell transplantation;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Chen Jianghua</firstname>
+        <middlename />
+        <lastname />
+        <address>79 Qingchun Road, Shangcheng District, Hangzhou, Zhejiang, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13858099862</telephone>
+        <email>zju2001@zju.edu.cn</email>
+        <affiliation>he Kidney Disease Center of the First Affiliated Hospital of Zhejiang University</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Jiang Hong</firstname>
+        <middlename />
+        <lastname />
+        <address>79 Qingchun Road, Shangcheng District, Hangzhou, Zhejiang, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13819121722</telephone>
+        <email>zju2001@163.com</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2 />
+    </countries>
+    <criteria>
+      <inclusion_criteria>3 patients with end-stage renal disease received combined hematopoietic stem cell transplantation and kidney transplants from living  donors.</inclusion_criteria>
+      <agemin>22</agemin>
+      <agemax>60</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>patents with renal transplantation alone</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>survival;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>The specialized key funding of the Science and Technology Department of Zhejiang Province</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2009-09-01</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-ONC-10000985</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2010-08-04</date_registration>
+      <primary_sponsor>Armed Police General Hospital</primary_sponsor>
+      <public_title>Umbilical cord mesenchymal stem cell transplantation for treatment of type2 diabetes</public_title>
+      <acronym />
+      <scientific_title>Umbilical cord mesenchymal stem cell transplantation for treatment of type2 diabetes</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2010-05-01</date_enrolment>
+      <type_enrolment />
+      <target_size>treatment group:25;</target_size>
+      <recruitment_status>Completed</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=8553</url>
+      <study_type>Observational study</study_type>
+      <study_design>Before-After control</study_design>
+      <phase>Post-market</phase>
+      <hc_freetext>type 2 diabetes</hc_freetext>
+      <i_freetext>treatment group:Umbilical cord mesenchymal stem cell transplantation;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Pei Zheng</firstname>
+        <middlename />
+        <lastname />
+        <address>Neural stem cell transplantation Division, 69 Yongding Road, Haidian District, Beijing</address>
+        <city />
+        <country1 />
+        <zip>100039</zip>
+        <telephone>+86 010-88276849</telephone>
+        <email>zhengpei126@126.com</email>
+        <affiliation>Armed Police General Hospital</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Yihua An</firstname>
+        <middlename />
+        <lastname />
+        <address>Neural stem cell transplantation Division, 69 Yongding Road, Haidian District, Beijing</address>
+        <city />
+        <country1 />
+        <zip>100039</zip>
+        <telephone>+86 010-88276849</telephone>
+        <email>riveran@163.com</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. the patients were between the ages of 18 and 70 years, male or female;
+2. they had poor blood control with recent anti-diabetic therapies, including drugs and/or insulin injection for at least three months;
+3. they had a negative result in testing for the glutamic acid decarboxylase antibody;
+4. they had not been pregnant or nursing;
+5. they had a fasting blood glucose (FBG) level &gt;=7.0 mmol/L and HbAc1&gt;=7%;
+6. they had a good organic sufficiency, including heart, liver, kidney and lung, to receive interventional therapy.</inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax>70</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. cancer;
+2. serious heart disease or hypertension;
+3. acute and chronic renal insufficiency or liver failure;
+4. severe asthma or other severe respiratory insufficiency;
+5. hemorrhagic disease, coagulopathy, contrast agent allergy or are being applied anticoagulant drugs;
+6. congenital or acquired immunodeficiency diseases;
+7. other endocrine and metabolic diseases.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code>E11</hc_code>
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>Blood sugar;Glycated hemoglobin;Islet function;Inflammatory cytokines (IL-1beta, IL-6, IL-10 and TNF-alpha);</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>Peripheral blood T lymphocyte subset count;C peptid;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Armed Police General Hospital</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2010-05-06</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

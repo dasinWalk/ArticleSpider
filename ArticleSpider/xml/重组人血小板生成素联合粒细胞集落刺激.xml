@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-IIR-17010787</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2017-03-05</date_registration>
+      <primary_sponsor>Shanghai General Hospital</primary_sponsor>
+      <public_title>Recombinant human thrombopoietin (rhTPO) combined with granulocyte colony stimulating factor (G-CSF) for autologous peripheral blood stem cell morbiliztion, a prospective, randomized, multicentric phase II clinical trial </public_title>
+      <acronym />
+      <scientific_title>Recombinant human thrombopoietin (rhTPO) combined with granulocyte colony stimulating factor (G-CSF) for autologous peripheral blood stem cell morbiliztion, a prospective, randomized, multicentric phase II clinical trial </scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2010-12-31</date_enrolment>
+      <type_enrolment />
+      <target_size>Experimental group:40;Control Group:38;</target_size>
+      <recruitment_status>Completed</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=17150</url>
+      <study_type>Interventional study</study_type>
+      <study_design>Randomized parallel controlled trial</study_design>
+      <phase>II (Phase II study)</phase>
+      <hc_freetext>lymphoma for Autologous peripheral blood stem </hc_freetext>
+      <i_freetext>Experimental group:With TPO;Control Group:Without TPO;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Haitao Bai</firstname>
+        <middlename />
+        <lastname />
+        <address>100 Haining Road, Hongkou district, Shanghai, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13817548894</telephone>
+        <email>13817548894@163.com</email>
+        <affiliation>Shanghai General Hospital</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Chun Wang</firstname>
+        <middlename />
+        <lastname />
+        <address>100 Haining Road, Hongkou district, Shanghai, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13386259777</telephone>
+        <email>wangchunmd@163.com</email>
+        <affiliation>Shanghai General Hospital</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Patients diagnosed as lymphoma with pathological evidences;
+2. Patients that have indications for APBSCT and are willing to have transplantation;
+3. Aged 18-60 years;
+4. ECOG ≤3
+5. Normal organ functions should satisfy: liver function: ALT, AST, TBIL≤ twice of the normal maximum; renal function: BUN, Cr≤1.5 times of the normal maximum; cardiac function: ECG reveals no signs of acute myocardial infarction, arrhythmia, nor II or III degree of a-v blockage; heart function failure should be no more than degree II; no active rheumatic heart diseases;
+6. No contraindications for chemotherapy;
+7. Patients should sign the written consent before enrollment of the trial, and the written consent should consent all the contents of the trial;
+8. Willing to follow the therapeutic plan, the follow-up plan and take the corresponding lab examinations. </inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax>60</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. Contra-indications for chemotherapy;
+2. Patients with severe organ impairment: including respiratory failure, heart failure of degree II and beyond, decompensated liver failure, renal failure; uncontrolled hypertention or diabetes, severe diabetic retinal disease;
+3. Use of cytokines beside G-CSF within 3 weeks prior to enrollment;
+4. Uncontrolled infection;
+5. History of severe rhTPO allergy;
+6. Women during pregnancy or lactation;
+7. Patients that are participating other trials;
+8. Patients with other severe acute/chronic physical or mental disorders, or with abnormal lab tests that may impair drug administration or influence the researchers evaluation, or influence the explanation about the results.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>nucleated cell count;CD34+ cell count;times needed for collecting required amount of cells;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>compliance rate;excellence rate;implantation time;RBC transfusion amount after implantation;Platelet transfusion amount after implantation;Incidence of infection during transplantation;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Self-collected</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2013-08-26</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

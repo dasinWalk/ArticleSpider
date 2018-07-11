@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-ONC-12002856</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2012-12-25</date_registration>
+      <primary_sponsor>Bone marrow transplant center, 1st Affiliated Hospital, Zhejiang University</primary_sponsor>
+      <public_title>Short-Time Second Generation Tyrosine Kinase inhibitors Combined With Allogeneic Stem Cell Transplantation for Patients with Imatinib-refractory CML</public_title>
+      <acronym />
+      <scientific_title>Short-Time Second Generation Tyrosine Kinase inhibitors Combined with by Allogeneic Stem Cell Transplantation for Patients with Imatinib-refractory CML</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2012-12-01</date_enrolment>
+      <type_enrolment />
+      <target_size>2nd TKI combined with SCT:20;</target_size>
+      <recruitment_status>Completed</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=6698</url>
+      <study_type>Observational study</study_type>
+      <study_design>Case series</study_design>
+      <phase>Other</phase>
+      <hc_freetext>chronic myeloid leukemia</hc_freetext>
+      <i_freetext>2nd TKI combined with SCT:short-time second-generation tyrosine kinase inhibitors (TKI) used before and after allo-SCT  ;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Yanmin Zhao</firstname>
+        <middlename />
+        <lastname />
+        <address>Bone marrow transplant center, 1st Affiliated Hospital, Zhejiang University, Hangzhou 310003, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 15858199217</telephone>
+        <email>zjzhaoyanmin@163.com</email>
+        <affiliation>Bone marrow transplant center, 1st Affiliated Hospital, Zhejiang University</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>He Huang</firstname>
+        <middlename />
+        <lastname />
+        <address>Bone marrow transplant center, 1st Affiliated Hospital, Zhejiang University, Hangzhou 310003, China</address>
+        <city />
+        <country1 />
+        <zip>310003</zip>
+        <telephone>+86 13605714822</telephone>
+        <email>hehuangyu@126.com</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. gave informed consent;
+2. age less than 60 years;
+3. diagnosed with CML, as confirmed by the presence of the Philadelphia (Ph) chromosome or the BCR-ABL fusion gene;
+4. imatinib treatment failure.</inclusion_criteria>
+      <agemin>12</agemin>
+      <agemax>60</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. severe irreversible comorbidity, such as renal, hepatic, pulmonary, or cardiac disease;
+2. development of grade &gt;=3 adverse events during 2nd TKIs therapy; 
+3. pregnancy or lactation;
+4. has T315I BCR-ABL kinase domain mutation.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>3- year Overall Survival;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>3-year disease free survival;engraftment rate;3- year cumulative relapse rate;Response rate to 2nd TKI;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>National Natural Science Foundation of China</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2012-12-29</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

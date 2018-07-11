@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-TNRC-14004694</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2014-05-21</date_registration>
+      <primary_sponsor>Southwest Hospital, Third Military Medical University</primary_sponsor>
+      <public_title>The preliminary clinical study of bone marrow mesenchymal stem cells infusion treatment of retinitis pigmentosa</public_title>
+      <acronym />
+      <scientific_title>The preliminary clinical study of bone marrow mesenchymal stem cells infusion treatment of retinitis pigmentosa</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2014-01-01</date_enrolment>
+      <type_enrolment />
+      <target_size>case series:10;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=4879</url>
+      <study_type>Interventional study</study_type>
+      <study_design>Non randomized control</study_design>
+      <phase>Pilot study</phase>
+      <hc_freetext>retinitis pigmentosa</hc_freetext>
+      <i_freetext>case series:autologous bone marrow mesenchymal stem cell infusion therapy  ;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Li Shiying</firstname>
+        <middlename />
+        <lastname />
+        <address>Dept. Ophthalmology, Southwest Hospital, Gaotanyan Street 29, Shapingba District, Chongqing, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13648430819</telephone>
+        <email>shiying_li@126.com</email>
+        <affiliation>Southwest Hospital, Third Military Medical University</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Yin Zhengqin</firstname>
+        <middlename />
+        <lastname />
+        <address>Dept. Ophthalmology, Southwest Hospital, Gaotanyan Street 29, Shapingba District, Chongqing, China</address>
+        <city />
+        <country1 />
+        <zip>400038</zip>
+        <telephone>+86 023 68754401</telephone>
+        <email>qinzyin@aliyun.com</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1.  Patient has signed informed consent for retinal transplantation and is willing to return for follow-up visits;2. Age range 18 to 65 years,gender unlimited; 3.Patients with at least one eye (monocular) or both eyes suffering from impaired vision caused by retinitis pigmentosa; 4.Use the early treatment diabetic retinopathy (ETDRs) eye chart in 4 meters distance detection, best corrected visual acuity scores between 19 and 73 letter, including 19 and 73 (or the equivalent of about Snellen eyesight from 20/400 to 20/40).</inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax>65</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. Patient has medical problems that have a high risk of general anesthesia, such as metabolic, cadiovascular, hematopoietic or psychological system disorders; 2. Women in menstruation, pregnancy, perinatal prtiod and baby nursing periods; 3. Any significant ocular disease that has compromised or could compromise vision in the study eye and confound analysis of the primary outcome; 4. Patient who has a history of corneal leukoma, cataract, uveitis, Coat’s disease, diabetic retinopathy, glaucoma, or vitreous opacities that prevents visualization of the posterior pole; 5. Participating in another ophthalmic clinical trial or use of any other investigational new drugs within 3 months before the start of study treatment; 6. Intraocular surgery within the last 3 months.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>Early treatment of diabetic retinopathy eye chart（;Fluorescein angiography;Static perimetry;Optical coherent tomography（OCT）;Flash electroretinogram（FERG）;Flash Visual Evoked Potentials（FVEP）;mutifocal electroretinogram（MFERG）;Pupillary light refle;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Supported by the National Basic Research Program (973 Program)</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Not approved</status>
+        <approval_date>2013-08-26</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

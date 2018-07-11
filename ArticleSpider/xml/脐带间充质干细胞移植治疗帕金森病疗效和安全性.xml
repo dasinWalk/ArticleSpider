@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-ONRC-12002937</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2012-12-10</date_registration>
+      <primary_sponsor>The 105st Hospital of PLA</primary_sponsor>
+      <public_title>Safety and efficacy study of Umbilical cord mesenchymal stem cells transpIantation for treatment of Parkinson's disease</public_title>
+      <acronym />
+      <scientific_title>Safety and efficacy study of Umbilical cord mesenchymal stem cells transpIantation for treatment of Parkinson's disease</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2012-11-03</date_enrolment>
+      <type_enrolment />
+      <target_size>Lumbar puncture stem cells therapy:50;Vein stem cells therapy:50;</target_size>
+      <recruitment_status>Completed</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=6618</url>
+      <study_type>Observational study</study_type>
+      <study_design>Non randomized control</study_design>
+      <phase>II (Phase II study)</phase>
+      <hc_freetext>Parkinson's disease</hc_freetext>
+      <i_freetext>Lumbar puncture stem cells therapy:Infusion of Umbilical cord mesenchymal stem cells;Vein stem cells therapy:Infusion of Umbilical cord mesenchymal stem cells;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Hongjuan Liu</firstname>
+        <middlename />
+        <lastname />
+        <address>424 Changjiang Road West, Hei'fei, Anhui, China</address>
+        <city />
+        <country1 />
+        <zip>230031</zip>
+        <telephone>+86 13965053597</telephone>
+        <email>liuhongjuan105@yahoo.cn</email>
+        <affiliation>Ethic Committee of the 105st Hospital of PLA</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Qingsong Wang</firstname>
+        <middlename />
+        <lastname />
+        <address>424 Changjiang Road West, Hei'fei, Anhui, China</address>
+        <city />
+        <country1 />
+        <zip>230031</zip>
+        <telephone>+86 18909696277</telephone>
+        <email>wangqs65@yahoo.com</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>The subiects were in accordance with diagnostic criteria of dyskinesia and Parkinson's disease, formuIated by Chinese Medjcal AssociationNeurology Branch in 2006, Exclude other degenerative diseases of the nervous system and no other major diseases.</inclusion_criteria>
+      <agemin>40</agemin>
+      <agemax>80</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. Highly allergies or a history of severe allergic;
+2. Malignant tumor;
+3. Systemic infection or severe localized infection;
+4. Merger hair cardiopulmonary liver and kidney dysfunction of vital organs;
+5. Coagulation disorders,such as hemophilia;
+6. Serological tests positiveSuch as AIDS, hepatitis B, and syphilis.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>Nerve function assessment by UPDRS;Safety indexes: blood, uring, stool routing test, liver and kidney function test, blood glucosis, blood lipids, X-ray chest examination, ECG;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Discipline supporting program funding from the 105th Hospital of PLA and Natural Science Fund of China</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2011-12-12</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

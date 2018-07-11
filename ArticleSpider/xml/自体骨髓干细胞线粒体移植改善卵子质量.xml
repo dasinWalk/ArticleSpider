@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-INR-17013499</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2017-11-23</date_registration>
+      <primary_sponsor>Sixth affiliated hospital of Sun Yat-sen University</primary_sponsor>
+      <public_title>Autologous mitochondria transfer improves oocyte quality</public_title>
+      <acronym />
+      <scientific_title>The effect of autologous mitochondria transfer from bone marraw mesenchymal stem cells on oocyte quality: a randomized control study </scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2017-12-01</date_enrolment>
+      <type_enrolment />
+      <target_size>Experimental group:25;Control:25;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=22905</url>
+      <study_type>Interventional study</study_type>
+      <study_design>Randomized parallel controlled trial</study_design>
+      <phase>New Treatment Measure Clinical Study</phase>
+      <hc_freetext>infertility</hc_freetext>
+      <i_freetext>Experimental group:mitochondria transfer;Control:ICSI fertilization;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Huang Rui</firstname>
+        <middlename />
+        <lastname />
+        <address>17 Shougouling Road, Tianhe District, Guanghzou, Guangdong, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13719042926</telephone>
+        <email>drhuangr@sina.com</email>
+        <affiliation>Sixth affiliated hospital of Sun Yat-sen University</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Liang Xiao-yan</firstname>
+        <middlename />
+        <lastname />
+        <address>17 Shougouling Road, Tianhe District, Guanghzou, Guangdong, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13500015058</telephone>
+        <email>lxyzy@263.net</email>
+        <affiliation>Sixth affiliated hospital of Sun Yat-sen University</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Aged 20-45years;
+2. A normal BMI (18&lt;BMI&lt;30);
+3. A normal uterine cavity with normal endometrial thickness;
+4. Repeated IVF failure due to poor oocyte quality or advanced age.</inclusion_criteria>
+      <agemin>20</agemin>
+      <agemax>45</agemax>
+      <gender>Female</gender>
+      <exclusion_criteria>1. Severe Adenomyosis;
+2. Abnormal uterine cavity, such as intrauterine adhesions;
+3. PCOS patients;
+4. History of allergic to ovulation induction medicines;
+5. Attending other clinical trials in the same period.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>High quality embryo rate;2PN rate;cleavage rate;transferrable embryo rate;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>hCG positive rate;clinical pregnancy rate;live birth rate;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Self-raised</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2013-08-26</approval_date>
+        <contact_name>Huang Rui</contact_name>
+        <contact_address>17 Shougouling Road, Tianhe District, Guanghzou, Guangdong, China</contact_address>
+        <contact_phone>13719042926</contact_phone>
+        <contact_email>drhuangr@sina.com</contact_email>
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

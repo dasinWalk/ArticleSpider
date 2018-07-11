@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-DOD-17012573</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2017-09-05</date_registration>
+      <primary_sponsor>First Affilited Hospital of Guangxi Medical University</primary_sponsor>
+      <public_title>Influence of Pretransplantation Myocardial and liver MRI in beta-thalassemia major undergoing Allogeneic Hematopoietic Stem Cell</public_title>
+      <acronym />
+      <scientific_title>Influence of Pretransplantation Myocardial and liver MRI in beta-thalassemia major undergoing Allogeneic Hematopoietic Stem Cell</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2017-09-01</date_enrolment>
+      <type_enrolment />
+      <target_size>Target condition:60;Difficult condition:0</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=21430</url>
+      <study_type>Diagnostic test</study_type>
+      <study_design>Diagnostic test for accuracy</study_design>
+      <phase>Other</phase>
+      <hc_freetext> beta-thalassemia major</hc_freetext>
+      <i_freetext>Gold Standard:A normal MRI T2* liver is &gt;6.3 ms. Mild liver iron overload was defined by MRI T2* between 2.7 ms and 6.3 ms. Moderate liver iron overload was defined by MRI T2* between 1.4 ms and 2.7 ms. Severe liver iron overload was defined by MRI T2* &lt;1.4 ms. A normal MRI T2* heart is &gt;20&#x3;;Index test:Nuclear&amp;#32;Magnetic&amp;#32;Resonance;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Yunyan He</firstname>
+        <middlename />
+        <lastname />
+        <address>6 Shuangyong Road, Qingxiu District, Nanning, Guangxi Zhuang Autonomous Region, China</address>
+        <city />
+        <country1 />
+        <zip>530021</zip>
+        <telephone>+86 13607868275</telephone>
+        <email>yunyanhe@aliyun.com</email>
+        <affiliation>Department of Pediatrics, The First Affiliated Hospital of Guangxi medical university</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Jianming Luo</firstname>
+        <middlename />
+        <lastname />
+        <address>6 Shuangyong Road, Qingxiu District, Nanning, Guangxi Zhuang Autonomous Region, China</address>
+        <city />
+        <country1 />
+        <zip>530021</zip>
+        <telephone>+86 13517667021</telephone>
+        <email>jmluo@aliyun.com</email>
+        <affiliation>Department of Pediatrics, The First Affiliated Hospital of Guangxi medical university</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>Patients are diagnosed β-thalassaemia major and will proceed allogeneic hematopoietic stem cell transplantation. All cases are in line with HLA matching high-resolution 10／10 matched, age from 2 to14 years old. Gender is not limited to a male/female.</inclusion_criteria>
+      <agemin>2</agemin>
+      <agemax>14</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. Patients with unstable vital sign or by other physiological or mental reasons can not undergo MRI exam;
+2. Relatives of the patient refuse to join this research;
+3. Patients with other diseases which can lead to iron overload;
+4. Patients with other diseases in liver or heart(ie. neoplasms);
+5. patients have inflamation, liver disease, heart failure or arrhythmia.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code />
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>serum ferritin (SF);iron level of liver;iron level of Myocardium;ejection fraction;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>self-financing</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2017-08-25</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

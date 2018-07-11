@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-OPB-15005956</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2015-02-09</date_registration>
+      <primary_sponsor>Southwest Hospital, Third Military Medical University</primary_sponsor>
+      <public_title>Effective and safety of human umbilical cord derived mesenchymal stem cells (HU - MSCs) infusion treatment of refractory connective tissue diseases</public_title>
+      <acronym />
+      <scientific_title>Effective and safety of human umbilical cord derived mesenchymal stem cells (HU - MSCs) infusion treatment of refractory connective tissue diseases</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2014-12-01</date_enrolment>
+      <type_enrolment />
+      <target_size>HU-MSCs treatment group:30;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=10416</url>
+      <study_type>Observational study</study_type>
+      <study_design>Before-After control</study_design>
+      <phase>II (Phase II study)</phase>
+      <hc_freetext>connective tissue diseases</hc_freetext>
+      <i_freetext>HU-MSCs treatment group:HU-MSCs intravenous infusion ;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Bing Zhong</firstname>
+        <middlename />
+        <lastname />
+        <address>Department of Rheumatology, Southwest Hospital, Third Military Medical University, Chongqing</address>
+        <city />
+        <country1 />
+        <zip>400038</zip>
+        <telephone>+86 18203063388</telephone>
+        <email>dune_zhong@163.com</email>
+        <affiliation>Department of Rheumatology, Southwest Hospital, Third Military Medical University, Chongqing</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Yong Wang</firstname>
+        <middlename />
+        <lastname />
+        <address>Department of Rheumatology, Southwest Hospital, Third Military Medical University, Chongqing</address>
+        <city />
+        <country1 />
+        <zip>400038</zip>
+        <telephone>+86 18983007129</telephone>
+        <email>wangyongjhy@126.com</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Patient has signed informed consent for mesenchymal stem cell treatment and is willing to return for follow-up visits; 
+2. Age range 18 to 70 years,gender unlimited;
+3. Patients with connective tissue diseases, such as rheumatoid arthritis, systemic lupus erythematosus, dermatomyositis/polymyositis, systemic sclerosis, primary sj?gren syndrome or systemic vasculitis;
+4. patients were inadequate response for the conventional therapy.</inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax>70</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>Patients were excluded from this study for any of the following reasons: 
+age &lt;18 years or &gt;70 years; 
+pregnant or lactating, if applicable; 
+known to be allergic to any test medication; 
+serious concomitant cardiac, cerebral, hepatic, renal, hematological or endocrine disorders; 
+impaired consciousness or psychiatric disorders; 
+complicating severely active infection; 
+HIV carrier; 
+drug addiction; 
+participation in any other clinical studies within the previous three months; 
+or other reasons at the discretion of investigators.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>ESR;CRP;T cell subgroup count;IgG IgM IgA;DAS28 score;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Clinical research fund of Southwest Hospital, Third Military Medical University</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2014-09-23</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

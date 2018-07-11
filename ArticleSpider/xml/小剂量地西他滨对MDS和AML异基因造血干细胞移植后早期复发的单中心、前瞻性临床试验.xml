@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-OPN-17012796</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2017-09-26</date_registration>
+      <primary_sponsor>Department of Hematology, Xinqiao Hospital, Military Medical University</primary_sponsor>
+      <public_title>The single center, prospective  clinical trial of low-dose Decitabine in the treatment of MDS/AML early relapse after allogeneic hematopoietic stem cell transplantation</public_title>
+      <acronym />
+      <scientific_title>The single center, prospective  clinical trial of low-dose Decitabine in the treatment of MDS/AML early relapse after allogeneic hematopoietic stem cell transplantation</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2017-10-01</date_enrolment>
+      <type_enrolment />
+      <target_size>low-dose decitabine:40;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=21880</url>
+      <study_type>Observational study</study_type>
+      <study_design>Non randomized control</study_design>
+      <phase>Post-market</phase>
+      <hc_freetext>acute myeloid leukemia/Myelodysplastic syndrom</hc_freetext>
+      <i_freetext>low-dose decitabine:decitabine 5mg/m2 d1-5;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Peiyan Kong</firstname>
+        <middlename />
+        <lastname />
+        <address>183 Xinqiao Main Street, Shapingba District, Chongqing, China</address>
+        <city />
+        <country1 />
+        <zip>400037</zip>
+        <telephone>+86 13228685528</telephone>
+        <email>peiyankong@aliyun.com</email>
+        <affiliation>Department of Hematology, Xinqiao Hospital </affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Peiyan Kong</firstname>
+        <middlename />
+        <lastname />
+        <address>183 Xinqiao Main Street, Shapingba District, Chongqing, China</address>
+        <city />
+        <country1 />
+        <zip>400037</zip>
+        <telephone>+86 13228685528</telephone>
+        <email>peiyankong@aliyun.com</email>
+        <affiliation>Department of Hematology, Xinqiao Hospital </affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. MDS/AML early relapse after allogeneic hematopoietic stem cell transplantation;
+2. Age &lt; 60, KPS score &gt; 60, expected survival &gt; 3 months;
+3. No serious organ dysfunction;
+4. Informed consent.</inclusion_criteria>
+      <agemin />
+      <agemax>60</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. With serious organ dysfunction;
+2. Combined with other cancer need treatment;
+3. Presence of clinical signs of brain dysfunction or severe mental illness can not comply with the study protocol;
+4. Can not guarantee the completion of the treatment plan and the necessary follow-up observation.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>Complete remission;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Clinical Founding of Xinqiao Hospital</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2017-04-18</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

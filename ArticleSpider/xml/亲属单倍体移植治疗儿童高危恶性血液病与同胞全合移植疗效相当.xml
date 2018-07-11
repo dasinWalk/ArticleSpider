@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-OCH-11001831</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2011-12-20</date_registration>
+      <primary_sponsor>People's Hospital Peking University</primary_sponsor>
+      <public_title>Unmanipulated, related, haploidentical transplantation can achieve comparable outcomes to identical sibling transplantation for pediatric patients with high-risk acute leukemia</public_title>
+      <acronym />
+      <scientific_title>Unmanipulated, related, haploidentical transplantation can achieve comparable outcomes to identical sibling transplantation for pediatric patients with high-risk acute leukemia</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2000-06-01</date_enrolment>
+      <type_enrolment />
+      <target_size>1:181;</target_size>
+      <recruitment_status>Completed</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=7716</url>
+      <study_type>Observational study</study_type>
+      <study_design>Cohort study</study_design>
+      <phase>Post-market</phase>
+      <hc_freetext>hematological malignancies</hc_freetext>
+      <i_freetext>1:related haplo-HSCT;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Daihong Liu</firstname>
+        <middlename />
+        <lastname />
+        <address>11 South Xizhimen Street, Xicheng Distric, Beijing</address>
+        <city />
+        <country1 />
+        <zip>100044</zip>
+        <telephone>+86 10 88326000</telephone>
+        <email>daihongk1@yahoo.com.cn</email>
+        <affiliation>People's Hospital Peking University</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Xiaojun Huang</firstname>
+        <middlename />
+        <lastname />
+        <address>11 South Xizhimen Street, Xicheng Distric, Beijing</address>
+        <city />
+        <country1 />
+        <zip>100044</zip>
+        <telephone>+86 10 88326002</telephone>
+        <email>xjhrm@medmail.com.cn</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2 />
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. 1-18 yr;
+2. patients who received HSCT between June of 2000 and December of 2010;
+3. patients with high risk acute leukemia;
+4. Consent form signed.</inclusion_criteria>
+      <agemin>1</agemin>
+      <agemax>18</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. less than 1 yr or more than 18 yr;
+2. low risk or intermediate acute leukemia;
+3. uncontrolled infections or organ dysfunction;
+4. unconsentness</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>LFS;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>engraftment;GVHD incidence;incidence of relaps;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>National Science &amp; Technology Pillar Program; National Natural Science Foundation of China</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2010-03-31</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

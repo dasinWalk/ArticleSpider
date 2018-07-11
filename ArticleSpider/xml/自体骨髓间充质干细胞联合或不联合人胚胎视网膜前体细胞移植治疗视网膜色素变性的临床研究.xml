@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-ONB-15007477</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2015-10-31</date_registration>
+      <primary_sponsor>Southwest Hospital, Shapingba District, Chongqing, China</primary_sponsor>
+      <public_title>Clinical study of subretianl transplantation of human bone marrow mesenchymal stromal cells with or without embryonic retinal progenitor cells in treatment of retinal pigmentosa</public_title>
+      <acronym />
+      <scientific_title>Clinical study of subretianl transplantation of human bone marrow mesenchymal stromal cells with or without embryonic retinal progenitor cells in treatment of retinal pigmentosa</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2015-12-20</date_enrolment>
+      <type_enrolment />
+      <target_size>One cohort:10;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=11009</url>
+      <study_type>Observational study</study_type>
+      <study_design>Before-After control</study_design>
+      <phase>New Treatment Measure Clinical Study</phase>
+      <hc_freetext>retinal pigmentosa</hc_freetext>
+      <i_freetext>One cohort:stem cells transplantation;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Yong Liu</firstname>
+        <middlename />
+        <lastname />
+        <address>29 Gaotanyan Street, Shapingba District, Chongqing, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 023 68773017</telephone>
+        <email>liuyy99@163.com</email>
+        <affiliation>Southwest Hospital, Shapingba District, Chongqing, China</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Zhengqin Yin</firstname>
+        <middlename />
+        <lastname />
+        <address>29 Gaotanyan Street, Shapingba District, Chongqing, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 023 68754401</telephone>
+        <email>qinzyin@aliyun.com</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Patients aging from 18 to 65 years who have signed informed consent for the clinical trial;
+2. Patients who have at least one visually impaired eye caused by retinal pigmentosa;
+3. Juvenile patients with retinal pigmentosa who can not be effectively treated with conventional therapies;
+4. Eyes under following conditions:
+1) Using the early treatment diabetic retinopathy (ETDRs) eye chart BCVA between 0.15-0.6 eye field less than 10 degree.
+2) Visual loss is caused by retinal pigmentosa.
+4. No proliferation and edema in the macular;
+5. Function of the RPERemained at least 1/2 area inside the retinal vascular arcades tested by AF.</inclusion_criteria>
+      <agemin />
+      <agemax />
+      <gender>Both</gender>
+      <exclusion_criteria>1. Patient with concomitant eye conditions/diseases incuding:
+(1) Eyes with concomitant diseases which will interfere the visual improvement of the study;
+(2) Either eye has active intraocular inflammation regardless of the grade of severity;
+(3) Either eye has active infection (e.g. conjunctivitis, keratitis, scleritisuveitisophthalmia);
+(4) Either eye has a history of uveitis;
+(5) Any significant ocular disease that has compromised or could compromise vision in the study eye and confound analysis of the primary outcome, including severe cataract, glaucoma, retinal blood vessels occlusion, retinal detachment, macular hole, vitreous-macula traction;
+(6) Either eye has iris neovascularization;
+(7) Patients who have only one functioning eye, or the best corrected vision of untreated eye scores less than 24 letters in ETDRS chart(corresponding to 20/320 in Snellen chart); 
+2. Eyes with history of intraocular surgeries;
+3. Patients with systemic conditions including:
+(1) stroke, coronary heart disease, angina pectoris, renal insufficiency needing dialysis, and other systemic diseases that are not suitable to the clinical trial;
+(2) patients who are allergic to sodium fluorescein;
+(3) uncontrolled hypertension (systolic pressure&gt;140mmHg,or diastolic pressure&gt;90mmHg);
+(4) coaggulative function disorder or patients who are using anticoagulant drugs;
+(5) patients who are using or are going to systemically use drugs that are toxic to lens, retina, or optic nerve like hydroxychloroquine, phenothiazine, ethambutol, tamoxifen, etc.;
+(6) patients who attended other clinical trials of any medicine within 1 month (or within 5 half-life periods).
+4. others:
+(1) patients who have maternity plan in 6 months;
+(2) women patients who are in pregnancy or lactation period.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>Early treatment of diabetic retinopathy eye chart (ETDRs);Fluorescein angiography;Static perimetry;Optical coherent tomography (OCT);Flash electroretinogram (FERG);Flash Visual Evoked Potentials;mutifocal electroretinogram (MFERG);</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Supported by the National Basic Research Program (973 Program)</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2013-08-26</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR1800016554</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2018-06-07</date_registration>
+      <primary_sponsor>Taihe Hospital, Hubei University of Medicine </primary_sponsor>
+      <public_title>Clinical research on treatment of cerebral palsy in children by umbilical cord mesenchyme stem cells</public_title>
+      <acronym />
+      <scientific_title>Clinical research on treatment of cerebral palsy in children by umbilica lmesenchyme cord  stem cells</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2014-07-14</date_enrolment>
+      <type_enrolment />
+      <target_size>Treatment group:20;Control group:20;</target_size>
+      <recruitment_status>Completed</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=27139</url>
+      <study_type>Interventional study</study_type>
+      <study_design>Randomized parallel controlled trial</study_design>
+      <phase>I+II (Phase I+Phase II)</phase>
+      <hc_freetext>cerebral palsy</hc_freetext>
+      <i_freetext>Treatment group:Umbilical cord blood stem cells;Control group:0.9% Sodium chloride containing 1% Human Albumin;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Gu Jiaowei</firstname>
+        <middlename />
+        <lastname />
+        <address>32 Renmin Road South, Shiyan, Hubei, China</address>
+        <city />
+        <country1 />
+        <zip>442000</zip>
+        <telephone>+86 15098090042</telephone>
+        <email>gjw888gjw@163.com</email>
+        <affiliation>Taihe Hospital, Hubei University of Medicine </affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Gu Jiaowei</firstname>
+        <middlename />
+        <lastname />
+        <address>32 Renmin Road South, Shiyan, Hubei, China</address>
+        <city />
+        <country1 />
+        <zip>442000</zip>
+        <telephone>+86 15098090042</telephone>
+        <email>gjw888gjw@163.com</email>
+        <affiliation>Taihe Hospital, Hubei University of Medicine </affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Must be diagnosed with CP according to National standard criteria including clinical history and physical examination;
+2. Aged between 2 and 14 years;
+3. No prior history of epilepsia gravior within 15 days of infusion and no seizures attack within 24 hours of treatment;
+4. Must be able to comply with scheduled visits, treatment plans, physical examinations, laboratory tests, performance scales, and other study procedures;
+5. Showed willingness by signing the informed consent form, which was approved by the IRB for patients or parents.</inclusion_criteria>
+      <agemin>2</agemin>
+      <agemax>14</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>Patients having liver or renal dysfunction at enrollment, any known genetic or immunological disorder, coagulation disorder, malignancy history, known allergy to more than 2 kinds of food or medications, current severe infection, or any other features that hampered the compliance with the requirement of the protocol according to the clinical judgment of the investigator were excluded from study.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>Gross Motor Function;Muscle tension score;Daily life activities assessment;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>funds of science and technology research project, Hubei Province </source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2014-07-14</approval_date>
+        <contact_name>Jian Gang</contact_name>
+        <contact_address>32 Renmin Road South, Shiyan, Hubei, China</contact_address>
+        <contact_phone>+86 0719-8801630</contact_phone>
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

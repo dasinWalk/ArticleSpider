@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-RPC-17013171</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2017-10-30</date_registration>
+      <primary_sponsor>Shanghai sixth people's hospital </primary_sponsor>
+      <public_title>Mesenchymal stem cells alleviate primary Sjogren syndrome by inhibit B cell activation through down-regulate BAFF</public_title>
+      <acronym />
+      <scientific_title>Mesenchymal stem cells alleviate primary Sjogren syndrome by inhibit B cell activation through down-regulate BAFF</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2018-01-01</date_enrolment>
+      <type_enrolment />
+      <target_size>patient:20;control:20;</target_size>
+      <recruitment_status>Pending</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=22470</url>
+      <study_type>Relative factors research</study_type>
+      <study_design>Case-Control study</study_design>
+      <phase>Pilot study</phase>
+      <hc_freetext>Primary Sjogren Syndrome</hc_freetext>
+      <i_freetext>patient:none;control:none;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Qian Wang</firstname>
+        <middlename />
+        <lastname />
+        <address>600 Yishan Road, Xuhui District, Shanghai, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 15601918612</telephone>
+        <email>wangqian198886@163.com</email>
+        <affiliation>Shanghai sixth people's hospital </affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Qian Wang</firstname>
+        <middlename />
+        <lastname />
+        <address>600 Yishan Road, Xuhui District, Shanghai, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 15601918612</telephone>
+        <email>wangqian198886@163.com</email>
+        <affiliation>Shanghai sixth people's hospital </affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>The patients who meet the criteria of primary sjogren syndrome.</inclusion_criteria>
+      <agemin />
+      <agemax />
+      <gender>Both</gender>
+      <exclusion_criteria>The patients who are pregnant, who has malignant tumor, who has other autoimmune diseases.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>B cell activating factor;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>hospital</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Not approved</status>
+        <approval_date>2013-08-26</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-INR-17014226</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2017-12-30</date_registration>
+      <primary_sponsor>Tianjin First Central Hospital</primary_sponsor>
+      <public_title>A randomized, single blind clinical study of human umbilical cord mesenchymal stem cells compare sodium hyaluronate to treatment of early osteoarthritis of the knee</public_title>
+      <acronym />
+      <scientific_title>A randomized, single blind clinical study of human umbilical cord mesenchymal stem cells compare sodium hyaluronate to treatment of early osteoarthritis of the knee</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2018-03-01</date_enrolment>
+      <type_enrolment />
+      <target_size>A:20;B:20;</target_size>
+      <recruitment_status>Pending</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=24318</url>
+      <study_type>Interventional study</study_type>
+      <study_design>Randomized parallel controlled trial</study_design>
+      <phase>New Treatment Measure Clinical Study</phase>
+      <hc_freetext>Osteoarthritis</hc_freetext>
+      <i_freetext>A:Sodium hyaluronate group;B:human Umbilical Cord -Mesenchymal Stem Cells  group;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan>Yes</results_IPD_plan>
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Pengfei Wang</firstname>
+        <middlename />
+        <lastname />
+        <address>Department of orthopedics, Tianjin First Central Hospital, 24 Fukang Road, Nankai District, Tianjin, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 18622536848</telephone>
+        <email>feition2417@163.com</email>
+        <affiliation>Tianjin First Central Hospital</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Wenxue Jiang</firstname>
+        <middlename />
+        <lastname />
+        <address>Department of orthopedics, Tianjin First Central Hospital, 24 Fukang Road, Nankai District, Tianjin, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13752002876</telephone>
+        <email>jiangwenxue1920@163.com</email>
+        <affiliation>Tianjin First Central Hospital</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Knee osteoarthritis not more than 6 months of conservative treatment;
+2. The VAS score was less than 6;
+3. The knee joint activity decreased;
+4. The K-L score was lower than grade 3;
+5. The patient aged under 65 years;
+6. Patients with primary osteoarthritis of the knee.</inclusion_criteria>
+      <agemin />
+      <agemax>65</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. Autoimmune arthropathy;
+2. Unstable or damaged ligaments;
+3. There was infection, surgery and radioactivity for the knee joint within 6 weeks;
+4. The immunosuppressant was made in 6 weeks;
+5. Glucocorticoids or sodium hyaluronate were injected within 3 months;
+6. Pregnant or lactating women;
+7. Abnormal coagulation function;
+8. Infection in the skin of the injection area. 
+9. The investigator cognizanced the patients unsuitable in the study.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>X-ray;Nuclear Magnetic Resonance Imaging;VAS score;WOmAC score;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Self financing</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Not approved</status>
+        <approval_date>2013-08-26</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

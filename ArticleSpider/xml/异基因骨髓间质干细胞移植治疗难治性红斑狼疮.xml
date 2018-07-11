@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-TNC-08000096</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2008-05-05</date_registration>
+      <primary_sponsor>Nanjing University Medical College Affiliated Drum Tower Hospital</primary_sponsor>
+      <public_title>Allogenic Bone Marrow Derived Mesenchymal Stem Cells Transplantation For Refractory Systemic Lupus Erythematosus</public_title>
+      <acronym />
+      <scientific_title>Allogenic Bone Marrow Derived Mesenchymal Stem Cells Transplantation For Refractory Systemic Lupus Erythematosus</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2007-03-01</date_enrolment>
+      <type_enrolment />
+      <target_size>treating group:50;</target_size>
+      <recruitment_status>Completed</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=9429</url>
+      <study_type>Observational study</study_type>
+      <study_design>Before-After control</study_design>
+      <phase>Other</phase>
+      <hc_freetext>Refractory Systemic Lupus Erythematosus</hc_freetext>
+      <i_freetext>treating group:using allogeneic bone marrow mesenchymal stem cell transplantation;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Sun Lingyun</firstname>
+        <middlename />
+        <lastname />
+        <address>321 Zhongshan Road, Nanjing, China</address>
+        <city />
+        <country1 />
+        <zip>210008</zip>
+        <telephone>+86 13705186409</telephone>
+        <email>lingyunsun2001@yahoo.com.cn</email>
+        <affiliation>Nanjing University Medical College Affiliated Drum Tower Hospital</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Sun Lingyun</firstname>
+        <middlename />
+        <lastname />
+        <address>321 Zhongshan Road, Nanjing, China</address>
+        <city />
+        <country1 />
+        <zip>210008</zip>
+        <telephone>+86 13705186409</telephone>
+        <email>lingyunsun2001@yahoo.com.cn</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2 />
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. all patients fulfilled the American College of Rheumatology (ACR) criteria of SLE, man or woman aged from 15 to 70 years old, SLEDAI&gt;=8;
+2. refractory lupus nephritis, 24h urineprotein&gt;=1g;
+3. maintain prednisone more than 20 mg/day;
+4. ineffective for cyclophosphamide 0.4~0.6/m2 every two weeks for six months, or other immunosuppressive drugs, such as MMF 2 g/day, for three months;
+5. patients must sign an informed consent indicating that they are aware of the investigational nature of the study in keeping with the policy of the hosipital.</inclusion_criteria>
+      <agemin>15</agemin>
+      <agemax>70</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. abnormal liver function (ALT higer than 3 times the normal value);
+2. end-stage renal failure patients;
+3. patients who have a severe heart and pulmonary failure, or other important organs damage;
+4. undercontrolled infections;
+5. pregnant or breast feeding women, male or female who intended to recent pregnancy.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>24-hour proteinuria, urine routine, renal function;liver function;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>blood routine, ES;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>National Natural Science Foundation, Jiangsu Province Natural Science Foundation,</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2006-04-13</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

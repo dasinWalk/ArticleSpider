@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-TRC-09000536</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2009-09-28</date_registration>
+      <primary_sponsor>Sun Yat-sen University</primary_sponsor>
+      <public_title>A Phase II, Randomized Study to Evaluate the Safety and Efficacy of Ex-Vivo Cultured Allogenic Mesenchymal Stem Cells For the Treatment of Extensive Chronic Graft Versus Host Disease</public_title>
+      <acronym />
+      <scientific_title>Safety and Efficacy Study of Allogenic Mesenchymal Stem Cells to Treat Extensive Chronic Graft Versus Host Disease</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2009-09-01</date_enrolment>
+      <type_enrolment />
+      <target_size>A:26;B:26;</target_size>
+      <recruitment_status>Completed</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=8999</url>
+      <study_type>Interventional study</study_type>
+      <study_design>Randomized parallel controlled trial</study_design>
+      <phase>New Treatment Measure Clinical Study</phase>
+      <hc_freetext>Extensive chronic graft versus host disease</hc_freetext>
+      <i_freetext>A:Glucocorticoids+CSA/FK506;B:Glucocorticoids+CSA/FK506+MSC;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Wei Ling</firstname>
+        <middlename />
+        <lastname />
+        <address>No.106, Second Zhongshan Road, Guangzhou, China</address>
+        <city />
+        <country1 />
+        <zip>510080</zip>
+        <telephone>+86 020 83889772</telephone>
+        <email>lingwei97@163.com</email>
+        <affiliation>Department of Hemotology, Guangdong General Hospital, Guangdong Academy of Medical  Sciences</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Xin Du</firstname>
+        <middlename />
+        <lastname />
+        <address>No.106, Second Zhongshan Road, Guangzhou, China</address>
+        <city />
+        <country1 />
+        <zip>510080</zip>
+        <telephone>+86 020 83827812-62122</telephone>
+        <email>miyadu@hotmail.com</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Informed consent obtained from patient and donor;
+2. Any patient who has undergone allogeneic stem cell transplantation with extensive chronic GVHD;
+3. Have not received additional agent for cGVHD within 3 months;
+4. Expected life is more than 90 days;
+5. Adequate pulmonary function with no evidence of chronic obstructive or severe restrictive pulmonary disease;
+6. Adequate cardiac function with no evidence of uncontrolled high blood pressure,congestive heart failure, angina pectoris, acute myocardial infarction within 6 months prior to the process.</inclusion_criteria>
+      <agemin>0</agemin>
+      <agemax>0</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. Invasive fungal disease; 
+2. Active cytomegalovirus (CMV)/Epstein-Barr virus(EBV)/varicella disease); 
+3. Patient is with a history of hypersensitivity to bovine products;
+4. Relapsed malignancy.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>Remission rate (CR and PR);Safety of MSC treatment;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>Effect on OS, DFS and QOL;The total Response rate;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Self-finance</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2009-08-01</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

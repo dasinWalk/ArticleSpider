@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-ONC-16008732</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2016-06-28</date_registration>
+      <primary_sponsor>First Affiliated Hospital of Nanchang University.</primary_sponsor>
+      <public_title>The study on safety and efficacy of transplantation of placenta-derived mesenchymal stem cells for diabetic patients with ischemic peripheral vascular disease </public_title>
+      <acronym />
+      <scientific_title>The study on transplantation of placenta-derived mesenchymal stem cells for diabetic patients with ischemic peripheral vascular disease</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2016-07-01</date_enrolment>
+      <type_enrolment />
+      <target_size>stem cell treatment:30;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=14764</url>
+      <study_type>Observational study</study_type>
+      <study_design>Case series</study_design>
+      <phase>New Treatment Measure Clinical Study</phase>
+      <hc_freetext>Diabetes and its ischemic vascular lesions</hc_freetext>
+      <i_freetext>stem cell treatment:placenta stem cell treatment;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Xu Jixiong</firstname>
+        <middlename />
+        <lastname />
+        <address>17 Yongwaizheng Street,  Nanchang, Jiangxi, China</address>
+        <city />
+        <country1 />
+        <zip>330006</zip>
+        <telephone>+86 13307086069</telephone>
+        <email>xujixiong@163.com</email>
+        <affiliation>First Affiliated Hospital of Nanchang University</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Xu Jixiong</firstname>
+        <middlename />
+        <lastname />
+        <address>17 Yongwaizheng Street,  Nanchang, Jiangxi, China</address>
+        <city />
+        <country1 />
+        <zip>330006</zip>
+        <telephone>+86 13307086069</telephone>
+        <email>xujixiong@163.com</email>
+        <affiliation>First Affiliated Hospital of Nanchang University</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Aged from 40 to 70 years; 
+2. Diagnosis of type 2 diabetes at least 3 years;
+3. Patients with clinical manifestation of lower limbs chronic ischemia: lower limb pain or resting pain, cold feeling, skin color changes, intermittent claudication, or a local ulcer, or local necrosis; Conventional drug treatment for more than 3 months is invalid; The limb blood flow, or lower limb artery color doppler, or DSA angiography or magnetic resonance imaging (MRI) angiography, percutaneous oxygen partial pressure or infrared thermometer skin to judge the lower extremities vascular stenosis or occlusion; At least one leg ankle brachial index (ABI) values is less than 0.9;
+4. Patients volunteered to participate in and sign the consent form.</inclusion_criteria>
+      <agemin>40</agemin>
+      <agemax>70</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>those with severe heart, liver, renal insufficiency, severe cerebrovascular and lung disease are exclude; those with lower limb large area skin and soft tissue ulcer and gangrene or local infection before control are exclude.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>number of collateral vessels formation ;Ankle brachial pressure index;Rest pain score;Cold feeling score;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>blood flow perfusion of Lower limb skin;transcutaneous oxygen pressure;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Jiangxi province science and technology plan key projects</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2016-06-07</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

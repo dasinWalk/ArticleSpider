@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-OCH-12003020</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2012-12-28</date_registration>
+      <primary_sponsor>Hematology Peking University, People's Hospital</primary_sponsor>
+      <public_title>Optimizing the technology of hematopoietic stem cell transplantation: a study of optimizing treatment of acute myeloid leukemia based on the risk stratification</public_title>
+      <acronym />
+      <scientific_title>Optimizing the technology of hematopoietic stem cell transplantation: a study of optimizing treatment of acute myeloid leukemia based on the risk stratification</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2013-01-01</date_enrolment>
+      <type_enrolment />
+      <target_size>Aitologous stem cell transplantation:150;Favorable and intermediated-risk acute myeloid leu:150;High-risk acute myeloid leukemia:300;High-risk acute myeloid leukemia:300;</target_size>
+      <recruitment_status>Completed</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=6537</url>
+      <study_type>Observational study</study_type>
+      <study_design>Cohort study</study_design>
+      <phase>II (Phase II study)</phase>
+      <hc_freetext>Acute myeloid leukemia</hc_freetext>
+      <i_freetext>Aitologous stem cell transplantation:Aitologous stem cell transplantation;Favorable and intermediated-risk acute myeloid leu:Chemotherapy;High-risk acute myeloid leukemia:Allogeneic hemapoietic stem cell transplantation;High-risk acute myeloid leukemia:Chemotherapy;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Huan Chen</firstname>
+        <middlename />
+        <lastname />
+        <address>Institute of Hematology Peking University, People's Hospital, 11 Xizhimen Street South, Beijing, China</address>
+        <city />
+        <country1 />
+        <zip>100044</zip>
+        <telephone>+86 10-88324952</telephone>
+        <email>chenhuan@cssc.net.cn</email>
+        <affiliation>Institute of Hematology Peking University, People's Hospital</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Kai-yan Liu</firstname>
+        <middlename />
+        <lastname />
+        <address>Institute of Hematology Peking University, People's Hospital, 11 Xizhimen Street South, Beijing, China</address>
+        <city />
+        <country1 />
+        <zip>100044</zip>
+        <telephone>+86 10-88324958</telephone>
+        <email>liukaiyan@bimu.edu.cn</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>auto-HSCT
+1. Patients with de novel AML（18-60 years) in favorable and intermediate-risk group; 
+2. Peripheral blood stem cell harvesting was started when included patients reached CR1 and MRD level was less than 0.1% after 1 to 2 courses of induction therapy and at least 2-4 courses of consolidation therapy including high-doses Ara-C; 
+3. ECOG=0,1;
+Allo-HSCT:
+1. AML patients, (&lt;60 years)in high-risk group or patients in favorable and intermediate-risk group with MRD&gt;0.1% or &gt;CR1;
+2. Allogenic donor is available,</inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax>60</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>Aotu-HSCT:
+1. Secondary AML, &gt;60 years old; 
+2. AML 1.relapsed and refractory AML.2.ECOG &gt;=2.
+3. to reach CR1 with more than 2 courses of induction; 
+4. &gt;CR1 or MRD level &gt;0.1% (including RQ-PCR test ); 
+5. ECOG &gt;=2.  
+All0-HSCT:
+1. relapsed and refractory AML;
+2. ECOG &gt;=2.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>leukemia-free survival;Overall survival;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>Association between MRD and relapse;Factors associated with prognose;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>National Public Health Grant Research Foundation (grant No. 201202017)</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2012-10-23</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

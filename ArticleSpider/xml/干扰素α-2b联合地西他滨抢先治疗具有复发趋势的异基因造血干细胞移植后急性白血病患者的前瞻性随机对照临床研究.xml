@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-INR-16007756</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2016-01-15</date_registration>
+      <primary_sponsor>the First Affiliated Hospital of Soochow University</primary_sponsor>
+      <public_title> Pre-emptive therapy of interferon alpha-2b and decitibine in leukemia patients with relapsing tendencies after allogeneic hematopoietic stem cell transplantation: a prospective randomized controlled clinical study</public_title>
+      <acronym />
+      <scientific_title> pre-emptive therapy of interferon alpha-2b and decitibine in leukemia patients with relapsing tendencies after allogeneic hematopoietic stem cell transplantation: a prospective randomized controlled clinical study</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2016-01-15</date_enrolment>
+      <type_enrolment />
+      <target_size> interferon α-2b and decitibine group:60;donor lymphocyte transfusions group:30;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=12951</url>
+      <study_type>Interventional study</study_type>
+      <study_design>Randomized parallel controlled trial</study_design>
+      <phase>New Treatment Measure Clinical Study</phase>
+      <hc_freetext>Acute leukemia</hc_freetext>
+      <i_freetext> interferon α-2b and decitibine group:pre-emptive therapy of interferon α-2b and decitibine;donor lymphocyte transfusions group:pre-emptive therapy of donor lymphocyte transfusions;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Tang XiaoWen</firstname>
+        <middlename />
+        <lastname />
+        <address>188 Shizi Road, Suzhou, Jiangsu, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13913538266</telephone>
+        <email>xwtang1020@163.com</email>
+        <affiliation>the First Affiliated Hospital of Soochow University</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Wu Depei、Tang XiaoWen</firstname>
+        <middlename />
+        <lastname />
+        <address>188 Shizi Road, Suzhou, Jiangsu, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13913538266</telephone>
+        <email>xwtang1020@163.com</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. with inform consent;
+2. Aged 12-60 years;
+3. At least one of the following conditions with relapse tendency were met:
+(1) 3–5% bone marrow blasts;
+(2) MRD &gt;=1*10^3;
+(3) Positive specific fusion gene detection or WT-1 gene copy number &gt; 200 copies/10,000 abl copies;
+(4) DC &lt;=90% detected by short tandem repeat (STR) technology; 
+4.No contraindication for pre-emptive therapy: active infection, liver and renal function damage.</inclusion_criteria>
+      <agemin>12</agemin>
+      <agemax>60</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. uncontrolled infection or significant bleeding;
+2. Organ failure;
+3. over grade III graft-versus-host disease (GVHD) of patients with relapse tendency;
+4. hematologic relapse.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>Disease-free survival;Overall Survival;Disease Response;accumulated disease progressed or inefficiency rate;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>Non-hematologic toxicity;hematologic toxicity;graft-versus-host disease;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Self-financing</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2015-12-01</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

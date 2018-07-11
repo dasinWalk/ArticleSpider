@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-PRNRC-09000307</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2009-01-12</date_registration>
+      <primary_sponsor>Peking University People's Hospital</primary_sponsor>
+      <public_title>Preemptive therapy guided by BCR-ABL transcript levels after HLA-identical sibling donor transplantation improves HSCT outcomes for patients with chronic myeloid leukemia</public_title>
+      <acronym />
+      <scientific_title>Preemptive therapy guided by BCR-ABL transcript levels after HLA-identical sibling donor transplantation improves HSCT outcomes for patients with chronic myeloid leukemia</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2004-11-01</date_enrolment>
+      <type_enrolment />
+      <target_size>Low-risk group:56;High-risk group:28;</target_size>
+      <recruitment_status>Completed</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=9223</url>
+      <study_type>Prognosis study</study_type>
+      <study_design>Non randomized control</study_design>
+      <phase>Other</phase>
+      <hc_freetext>chronic myeloid leukemia</hc_freetext>
+      <i_freetext>Low-risk group:Protocol 1: Immunosuppressant withdrawal. Protocol 2: Imatinib therapy. Protocol 3: Modified donor lymphocyte infusion;High-risk group:Protocol 1: Immunosuppressant withdrawal. Protocol 2: Imatinib therapy. Protocol 3: Modified donor lymphocyte infusion.;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Chang Yingjun</firstname>
+        <middlename />
+        <lastname />
+        <address>11 Xizhimen South, Xicheng District, Beijing</address>
+        <city />
+        <country1 />
+        <zip>100044</zip>
+        <telephone>+86 010 88324671</telephone>
+        <email>changyingjun3621@tom.com</email>
+        <affiliation>Peking University People's Hospital &amp; Peking University Institute of Hematology</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Huang Xiaojun</firstname>
+        <middlename />
+        <lastname />
+        <address>11 Xizhimen South Street, Xicheng District, Beijing, China</address>
+        <city />
+        <country1 />
+        <zip>100044</zip>
+        <telephone>+86 010 88324984</telephone>
+        <email>xjhrm@medmail.com.cn</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>Patients with chronic myeloid leukemia who are candidates of allogeneic hematopoiectic stem cell transplantation, consent forms were signed</inclusion_criteria>
+      <agemin>12</agemin>
+      <agemax>51</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>Patients with chronic myeloid leukemia who have no suitable donors or whose economic situation is poor</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>graft-versus-host disease;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>Overall survival and leukemia-free survival,relapse, and treatment-related mortality;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>HI-Tech Research Development Program of China 863 (grant no.2006AA02Z4A0)</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Not approved</status>
+        <approval_date>2013-08-26</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

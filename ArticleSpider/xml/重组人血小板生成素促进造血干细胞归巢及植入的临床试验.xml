@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-OIN-17010831</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2017-03-10</date_registration>
+      <primary_sponsor>Hengxiang Wang</primary_sponsor>
+      <public_title>A pilot study of recombinant human thrombopoietin in enhancing hematopoietic stem cell homing and engraftment after transplantation</public_title>
+      <acronym />
+      <scientific_title>A pilot study of recombinant human thrombopoietin in enhancing hematopoietic stem cell homing and engraftment after transplantation</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2014-03-01</date_enrolment>
+      <type_enrolment />
+      <target_size>recombinant human TPO group:60;Control group:60;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=17169</url>
+      <study_type>Observational study</study_type>
+      <study_design>Non randomized control</study_design>
+      <phase>I+II (Phase I+Phase II)</phase>
+      <hc_freetext>Hematologic diseases </hc_freetext>
+      <i_freetext>recombinant human TPO group:subcutaneously injection of recombinant human TPO;Control group:no injection with recombinant human TPO;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Yanhua LI</firstname>
+        <middlename />
+        <lastname />
+        <address>27 Taiping Road, Haidian District, Beijing, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 010 66931947</telephone>
+        <email>shirlylyh@126.com</email>
+        <affiliation>Academy of Military Medical Sciences</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Xuetao Pei</firstname>
+        <middlename />
+        <lastname />
+        <address>27 Taiping Road, Haidian District, Beijing, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 010 66931947</telephone>
+        <email>shirlylyh@126.com</email>
+        <affiliation>Academy of Military Medical Sciences</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1) Hematopoietic diseases:: acute myeloid leukemia, acute lymphoblastic leukemia, severe aplastic anemia, myelodysplastic syndrome;
+2) Ages 11-55, males and females;
+3) Complete remission before transplantation and without CNS or extramedullary infiltration;
+4) Voluntary written informed consent;
+5) No completely HLA-identical donors;
+6) No sever function diseases in heart, brain, lung, liver or kidney or other organs.
+7) Volunteers can be followed up for the treatment effect after transplantation.</inclusion_criteria>
+      <agemin>11</agemin>
+      <agemax>55</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1) No voluntary written informed consent or relatives' informed consent;
+2) Ages under 11, and above 55;
+3) Uncomplete remission before transplantation, with CNS or extramedullary infiltration;
+4) Severe function disorder in major organs, or with tumor or severe infection diseases;
+5) Not suitable for Haplo-HSCT.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>neutrophil  engraftment;platelet   engraftment;platelet   Recovery;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>aGVHD;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>self-paying</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2016-12-18</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

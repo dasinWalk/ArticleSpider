@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR1800014998</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2018-02-27</date_registration>
+      <primary_sponsor> The Third Affiliated Hospital, Sun Yat-Sen University</primary_sponsor>
+      <public_title>Human umbilcal cord derived mesenchymal stem cells therapy in acute respiratory distress syndrome: a pilot study</public_title>
+      <acronym />
+      <scientific_title>Human umbilcal cord derived mesenchymal stem cells therapy in acute respiratory distress syndrome: a pilot study</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2018-03-01</date_enrolment>
+      <type_enrolment />
+      <target_size>control group:6;MSC group:6;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=25576</url>
+      <study_type>Interventional study</study_type>
+      <study_design>Randomized parallel controlled trial</study_design>
+      <phase>Pilot study</phase>
+      <hc_freetext>acute respiratory distress syndrome</hc_freetext>
+      <i_freetext>control group:normal saline 100ml, ivdrip;MSC group:hucMSCs 10^6/kg+N.S 100ml, ivdrip;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Haijin Lv</firstname>
+        <middlename />
+        <lastname />
+        <address>600 Tianhe Road, Tianhe District, Guangzhou, Guangdong, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 020 85252673</telephone>
+        <email>haijinlv@163.com</email>
+        <affiliation>The Third Affiliated Hospital, Sun Yat-Sen University</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Haijin Lv</firstname>
+        <middlename />
+        <lastname />
+        <address>600 Tianhe Road, Tianhe District, Guangzhou, Guangdong, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 020 85252673</telephone>
+        <email>haijinlv@163.com</email>
+        <affiliation>The Third Affiliated Hospital, Sun Yat-Sen University</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Aged≥18 years old;
+2. Including all the criteria:
+(1) Invasive ventilation, OI（PaO2/FiO2）&lt;200;
+(2) PEEP≥8cmH2O;
+(3) Bilateral inflitration of lung in X-ray or CT;
+(4) In 1 week after onset;
+(5) Still OI&lt;200 after protective ventilation or conservative fluid management.</inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax />
+      <gender>Both</gender>
+      <exclusion_criteria>(1) Any malignant disease;
+(2) Cardiogenic pulmonary edema;
+(3) Over 50% atelectasis either lung lobe in X-ray;
+(4) Pregnancy or perinatal or lactation;
+(5) Previous end stage respiratory disease;
+(6) More than 3 organs failure;
+(7) Liver failure with MELD score&gt;40;
+(8) Stage III or IV pulmonary hypertension;
+(9) None invasive arterial and central venous catheter;
+(10) Concurrent deep venous thrombus or pulmonary embolism in 3 months;
+(11) Cerebral hernia;
+(12) More than 96 hours after ARDS onset.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>safety;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>Ventilation free days(VFDs);Oxygenation index change;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>The Third Affiliated Hospital of Sun Yat-Sen University，Clinical Research Program</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2017-11-30</approval_date>
+        <contact_name>Chang Liu</contact_name>
+        <contact_address>600 Tianhe Road, Tianhe District, Guangzhou, Guangdong, China</contact_address>
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

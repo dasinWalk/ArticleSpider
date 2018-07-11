@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-OOC-17014037</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2017-12-19</date_registration>
+      <primary_sponsor>The First Hospital Affiliated to Army Medical University (Southwest Hospital)</primary_sponsor>
+      <public_title>Autologous bone marrow derived mesenchymal stem cell therapy for endometrial regeneration in infertilie patients of thin endometrium</public_title>
+      <acronym />
+      <scientific_title>Autologous bone marrow derived mesenchymal stem cell therapy for endometrial regeneration in infertilie patients of thin endometrium</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2017-12-21</date_enrolment>
+      <type_enrolment />
+      <target_size>BMSCs treatment group:15;control group:15;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=23968</url>
+      <study_type>Observational study</study_type>
+      <study_design>Cohort study</study_design>
+      <phase>Other</phase>
+      <hc_freetext>thin endometrium, intrauterine adhesions</hc_freetext>
+      <i_freetext>BMSCs treatment group:autologous bone marrow derived mesenchymal stem cell intrauterine therapy;control group:transcervical resectionof adhesions;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Lin Zhu</firstname>
+        <middlename />
+        <lastname />
+        <address>30 Gaotanyan Main Road, Shapingba District, Chongqing, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 18502359625</telephone>
+        <email>zhulin19860218@hotmail.com</email>
+        <affiliation>The First Hospital Affiliated to Army Medical University (Southwest Hospital)</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Wei He</firstname>
+        <middlename />
+        <lastname />
+        <address>30 Gaotanyan Main Road, Shapingba District, Chongqing, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13608356955</telephone>
+        <email>anyhewei@163.com</email>
+        <affiliation>The First Hospital Affiliated to Army Medical University (Southwest Hospital)</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>Aged between 20-40 years; infertile women of intrauterine adhesions; thin endometrium with the thickness no more than 7mm</inclusion_criteria>
+      <agemin>20</agemin>
+      <agemax>40</agemax>
+      <gender>Female</gender>
+      <exclusion_criteria>Acute pelvic infection; pelvic tuberculosis and/or endometrium tuberculosis; dysfunction of blood coagulation;  presence of systemic disease contraindicating pregnancy. </exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>intrauterine adhesions;the thickness of endometrium;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>biochemical pregnancy rate;clinical pregnancy rate;live birth rate;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>None</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2016-04-29</approval_date>
+        <contact_name>Li He</contact_name>
+        <contact_address>30 Gaotanyan Main Road, Shapingba District, Chongqing, China </contact_address>
+        <contact_phone>+86 023 68754814</contact_phone>
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

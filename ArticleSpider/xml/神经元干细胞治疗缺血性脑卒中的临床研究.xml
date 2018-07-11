@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-ONC-17014173</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2017-12-27</date_registration>
+      <primary_sponsor>The Affiliated Hospital of Xuzhou Medical University</primary_sponsor>
+      <public_title>Clinical study of  neural stem cells to treat Cerebral infarction</public_title>
+      <acronym />
+      <scientific_title>Clinical study of  neural stem cells to treat Cerebral infarction</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2018-01-01</date_enrolment>
+      <type_enrolment />
+      <target_size>five:50;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=24280</url>
+      <study_type>Observational study</study_type>
+      <study_design>Case series</study_design>
+      <phase>New Treatment Measure Clinical Study</phase>
+      <hc_freetext>Cerebral infarction</hc_freetext>
+      <i_freetext>five:neural stem cells;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Hongmei Ding</firstname>
+        <middlename />
+        <lastname />
+        <address>99 Huaihai Road West, Xuzhou, Jiangsu, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 15999699883</telephone>
+        <email>179692890@qq.com</email>
+        <affiliation>The Affiliated Hospital of Xuzhou Medical University</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Xutie</firstname>
+        <middlename />
+        <lastname />
+        <address>99 Huaihai Road West, Xuzhou, Jiangsu, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 18052268399</telephone>
+        <email>xutie889@163.com</email>
+        <affiliation>The Affiliated Hospital of Xuzhou Medical University</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Aged 40 to 80 years male and female;
+2. All the subjects by diagnosis of cerebral infraction by head CT or MRI, and 1 minute ≤ NIHSS≤25 points;
+3. The normal bone marrow hematopoietic function, no bleeding tendency, blood routine examination: HGB≥90 g/L, the WBC &gt; 4.0*10^9/L (NEU acuity 1.5*10^9/L), PLT≥100*10^9/L;
+4. Liver function: the total bilirubin acuities≤1.5 times the upper limit of normal value; AST and ALT acuities≤2.5 times the upper limit of normal value; Alkaline phosphatase acuities≤1.5 times the upper limit of normal value;
+5. Renal function: BUN and Cr acuities≤1.5 times the upper limit of normal, creatinine clearance≥80 ml/min.
+6. Chest CT without evidence of acute inflammation;
+7. No other serious heart, liver, kidney disease, etc;
+8. No serious virus or bacteria infections;
+9. The patient or legal representatives agreed to participate in this study, and sign the informed consent.</inclusion_criteria>
+      <agemin>40</agemin>
+      <agemax>80</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. Highly allergic constitution or a history of severe allergic;
+2. Having a mental or psychological disease can't cooperate with treatment and curative effect evaluation;
+3. The systemic infection or local serious infections of patients should be anti-infection treatment;
+4. The dysfunction of important organs such as heart, lungs, brain, kidney, liver et al;
+5. The dysfunction of blood coagulation such as hemophilia;
+6. Infectious diseases such as HIV, RPR, active tuberculosis, et al;
+7. Patients with severe autoimmune diseases;
+8. Other reasons not included in the healer;
+9. 3 months prior to included other drug clinical research;
+10. Unable or unwilling to provide informed consent or unable to comply with the requirement.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>NIHSS;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>the expense from ourself</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Not approved</status>
+        <approval_date>2013-08-26</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

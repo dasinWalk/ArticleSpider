@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-ONC-17013648</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2017-12-02</date_registration>
+      <primary_sponsor>Beijing Boren Hospita</primary_sponsor>
+      <public_title>Phase I study of sequential chimeric antigen receptor T cells targeting at different B-cell antigens in relapsed B-cell acute lymphoblastic leukemia after allogeneic hematopoietic stem cell transplantation</public_title>
+      <acronym />
+      <scientific_title>Phase I study of sequential chimeric antigen receptor T cells targeting at different B-cell antigens in relapsed B-cell acute lymphoblastic leukemia after allogeneic hematopoietic stem cell transplantation</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2017-12-04</date_enrolment>
+      <type_enrolment />
+      <target_size>Case series:20;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=23337</url>
+      <study_type>Observational study</study_type>
+      <study_design>Case series</study_design>
+      <phase>New Treatment Measure Clinical Study</phase>
+      <hc_freetext>Relapsed B acute lymphoblastic leukemia  after allo-HCT</hc_freetext>
+      <i_freetext>Case series:sequential chimeric antigen receptor T cells treatment;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Biping Deng</firstname>
+        <middlename />
+        <lastname />
+        <address> 6 Zhengwangfen South, Fengtai District, Beijing, China </address>
+        <city />
+        <country1 />
+        <zip>100070</zip>
+        <telephone>+86 18600940225</telephone>
+        <email>dengbp@borenhospital.com</email>
+        <affiliation>Beijing Boren Hospital</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Chunrong Tong</firstname>
+        <middlename />
+        <lastname />
+        <address>6 Zhengwangfen South, Fengtai District, Beijing, China </address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13601301042/010-63290606 </telephone>
+        <email>tongcr@borenhospital.com</email>
+        <affiliation>Beijing Boren Hospital</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Relapsed or refractory patients who have been diagnosed as CD19+/CD22+/CD20+  B-cell acute lymphoblastic leukemia (&gt; 99% of leukemia cells express CD19/CD22/CD20),and all of these patients relapsed after allogeneic hematopoietic stem cell transplantation(In line with NCCN,2015.2);
+2. Aged 1 to 70 years; 
+3. Patients with self-awareness and older than 18 years, who have the ability to sign the consent form and voluntary consent; 
+4. Pediatric patients' legal guardians or the clients authorized by patients sign the consent form and are voluntary to participate in the clinical trials.  </inclusion_criteria>
+      <agemin>1</agemin>
+      <agemax>70</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. Intracranial hypertension or unconsciousness; 
+2. Symptomatic heart failure or severe cardiac arrhythmia; 
+3. Respiratory failure; 
+4. With other types of malignant tumors; 
+5. Disseminated intravascular coagulation; 
+6. Serum creatinine and/or urea nitrogen≥1.5 ×normal; 
+7. Sepsis or other uncontrolled active infection; 
+8. Uncontrolled diabetes; 
+9. Severe mental disorder; 
+10. Obvious intracranial lesions examined by head MRI; 
+11. Cerebrospinal fluid leukemia cells&gt; 20/ul; 
+12. Ratio of blood leukemia cell &gt; 30%; 
+13. WHO physical status classification level≥3; 
+14. Organ transplant recipients; 
+15. Pregnant or lactating women;
+16. With ≥3 aGVHD  or activity and widely cGVHD.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>safety;Ratio of bone marrow and peripheral B leukemia cells;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Beijing Boren Hospital </source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2017-11-16</approval_date>
+        <contact_name>Tong Wu</contact_name>
+        <contact_address>6 Zhengwangfen South, Fengtai district, Beijing, China  </contact_address>
+        <contact_phone>+86 13801044860</contact_phone>
+        <contact_email>wut@borenhospital.com </contact_email>
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

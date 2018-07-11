@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR1800015304</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2018-03-21</date_registration>
+      <primary_sponsor>Jinan Infectious Disease Hosptial</primary_sponsor>
+      <public_title>To evaluate the safety and Efficiency of Human Umbilical Cord Mesenchymal Stem Cell Transfusion in Patients with Decompensated Liver Cirrhosis: A Prospective, Multicenter Clinical Study</public_title>
+      <acronym />
+      <scientific_title>To evaluate the safety and Efficiency of Human Umbilical Cord Mesenchymal Stem Cell Transfusion in Patients with Decompensated Liver Cirrhosis: A Prospective, Multicenter Clinical Study</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2018-04-01</date_enrolment>
+      <type_enrolment />
+      <target_size>High dose group:84;Low dose group:84;Control group:84;</target_size>
+      <recruitment_status>Pending</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=24301</url>
+      <study_type>Observational study</study_type>
+      <study_design>Non randomized control</study_design>
+      <phase>II (Phase II study)</phase>
+      <hc_freetext> Decompensated Liver Cirrhosis</hc_freetext>
+      <i_freetext>High dose group:Transfusion with high dose of MSC;Low dose group:Transfusion with low dose of MSC;Control group:Regular therapy;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Mingming Xie</firstname>
+        <middlename />
+        <lastname />
+        <address>1109 Third Gangxing Road, High-tech Zone, Ji'nan' Shandong, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13256735916</telephone>
+        <email>mm-xie@hotmail.com</email>
+        <affiliation>Shandong Qilu Stem cell engineering CO., LTD</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Jingbo Wang</firstname>
+        <middlename />
+        <lastname />
+        <address>22029 Jingshi Road, Jinan, Shandong, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13335185669</telephone>
+        <email>jingbocn@163.com</email>
+        <affiliation>Jinan Infectious Disease Hosptial</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Clinically diagnosed as decompensated liver cirrhosis;
+2. Hepatitis B/C Liver Cirrhosis After Viral Treatment, HBV/HCV Viral Loads Below Detection Level over six mouths, and the liver function remained below Child-pugh A grade or MELD score &gt;10;
+3. Other causes of cirrhosis, liver function compensatory incomplete;
+4. In the past year, despite active medical treatment taken, the condition has continued to increase, at least because of cirrhosis complications such as ascites, spontaneous peritonitis, gastrointestinal bleeding, and hepatic encephalopathy in hospital over one time;
+5. Need to intermittently supplement albumin and apply diuretic therapy;
+6. Albumin &lt;35 g/L, total bilirubin &lt;170 umol/L, prothrombin activity&gt; 30%;
+(Prothrombin time &lt;20 s, moderate or lower mass ascites, spontaneous peritonitis and hepatic encephalopathy (grade II or lower), Child-pugh score&gt; 5 points);
+7. There was no history of gastrointestinal hemorrhage within the last month and population with no high-risk portal hypertension and gastrointestinal bleeding was evaluated recently;
+8. Unconditional acceptance of orthotopic liver transplantation;
+9. Aged from 18 to 65 years;
+10. Voluntarily signed informed consent form.</inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax>65</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. A malignant tumor with liver or other organs or a history of previous cancer;
+2. Complications include gastrointestinal bleeding, spontaneous peritonitis, hepatic encephalopathy, hepatorenal syndrome, and Acute infection episodes;
+3. Patients with severe heart, lung, kidney or blood system diseases and failure status;
+4. Pregnant or lactating women;
+5. Allergic constitution;
+6. There is a history of alcohol abuse, drug abuse, and failure to effectively quit;
+7. Patients did not participate in other clinical trials within 4 weeks;
+8. Any condition, investigator believe that patients should not participate in this study.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>Overall Survival;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>Liver function;Liver ascites;MELD;Child-pugh;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Jinan Infectious Disease Hosptial</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2018-04-08</approval_date>
+        <contact_name>Mina</contact_name>
+        <contact_address>Chinese Clinical Trial Registry Hong Kong Center, Hong Kong Baptist University Road, Hong Kong SAR, China</contact_address>
+        <contact_phone />
+        <contact_email>chictr@hotmail.com</contact_email>
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

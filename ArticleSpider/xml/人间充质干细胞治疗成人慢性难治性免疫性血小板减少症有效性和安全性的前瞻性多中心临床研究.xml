@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-ONC-17014204</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2017-12-28</date_registration>
+      <primary_sponsor>Sun Yat-sen Memorial Hospital, Sun Yat-sen University</primary_sponsor>
+      <public_title>Evaluation on the efficacy and safety of mesenchymal stem cells for the treatment of relapse/refractory immune thrombocytopenia:a prospective,single arm,multicenter study</public_title>
+      <acronym />
+      <scientific_title>Evaluation on the efficacy and safety of mesenchymal stem cells for the treatment of relapse/refractory immune thrombocytopenia:a prospective,single arm,multicenter study</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2018-02-01</date_enrolment>
+      <type_enrolment />
+      <target_size>Case series:43;</target_size>
+      <recruitment_status>Pending</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=24213</url>
+      <study_type>Observational study</study_type>
+      <study_design>Case series</study_design>
+      <phase>New Treatment Measure Clinical Study</phase>
+      <hc_freetext>Immune thrombocytopenia</hc_freetext>
+      <i_freetext>Case series:MSCs;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Guoyang Zhang</firstname>
+        <middlename />
+        <lastname />
+        <address>107 Yanjiang Road West, Guangzhou, Guangdong, China </address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 15626458957</telephone>
+        <email>15626458957@126.com</email>
+        <affiliation>Sun Yat-sen Memorial Hospital, Sun Yat-sen University</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Liping Ma</firstname>
+        <middlename />
+        <lastname />
+        <address>107 Yanjiang Road West, Guangzhou, Guangdong, China </address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 18922182815</telephone>
+        <email>18922182815@163.com</email>
+        <affiliation>Sun Yat-sen Memorial Hospital, Sun Yat-sen University</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1) aged between 14 to 65 years old;
+2) patient who has been diagnosed with ITP at least 12 months before signing of the informed consent form;
+3) patient who failed to or had a recurrence after splenectomy or had not undergone splenectomy, but had failed to or had a recurrence after at least one second tier therapy of ITP;
+4) for the first 3 weeks before using MSCs, the platelet count must be &lt;30 x 10^9/L;
+5) patient fully understands and can comply with the requirements of the research programme and voluntarily sign informed consent.</inclusion_criteria>
+      <agemin />
+      <agemax />
+      <gender>Both</gender>
+      <exclusion_criteria>1) the abnormal history of bone marrow stem cells or the observation of bone marrow abnormalities that were not unique to the ITP patients;
+2) secondary ITP: patients with platelets reduced associated with autoimmune diseases such as systemic lupus erythematosus;
+3) there is a history of active malignant tumor (except for patients who have not been treated or relapsed within 5 years prior to the signing of informed consent);
+4) with arterial thrombosis (such as cerebral thrombosis transient ,cerebral ischemic attack, or myocardial infarction) ,venous thrombosis (such as deep vein thrombosis pulmonary embolism) medical history or complications or are using anticoagulants and antiplatelet drugs;
+5) has a history of severe cardiovascular diseases (such as arrhythmia or angina pectoris that need coronary artery stents or angioplasty or coronary artery bypass grafting) or cardiac insufficiency(heart ejection fraction was less than 60%);
+6) pregnancy or lactation;
+7) there was a severe drug allergy;
+8) there was an abnormal history of coagulation or abnormal blood coagulation, such as thrombin time - international standardized ratio (PT-INR), and activation of partial thrombin time (APTT) exceeded 20% of the normal range;
+9) viral test: hepatitis c virus antibody, human immunodeficiency virus antibody positive (HIV) or the number of copies of HBV DNA is more than 1000 CPS/ml;
+10) liver function index (ALT or TBIL) is more than twice the normal value;
+11) the renal function index (Cr or BUN) is more than twice the normal value;
+12) the researchers judged that the patients were not suitable for participating in this test.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>Overall response rate;Safety of MSC treatment;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>Quality of life;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Sun Yat-Sen Clinical Research Cultivating Program</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2017-11-16</approval_date>
+        <contact_name>Shuangxiu Lin</contact_name>
+        <contact_address>107 Yanjiang Road West, Guangzhou, Guangdong, China</contact_address>
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

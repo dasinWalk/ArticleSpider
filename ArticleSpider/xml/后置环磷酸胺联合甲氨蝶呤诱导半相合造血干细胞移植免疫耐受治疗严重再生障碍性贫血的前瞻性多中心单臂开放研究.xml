@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-ONC-17012896</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2017-10-07</date_registration>
+      <primary_sponsor>Xiangya Hosptial of Central South University</primary_sponsor>
+      <public_title>Haploidentical Stem Cell Transplantation with Post-Transplant Cyclophosphamide Combined with Short-Term Methotrexate for Severe Aplastic Anemia</public_title>
+      <acronym>PTCy with MTX post HIT at SAA</acronym>
+      <scientific_title>Haploidentical Stem Cell Transplantation with Post-Transplant Cyclophosphamide Combined with Short-Term Methotrexate for Severe Aplastic Anemia：a multicenter, prospective, open-label, single-arm II/III phase study</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2017-10-01</date_enrolment>
+      <type_enrolment />
+      <target_size>Case series:30;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=22056</url>
+      <study_type>Observational study</study_type>
+      <study_design>Case series</study_design>
+      <phase>New Treatment Measure Clinical Study</phase>
+      <hc_freetext>Aplastic Anemia</hc_freetext>
+      <i_freetext>Case series:Post-Transplant Cyclophosphamide Combined with Short-Term Methotrexate;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Bin Fu</firstname>
+        <middlename />
+        <lastname />
+        <address>87 Xiangya Road, Changsha, Hu'nan, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 0731 89753731</telephone>
+        <email>xyfubin@126.com</email>
+        <affiliation>Xiangya Hosptial of Central South University</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Bin Fu</firstname>
+        <middlename />
+        <lastname />
+        <address>87 Xiangya Road, Changsha, Hu'nan, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 0731 89753731</telephone>
+        <email>xyfubin@126.com</email>
+        <affiliation>Xiangya Hosptial of Central South University</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. aged 2 to 65 years (including 2 and 65 years);
+2. severe aplastic anemia or transplansion dependant aplastic anemia by Camitta criteria;
+3. No HLA matched sibling or unrelated donor,or requiring prompt transplantation without finding HLA consistent donor opportunities;
+4. sign informed consent.</inclusion_criteria>
+      <agemin>2</agemin>
+      <agemax>65</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. The physical fitness score is less than 70 points;
+2. HCT specificity prognostic index (HCT-CT) was greater than 4 (including 4 points);
+3. uncontrolled viral, bacterial, and fungal infections (progression of disease during antifungal therapy);
+4. HIV seropositive;
+5. malignant tumor;
+6. pregnant and lactating women;
+7. men and women who do not agree to contraception during the trial period;
+8. researchers believe that patients are not eligible for clinical trials.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>over survival;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>Rate of aGVHD;Incidence of regimen-related mortality;incidence of chronic GVHD;Sustained engraftment;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Researchers</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2017-09-12</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

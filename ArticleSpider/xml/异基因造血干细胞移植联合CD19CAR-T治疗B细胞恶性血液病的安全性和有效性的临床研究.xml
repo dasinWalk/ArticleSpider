@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-OIC-17012374</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2017-08-15</date_registration>
+      <primary_sponsor>The Affiliated Hospital of Xuzhou Medical University</primary_sponsor>
+      <public_title>Clinical study on the safety and efficacy of allogeneic hematopoietic stem cell transplantation combined with CD19 CAR-T in the treatment of B-cell hematologic malignancies</public_title>
+      <acronym />
+      <scientific_title>Clinical study on the safety and efficacy of allogeneic hematopoietic stem cell transplantation combined with CD19 CAR-T in the treatment of B-cell hematologic malignancies</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2017-08-01</date_enrolment>
+      <type_enrolment />
+      <target_size>1:20;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=20069</url>
+      <study_type>Observational study</study_type>
+      <study_design>Case series</study_design>
+      <phase>II (Phase II study)</phase>
+      <hc_freetext>B-cell hematologic malignancies</hc_freetext>
+      <i_freetext>1:CAR-T cells;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Jiang Cao</firstname>
+        <middlename />
+        <lastname />
+        <address>99 Huaihai Road West, Xuzhou, Jiangsu, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13852432263</telephone>
+        <email>zimu05067@163.com</email>
+        <affiliation>The Affiliated Hospital of Xuzhou Medical University</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Kailin Xu</firstname>
+        <middlename />
+        <lastname />
+        <address>99 Huaihai Road West, Xuzhou, Jiangsu, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 0516 85802398</telephone>
+        <email>lihmd@163.com</email>
+        <affiliation>The Affiliated Hospital of Xuzhou Medical University</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Aged 5-65 years;
+2. Expected survival beyond 12 weeks;
+3. Patients with B-cell hematologic malignancies, and consistent with allogeneic hematopoietic stem cell transplantation standards;
+4. Creatinine &lt;2.5mg/dl;
+5. ALT /AST&lt;3 normal value;
+6. Bilirubin &lt; 2.0 mg/dl;
+7. Karnofsky score &gt;50;
+8. Patients without severe liver, kidney, heart disease;
+9. Voluntary participation in the clinical trials.</inclusion_criteria>
+      <agemin>5</agemin>
+      <agemax>65</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. Patients in pregnancy or breast-feeding period; Planning pregnancy within 6 months;
+2. HIV or active TB infected;
+3. Active hepatitis B or hepatitis C infection;
+4. Feasibility assessment during screening demonstrates &lt;10% transduction of target lymphocytes, or insufficient expansion (&lt;5-fold) in response to CD3/CD28 costimulation;
+5. Patients with abnormal vital signs or could not cooperate with inspectors;
+6. History of mental disorders;
+7. Highly allergic constitution or severe allergies, especially allergic to IL-2;
+8. Systemic infection or serious infections should be local anti-infection treatment;
+9. With heart, lung, brain, kidney and other important organ dysfunction;
+10. Presence of severe autoimmune disease;
+11. Other situations we think improper for the research.  </exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>Complete remission rate;Progression Free Survival;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>Overall Survival;Safety;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Self-financing</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>1990-01-01</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR1800014623</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2018-01-24</date_registration>
+      <primary_sponsor>Tongji Hospital of Tongji University </primary_sponsor>
+      <public_title>A prospective study on therapeutic effect of Mesenchymal stem cell on patients with primary Sjogren Syndrome</public_title>
+      <acronym />
+      <scientific_title>A prospective study on therapeutic effect of Mesenchymal stem cell on patients with primary Sjogren Syndrome</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2018-02-01</date_enrolment>
+      <type_enrolment />
+      <target_size>stem cell group:20;hydroxychloroquine group:20;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=24947</url>
+      <study_type>Interventional study</study_type>
+      <study_design>Randomized parallel controlled trial</study_design>
+      <phase>New Treatment Measure Clinical Study</phase>
+      <hc_freetext>Sjogren Syndrome</hc_freetext>
+      <i_freetext>stem cell group: Intravenous use mesenchymal stem cell ;hydroxychloroquine group:oral use hydroxychloroquine ;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Xuan Wang</firstname>
+        <middlename />
+        <lastname />
+        <address>389 Xincun Road, Putuo District, Shanghai, China</address>
+        <city />
+        <country1 />
+        <zip>200065</zip>
+        <telephone>+86 13918745569</telephone>
+        <email>baroquewang@icloud.com</email>
+        <affiliation>Tongji Hospital of Tongji University</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Jianping Tang</firstname>
+        <middlename />
+        <lastname />
+        <address>389 Xincun Road, Putuo District, Shanghai, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 18964869005</telephone>
+        <email>tangjp6512@126.com</email>
+        <affiliation>Tongji Hospital of Tongji University</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>(1) According to 2002 International Classification Standard for Sjogren syndrome;
+(2) informed consent signed;approved by Ethics Committee of Tongji hospital;
+(3) aged from 18 to 65 years old, male or female;
+(4) ESSDAI≥4.
+At least 1 of the following 3 items:
+(5) refractory immune Leukopenia or thrombocytopenia;
+(6) interstitial lung disease;
+(7) cannot be healed by conventional immunosuppressive therapy.</inclusion_criteria>
+      <agemin />
+      <agemax />
+      <gender>Both</gender>
+      <exclusion_criteria>(1) patient In remission;
+(2) severe organ dysfunction(heart/lung/liver/kidney);
+(3) combined with systemic infection or severe focal infection;
+(4) a variety of drug allergies;
+(5) breast-feeding and pregnant women.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>ESSDAI;immunoglobulin;complement;thrombocyte;leukocyte;pulmonary CT;salivary flow rate;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>antinuclear antibodies;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Fund of Tongji hospital</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Not approved</status>
+        <approval_date>2013-08-26</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

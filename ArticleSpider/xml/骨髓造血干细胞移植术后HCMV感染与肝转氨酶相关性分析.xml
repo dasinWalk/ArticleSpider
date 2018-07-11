@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-RCH-08000179</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2008-09-04</date_registration>
+      <primary_sponsor>Contagious Department of the first affiliated hospital of Zhejiang University, Hangzhou, China</primary_sponsor>
+      <public_title>Correlation analysis of HCMV infection and hepatic transaminase after bone marrow hemopoietic stem cell transplantation surgery</public_title>
+      <acronym />
+      <scientific_title>Correlation analysis of HCMV infection and hepatic transaminase after bone marrow hemopoietic stem cell transplantation surgery</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2005-01-01</date_enrolment>
+      <type_enrolment />
+      <target_size>Infected group:10;No infection group:10;</target_size>
+      <recruitment_status>Completed</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=9346</url>
+      <study_type>Relative factors research</study_type>
+      <study_design>Cohort study</study_design>
+      <phase>I (Phase I study)</phase>
+      <hc_freetext>HCMV infection after bone marrow transplantation surgery</hc_freetext>
+      <i_freetext>Infected group:Ganciclovir administration for 8 days before transplantatioin (500mg / day, i.v.); Ganicclvir for 14days or until antigen negative conversion if there exists HCMV infection (500mg/day, ivgtt, bid).   ;No infection group:The patients were divided into infection or control group based on the difference of HCMV pp65 in peripheral blood.   ;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Hong Zhao</firstname>
+        <middlename />
+        <lastname />
+        <address>Contagious Department of the first affiliated hospital of Zhe Jiang University, The national key laboratory of contagious diseases (18th floor, section A, 6th Building)</address>
+        <city />
+        <country1 />
+        <zip>310003</zip>
+        <telephone>+86 15858224023</telephone>
+        <email>zhaohong0235@yahoo.com.cn</email>
+        <affiliation>Zhejiang University</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Weihang Ma</firstname>
+        <middlename />
+        <lastname />
+        <address>Contagious Department of the first affiliated hospital of Zhe Jiang University, The national key laboratory of contagious diseases (18th floor, section A, No. 6 building)</address>
+        <city />
+        <country1 />
+        <zip>310003</zip>
+        <telephone>+86 15858224023</telephone>
+        <email>maweihang@zju.edu.cn</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>Inclusion criteria for enrollment of patients were follow-up regularly more than 3 months after transplantation in our hospital and written informed consent.</inclusion_criteria>
+      <agemin>0</agemin>
+      <agemax>0</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>noneInclusion criteria for enrollment of patients were follow-up regularly more than 3 months after transplantation in our hospital and written informed consent.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>Onset time of antigen, amounts of pp65 and IE;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>noneAge, sex;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>The national natural science foundation, national 973 project</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2008-11-04</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-IIR-16008182</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2016-03-29</date_registration>
+      <primary_sponsor>Department of Hematology, Xinqiao Hospital, Third Military Medical University</primary_sponsor>
+      <public_title>The multicenter, randomized parallel controlled, open clinical trial of G-CSF priemed low-dose dicitabine in the prophylaxis of high risk acute myeloid leukemia relapse after allogenetic hematopoietic stem cell transplantation</public_title>
+      <acronym />
+      <scientific_title>The clinical trial of G-CSF priemed low-dose dicitabine in the prophylaxis of high risk acute myeloid leukemia relapse after allogenetic hematopoietic stem cell transplantation</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2016-03-24</date_enrolment>
+      <type_enrolment />
+      <target_size>G-CSF+Dicitabine:121;control:121;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=13788</url>
+      <study_type>Interventional study</study_type>
+      <study_design>Randomized parallel controlled trial</study_design>
+      <phase>II (Phase II study)</phase>
+      <hc_freetext>high risk acute myeloid leukemia</hc_freetext>
+      <i_freetext>G-CSF+Dicitabine:G-CSF(150ug d1-6) and dicitabine (5mg/m2 d2-6);control:No intervention;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Lei Gao</firstname>
+        <middlename />
+        <lastname />
+        <address>183 Xinqiao Main Street, Shapingba District, Chongqing</address>
+        <city />
+        <country1 />
+        <zip>400037</zip>
+        <telephone>+86 13228689635</telephone>
+        <email>gaolei7765@163.com</email>
+        <affiliation>Department of Hematology, Xinqiao Hospital, Third Military Medical University</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Lei Gao</firstname>
+        <middlename />
+        <lastname />
+        <address>183 Xinqiao Main Street, Shapingba District, Chongqing</address>
+        <city />
+        <country1 />
+        <zip>400037</zip>
+        <telephone>+86 13228689635</telephone>
+        <email>gaolei7765@163.com</email>
+        <affiliation>Department of Hematology, Xinqiao Hospital, Third Military Medical University</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. High risk AML patients 60-100 days after allo-HSCT and without aGVHD;
+2. Aged &lt; 60, KPS score &gt; 60,expected survival &gt; 3 months;
+3. No serious organ dysfunction;
+4. Informed consent.</inclusion_criteria>
+      <agemin>1</agemin>
+      <agemax>60</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. Have serious organ dysfunction;
+2. Combined with other cancer need treatment;
+3. Presence of clinical signs of brain dysfunction or severe mental illness can not comply with the study protocol;
+4. Can not guarantee the completion of the treatment plan and the necessary follow-up observation.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>relapse;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>graft versus host disease;overall survival;disease free survival;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Clinical Founding of Xinqiao Hospital</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2016-03-24</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

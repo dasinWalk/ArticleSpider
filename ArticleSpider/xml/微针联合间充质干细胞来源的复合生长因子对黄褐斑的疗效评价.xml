@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR1800014246</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2018-01-01</date_registration>
+      <primary_sponsor>Beijing Friendship Hospital affiliated to Capital Medical University</primary_sponsor>
+      <public_title>Efficaay of microneedling plus mixed growth factors solutions derived from human mesenchymal stem cell for chloasma</public_title>
+      <acronym />
+      <scientific_title>Efficacy of microneedling plus mixed growth factors solutions derived from human mesenchymal stem cell for chloasma: a Randomized, Controlled, Blinded Split-Fcae Study </scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2018-01-01</date_enrolment>
+      <type_enrolment />
+      <target_size>Two groups:25;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=24357</url>
+      <study_type>Interventional study</study_type>
+      <study_design>Randomized parallel controlled trial</study_design>
+      <phase>New Treatment Measure Clinical Study</phase>
+      <hc_freetext>Chloasma</hc_freetext>
+      <i_freetext>Two groups:microneedling versus microneedling plus mixed growth factors solutions;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan>Yes</results_IPD_plan>
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Zhuo Fenglin</firstname>
+        <middlename />
+        <lastname />
+        <address>95 Yong'an Road, Xicheng District, Beijing, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 15910895068</telephone>
+        <email>zflsunny@hotmail.com</email>
+        <affiliation>Beijing Friendship Hospital affiliated to Capital Medical University</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Zhuo Fenglin</firstname>
+        <middlename />
+        <lastname />
+        <address>95 Yong'an Road, Xicheng District, Beijing, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 15910895068</telephone>
+        <email>zflsunny@hotmail.com</email>
+        <affiliation>Beijing Friendship Hospital affiliated to Capital Medical University</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Aged 30-60 years old male and female;
+2. 2 deputy chief physician diagnosed chloasma;
+3. Facial skin intact, no obvious inflammation, ulceration, exudation;
+4. No facial filler such as hyaluronic acid or laser/light treatment;
+5. No oral steroids, collagen powder/liquid, or topical hyaluronic acid used in the last 3 months;
+6. No skin whitening products in the last 2 weeks.</inclusion_criteria>
+      <agemin>35</agemin>
+      <agemax>60</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. Pregnant or in breast-feeding peroid;
+2. Facial dermatitis patients;
+3. Allergic to trial medcine or its ingredient;
+4. Have severe cardiovascular, cerebrovascular, renal, hepatic or hematopoietic disease;
+5. Poor coagulation function;
+6. Taking part in other clinical trials;
+7. People that researchers believe they are not suitable to participate in the study.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>skin pores;skin texture;skin wrinkle;UV spots;Black brown spots;Erythema;skin hydration;skin transepidermal water loss;skin elasticity;skin melanin index;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>self-financing</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2017-11-13</approval_date>
+        <contact_name>Li Yue</contact_name>
+        <contact_address />
+        <contact_phone>86-13661202501</contact_phone>
+        <contact_email>13661202501@163.com</contact_email>
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

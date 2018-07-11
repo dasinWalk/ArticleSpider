@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR1800014948</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2018-02-25</date_registration>
+      <primary_sponsor>Shanghai Tongji Hospital</primary_sponsor>
+      <public_title>Clinical study of bone marrow stromal stem cells composite new gel to promote cartilage differentiation and repair cartilage defects.</public_title>
+      <acronym />
+      <scientific_title>Clinical study of bone marrow stromal stem cells composite new gel to promote cartilage differentiation and repair cartilage defects.</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2018-04-01</date_enrolment>
+      <type_enrolment />
+      <target_size>Case series:5;</target_size>
+      <recruitment_status>Pending</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=25388</url>
+      <study_type>Observational study</study_type>
+      <study_design>Before-After control</study_design>
+      <phase>Pilot study</phase>
+      <hc_freetext>cartilage defects</hc_freetext>
+      <i_freetext>Case series:gel transplantation;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Mingzhu Zhang</firstname>
+        <middlename />
+        <lastname />
+        <address>389 Xincun Road, Shanghai, China</address>
+        <city />
+        <country1 />
+        <zip>200065</zip>
+        <telephone>+86 18717756343</telephone>
+        <email>michaelzhang120@hotmail.com</email>
+        <affiliation>Shanghai Tongji Hospital</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Mingzhu Zhang</firstname>
+        <middlename />
+        <lastname />
+        <address>389 Xincun Road, Shanghai, China</address>
+        <city />
+        <country1 />
+        <zip>200065</zip>
+        <telephone>+86 18717756343</telephone>
+        <email>michaelzhang120@hotmail.com</email>
+        <affiliation>Shanghai Tongji Hospital</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>we will focus on animal experiments</inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax>80</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria> Patients had fracture history.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>defect healing area;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>From Tongji Hospital</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Not approved</status>
+        <approval_date>2013-08-26</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR1800016219</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2018-05-20</date_registration>
+      <primary_sponsor>Affiliated hospital of Shandong University of traditional Chinese medicine</primary_sponsor>
+      <public_title>Effects of Electroacupuncture and Chinese Herbs on the Female Germline Stem Cells in Granulosa Cells and clinical outcomes of PCOS Women with Kidney Deficiency Syndrome</public_title>
+      <acronym />
+      <scientific_title>Effects of Electroacupuncture and Chinese Herbs on the Female Germline Stem Cells in Granulosa Cells and clinical outcomes of PCOS Women with Kidney Deficiency Syndrome</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2018-05-21</date_enrolment>
+      <type_enrolment />
+      <target_size>EA&amp;herbs Group:33;Herbs Group:33;EA Group:33;Ctrl Group:33;Male Group:33;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=17607</url>
+      <study_type>Interventional study</study_type>
+      <study_design>Randomized parallel controlled trial</study_design>
+      <phase>Other</phase>
+      <hc_freetext>infertility</hc_freetext>
+      <i_freetext>EA&amp;herbs Group:acupuncture and Chinese herbs;Herbs Group:Chinese herbs;EA Group:acupuncture;Ctrl Group:No;Male Group:placebo;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>WU HAICUI</firstname>
+        <middlename />
+        <lastname />
+        <address>42 Wenhua Road West, Jinan, Shandong, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 15069129571</telephone>
+        <email>haicui_w@163.com</email>
+        <affiliation>Affiliated hospital of Shandong University of traditional Chinese medicine</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>WU HAICUI</firstname>
+        <middlename />
+        <lastname />
+        <address>42 Wenhua Road West, Jinan, Shandong, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>15069129571</telephone>
+        <email>haicui_w@163.com</email>
+        <affiliation>Affiliated hospital of Shandong University of traditional Chinese medicine</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>Married women aged 25-40 years old; those diagnosed as infertility and PCOS; those diagnosed as Kidney deficiency syndrome; clear communication skills with hospital researchers, and normal hormonal test result range.</inclusion_criteria>
+      <agemin>25</agemin>
+      <agemax>40</agemax>
+      <gender>Female</gender>
+      <exclusion_criteria>(1) recieved hormonal therapy in the latest 3 months;
+(2) cannot endure pregnancy due to severe body diseases;
+(3) accompanied with severe mental diseases, acute urogenital system inflammation, sexually transmitted disease;
+(4) with hereditary disease that are not allowed to have baby; drug abuser or having harmful addiction; in touch with radiation, toxin, drug within action period that could cause malformation.
+The patients participating in this trial had to withdraw all the other Chinese herbal decoctions and Chinese patent medicines.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;;;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>syndrome score;The clinical pregnancy rate;KL/c-kit/FOXO3a RNA and protein expression;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Natural Science Fund project of the Department of Science and Technology in Shandong province</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2017-02-16</approval_date>
+        <contact_name>Sun Jinlong</contact_name>
+        <contact_address>42 Wenhua Road West, Jinan, Shandong, China</contact_address>
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

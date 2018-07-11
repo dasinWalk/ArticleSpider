@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR1800015259</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2018-03-19</date_registration>
+      <primary_sponsor>ZhongDa Hospital Southeast University </primary_sponsor>
+      <public_title>Clinical study of cord blood transplantation with modified and dose-reduced BUCY regimen on the treatment of hematological malignancies</public_title>
+      <acronym />
+      <scientific_title>Clinical study of cord blood transplantation with modified and dose-reduced BUCY regimen on the treatment of hematological malignancies</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2018-03-20</date_enrolment>
+      <type_enrolment />
+      <target_size>Case series:75;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=25644</url>
+      <study_type>Observational study</study_type>
+      <study_design>Case series</study_design>
+      <phase>New Treatment Measure Clinical Study</phase>
+      <hc_freetext>malignant hematological disease </hc_freetext>
+      <i_freetext>Case series:modified and dose-reduced BUCY;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Ding Jiahua</firstname>
+        <middlename />
+        <lastname />
+        <address>87-1 Ding jiaqiao Road, Gulou District, Nanjing, Jiangsu, China</address>
+        <city />
+        <country1 />
+        <zip>210009</zip>
+        <telephone>+86 13809027048</telephone>
+        <email>973092642@qq.com</email>
+        <affiliation>Zhongda Hospital Southeast University  </affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Ding Jiahua</firstname>
+        <middlename />
+        <lastname />
+        <address>87-1 Ding jiaqiao Road, Gulou District, Nanjing, Jiangsu, China </address>
+        <city />
+        <country1 />
+        <zip>210009</zip>
+        <telephone>+86 13809027048</telephone>
+        <email>973092642@qq.com</email>
+        <affiliation>Zhongda Hospital Southeast University</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>(1) aged 2 to 65 years;
+(2) absence a HLA-matched sibling donor, and/or in need of an urgent allograft;
+(3) at freezing, nucleated cell dose should be&gt;2.5x107/kg and CD34 cell dose &gt;1.2x105/kg; if the cell dose was insufficient with a single CBU, double cord blood unit was used;
+(4) the score of Karnofsky ≥60;
+(5) Signed written informed consent. </inclusion_criteria>
+      <agemin>2</agemin>
+      <agemax>65</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>(1) Serious viscera dysfunction or disease, such as serious diseases and function disorder in heart, liver, kidney and pancreas;
+(2) Patients with pregnancy;
+(3) Participants and/or authorized family members refused to accept UCBT;
+(4) Researchers believe that can damage the unnecessary risks to safety, make the results of the study subjects any life-threatening illness, condition or organ system dysfunction; drug dependence; uncontrolled mental disease; cognitive impairment;
+(5) Researchers think that the patient doesn't fit into the study. </exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>Cumulative rate of neutrophil engraftment;Cumulative rate of platelet engraftment;Overall survival;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>GVHD;chimerism;relapse;TRM;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Self-financing</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2016-05-11</approval_date>
+        <contact_name>Ming Chen</contact_name>
+        <contact_address>87-1 Ding jiaqiao Road, Gulou District, Nanjing, Jiangsu, China</contact_address>
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

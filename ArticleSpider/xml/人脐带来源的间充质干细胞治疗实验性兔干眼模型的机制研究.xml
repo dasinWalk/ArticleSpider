@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-BOC-17014128</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2017-12-24</date_registration>
+      <primary_sponsor>Tianjin Medical University Eye Hospital</primary_sponsor>
+      <public_title>Human Umbilical Cord Mesenchymal Stem Cell Treatment Alleviates Experimental Dry Eye Syndrome in a Rabbit Model</public_title>
+      <acronym />
+      <scientific_title>Human Umbilical Cord Mesenchymal Stem Cell Treatment Alleviates Experimental Dry Eye Syndrome in a Rabbit Model</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2018-01-01</date_enrolment>
+      <type_enrolment />
+      <target_size>Case series:6;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=24170</url>
+      <study_type>Basic science</study_type>
+      <study_design>Case series</study_design>
+      <phase>Other</phase>
+      <hc_freetext>autoimmune dacryoadenitis</hc_freetext>
+      <i_freetext>Case series:human umbilical cord mesenchymal stem cells therapy;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Xiaoxiao Lu</firstname>
+        <middlename />
+        <lastname />
+        <address>251 Fukang Road, Nankai District, Tianjin, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13512220897</telephone>
+        <email>13512220897@163.com</email>
+        <affiliation>Tianjin Medical University Eye Hospital</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Ruihua Wei</firstname>
+        <middlename />
+        <lastname />
+        <address>251 Fukang Road, Nankai District, Tianjin, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 22-86428862</telephone>
+        <email>weirhua2009@126.com</email>
+        <affiliation>Tianjin Medical University Eye Hospital</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>healthy pregnancy following caesarean section at term (37-40weeks gestation)</inclusion_criteria>
+      <agemin />
+      <agemax />
+      <gender>Female</gender>
+      <exclusion_criteria>pregnancy with systemic disease; pregnancy by normal spontaneous vaginal delivery; healthy pregnancy following caesarean section at term (＜37 weeks gestation)</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>inflammatory factors and Tregs in lacrimal glands and spleens;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>the National Natural Science Foundation of China</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Not approved</status>
+        <approval_date>2013-08-26</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

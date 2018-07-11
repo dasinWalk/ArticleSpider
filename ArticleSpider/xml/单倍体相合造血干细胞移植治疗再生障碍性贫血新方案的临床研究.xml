@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-ONC-16010221</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2016-12-22</date_registration>
+      <primary_sponsor>Department of Hematology, General Hospital of the Air Force</primary_sponsor>
+      <public_title>Haplo-identical transplantation for acquired severe aplastic anaemia</public_title>
+      <acronym />
+      <scientific_title>Haplo-identical transplantation for acquired severe aplastic anaemia</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2017-01-01</date_enrolment>
+      <type_enrolment />
+      <target_size>haplo-HSCT:34;HSCT:34;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=17142</url>
+      <study_type>Observational study</study_type>
+      <study_design>Cohort study</study_design>
+      <phase>New Treatment Measure Clinical Study</phase>
+      <hc_freetext>aplastic anemia</hc_freetext>
+      <i_freetext>haplo-HSCT:haplo-HSCT;HSCT:HSCT;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Han Dongmei</firstname>
+        <middlename />
+        <lastname />
+        <address>30 Fucheng Road, Haidian, Beijing</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13439752779</telephone>
+        <email>handm1981@sina.com</email>
+        <affiliation> General Hospital of the Air Force</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Wang Hengxiang</firstname>
+        <middlename />
+        <lastname />
+        <address>30 Fucheng Road, Haidian, Beijing</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 15611161119</telephone>
+        <email>wanghengxiang123@aliyun.com</email>
+        <affiliation> General Hospital of the Air Force</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. SAA, including patients with type I and type II SAA;
+2. between the ages of 1-50 years old, male or female;
+3. families signed the informed consent and donor signed the hematopoietic stem cell donation consent;
+4. non HLA matched donor;
+5. severe transfusion dependent patients;
+6. invalid immunosuppressive therapy or relapse;
+7. with follow-up conditions.</inclusion_criteria>
+      <agemin>2</agemin>
+      <agemax>55</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. PNH or Fanconi aplastic anemia;
+2. chromosomal analysis showed clonal disease;
+3. major organ dysfunction;
+4. tumor and the serious infectious diseases;
+5. severe infection;
+6. others not suitable for Haplo-HSCT.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>Platelet engraftment rate;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>Neutrophil engraftment;Graft-versus-host disease;Infection and transplantation related mortality;3-year OS;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Capital clinical characteristics fund </source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2015-01-12</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

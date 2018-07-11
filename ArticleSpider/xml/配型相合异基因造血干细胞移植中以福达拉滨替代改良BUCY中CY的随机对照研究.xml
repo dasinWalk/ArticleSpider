@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-TRC-09000470</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2009-07-15</date_registration>
+      <primary_sponsor>People's hospital of Peking University</primary_sponsor>
+      <public_title>Randomized control trial of the conditioning BUCy regimen with fludarabincin instead of cyclophosphomide in allogeneic hematopoietic stem cell transplantation from identical siblings</public_title>
+      <acronym />
+      <scientific_title>Randomized control trial of the conditioning BUCy regimen with fludarabincin instead of cyclophosphomide in allogeneic hematopoietic stem cell transplantation from identical siblings</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2009-01-01</date_enrolment>
+      <type_enrolment />
+      <target_size>Group B:100;Group A:100;</target_size>
+      <recruitment_status>Completed</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=9064</url>
+      <study_type>Interventional study</study_type>
+      <study_design>Randomized parallel controlled trial</study_design>
+      <phase>Other</phase>
+      <hc_freetext>Hematological malignancies</hc_freetext>
+      <i_freetext>Group B:cyclophosphomide, 1.8g/m2/d*2d, intravenouly;Group A:fludarubincin, 30mg/m2/dx3d, intravenously  ;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Daihong Liu</firstname>
+        <middlename />
+        <lastname />
+        <address>No.11, South Xizhimen Street, Xicheng District, Beijing, China</address>
+        <city />
+        <country1 />
+        <zip>100044</zip>
+        <telephone>+86 13681171597</telephone>
+        <email>daihongk1@yahoo.com.cn</email>
+        <affiliation>People's hospital of Peking University</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Xiaojun Huang</firstname>
+        <middlename />
+        <lastname />
+        <address>No.11, South Xizhimen Street, Xicheng District, Beijing, China</address>
+        <city />
+        <country1 />
+        <zip>100044</zip>
+        <telephone>+86 010 88326006</telephone>
+        <email>xjhrm@medmail.com.cn</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Male and female aged 18 to 55 years old;
+2. Hematological malignancies indicating for allogeneic transplantation, with identical sibling as donor, with indication for the previous modified BUCY conditioning;
+3. Signed informed consent.</inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax>55</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>Patients whose organ function can not tolerate the myeloablative transplantation.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>Transplantation related mortality;Rate of survival and relaps;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>Incidence of engraftment, opportunistic infection,;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Self-funding</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Not approved</status>
+        <approval_date>2013-08-26</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

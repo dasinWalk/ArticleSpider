@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR1800015353</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2018-03-25</date_registration>
+      <primary_sponsor>Department of hematology, Xinqiao hospital, Army Medical University</primary_sponsor>
+      <public_title>Clinical study on prophylactic infusin of CAR-T cells  in preventing relapse of acute lymphoblatic leuekmia after allogeneic stem cell transplantation </public_title>
+      <acronym />
+      <scientific_title>Effect of prophylactic infusin of CAR-T cells  in preventing relapse of acute lymphoblatic leuekmia after allogeneic stem cell transplantation: A phase I, non-blind, non-control,single-central study</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2018-03-12</date_enrolment>
+      <type_enrolment />
+      <target_size>Case series:33;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=26164</url>
+      <study_type>Treatment study</study_type>
+      <study_design>Case series</study_design>
+      <phase>New Treatment Measure Clinical Study</phase>
+      <hc_freetext>B-cell acute lymphoblastic leukemia </hc_freetext>
+      <i_freetext>Case series:CAR-T cell;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Zhang  Cheng</firstname>
+        <middlename />
+        <lastname />
+        <address>Department of hematology, Xinqiao hospital, Army Medical University</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 023-68774209</telephone>
+        <email>chzhang2014@163.com</email>
+        <affiliation>Department of hematology, Xinqiao hospital, Army Medical University</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Zhang Cheng</firstname>
+        <middlename />
+        <lastname />
+        <address>Department of hematology, Xinqiao hospital, Army Medical University</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 023-687774209</telephone>
+        <email>chzhang2014@163.com</email>
+        <affiliation>Department of hematology, Xinqiao hospital, Army Medical University</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. The patients with the B-cell acute lymphoblast leukemia with molecular relapse after allogeneic hematopoietic stem cell transplantation with CD19 expression;
+2. no GVHD, Male or Femal with any ages;
+3. The estimated survival is over three months;
+4. ECOG performance status of &lt;=2 at study entry;
+5. The important organs are function,such as heart and brain. </inclusion_criteria>
+      <agemin />
+      <agemax />
+      <gender>Both</gender>
+      <exclusion_criteria>1. The uncontroled infection. HBV and HCV are positive;
+2. The patients received any cell immunotherapy in the past. </exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>One-year disease-free survival;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>One-year disease-free overalsurvival;GVHD;Infection;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Found by the key clinical foundation of Xinqiao Hospital, Army Medical Univsesity</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2018-03-11</approval_date>
+        <contact_name>Chinese Clinical Trial Registry Hong Kong Center, Kowloon Tong Hong Kong Baptist University, Hong Kong SR, China</contact_name>
+        <contact_address>Chinese Clinical Trial Registry Hong Kong Center, Kowloon Tong Hong Kong Baptist University, Hong Kong SR, China</contact_address>
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

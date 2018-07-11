@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-ONRC-12002982</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2012-12-31</date_registration>
+      <primary_sponsor>First Affilliated Hospital of Zhejiang University School of Medicine</primary_sponsor>
+      <public_title>Comparison of allogeneic hematopoietic cell transplantation and chemotherapy as postremission therapy for acute leukemia in first complete remission</public_title>
+      <acronym />
+      <scientific_title>Comparison of allogeneic hematopoietic cell transplantation and chemotherapy as postremission therapy for acute leukemia in first complete remission</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2006-01-01</date_enrolment>
+      <type_enrolment />
+      <target_size>Group A:200;Group B:300;</target_size>
+      <recruitment_status>Completed</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=6573</url>
+      <study_type>Observational study</study_type>
+      <study_design>Non randomized control</study_design>
+      <phase>Other</phase>
+      <hc_freetext>acute leukemia</hc_freetext>
+      <i_freetext>Group A:chemotherapy;Group B:allogeneic hematopoietic cell transplantation;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Lai Xiaoyu</firstname>
+        <middlename />
+        <lastname />
+        <address>Bone Marrow Transplantation Center, First Affilliated Hospital of Zhejiang University School of Medicine, 79 Qingchun Road, Hangzhou, Zhejiang</address>
+        <city />
+        <country1 />
+        <zip>310003</zip>
+        <telephone>+86 571 13906522019</telephone>
+        <email>lailaixy@126.com</email>
+        <affiliation>First Affilliated Hospital of Zhejiang University School of Medicine</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Huang He</firstname>
+        <middlename />
+        <lastname />
+        <address>Bone Marrow Transplantation Center, First Affilliated Hospital of Zhejiang University School of Medicine, 79 Qingchun Road, Hangzhou, Zhejiang</address>
+        <city />
+        <country1 />
+        <zip>310003</zip>
+        <telephone>+86 571 87236706</telephone>
+        <email>hehuangyu@126.com</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2 />
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. acute leukemia patient according to 2008 WHO criteria, including acute lymphoblastic leukemia, acute myloied leukemia with intermediate risk and poor risk;
+2. Aged more than 14 years old and less than 60 years old;
+3. Physical score 0~2（WHO);
+4. Sign the informed consent document.</inclusion_criteria>
+      <agemin>14</agemin>
+      <agemax>60</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. diagnosis as acute myloied leukemia with better risk;
+2. contraindication of hematopoietic stem cell transplantation, e.g. uncontrolled active infection and severe cardiac, hepatic, renal and pulmonary disease;
+3. Pregnant;
+4. Mental disorder;
+5. Physical score&gt;3（WHO);
+6. Cann't sign the informed consent document.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>overall survival;relapse;disease free survival;transplant-related mortality;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>minimal residual disease;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Self-funding</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Not approved</status>
+        <approval_date>2013-08-26</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-TRC-14005093</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2014-08-06</date_registration>
+      <primary_sponsor>Cell Biotherapy Center, Daping Hospital, The Third Military Medical University</primary_sponsor>
+      <public_title>Effective and safety evaluation of optic nerve canal decompression of optic nerve canal by nasoscope with human umbilical cord derived mesenchymal stem cells (HU - MSCs) transplantation in  traumatic optic neuropathy</public_title>
+      <acronym />
+      <scientific_title>Effective and safety evaluation of optic nerve canal decompression of optic nerve canal by nasoscope with human umbilical cord derived mesenchymal stem cells (HU - MSCs) transplantation in  traumatic optic neuropathy</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2014-09-01</date_enrolment>
+      <type_enrolment />
+      <target_size>treatment group:35;control group:35;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=4482</url>
+      <study_type>Interventional study</study_type>
+      <study_design>Randomized parallel controlled trial</study_design>
+      <phase>I+II (Phase I+Phase II)</phase>
+      <hc_freetext>traumatic optic neuropathy</hc_freetext>
+      <i_freetext>treatment group:human umbilical cord derived mesenchymal stem cells (HU - MSCs);control group:normal saline with 1% human serum albumin ;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Xiao He</firstname>
+        <middlename />
+        <lastname />
+        <address>Research Institute of Surgery, Daping Hospital, Third Military Medical University, Chongqing</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13658312340</telephone>
+        <email>hx_tx@126.com</email>
+        <affiliation>Research Institute of Surgery, Daping Hospital, Third Military Medical University, Chongqing</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Xiang Xu</firstname>
+        <middlename />
+        <lastname />
+        <address>Cell Biotherapy Center, Daping Hospital, Third Military Medical University, Chongqing</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13637843870</telephone>
+        <email>xiangxu@ymail.com</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Good adherence to patients and their families with informed consents; 
+2. patients of ophthalmology, aged  from 16 to 65 years old, both gender; 
+3. Clinical diagnosis of patients with traumatic optic neuropathy;
+4. Injury time within 1 month with stable vital signs; 
+5. The wounded eye's best corrected vision less than or equal to 0.3;
+6. The wounded eye without penetrating wound and fracture wound, refractive stroma transparent.</inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax>65</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. Intracranial bleeding due to trauma, traumatic brain injury and other vital signs is not steady, or accompany with heart, lung disease, or severe liver and kidney function;
+2. The wounded eyes with severe ocular blunt trauma:detached peripheral iris, lens dislocation, ciliary body detachment or laceration, vitreous hemorrhage, retinal detachment, retina and choroid laceration, etc;
+3. HIV infected with CD4 less than 50/mm3;
+4. Have the bone marrow, lungs, liver, pancreas, or history of small bowel transplantation;
+5. Chronic renal failure need hemodialysis or peritoneal dialysis;
+6. Accompany with high surgical risk diseases, such as sphenoid sinus dysplasia, cerebrospinal fluid rhinorrhea, internal carotid artery dissection aneurysm, etc;
+7. Patient participating or having participated in a clinical trial with another investigational drug Within 30 days before the start of this clinical trial;
+8. Patient is pregnant or nursing;
+9. History of patient is allergic to biological products, allergic reactions or other serious reaction;
+10. Researchers believe that patients cannot participate in this clinical trail for other reasons.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>vision;view;VEP;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>self-financed</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2014-07-31</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

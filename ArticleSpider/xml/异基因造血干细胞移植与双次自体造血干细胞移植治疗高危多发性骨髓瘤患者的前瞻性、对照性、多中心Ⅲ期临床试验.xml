@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-ONN-17012370</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2017-08-15</date_registration>
+      <primary_sponsor>The First Affiliated Hospital of Sun Yat-sen University</primary_sponsor>
+      <public_title>The prospective, controlled, multi-center phase III clinical trial of Allo-HSCT and double ASCT in patients with high-risk multiple myeloma</public_title>
+      <acronym />
+      <scientific_title>The prospective, controlled, multi-center phase III clinical trial of Allo-HSCT and double ASCT in patients with high-risk multiple myeloma</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2018-01-01</date_enrolment>
+      <type_enrolment />
+      <target_size>Group of tandem autologous stem-cell transplantation:208;Group of allogeneic stem-cell transplantation:103;</target_size>
+      <recruitment_status>Pending</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=21073</url>
+      <study_type>Observational study</study_type>
+      <study_design>Non randomized control</study_design>
+      <phase>New Treatment Measure Clinical Study</phase>
+      <hc_freetext>Multiple myeloma</hc_freetext>
+      <i_freetext>Group of tandem autologous stem-cell transplantation:Double ASCT;Group of allogeneic stem-cell transplantation:Allo-SCT;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Beihui Huang</firstname>
+        <middlename />
+        <lastname />
+        <address>Department of hematology, the First Affiliated Hospital of Sun Yat-sen University, 58 Second Zhonshan Road, Guangzhou，Guangdong</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13570223456</telephone>
+        <email>hbh_st@126.com</email>
+        <affiliation>The First Affiliated Hospital of Sun Yat-sen University</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Juan Li</firstname>
+        <middlename />
+        <lastname />
+        <address>Department of hematology, the First Affiliated Hospital of Sun Yat-sen University, 58 Second Zhonshan Road, Guangzhou，Guangdong</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13719209240</telephone>
+        <email>13719209240@163.com</email>
+        <affiliation>The First Affiliated Hospital of Sun Yat-sen University</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1) Between 18 and 60 years old;
+2) Patients who meet the 2014 IMWG multiple myeloma diagnostic criteria;
+3) Patients with 4 or more prognostic scores according to the first part of the study;
+4) Symptomatic, measurablenewly diagnosed MM patients;
+5) ECOG behavior status between 0-3 level; expected survival time&gt; 6 months;
+6) Did not receive any anti-tumor therapy before (except glucocorticoid alone);
+7) No other malignancy history;
+8) No other serious illnesses in conflict with this program;
+9) Patients understand and are willing to participate in this clinical trial and provide signed informed consent;
+10) All patients must agree to take effective contraceptives during the study and in the termination of treatment within 6 months, women of childbearing age must be negative in the pregnancy test before treatment.</inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax>60</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1) Have participated in other clinical studies in the last 3 months;
+2) Secondary myeloma after chemotherapy or radiotherapy of other malignant tumors;
+3) Received treatment for multiple myeloma before enrollment (except glucocorticoid alone);
+4) Any other malignancy history before or at the time of diagnosis;
+5) Decompensated heart failure, dilated cardiomyopathy, ECG showed significant reduction in ST segment of coronary heart disease and myocardial infarction occurred in the last 6 months;
+6) Patients with uncontrolled severe infection or organic disease;
+7) Liver dysfunction (transaminase exceeds the normal value limit of 4 times and / or blood bilirubin &gt; 2.0mg / dl);
+8) Have brain disorders or severe mental illness;
+9) Lactating or pregnant women.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>Progression Free Survival;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>efficacy rate;overall survival;minimal residual disease;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Clinical Medicine Research 5010 Project of Sun Yat - sen University </source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2017-07-20</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

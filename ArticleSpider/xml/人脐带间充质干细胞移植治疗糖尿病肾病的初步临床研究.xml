@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-ONC-17011065</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2017-04-05</date_registration>
+      <primary_sponsor>Nephrology Department of The First Affiliated Hospital of The Chinese People's Liberation Army Third Military Medical University</primary_sponsor>
+      <public_title>The Preliminary Clinical Trial of Treating Diabetic Nephropathy by hUCT-MSC</public_title>
+      <acronym />
+      <scientific_title>The Preliminary Clinical Trial of Treating Diabetic Nephropathy by hUCT-MSC</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2017-07-01</date_enrolment>
+      <type_enrolment />
+      <target_size>mesenchymal stem cells group:14;</target_size>
+      <recruitment_status>Pending</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=18779</url>
+      <study_type>Observational study</study_type>
+      <study_design>Case series</study_design>
+      <phase>New Treatment Measure Clinical Study</phase>
+      <hc_freetext>Diabetic Nephropathy</hc_freetext>
+      <i_freetext>mesenchymal stem cells group:mesenchymal stem cells;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Bingbing Shen</firstname>
+        <middlename />
+        <lastname />
+        <address>30 Gaotanyan Main Street, Shapingba District, Chongqing, China</address>
+        <city />
+        <country1 />
+        <zip>400038</zip>
+        <telephone>+86 13883578579</telephone>
+        <email>47383279@qq.com</email>
+        <affiliation>The First Affiliated Hospital of The Chinese People's Liberation Army Third Military Medical University</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Bingbing Shen</firstname>
+        <middlename />
+        <lastname />
+        <address>30 Gaotanyan Main Street, Shapingba District, Chongqing, China</address>
+        <city />
+        <country1 />
+        <zip>400038</zip>
+        <telephone>+86 18696550155</telephone>
+        <email>bingbingshen2291@sina.com</email>
+        <affiliation>The First Affiliated Hospital of The Chinese People's Liberation Army Third Military Medical University</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Willing and able to provide written informed consent;
+2. Male and female aged 18 to 60 years old;
+3. One of the following conditions should be diagnosed as diabetic nephropathyA diagnosed as T2 diabetic nephropathy:(ADA guidelines fo diagnosis and treatment of diabetes in 2014) to be associated with diabetic retinopathy,albuminuria and renal damage, consistent with the clinical diagnosis of Diabetic Nephropathy Bdiabetic nephrosis after kidney puncture and biopsy pathology histology changes;
+4. Ubjects received at least a antidiabetic drug and ACEI/ or ARB (RAS inhibitor) therapy for at least 3 months before the screening period;
+5. HbA1c≤12%;
+6. Urine albumin to creatinine ratio (UACR) ≥1000 mg/g and ≦5000mg/g (in a spot morning urine collection);
+7. Estimated GFR (eGFR) 25-60 ml/min/1.73 m^2;
+8. Ability to follow research or follow up procedure.</inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax>60</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. A recent birth plan for pregnant or lactating women;
+2. Inability to understand the potential risks and benefits of the study and to follow up on the request;
+3. No capacity for civil conduct;
+4. History of drug or alcohol abuse;
+5. Allergic to any ingredient used in cell culture;
+6. Active infection;
+7. Combined with other non diabetic nephropathy, immune disease, connective tissue disease, amyloidosis, and immunosuppressive therapy;
+8. There are any more complex medical problems that may interfere with research behavior or lead to increased risk, such as cancer, blood disease, heart disease, liver disease, AIDS, viral hepatitis, etc.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>urinary albumin to creatinine ratio;serum creatinine, sCr;stimated glomerular filtration rate (eGFR);</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>24h quantitative testing for urine protein;remission rate;recurrence rate;adverse event;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>The First Affiliated Hospital of The Chinese People's Liberation Army Third Military Medical University</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2016-04-29</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

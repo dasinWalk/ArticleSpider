@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-INR-16008813</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2016-07-09</date_registration>
+      <primary_sponsor>Xinhua Hospital Affiliated to Medicine School of Shanghai Jiaotong University </primary_sponsor>
+      <public_title>Autologous adipose mesenchymal stem cell transplantation in the treatment of patients with hemifacial spasm microvascular decompression behind listen to neural dysfunction of single center, prospective, randomized, double blind, controlled study</public_title>
+      <acronym />
+      <scientific_title>Autologous adipose mesenchymal stem cell transplantation in the treatment of patients with hemifacial spasm microvascular decompression behind listen to neural dysfunction of single center, prospective, randomized, double blind, controlled study</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2016-08-01</date_enrolment>
+      <type_enrolment />
+      <target_size>Stem cell therapy group :50;Conservative treatment group :50;</target_size>
+      <recruitment_status>Pending</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=14813</url>
+      <study_type>Interventional study</study_type>
+      <study_design>Randomized parallel controlled trial</study_design>
+      <phase>New Treatment Measure Clinical Study</phase>
+      <hc_freetext>Hemifacial spasm</hc_freetext>
+      <i_freetext>Stem cell therapy group :Stem cell therapy ;Conservative treatment group :medication ;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Shiting LI</firstname>
+        <middlename />
+        <lastname />
+        <address>1665 Kongjiang Road, Yangpu District, Shanghai  </address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13701625911</telephone>
+        <email>lsting66@163.com</email>
+        <affiliation>Xinhua Hospital Affiliated to Medicine School of Shanghai Jiaotong University </affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Shiting LI</firstname>
+        <middlename />
+        <lastname />
+        <address>1665 Kongjiang Road, Yangpu District, Shanghai </address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13701625911</telephone>
+        <email>lsting66@163.com</email>
+        <affiliation>Xinhua Hospital Affiliated to Medicine School of Shanghai Jiaotong University </affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Aged 18 ~ 80 years old;
+2. no surgical contraindications, accept facial nerve microvascular decompression surgery;
+3. to enter into the group's informed consent and sign the consent form for clinical research;
+4. patients with preoperative facial nerve electrophysiology examination without facial paralysis;
+5. patients with preoperative electrical testing without hearing impairment.</inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax>80</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>(1) patients with poor compliance;
+(2) major surgical complications and interruption of treatment;
+(3) brain magnetic resonance examination or blood test results abnormal and clinical significance;
+(4) clinical trials of other drugs within 30 days;
+(5) the unintended side effects.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>The degree of symptom relief of postoperation ;The function of facial nerve ;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Shanghai Jiaotong University </source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>1990-01-01</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

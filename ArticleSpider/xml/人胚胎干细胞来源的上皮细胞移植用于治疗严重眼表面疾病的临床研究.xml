@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-OCB-15005968</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2014-10-08</date_registration>
+      <primary_sponsor>Eye Institute of Xiamen University</primary_sponsor>
+      <public_title>The clinical trial of human embryonic stem cell derived epithelial cells transplantation in the treatment of severe ocular surface diseases</public_title>
+      <acronym />
+      <scientific_title>The clinical trial of human embryonic stem cell derived epithelial cells transplantation in the treatment of severe ocular surface diseases</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2015-10-01</date_enrolment>
+      <type_enrolment />
+      <target_size>Experimental group:20;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=9595</url>
+      <study_type>Observational study</study_type>
+      <study_design>Before-After control</study_design>
+      <phase>New Treatment Measure Clinical Study</phase>
+      <hc_freetext>Severe Ocular Surface Disease</hc_freetext>
+      <i_freetext>Experimental group:Corneal-epithelium-like-cell transplantation;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Xin Che</firstname>
+        <middlename />
+        <lastname />
+        <address>4th Floor, Chengyi Buld, Xiang-an campus of Xiamen Univ. South Xiang-an Rd, Xiamen, Fujian, CHINA</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 18059254096</telephone>
+        <email>569106599@qq.com</email>
+        <affiliation>Eye Institute of Xiamen University; Xiamen University affiliated Xiamen Eye Center</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Wei Li</firstname>
+        <middlename />
+        <lastname />
+        <address>4th Floor, Chengyi Buld, Xiang-an campus of Xiamen Univ. South Xiang-an Rd, Xiamen, Fujian, CHINA</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 0592-2183761</telephone>
+        <email>wei1018@gmail.com</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Unilateral limbal stem cell deficiency;
+2. Bilateral limbal stem cell deficiency.</inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax>60</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. Active ocular surface inflammation;
+2. Severe dry eye;
+3. Progressive cicatricial disease;
+4. Severe ocular surface squamous metaplasia;
+5. Pregnant.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>Vision;Corneal Fluorescein Staining;Slit Lamp Photography;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>Ultrasound Biomicroscopy（UBM）;IOP(intraocular pressure);Schirmer Test;Break-up Time;Optical Coherence Tomography（OCT）;Impression Cytology;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Chinese National Key Scientific Research Project (2013CB967003),Fundamental Research Funds for the Central Universities of China (2012121049)</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2014-12-26</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

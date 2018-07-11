@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-INR-17011403</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2017-05-15</date_registration>
+      <primary_sponsor>Tianjin First Center Hospital</primary_sponsor>
+      <public_title>Effects of mobilized peripheral blood stem cells combined with low count of umbilical cord blood stem cells co-infusion in haploidentical hematopoietic stem cell transplantation </public_title>
+      <acronym />
+      <scientific_title>Effects of mobilized peripheral blood stem cells combined with low count of umbilical cord blood stem cells co-infusion in haploidentical hematopoietic stem cell transplantation </scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2017-05-15</date_enrolment>
+      <type_enrolment />
+      <target_size>co-infusion group:20;alone infusion group:20;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=19056</url>
+      <study_type>Interventional study</study_type>
+      <study_design>Randomized parallel controlled trial</study_design>
+      <phase>New Treatment Measure Clinical Study</phase>
+      <hc_freetext>Hematological disease </hc_freetext>
+      <i_freetext>co-infusion group:mobilized peripheral blood stem cells  and low count of unrelated umbilical cord blood stem cells  co-infusion;alone infusion group:mobilized peripheral blood stem cells alone ;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Lv Hairong</firstname>
+        <middlename />
+        <lastname />
+        <address>24 Fukang Road, Nankai District, Tianjin, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 18802235939</telephone>
+        <email>18802235939@163.com</email>
+        <affiliation>Department of Hematology, Tianjin First Center Hospital </affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Zhao Mingfeng</firstname>
+        <middlename />
+        <lastname />
+        <address>24 Fukang Road, Nankai District, Tianjin, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13752640369</telephone>
+        <email>mingfengzao@sina.com</email>
+        <affiliation>Department of Hematology, Tianjin First Center Hospital </affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. The patient or his/her legal guardians must sign a consent form;
+2. The patients therapeutic regimen is approved by the hospital ethics committee;
+3. Aged 18-55, males and females;
+4. Hematopoietic diseases: acute myeloid leukemia, acute lymphoblastic leukemia, Chronic leukemia, severe aplastic anemia, myelodysplastic syndrome, have transplant indication;
+5. No completely HLA-identical donors;
+6. No sever function diseases in heart, brain, lung, liver or kidney or other organs;
+7. Acute leukemia achieve complete remission before transplantation and without CNS or extramedullary infiltration;
+8. Karnofsky score is more than 60%, Eastern Cooperative Oncology Group (ECOG) physical status score 0-2;
+9. Volunteers can be followed up for the treatment effect after transplantation.</inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax>55</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. pregnant or lactating women;
+2. severe organ dysfunction or disease, such as heart, liver, kidney and pancreas and other severe diseases and dysfunction;
+3. Not suitable for Haplo-HSCT;
+4. uncontrolled active infection within 4 weeks;
+5. other cancers;
+6. have taken part in other clinical tests within 6 weeks;
+7. have a history of central nervous system disease;
+8. addicted to some drugs;
+9. the central nervous system and other organs were treated with maximum tolerated radiotherapy within 6 months;
+10. the researchers think it is not suitable for the test;
+11. The donor does not meet the requirements: HIV positive, active hepatitis B or C, bone marrow disease, onset of mental illness, poison, drug addiction, refused to donate peripheral blood, etc.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>donor engraftment time;incidence and severity of graft-versus-host disease(GVHD),;recurrence rate of primary disease;DFS;OS;Treg;CD4+Th1;CD4+Th2;Thl7;DC;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Fund of Tianjin First Center Hospital and Tianjin Health Bureau</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2017-04-26</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

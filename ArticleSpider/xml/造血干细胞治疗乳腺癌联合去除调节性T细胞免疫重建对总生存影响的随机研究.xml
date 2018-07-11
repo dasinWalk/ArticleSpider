@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-TRC-10001006</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2010-09-07</date_registration>
+      <primary_sponsor>Beijing Cancer Hospital/Peking University School of Oncology</primary_sponsor>
+      <public_title>Clinical study of immune reconstitution by depletion of regulatory T lymphocyte followed by high dose chemotherapy and hematopoietic stem cell rescue among metastatic breast cancer patients</public_title>
+      <acronym />
+      <scientific_title>Clinical study of immune reconstitution by depletion of regulatory T lymphocyte followed by high dose chemotherapy and hematopoietic stem cell rescue among metastatic breast cancer patients</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2010-09-15</date_enrolment>
+      <type_enrolment />
+      <target_size>A:40;B:40;C:40;</target_size>
+      <recruitment_status>Completed</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=8532</url>
+      <study_type>Interventional study</study_type>
+      <study_design>Randomized parallel controlled trial</study_design>
+      <phase>I (Phase I study)</phase>
+      <hc_freetext>Breast Cancer</hc_freetext>
+      <i_freetext>A:Immune reconstitution of autologous dendritic cells transfusion after high-dose chemotherapy with autologous hematopoietic stem cells support  ;B:Immune reconstitution of selective autologous lymphocyte transfusion with regulatory T cells depletion after high-dose chemotherapy with autologous hematopoietic stem cells support  ;C:Immune reconstitution of cytokine IL-2 and IFN after high-dose chemotherapy with autologous hematopoietic stem cells support  ;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Jun Jia</firstname>
+        <middlename />
+        <lastname />
+        <address>52 Fucheng Road, Haidian District, Beijing, China</address>
+        <city />
+        <country1 />
+        <zip>100142</zip>
+        <telephone>+86 010 88196931</telephone>
+        <email>jiajun@bjcancer.org</email>
+        <affiliation>Beijing Cancer Hospital/Peking University School of Oncology</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Jun Ren</firstname>
+        <middlename />
+        <lastname />
+        <address>52 Fucheng Road, Haidian District, Beijing, China</address>
+        <city />
+        <country1 />
+        <zip>100142</zip>
+        <telephone>+86 010 88196356</telephone>
+        <email>renjun@bjcancer.org</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1) Breast cancer patients with metastatic or relapsed disease proved by histopathology or cytology;
+2) Aged between 18 and 70, male or female;
+3) With measurable tumor mass &gt;=10mm by ultrasonic examination, CT or MR scans;
+4) ECOG Performance Status &lt;=2 and Expectant survival &gt;3months;
+5) An interval of at lest 4 weeks from the last operation, radiation therapy and chemotherapy;
+6) With normal marrow function and the peripheral blood test before treatment should in following range: WBC between 4.0*10^9/L to 10*10^9/L, Hb concentration between 95g/L to 165g/L, PLT concentration between 75*10^9/Lto 300*10^9/L7) Normal liver and kidney function;
+8) With normal heart function and no history of heart failure. Electrocardiogram exam is normal;
+9) No history of severe hypersensitive constitution and allergy to taxane and cytokines such as IL-2, GM-CSF, and IFN etc.;
+10) Without infection diseases or skin infectious sites;
+11) Patients with good compliance and agree to follow-up after treatment;
+12) Inform of consents were signed voluntarily.</inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax>70</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1) Not measurable tumor or only bone metastasis;
+2) ECOG Performance Status &gt; 2 and Expectant survival &lt; 3 months;
+3) Patients having operation, radiotherapy, chemotherapy within 4 weeks;
+4) Pregnant or lactated women;
+5) Patients with history of congestive heart failure;
+6) Patients with extensive pulmonary fibrosis or respiratory failure;
+7) Dysfunction of liver or kidney (ALT, AST, Cr, and BUN raise over 1.5 times of upper limit of normal);
+8) Myeloproliferative disorder or marrow metastasis;
+9) With infection diseases or skin infectious sites;
+10) Patients with severe cerebrovascular disease or brain metastases that affect describing the state of illness;
+11) Hypersensitive constitution or allergy to taxane and cytokines such as IL-2, IFN, and GM-CSF etc;
+12) Patients refuse to sign informed consent.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>progression-free survival;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>adverse reaction events;objective response rate;Overall Survival;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Beijing Medicine Research and Development Fund</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2007-08-21</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-IIR-16008212</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2016-04-03</date_registration>
+      <primary_sponsor>Department of Hematology, Xinqiao Hospital, Third Military Medical University, Chongqing, China. </primary_sponsor>
+      <public_title>Effect of autologous hemapoietic stem cell transplantation combined with the infusion of haploidentical granulocyte-colony stimulating factor mobilized peripheral blood mononuclear cells in the treatmen of patients with hematologic malignancies: a multicenter， prospectively randomized controlled study </public_title>
+      <acronym />
+      <scientific_title>Autologous hemapoietic stem cell transplantation combined with the infusion of haploidentical granulocyte-colony stimulating factor mobilized peripheral blood mononuclear cells improves the outcome of patients with hematologic malignancies</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2016-04-05</date_enrolment>
+      <type_enrolment />
+      <target_size>Test Group:38;Control group:38;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=13890</url>
+      <study_type>Interventional study</study_type>
+      <study_design>Randomized parallel controlled trial</study_design>
+      <phase>II (Phase II study)</phase>
+      <hc_freetext>hematologic malignancies</hc_freetext>
+      <i_freetext>Test Group:Autologous hemapoietic stem cell transplantation combined with the infusion of haploidentical granulocyte-colony stimulating factor mobilized peripheral blood stem cells;Control group:Autologous hemapoietic stem cell transplantation;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Cheng Zhang</firstname>
+        <middlename />
+        <lastname />
+        <address>Department of Hematology, Xinqiao Hospital, Third Military Medical University, Chongqing, China. </address>
+        <city />
+        <country1 />
+        <zip>400037</zip>
+        <telephone>+86 13098770350;023-68774209</telephone>
+        <email>chzhang2014@163.com</email>
+        <affiliation>Department of Hematology, Xinqiao Hospital, Third Military Medical University</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Cheng Zhang</firstname>
+        <middlename />
+        <lastname />
+        <address>Department of Hematology, Xinqiao Hospital, Third Military Medical University, Chongqing, China. </address>
+        <city />
+        <country1 />
+        <zip>400037</zip>
+        <telephone>+86 13098770350;023-68774209</telephone>
+        <email>1764180534@qq.com</email>
+        <affiliation>Department of Hematology, Xinqiao Hospital, Third Military Medical University</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. patients with hematologic malignancies with medium-high risk  who achieved over PR after three cycle chemotherapy;
+2. Male or Female; Age &lt;60 years; 
+3. KPS is over 60 and survival is over three months;
+4. No serious systemic organ dysfunction and ECOG performance status of &lt;=2 at study entry;
+5. Understand and voluntarily sign an informed consent.</inclusion_criteria>
+      <agemin />
+      <agemax>60</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. serious systemic organ dysfunction;
+2. Patient with malignant tumor that needs to be treat;
+3. The patients with clinical symptom of brain dysfunction or serious psychiosis that can't understand or obey the study;
+4. Patients that can't followed up as scheduled;
+5. Patients that can't guarantee complete the plan and follow up.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>overall survival;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>disease-Free survival;Rate of relapse;Time of hematopoietic recovery;Rate of GVHD;Donor chimerism;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>The special foundation for the “1130 project” of Xinqiao Hospital of Third Military Medical University</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2013-07-23</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

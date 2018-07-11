@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-ONRC-13003474</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2013-06-07</date_registration>
+      <primary_sponsor>The First Affiliated Hospital of Zhejiang University</primary_sponsor>
+      <public_title>The effect and safety of high-dose chemotherapy combined with allogeneic hematopoietic stem cell enfusion in patients with relapsed / refractory acute lymphoblastic leukemia</public_title>
+      <acronym />
+      <scientific_title>The effect and safety of high-dose chemotherapy combined with allogeneic hematopoietic stem cell enfusion in patients with relapsed / refractory acute lymphoblastic leukemia</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2013-09-01</date_enrolment>
+      <type_enrolment />
+      <target_size>Group of stem cell infusion:30;Group of Chemotherapy:30;</target_size>
+      <recruitment_status>Completed</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=6086</url>
+      <study_type>Observational study</study_type>
+      <study_design>Non randomized control</study_design>
+      <phase>Other</phase>
+      <hc_freetext>acute lymphoblastic leukemia</hc_freetext>
+      <i_freetext>Group of stem cell infusion:Chemotherapy+stem cell;Group of Chemotherapy:Chemotherapy  ;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Jingsong He</firstname>
+        <middlename />
+        <lastname />
+        <address>Building 2, 10th Floor, 79 Qingchun Road, Hangzhou, Zhejiang, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13600547247</telephone>
+        <email>hjs2005@263.net</email>
+        <affiliation>The First Affiliated Hospital of Zhejiang University</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>He Huang</firstname>
+        <middlename />
+        <lastname />
+        <address>Building 2, 10th Floor, 79 Qingchun Road, Hangzhou, Zhejiang, China</address>
+        <city />
+        <country1 />
+        <zip>310003</zip>
+        <telephone>+86 571 87236703</telephone>
+        <email>hehuangyu@126.com</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Subjects or their legal representatives should signed informed consent;
+2. Male or non-pregnant female;
+3. Subjects must younger than 60, and the expected survival is 3 months or more;
+4.The score of ECOG physical status must be 0 to 2;
+5.The laboratory values should be (unless caused by the leukemia): creatinine clearance &gt;=50mL/min, or serum  creatinine &lt;= 1.5mg/dl, and bilirubin &lt;=2 times the upper limit of normal;
+6. Subjects must have been restored to &lt;=1 degree of all non-hematologic toxicity (NCI CTC AE3.0 Edition)     which have been from the previous treatment;
+7. Subjects were diagnosed of relapsed / refractory acute lymphoblastic leukemia patients, according to FAB,    or WHO  diagnostic criteria.</inclusion_criteria>
+      <agemin>14</agemin>
+      <agemax>59</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. The patients were diagnosed of acute myeloid leukemia, or acute mixed cell leukemia;
+2. The patients have been used high dose MTX and Ara-c, and clearly ineffective;
+3. The patients with severe liver, kidney, or cardiopulmonary dysfunction;
+4. The patients had uncontrolled or severe heart disease or infection, or mental illness;
+5. The patients had received allogeneic hematopoietic stem cell transplantation;
+6. The patients had other malignancies(unless the patients have completed treatment and doctors believe        impossible relapse within 1 year).</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>Complete remission rate;Overall response rate;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>Safty;Progression-free survival;Overall survival;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Self-financing</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2012-06-28</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

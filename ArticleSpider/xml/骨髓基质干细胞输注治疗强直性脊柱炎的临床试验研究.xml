@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-TRC-11001417</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2011-07-10</date_registration>
+      <primary_sponsor>Sun Yat-sen Memorial Hospital of Sun Yat-sen University</primary_sponsor>
+      <public_title>clinical study of Mecenchymal Stem Cells transplantation in Ankylosing Spondylitis</public_title>
+      <acronym />
+      <scientific_title>clinical study of Mecenchymal Stem Cells transplantation in Ankylosing Spondylitis</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2011-06-01</date_enrolment>
+      <type_enrolment />
+      <target_size>1:80;2:80;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=8122</url>
+      <study_type>Interventional study</study_type>
+      <study_design>Randomized parallel controlled trial</study_design>
+      <phase>I+II (Phase I+Phase II)</phase>
+      <hc_freetext>Ankylosing Spondylitis (AS)</hc_freetext>
+      <i_freetext>1:oral salicylazosulfapyridine and indomethacin;2:Mecenchymal Stem Cells(MSC) transplantation  ;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Peng Wang</firstname>
+        <middlename />
+        <lastname />
+        <address>107 Yanjiangxi road, Guangzhou, Guangdong, China</address>
+        <city />
+        <country1 />
+        <zip>510120</zip>
+        <telephone>+86 13826024785</telephone>
+        <email>sunfox809@yahoo.com.cn</email>
+        <affiliation>Sun Yat-sen Memorial Hospital of Sun Yat-sen University</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Hui-yong Shen.</firstname>
+        <middlename />
+        <lastname />
+        <address>107 Yanjiangxi road, Guangzhou, Guangdong, China</address>
+        <city />
+        <country1 />
+        <zip>510120</zip>
+        <telephone>+86 13922276368</telephone>
+        <email>shenhuiyong@yahoo.com.cn</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. The male or female patient aged 14 to 60 years;
+2. The AS which was diagnosed by physical examination, laboratory and imaging examinations was included (The modified New York criteria (1984));
+3. Before each experiment, patients subscribe voluntarily to the agreement approved by Ethics Committees and sign the date.</inclusion_criteria>
+      <agemin />
+      <agemax />
+      <gender>Both</gender>
+      <exclusion_criteria>1. The patient diagnosed in doubt;
+2. pregnant or suckling period female patients;
+3. Patients with the Medical or mentally imbalance charged by researchers. patients associated cardiovascular, cerebrovascular, liver,renal and hematological system diseases or mental disease;
+4. Patients could not accept the research or could not cooperate well. Patients with other sever diseases at the same time, such as abnormality of joints, other seronegative spondyloarthropathy, or other Rheumatic Diseases.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>pain degree of peripheral joints with visual analog scale (VAS);CD4+ T cell, CD8+ T cell, NK cell, Th17, Treg cells account;AS spine MRI;pain degree at night with visual analog scale (VAS);Bath Ankylosing Spondylitis Disease Activity Index;Serum ESR;Serum CRP;bath ankylosing spondylitis patient global score (BAS-G);Bath Ankylosing Spondylitis Functional Index (BASFI);pain degree of spine with visual analog scale (VAS);</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>Serum BMP;Serum TNF-alpha;Serum IL17/2;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Sun Yat-sen Memorial Hospital of Sun Yat-sen University</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2011-04-12</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

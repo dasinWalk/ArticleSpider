@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-OOC-17013919</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2017-12-14</date_registration>
+      <primary_sponsor>Hebei Yanda Ludaopei Hospital  </primary_sponsor>
+      <public_title>Clinical application of immunotherapy to prevent the recurrence of acute leukemia after allogeneic hematopoietic stem cell transplantation</public_title>
+      <acronym />
+      <scientific_title>Clinical application of immunotherapy to prevent the recurrence of acute leukemia after allogeneic hematopoietic stem cell transplantation</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2017-12-14</date_enrolment>
+      <type_enrolment />
+      <target_size>Case series:50;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=23942</url>
+      <study_type>Observational study</study_type>
+      <study_design>Case series</study_design>
+      <phase>Other</phase>
+      <hc_freetext>Acute leukemia recurrence after allo-HSCT</hc_freetext>
+      <i_freetext>Case series:the NK/CIK therapy;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Xiaosu Zhou</firstname>
+        <middlename />
+        <lastname />
+        <address>Hebei Yanda Ludaopei Hospital, Sipulan Road, Yanjiao, Hebei, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13521274760</telephone>
+        <email>xiaosu_joe@163.com</email>
+        <affiliation>Hebei Yanda Ludaopei Hospital</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Peihua Lu</firstname>
+        <middlename />
+        <lastname />
+        <address>Hebei Yanda Ludaopei Hospital, Sipulan Road, Yanjiao, Hebei, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 18611636171</telephone>
+        <email>peihua_lu@126.com</email>
+        <affiliation>Hebei Yanda Ludaopei Hospital</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>The patients diagnosed as acute leukemia (contains AML and ALL, the United States NCCN 2015.2 standard) after allo-HSCT; Aged 2 to 65 Years; Patients with self-knowledge ability can sign the consent form; Patients or the clients authorized by patients sign the consent form, or pediatric patients' legal guardians sign the consent form and are voluntary to participate in the clinical trials.  </inclusion_criteria>
+      <agemin>2</agemin>
+      <agemax>65</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>Intracranial hypertension or unconsciousness; Symptomatic heart failure or severe cardiac arrhythmia; Respiratory failure; Patients with other types of malignancy; Disseminated intravascular coagulation; Serum creatinine and/or urea nitrogen≥1.5 ×normal; Serum total bilirubin≥1.5 ×normal; Sepsis or other uncontrolled active infection;Uncontrolled diabetes;Severe mental disorder; WHO physical status classification level≥3; Allergic to IL2; Organ transplant recipients; Pregnant or lactating women.  </exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>The effective rate of minimal residual disease;The ratio of 2 years-continued complete remission;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Hebei Yanda Ludaopei Hospital</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>1990-01-01</approval_date>
+        <contact_name>Jingwen Zhang</contact_name>
+        <contact_address>Hebei Yanda Ludaopei Hospital, Sipulan Road, Yanjiao, Hebei, China</contact_address>
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

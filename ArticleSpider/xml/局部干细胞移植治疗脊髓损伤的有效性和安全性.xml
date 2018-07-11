@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-TNRC-12002477</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2014-09-21</date_registration>
+      <primary_sponsor>General Hospital of Chinese people's Armed Police Forces</primary_sponsor>
+      <public_title>Efficacy and safety of local stem cell transplantation for sequelae of spinal cord injury</public_title>
+      <acronym />
+      <scientific_title>Efficacy and safety of local stem cell transplantation for sequelae of spinal cord injury</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2011-02-01</date_enrolment>
+      <type_enrolment />
+      <target_size>A:9;B:9;C:9;</target_size>
+      <recruitment_status>Completed</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=7074</url>
+      <study_type>Interventional study</study_type>
+      <study_design>Non randomized control</study_design>
+      <phase>I+II (Phase I+Phase II)</phase>
+      <hc_freetext>Spinal Cord Injury</hc_freetext>
+      <i_freetext>A:open surgical transplantation;B:local stem cell transplantation by CT-guided punct;C:Rehabilitation therapy;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Guanghui Dai</firstname>
+        <middlename />
+        <lastname />
+        <address>69 Yongding Road, Haidian District, Beijing, China</address>
+        <city />
+        <country1 />
+        <zip>100039</zip>
+        <telephone>+86 10-57976849</telephone>
+        <email>daig74@126.com</email>
+        <affiliation>General Hospital of Chinese people's Armed Police Forces</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Yihua An</firstname>
+        <middlename />
+        <lastname />
+        <address>69 Yongding Road, Haidian District, Beijing, China</address>
+        <city />
+        <country1 />
+        <zip>100039</zip>
+        <telephone>+86 10-57976848</telephone>
+        <email>riveran@163.com</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>Clear diagnosis of spinal cord injury and the duration of patients is more than one year.</inclusion_criteria>
+      <agemin>24</agemin>
+      <agemax>52</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>For Group A patients, the exclusion criteria included the following:
+(1) inflammation or skin ulceration at the surgical site;
+(2) patients with a bleeding tendency or coagulation defects;
+(3) patients in poor general condition who could not tolerate surgery and
+(4) patients with systemic organ dysfunction who could not tolerate surgery.
+To minimize the influence of other factors that could also affect neurological rehabilitation during the assessment of the efficacy of SC transplantation, the following circumstances were also excluded from Group A:
+(1) patients with incomplete SCI;
+(2) patients who still showed recovery trends in terms of nerve function;
+(3) patients with adhesions at the injury site that required surgical intervention;
+(4) patients with significant compressive lesions at the injury site that required surgical intervention;
+(5) patients with progressive loss of nerve function for unknown reasons;
+(6) patients with associated syringomyelia who required surgical intervention and 
+(7) patients with associated spinal cord or epidural vascular malformations that required surgical intervention. 
+For Group B patients, the exclusion criteria included the following:
+(1) patients with incomplete spinal cord injuries;
+(2) patients who still showed recovery trends in terms of nerve function;
+(3) patients with adhesions at the injury site that required surgical intervention;
+(4) patients with significant compressive lesions at the injury site that required surgical intervention;
+(5) patients with progressive loss of nerve function for unknown reasons;
+(6) patients with associated syringomyelia that required surgical intervention;
+(7) patients with associated spinal cord or epidural vascular malformations that required surgical intervention and
+(8) patients who could not be in the prone position or who could not remain in the prone position for more than 30 minutes.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>AIS grading scale;ASIA score;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>ME;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>NA</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2011-01-03</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

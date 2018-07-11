@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-RON-17013816</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2017-12-11</date_registration>
+      <primary_sponsor>Children's Hospital Affiliated to Medical University Of Chongqing</primary_sponsor>
+      <public_title>Abnormal differentiation of hepatic stem cells and formation of liver cirrhosis</public_title>
+      <acronym />
+      <scientific_title>Abnormal differentiation of hepatic stem cells and formation of liver cirrhosis</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2012-01-01</date_enrolment>
+      <type_enrolment />
+      <target_size>control group:40;</target_size>
+      <recruitment_status>Completed</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=23570</url>
+      <study_type>Relative factors research</study_type>
+      <study_design>Non randomized control</study_design>
+      <phase>Other</phase>
+      <hc_freetext>hepatocirrhosis</hc_freetext>
+      <i_freetext>control group:BMP9;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Quan Kang</firstname>
+        <middlename />
+        <lastname />
+        <address>136 Second Zhongshan Road, Yuzhong, Chongqing, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 15023657057</telephone>
+        <email>564799351@qq.com</email>
+        <affiliation>Children's Hospital Affiliated to Medical University Of Chongqing</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Quan Kang</firstname>
+        <middlename />
+        <lastname />
+        <address>136 Second Zhongshan Road, Yuzhong, Chongqing, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 15023657057</telephone>
+        <email>564799351@qq.com</email>
+        <affiliation>Children's Hospital Affiliated to Medical University Of Chongqing</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>no</inclusion_criteria>
+      <agemin />
+      <agemax />
+      <gender>Male</gender>
+      <exclusion_criteria>no</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>ck-19;ALT;AST;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Chongqing Science and Technology Commissio</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Not approved</status>
+        <approval_date>2013-08-26</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

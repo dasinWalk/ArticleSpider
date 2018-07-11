@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR1800014570</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2018-01-22</date_registration>
+      <primary_sponsor>First Affiliated Hospital of Nanchang University </primary_sponsor>
+      <public_title>The clinical study on the treatment of umbilical cord mesenchymal stem cells for refractory Graves' ophthalmopathy</public_title>
+      <acronym />
+      <scientific_title>The clinical study on the treatment  of umbilical cord mesenchymal stem cells for refractory Graves' ophthalmopathy</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2018-02-08</date_enrolment>
+      <type_enrolment />
+      <target_size>Case series:15;</target_size>
+      <recruitment_status>Pending</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=24044</url>
+      <study_type>Observational study</study_type>
+      <study_design>Case series</study_design>
+      <phase>New Treatment Measure Clinical Study</phase>
+      <hc_freetext>Graves' ophthalmopathy</hc_freetext>
+      <i_freetext>Case series:umbilical cord mesenchymal stem cells;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Xu Jixiong</firstname>
+        <middlename />
+        <lastname />
+        <address>17 Yongwaizheng Street, Nanchang, Jiangxi, China</address>
+        <city />
+        <country1 />
+        <zip>3330006</zip>
+        <telephone>+86 13307086069</telephone>
+        <email>xujixiong@163.com</email>
+        <affiliation>First Affiliated Hospital of Nanchang University </affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Xu Jixiong</firstname>
+        <middlename />
+        <lastname />
+        <address>17 Yongwaizheng Street, Nanchang, Jiangxi, China</address>
+        <city />
+        <country1 />
+        <zip>330006</zip>
+        <telephone>+86 13307086069</telephone>
+        <email>xujixiong@163.com</email>
+        <affiliation>First Affiliated Hospital of Nanchang University </affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Aged from 18 to 75 years; 
+2. Diagnosis of GO; 
+3. Moderate-to-severe GO;
+4. CAS≥3/7;
+5. limited effect on glucocorticoid treatment;
+6. Patients volunteered to participate in and sign the consent form.</inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax>75</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. Need immediate orbital decompression;
+2. No corneal perforation or ulcer;
+3. Not administered to biological agents,immunosuppressive therapy;
+4. those with severe heart, liver, renal insufficiency.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>CAS score;NOSPECS score;orbit MRI;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>IL-10;INF-γ;FT3;FT4;TSH;TRAb;TGF-β;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Jiangxi province science and technology plan key projects</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2017-07-14</approval_date>
+        <contact_name>Liu Jichun</contact_name>
+        <contact_address>17 Yongwaizheng Street, Nanchang, Jiangxi, China</contact_address>
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

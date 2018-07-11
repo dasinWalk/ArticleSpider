@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-TRC-12002056</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2012-03-30</date_registration>
+      <primary_sponsor>Zhejiang Armed Police Hospital</primary_sponsor>
+      <public_title>Effect of Autologous Neural Stem Cells Transplantation on Patients with Cerebral Palsy</public_title>
+      <acronym />
+      <scientific_title>Effort of Neural Stem Cells Derived From Autologous Bone Marrow Mesenchymal Stem Cell on Patients with Cerebral Palsy for their Motor and Langurage Functions</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2010-06-01</date_enrolment>
+      <type_enrolment />
+      <target_size>Transplantation group:30;Control group:30;</target_size>
+      <recruitment_status>Completed</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=7492</url>
+      <study_type>Interventional study</study_type>
+      <study_design>Randomized parallel controlled trial</study_design>
+      <phase>Pilot study</phase>
+      <hc_freetext>Cerebral Palsy</hc_freetext>
+      <i_freetext>Transplantation group:stem-cell transplantation;Control group:Conventional methods;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Yali Wang</firstname>
+        <middlename />
+        <lastname />
+        <address>16 South Lake Road, Jiaxing, Zhejiang</address>
+        <city />
+        <country1 />
+        <zip>314000</zip>
+        <telephone>+86 13816767875</telephone>
+        <email>wangyali72@gmail.com</email>
+        <affiliation>Division of paediatrics, Zhejiang Armed Police Hospital</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Guojun Chen</firstname>
+        <middlename />
+        <lastname />
+        <address>16 South Lake Road, Jiaxing, Zhejiang</address>
+        <city />
+        <country1 />
+        <zip>314000</zip>
+        <telephone>+86 13817290501</telephone>
+        <email>guoyouchenwj@163.com</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Signed informed consent document;
+2. Cerebral palsy patients with Gross Motor Function Classification System (GMFCS) levels III-V;
+3. Their parents accepted voluntarily stem cell transplantation for their children and followed-up.</inclusion_criteria>
+      <agemin>0</agemin>
+      <agemax>30</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. Have a history of severe allergic;
+2. Serological tests such as AIDS, hepatitis B, syphilis, etc;
+3. Hereditary metabolic diseases of nervous system;
+4. Tumor or Hematological diseases.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>GMFM socres;Language development quotient;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>National Key Basic Research and Development Project and Fundings of Zhejiang Armed Police Hospital</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2009-12-31</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

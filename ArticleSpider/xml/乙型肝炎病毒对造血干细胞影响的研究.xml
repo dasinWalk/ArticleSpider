@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-OCC-11001394</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2011-06-09</date_registration>
+      <primary_sponsor>The first clinical hosptial  of Harb Medical University</primary_sponsor>
+      <public_title>Study on the effect of Hepatitis B virus on haemopoietic stem cell</public_title>
+      <acronym />
+      <scientific_title>Study on the effect of Hepatitis B virus on haemopoietic stem cell</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2010-07-01</date_enrolment>
+      <type_enrolment />
+      <target_size>group1:20;group2:20;group3:20;</target_size>
+      <recruitment_status>Completed</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=8145</url>
+      <study_type>Observational study</study_type>
+      <study_design>Case-Control study</study_design>
+      <phase>Other</phase>
+      <hc_freetext>Chronic hepatitis B</hc_freetext>
+      <i_freetext>group1:cord blood come from healthy control delivery woma;group2:cord blood come from HBsAg+,HBeAg+delivery woman;group3:Chronic hepatitis B volunteers bone marrow  ;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Qin Yan</firstname>
+        <middlename />
+        <lastname />
+        <address>Department of infectious diseases, The First clinical hospital, Harbin Medical University, 26 Youzheng Road, Nangang District, Harbin, China</address>
+        <city />
+        <country1 />
+        <zip>150001</zip>
+        <telephone>+86 13503630411</telephone>
+        <email>yanqinqin@hotmail.com</email>
+        <affiliation>Department of infectious diseases, The First clinical hospital, Harbin Medical University</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Yongguo Li</firstname>
+        <middlename />
+        <lastname />
+        <address>Department of infectious diseases, The First clinical hospital, Harbin Medical University, 26 Youzheng Road, Nangang District, Harbin, China</address>
+        <city />
+        <country1 />
+        <zip>150001</zip>
+        <telephone>+86 0451 85555197</telephone>
+        <email>liyongguo@54dr.com</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1 HBsAg+, HBeAg+delivery women;
+2 healthy delivery women;chronic hepatitis B patients;
+3. healthy volunteers</inclusion_criteria>
+      <agemin>0</agemin>
+      <agemax>0</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. HBsAg+, HBeAg+delivery women who have chronic or acute hepatitis C; 
+2. Healthy delivery women who have other acute hepatitis and the blood system diseases; 
+3. Chronic hepatitis B volunteers who have chronic hepatitis C.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>Stem cell come from cord blood of HBsAg+, HBeAg+delivery women whether or not infected by HBV;Stem cell come from cord blood of healthy contol group whether or not infected HBV in vitro;Immune function of stem cell come from Chronic hepatitis B volunteers bone marrow;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Chinese National Natural Science Foundation</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2011-04-24</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-INR-17013311</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2017-11-09</date_registration>
+      <primary_sponsor>Beijing Friendship Hospital affiliated to Capital Medical University </primary_sponsor>
+      <public_title>Efficacy of microneeding plus mixed growth factors solutions derived from human mesenchymal stem cell for facial rejuvenation</public_title>
+      <acronym />
+      <scientific_title>Efficacy of microneeding plus mixed growth factors solutions derived from human mesenchymal stem cell for facial rejuvenation: a Randomized, Controlled, Blinded Split-Face Study</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2017-08-02</date_enrolment>
+      <type_enrolment />
+      <target_size>Two groups:25;</target_size>
+      <recruitment_status>Completed</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=22453</url>
+      <study_type>Interventional study</study_type>
+      <study_design>Randomized parallel controlled trial</study_design>
+      <phase>New Treatment Measure Clinical Study</phase>
+      <hc_freetext>面部年轻化</hc_freetext>
+      <i_freetext>Two groups:microneeding alone or combined with mixed growth factors;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Zhuo Fenglin</firstname>
+        <middlename />
+        <lastname />
+        <address>95 Yong'an Road, Xicheng District, Beijing, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 15910895068</telephone>
+        <email>zflsunny@hotmail.com</email>
+        <affiliation>Beijing Friendship Hospital affiliated to Capital Medical University </affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Zhuo Fenglin</firstname>
+        <middlename />
+        <lastname />
+        <address>95 Yong'an Road, Xicheng District, Beijing, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 15910895068</telephone>
+        <email>zflsunny@hotmail.com</email>
+        <affiliation>Beijing Friendship Hospital affiliated to Capital Medical University </affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Aged 35-60 years male and female; Understand trial procedure and content and sign informed consent voluntarily;
+2. No active skin disease on the face;
+3. No facial filler such as hyaluronic acid or laser/light treatment;
+4. No oral steroids,collagen powder/liquid,or topical hyaluronic acid used in the last 3 monthes;
+5. No skin whitening products in the last 2 weeks.</inclusion_criteria>
+      <agemin>35</agemin>
+      <agemax>60</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. She is pregnant or in breast-feeding period;
+2. To be allergic to trial medicine or its ingredient. No facial filler such as hyaluronic acid or laser/light treatment;
+3. She/he had severe cardiovascular, cerebrovascular, renal, hepatic or hematopoietic disease;
+4. She/he is taking part in the other clinical trial.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>skin pores;skin texture;skin winkle;UV spots;black brown spots;Erythema;skin hydration;skin transepidermal water loss;skin elasticity;skin melanin index;skin erythema index;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id>AMCTR-IOR-17000125</sec_id>
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>self-financing</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2017-07-28</approval_date>
+        <contact_name>Li Yue</contact_name>
+        <contact_address>Research department, Beijing Friendship Hospital affiliated to Capital Medical University </contact_address>
+        <contact_phone>+86 13661202501</contact_phone>
+        <contact_email>13661202501@163.com</contact_email>
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

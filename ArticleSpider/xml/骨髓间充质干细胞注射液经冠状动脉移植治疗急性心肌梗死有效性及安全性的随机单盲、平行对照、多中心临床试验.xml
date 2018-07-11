@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-TRC-08000080</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2008-04-10</date_registration>
+      <primary_sponsor>Navy general hospital of China liberation army</primary_sponsor>
+      <public_title>Efficacy and safety of Mesenchymal stem cell injection for the treatment of acute myocardial infarction: a single blinding, muticenter randomized control trial.</public_title>
+      <acronym />
+      <scientific_title>Efficacy and safety of Mesenchymal stem cell injection for the treatment of acute myocardial infarction: a single blinding, muticenter randomized control trial.</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2008-01-01</date_enrolment>
+      <type_enrolment />
+      <target_size>Group A:120;Group B:120;</target_size>
+      <recruitment_status>Completed</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=9445</url>
+      <study_type>Interventional study</study_type>
+      <study_design>Randomized parallel controlled trial</study_design>
+      <phase>Pilot study</phase>
+      <hc_freetext>ST-elevated acute myocardial infarction (ST-AMI)</hc_freetext>
+      <i_freetext>Group A:Routine therapy as Guideline recommended+ PCI;Group B:Routine therapy as Guideline recommended+ PCI+transplantation of (MSCs);</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Yu Chen</firstname>
+        <middlename />
+        <lastname />
+        <address>Cardiovascular department of Navy general hospital of China liberation army; 6 Hucheng Road, Haidian District, Bejing</address>
+        <city />
+        <country1 />
+        <zip>100037</zip>
+        <telephone>+86 0 13381207390</telephone>
+        <email>yuchen911@hotmail.com</email>
+        <affiliation>Navy general hospital of China liberation army</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Lianru Gao</firstname>
+        <middlename />
+        <lastname />
+        <address>6 Hucheng Road, Haidian District, Bejing</address>
+        <city />
+        <country1 />
+        <zip>100037</zip>
+        <telephone>+86 0 13381207121</telephone>
+        <email>lianru@yahoo.com.cn</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Diagnosis is ST-elevated acute myocardial infarction based by WHO standard;
+2. Less than 1 month since the onset of ST-AMI;
+3. Successfully vessel reconstructed and TIMI&gt;3;
+4. Age&gt;18 years old;
+5. Patients who sign informed consent form and can finish whole follow-up.</inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax />
+      <gender>Both</gender>
+      <exclusion_criteria>1. Patients who are complicated with other heart disease, including:
+Refractory sustained ventricle tachycardia;
+Severe heart block and not controlled by heart pace maker;
+Genetic heart disease;
+Primary heart valve disease;
+Active myocarditis;
+Pulmonary heart disease, etc.;
+2. Liver or kidney dysfunction (ALT&gt;80U/L, Cr&gt;440mmol/L);
+3. Patients with autoimmune disease or any other severe fatality disease;
+4. Patients have contradictions of percutaneous coronary intervention;
+5. Patients with psychiatric disease.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>Left ventricle ejective fraction;Change of myocardial metabolis;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>Mortality;Incidence of cardiovascular event;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>National High Technology Research and Development Program of China (863 Program)</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2007-11-02</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

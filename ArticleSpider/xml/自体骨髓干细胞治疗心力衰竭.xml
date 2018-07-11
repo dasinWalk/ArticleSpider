@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-ONC-12002261</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2012-06-08</date_registration>
+      <primary_sponsor>The 105th Hospital of PLA</primary_sponsor>
+      <public_title>Autologous bone marrow stem cells (BMSC) in patients with Heart failure</public_title>
+      <acronym />
+      <scientific_title>Autologous bone marrow stem cells (BMSC) in patients with Heart failure</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2012-07-01</date_enrolment>
+      <type_enrolment />
+      <target_size>stem cells therapy:100;</target_size>
+      <recruitment_status>Completed</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=7289</url>
+      <study_type>Observational study</study_type>
+      <study_design>Case series</study_design>
+      <phase>II (Phase II study)</phase>
+      <hc_freetext>Heart failure</hc_freetext>
+      <i_freetext>stem cells therapy:Infusion of autologous bone marrow stem cells  ;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Chen Zhen</firstname>
+        <middlename />
+        <lastname />
+        <address>424 West Changjiang Road, Hefei, Anhui, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 18909696367</telephone>
+        <email>chenzhen514@sina.com</email>
+        <affiliation>Second Department of the Heart, 105th Hospital of PLA</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Lianfa Wang</firstname>
+        <middlename />
+        <lastname />
+        <address>424 West Changjiang Road, Hefei, Anhui, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 18909696286</telephone>
+        <email>wanglf88@sina.com</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>Age of 20 years old or more (110years), male or female, coronary heart disease, hypertensive heart disease, dilated cardiomyopathy, valvular heart disease, echocardiography prompted ≤ EF45%, BNP &gt;=100 pg / mL, 6 minutes walking distance &lt;=425m, disease recurrent after drug treatment, clinical symptoms, New York Heart classification cardiac function III.</inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax>110</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>Highly allergic or have serious allergy history; shock or systemic failure of the vital signs are normal and do not cooperate with the inspection; with advanced malignancies; systemic infection or severe localized infection to be anti-infective rehabilitation; combinedliver, kidney and other importantorgan dysfunction; coagulation disorders such as hemophilia; positive serology, such as AIDS, hepatitis B, syphilis, etc.; non-nervous system disorders, diagnosis is not yet clear; very few expectations are too high or not realisticrequirements; chromosomal or genetic defects, immune dysfunction.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>Cardiac color Dopple;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>Atrial brain natriuretic peptid;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Discipline supporting program funding from the 105th Hospital of PLA</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2012-05-31</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

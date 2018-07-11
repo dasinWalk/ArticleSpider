@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-IOR-15006330</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2015-04-20</date_registration>
+      <primary_sponsor>Department of Hematology, Xinqiao Hospital, Third Military Medical University</primary_sponsor>
+      <public_title>Clinical application of Umbilical Cord-Derived Mesenchymal Stem Cells in the Prophylaxis of Chronic Graft-versus-Host Disease after HLA-haploidentical stem cell transplantation-A Prospective, Randomized, Parallel-group Study</public_title>
+      <acronym />
+      <scientific_title>Efficacy and Safety of Umbilical Cord-Derived Mesenchymal Stem Cells in the Prophylaxis of Chronic Graft-versus-Host Disease after HLA-haploidentical stem cell transplantation</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2015-08-01</date_enrolment>
+      <type_enrolment />
+      <target_size>MSCs group  :60;normal saline group  :60;</target_size>
+      <recruitment_status>Pending</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=10892</url>
+      <study_type>Interventional study</study_type>
+      <study_design>Randomized parallel controlled trial</study_design>
+      <phase>Other</phase>
+      <hc_freetext>Allogeneic hematopoietic stem cell transplantation patients with hematologic malignancies or non-hematologic malignancies</hc_freetext>
+      <i_freetext>MSCs group  :patients received 4 cycles umbilical cord-derived MSCs (1*10^7 per month) from 4 to 7 months after transplantation;normal saline group  :Patients received 4 cycles normal saline(100ml per month) from 4 to 7 months after transplantation;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Lei Gao</firstname>
+        <middlename />
+        <lastname />
+        <address>183 Xinqiao Street, Chongqing Municipality, China</address>
+        <city />
+        <country1 />
+        <zip>400037</zip>
+        <telephone>+86 13228689635</telephone>
+        <email>gaolei7765@163.com</email>
+        <affiliation>Department of Hematology, Xinqiao Hospital, Third Military Medical University</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Xi Zhang</firstname>
+        <middlename />
+        <lastname />
+        <address>183 Xinqiao Street, Chongqing Municipality, China</address>
+        <city />
+        <country1 />
+        <zip>400037</zip>
+        <telephone>+86 13808310064</telephone>
+        <email>gaolei7765@163.com</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1.Allogeneic HSCT patients did not occured cGVHD;
+2.age between 18 to 60;
+3.KPS score &gt; 60;
+4.No serious organ dysfunction;
+5.Expected survival &gt;3 months.</inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax>60</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1.Have serious organ dysfunction;
+2.Combined with other cancer need treatment;
+3.Presence of clinical signs of brain dysfunction or severe mental illness can not understand or comply with the study protocol;
+4.Can not scheduled follow-up;
+5.Can not guarantee the completion of the treatment plan and the necessary follow-up observation.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>Chronic graft versus host disease;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>relapse;Overall survival;Disease free survival;Lymphocyte subset;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Strategic Priority Research Program of Chinese Academy of Sciences, Grant No. XDA01000000</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2012-08-22</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

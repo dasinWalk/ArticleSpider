@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR1800014653</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2018-01-26</date_registration>
+      <primary_sponsor>Anhui Provincial Hospital </primary_sponsor>
+      <public_title>Health related quality of life after single unit umbilical cord blood transplantation versus HLA-matched related allogeneic hematopoietic stem cell transplantation for patients aged ≥ 14 years</public_title>
+      <acronym />
+      <scientific_title>Health related quality of life after single unit umbilical cord blood transplantation versus HLA-matched related allogeneic hematopoietic stem cell transplantation for patients aged ≥ 14 years</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2018-02-15</date_enrolment>
+      <type_enrolment />
+      <target_size>group treated with UCBT:78;group treated with HLA-matched related HSCT:39;</target_size>
+      <recruitment_status>Pending</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=24883</url>
+      <study_type>Observational study</study_type>
+      <study_design>Cohort study</study_design>
+      <phase>Other</phase>
+      <hc_freetext>blood disease after single unit umbilical cord blood transplantation or HLA-matched related allogeneic hematopoietic stem cell transplantation</hc_freetext>
+      <i_freetext>group treated with UCBT:Patients are treated with single unit umbilical cord blood transplantation;group treated with HLA-matched related HSCT:Patients are treated with HLA-matched related hematopoetic stem cell transplantation;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Chenhui Luo</firstname>
+        <middlename />
+        <lastname />
+        <address>17 Lujiang Road, Luyang District, Hefei, Anhui, China </address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 15215516772</telephone>
+        <email>1902804571@qq.com</email>
+        <affiliation>Department of Hematology, Anhui Provincial Hospital </affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Zimin Sun</firstname>
+        <middlename />
+        <lastname />
+        <address>17 Lujiang Road, Luyang District, Hefei, Anhui, China </address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13605518126</telephone>
+        <email>zmsun_vip@163.com</email>
+        <affiliation>Department of Hematology, Anhui Provincial Hospital</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Patients diagnosed with hemaotogical diseases needed allo-HSCT according to Expert consensus on the treatment of hematological diseases by allogeneic hematopoietic stem cell transplantation in China;
+2. Patients aged ≥ 14 years, any gender, any race;
+3. No severe organ failure and active infection;
+4. Patients and their families voluntarily carry out UCBT or HLA-matched related HSCT and sign informed consent;
+5. Patients and their families voluntarily participate in this research and sign informed consent.</inclusion_criteria>
+      <agemin>14</agemin>
+      <agemax />
+      <gender>Both</gender>
+      <exclusion_criteria>1. Serious viscera dysfunction or disease, such as serious diseases and function disorder in heart, liver, kidney and pancreas;
+2. Patients aged less than 14 years;
+3. Patients with drug dependence, uncontrolled mental disease or cognitive impairment;
+4. Participate in other similar clinical researches in 3 months;
+5. Researchers think that the patient doesn't fit into the group (e.g., patients are expected to be discontinue because of funding problems). </exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>180d FACT-BMT total score;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>FACT-BMT Physical Well-Being (PWB) Score;FACT-BMT Social/Family Well-Being (SWB) Score;FACT-BMT Emotional Well-Being (EWB) Score;FACT-BMT Functional Well-Being (FWB) Score;FACT-BMT Trial Outcome Index (TOI);FACT-G total score;SF-36 Physical Functionin (PF) score;SF-36 Role-Physical (RP) score;SF-36 Bodily Pain (BP) score;SF-36 General Health (GH) score;SF-36 Vitality (VT) score;SF-36 Social Functioning (SF) score;SF-36 Role-Emotional (RE) score;SF-36 Mental Health (MH) score;Cumulative incidence of acute GVHD;Cumulative incidence of chronic GVHD;180d transplant related mortality (TRM);relapse rate;Cumulative rate of neutrophil engraftment;Cumulative rate of platelet engraftment;neutrophil engraftment time;platelet engraftment time;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>National Natural Science Foundation of China </source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2018-02-09</approval_date>
+        <contact_name>Mina</contact_name>
+        <contact_address>Chinese Clinical Trial Registry Hong Kong Center, Kowloon Tong Hong Kong Baptist University, Hong Kong SR, China</contact_address>
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

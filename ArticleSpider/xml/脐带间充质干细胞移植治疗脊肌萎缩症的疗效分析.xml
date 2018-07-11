@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-ONC-11001420</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2011-07-11</date_registration>
+      <primary_sponsor>General Hospital of Chinese people's Armed Police Forces</primary_sponsor>
+      <public_title>Study of effect of Umbilical cord Mesenchymal Stem Cell of Children with spinal muscular atrophy</public_title>
+      <acronym />
+      <scientific_title>Study of effect of Umbilical cord Mesenchymal Stem Cell of Children with spinal muscular atrophy</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2011-07-01</date_enrolment>
+      <type_enrolment />
+      <target_size>stem cell transplantataion:10;</target_size>
+      <recruitment_status>Completed</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=8119</url>
+      <study_type>Observational study</study_type>
+      <study_design>Case series</study_design>
+      <phase>II (Phase II study)</phase>
+      <hc_freetext>spinal muscular atrophy</hc_freetext>
+      <i_freetext>stem cell transplantataion:stem cell transplantataion;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Xiaodong Wang, Rongrong Hua</firstname>
+        <middlename />
+        <lastname />
+        <address>69 Yongding Road, Haidian District, Beijing</address>
+        <city />
+        <country1 />
+        <zip>100039</zip>
+        <telephone>+86 13641015688</telephone>
+        <email>xdwang2000@gmail.com</email>
+        <affiliation>General Hospital of Chinese people's Armed Police Forces</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Yihua An</firstname>
+        <middlename />
+        <lastname />
+        <address>69 Yongding Road, Haidian District, Beijing</address>
+        <city />
+        <country1 />
+        <zip>100039</zip>
+        <telephone>+86 10 57976848</telephone>
+        <email>doctoran@hotmail.com</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Signed informed consent document;
+2. Patients with spinal muscular atrophy were aged between 1 months to 18 years old;
+3. Their parents accepted voluntarily stem cell transplantation for their children and followed-up.</inclusion_criteria>
+      <agemin>1</agemin>
+      <agemax>7</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. Have a history of severe allergic; 
+2. Serological tests such as AIDS, hepatitis B, syphilis, etc;
+3. Tumor or Hematological diseases.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>gait analysi;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>GMFM;GMFM;Electromyography;Electromyograph;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>General Hospital of Chinese people's Armed Police Forces</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2011-07-01</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

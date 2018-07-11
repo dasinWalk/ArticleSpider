@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-TNC-10001076</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2010-10-15</date_registration>
+      <primary_sponsor>General Hospital Of Chinese People's Armed Police Forces</primary_sponsor>
+      <public_title>In Vivo Tracking of Feridex Labeled Bone Marrow Mesenchymal  Stem Cells after Transplantation</public_title>
+      <acronym />
+      <scientific_title>In Vivo Tracking of Feridex Labeled Bone Marrow Mesenchymal  Stem Cells after Transplantation</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2010-09-01</date_enrolment>
+      <type_enrolment />
+      <target_size>Research object:6;</target_size>
+      <recruitment_status>Completed</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=8462</url>
+      <study_type>Observational study</study_type>
+      <study_design>Case series</study_design>
+      <phase>Pilot study</phase>
+      <hc_freetext>Cerebral palsy</hc_freetext>
+      <i_freetext>Research object:;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Guanghui Dai</firstname>
+        <middlename />
+        <lastname />
+        <address>69 Yongding Road, Haidian, Beijing</address>
+        <city />
+        <country1 />
+        <zip>100039</zip>
+        <telephone>+86 010 88246845</telephone>
+        <email>daig74@sina.com</email>
+        <affiliation>General Hospital Of Chinese People's Armed Police Forces</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Guanghui Dai</firstname>
+        <middlename />
+        <lastname />
+        <address>69 Yongding Road, Haidian, Beijing</address>
+        <city />
+        <country1 />
+        <zip>100039</zip>
+        <telephone>+86 010 88246845</telephone>
+        <email>daig74@sina.com</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Signed informed consent document;
+2. Patients with CP were aged between 6 months to 12 years old;
+3. Gross Motor Function Classification System (GMFCS) levels IV,V;
+4. Their parents accepted voluntarily stem cell transplantation for their children and followed-up.</inclusion_criteria>
+      <agemin>4</agemin>
+      <agemax>10</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. Have a history of severe allergic; 
+2. Serological tests such as AIDS, hepatitis B, syphilis, etc;
+3. Hereditary metabolic diseases of nervous system;
+4. Tumor or Hematological diseases.
+5. No previous history of epilepsy</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code>G80.901</hc_code>
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>Imaging duration of transplantated cells;Migrating direction and distance  of transplantate;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Self-financing</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2010-09-25</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

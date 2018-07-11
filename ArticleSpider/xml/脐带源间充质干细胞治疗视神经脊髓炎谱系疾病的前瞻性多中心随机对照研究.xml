@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-INR-16008037</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2016-03-02</date_registration>
+      <primary_sponsor>Ren Ji Hospital, School of Medicine, Shanghai Jiao Tong University</primary_sponsor>
+      <public_title>Treatment of hUC-MSC for neuromyelitis optica spectrum disorder- A prospective multicenter randomized controlled study</public_title>
+      <acronym />
+      <scientific_title>Treatment of hUC-MSC for neuromyelitis optica spectrum disorder- A prospective multicenter randomized controlled study</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2016-04-01</date_enrolment>
+      <type_enrolment />
+      <target_size>intervention group:200;congtrol group:200;</target_size>
+      <recruitment_status>Pending</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=13545</url>
+      <study_type>Interventional study</study_type>
+      <study_design>Randomized parallel controlled trial</study_design>
+      <phase>New Treatment Measure Clinical Study</phase>
+      <hc_freetext>neuromyelitis optica spectrum disorder</hc_freetext>
+      <i_freetext>intervention group:regular drug treatment plus hUC-MSC;congtrol group:regular drug treatment;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>LI ZEZHI</firstname>
+        <middlename />
+        <lastname />
+        <address>1630 Dongfang Road,  Shanghai, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13501796424</telephone>
+        <email>13564648631@126.com</email>
+        <affiliation>Ren Ji Hospital, School of Medicine, Shanghai Jiao Tong University</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>GUAN YANGTAI</firstname>
+        <middlename />
+        <lastname />
+        <address>1630 Dongfang Road,  Shanghai, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13386271865</telephone>
+        <email>yangtaiguan@sina.com</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. aged &gt;=18 years;
+2. a new focal neurological deficits;
+3. met diagnostic criteria of NMOSD;
+4. normal liver and kidney function, blood cell, urine  examination;
+5. written informed consents were obtained from all subjects.</inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax>90</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. abnormal expression or disturbance of consciousness,instable vital signs;
+2. diabetes, hyperthyroidism and other endocrine disorders;
+3. severe mental illness patients who cannot be cooperated;
+4. patients with severe liver or kidney disease and severe systemic chronic wasting disease;
+5. gastrointestinal or other bleeding disorder within a mongth;
+6. history of myelodysplastic syndrome;
+7. use of non steroidal anti-inflammatory drugs;
+8. plaque decrease by using injection of heparin or low molecular weight heparin or heparin;
+9. history of relative drug allergy;
+10. history of important surgeries a week ago;
+11. can not cooperate in clinical trial. </exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>Recurrent events of the clinical symptoms;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Found from multi-center clinical trial of School of Medicine, Shanghai Jiao Tong University</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2016-02-29</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

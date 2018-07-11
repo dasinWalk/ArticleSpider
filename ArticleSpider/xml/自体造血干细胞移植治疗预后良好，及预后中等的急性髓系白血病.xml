@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-OCH-12002643</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2012-10-31</date_registration>
+      <primary_sponsor>Institute of Hematology Peking University, People's Hospital,</primary_sponsor>
+      <public_title>Autologous stem cell transplantation for patients with favorable- and intermediate-risk acute myeloid leukemia in first complete remission</public_title>
+      <acronym>ASCT for AML</acronym>
+      <scientific_title>Autologous stem cell transplantation for patients with favorable- and intermediate-risk acute myeloid leukemia in first complete remission</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2008-01-01</date_enrolment>
+      <type_enrolment />
+      <target_size>Favorable-risk AML:50;Intermediate-risk AML:40;</target_size>
+      <recruitment_status>Completed</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=6909</url>
+      <study_type>Observational study</study_type>
+      <study_design>Cohort study</study_design>
+      <phase>III (Phase III study)</phase>
+      <hc_freetext>Acute myeloid leukemia</hc_freetext>
+      <i_freetext>Favorable-risk AML:Autologous stem cell transplantation;Intermediate-risk AML:Autologous stem cell transplantation;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Huan Chen</firstname>
+        <middlename />
+        <lastname />
+        <address>Institute of Hematology Peking University, People's Hospital, No.11 Xizhimen south Street, Beijing China</address>
+        <city />
+        <country1 />
+        <zip>100044</zip>
+        <telephone>+86 10 88324952</telephone>
+        <email>chenhuan@cssc.net.cn</email>
+        <affiliation>Institute of Hematology Peking University, People's Hospital</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Xiao-jun Huan</firstname>
+        <middlename />
+        <lastname />
+        <address>Institute of Hematology Peking University, People's Hospital, No.11 Xizhimen south Street, Beijing China</address>
+        <city />
+        <country1 />
+        <zip>100044</zip>
+        <telephone>+86 10 88326006</telephone>
+        <email>huangxiaojun@bjmu.edu.cn</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Patients with de novel AML in favorable and intermediate-risk group younger than 60 years old;
+2. Peripheral blood stem cell harvesting was started if patients reached CR1 and MRD level was less than 0.1% without LAIPs after 1 to 2 courses of induction therapy and at least 2-3 courses of consolidation therapy including high-doses Ara-C;
+3. ECOG=0,1.</inclusion_criteria>
+      <agemin>8</agemin>
+      <agemax>60</agemax>
+      <gender>Male</gender>
+      <exclusion_criteria>1.Secondary AML, &gt;60 years old;
+2.AML in high-risk cytogenetic group;
+3. to reach CR1 with more than 2 courses of induction;
+4. &gt;CR1 or MRD level &gt;0.1% (including RQ-PCR test )and with FCM-LAIPs;
+5.ECOG &gt;=2.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>Relaose-free survival;Overall survival (OS);</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>association between MRD and relapse;safety of ASCT;Factors associated with relapse;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Clinical Research Foundation of Medical Doctor Association (grant No. 812090) and National Public Health Grant Research Foundation (grant No. 201202017).</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Not approved</status>
+        <approval_date>2013-08-26</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

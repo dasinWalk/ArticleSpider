@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR1800015716</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2018-03-08</date_registration>
+      <primary_sponsor>The Second Affiliated Hospital of Army Medical University </primary_sponsor>
+      <public_title>A clinical study of long acting CSF VS short acting CSF in the mobilization of healthy donors in allogeneic hematopoietic stem cell transplantation </public_title>
+      <acronym />
+      <scientific_title>The effect of long acting CSF VS short acting  CSF in the mobilization of healthy donors in allogeneic hematopoietic stem cell transplantation A Multicenter,Randomized controlled trial  </scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2018-03-01</date_enrolment>
+      <type_enrolment />
+      <target_size>Test group:97;Control group:97;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=25876</url>
+      <study_type>Interventional study</study_type>
+      <study_design>Randomized parallel controlled trial</study_design>
+      <phase>New Treatment Measure Clinical Study</phase>
+      <hc_freetext>Mobilization of healthy donors for allogeneic hematopoietic stem cell transplantation </hc_freetext>
+      <i_freetext>Test group:long acting G-CSF d1;Control group:short acting G-CSF 10ug/kg d1-4;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Gao Li</firstname>
+        <middlename />
+        <lastname />
+        <address>83 Xinqiao Main Street, Shapingba District, Chongqing, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13228686076</telephone>
+        <email>gaotiantiantiger@163.com</email>
+        <affiliation>The Second Affiliated Hospital of Army Medical University </affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Zhang Xi</firstname>
+        <middlename />
+        <lastname />
+        <address>83 Xinqiao Main Street, Shapingba District, Chongqing, China</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 023-68774509</telephone>
+        <email>zhangxxi@126.com</email>
+        <affiliation>The Second Affiliated Hospital of Army Medical University</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1) relationship between allogeneic hematopoietic stem cell transplantation of healthy donors;
+2) aged 18-55 years;
+3) weight 50-100Kg;
+4) normal heart function;
+5) normal liver and kidney function;
+6) hepatitis index examination negative;
+7) detection of cytomegalovirus negative;
+8) normal ECG;
+9) ultrasound of abdomen, chest normal;
+10) Voluntary participants, informed consent. </inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax>55</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1) Uncontrolled active infection;
+2) unrelated allogeneic hematopoietic stem cell transplantation;
+3) HIV antibody, syphilis antibody positive;
+4) with allergic diseases or allergies, or of the goods or other genetically engineered Escherichia coli derived from biological products allergy;
+5) serious spirit or nervous system disorders, effects of informed consent and/or adverse reaction statement or observation;
+6) in lactation.                   </exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>leukocyte;hemoglobin;Platelet;Mononuclear cells;CD34+ cells;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>T cell subgroup;B cell subgroup;GFU-GM;Reconstructive time of leukocyte;Reconstructive time of platele;the ratio of GVHD;headache;bone pain;fever;muscle pain;liver damage;renal damage;Splenomegaly;the ratio of relapse;Hospitalization expenses;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>National Nature Science Fund 81500147</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2018-04-06</approval_date>
+        <contact_name>Taixiang Wu</contact_name>
+        <contact_address>37 Guo Xue Xiang, Chengdu, Sichuang, China</contact_address>
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

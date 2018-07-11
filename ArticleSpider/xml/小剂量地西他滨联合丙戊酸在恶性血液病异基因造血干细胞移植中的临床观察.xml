@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR1800014888</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2018-02-12</date_registration>
+      <primary_sponsor>The First Affiliated Hospital of Zhengzhou University</primary_sponsor>
+      <public_title>Clinical observation of low-dose decitabine combined with valproic acid in allogeneic hematopoietic stem cell transplantation for hematologic malignancies</public_title>
+      <acronym />
+      <scientific_title>Clinical observation of low-dose decitabine combined with valproic acid in allogeneic hematopoietic stem cell transplantation for hematologic malignancies</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2018-02-01</date_enrolment>
+      <type_enrolment />
+      <target_size>experimental group:50;control group:50;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=25209</url>
+      <study_type>Interventional study</study_type>
+      <study_design>Randomized parallel controlled trial</study_design>
+      <phase>Post-market</phase>
+      <hc_freetext>hematologic malignancy</hc_freetext>
+      <i_freetext>experimental group:low-dose decitabine combined with valproic acid;control group:nothing;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Guo Rong</firstname>
+        <middlename />
+        <lastname />
+        <address>1 Jianshe Road East, Zhengzhou, He'nan, China </address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 18203609539</telephone>
+        <email>416054539@qq.com</email>
+        <affiliation>The First Affiliated Hospital of Zhengzhou University</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Guo Rong</firstname>
+        <middlename />
+        <lastname />
+        <address>1 Jianshe Road East, Zhengzhou, He'nan, China </address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 18860398705</telephone>
+        <email>gh7311@aliyun.com</email>
+        <affiliation>The First Affiliated Hospital of Zhengzhou University</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>(1) aged 14 to 60 years; 
+(2) the diagnosis is in accordance with the guidelines formulated by the Chinese medical association's hematology division; 
+(3) ECOG PS scores: 0 to 2; 
+(4) the period of survival is estimated to be greater than 3 months;
+(5) the subjects volunteered and signed informed consent forms, and signed informed consent procedures to meet the requirements of the quality management specification (GCP) of the pharmaceutical clinical trials.</inclusion_criteria>
+      <agemin>14</agemin>
+      <agemax>60</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>(1) the bone marrow cannot be absorbed through piercing; 
+(2) diagnosing and merging other malignant tumors within 12 months prior to transplantation; 
+(3) women in pregnancy or breastfeeding; 
+(4)failing to control systemic fungi, bacteria or virus infection (defined as thetime of the symptoms/signs associated with infection, although the use of antibiotics or other treatment but still no improvement); 
+(5) he is known or suspected to be allergic to the decitabine and valproic acid; 
+(6) known human immunodeficiency virus (HIV) or the active stage virus infection of hepatitis b or c; 
+(7) having a clear history of neurological or psychiatric disorders, including epilepsy or dementia; 
+(8) according to the researchers' judgment, there is a serious riskof endangering the patient's safety, or the accompanying disease that affects the patient's completion of the research;
+(9) other clinical trials of other drugs were taken prior to the use of other experimental drugs.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>myelogram;The occurrence of GVHD;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>Blood routine;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>National Natural Science Foundation of China (81070445);2014 annual medical science and technology research project in henan province (201403029)</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Not approved</status>
+        <approval_date>2013-08-26</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

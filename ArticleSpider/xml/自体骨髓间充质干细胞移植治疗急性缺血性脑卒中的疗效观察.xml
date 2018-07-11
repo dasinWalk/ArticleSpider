@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-ONRC-14005040</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2014-07-31</date_registration>
+      <primary_sponsor>Guangdong 999 Brain Hospital</primary_sponsor>
+      <public_title>Clinical researching on using autologous bone marrow MSC treated with acute ischemic stroke</public_title>
+      <acronym />
+      <scientific_title>Clinical researching on using autologous bone marrow MSC treated with acute ischemic stroke</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2014-09-01</date_enrolment>
+      <type_enrolment />
+      <target_size>Control group:30;Experimental:30;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=4535</url>
+      <study_type>Observational study</study_type>
+      <study_design>Non randomized control</study_design>
+      <phase>IV (Phase IV study)</phase>
+      <hc_freetext>acute ischemic stroke</hc_freetext>
+      <i_freetext>Control group:Conventional therapy group;Experimental:autologous bone marrow MSC;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Qingyan Zou</firstname>
+        <middlename />
+        <lastname />
+        <address>No. 578 Sha Tai Nan Road, Baiyun district, Guangzhou, Guangdong</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 15975504367</telephone>
+        <email>landanliu@foxmail.com</email>
+        <affiliation>Guangdong 999 Brain Hospital</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Wenmin Chen</firstname>
+        <middlename />
+        <lastname />
+        <address>No. 578 Sha Tai Nan Road, Baiyun district, Guangzhou, Guangdong</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13544503106</telephone>
+        <email>wenming6311@sohu.com</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2 />
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. from 40 to 70 years old with full capacity. Volunteered to participate in the clinical trial and can complete the follow-up tests in this study (signed informed consent); 
+2. Ischemic stroke symptoms of cerebral artery territory ischemia-induced (paralysis side muscle strength reach 0~III level); 
+3. Within 24 to 72 hours after onset, stable condition; 
+4. head CT or MRI scans showed no intracranial hemorrhage or any other large area of lesion that may increase the risk of bleeding; 
+5. non-comatose; 
+6. The first onset or previous history of stroke, but without sequelae; 
+7. NIHSS (National Institutes of Health Stroke Scale) scores between 4~25 points.</inclusion_criteria>
+      <agemin>40</agemin>
+      <agemax>70</agemax>
+      <gender>Male</gender>
+      <exclusion_criteria>1. Patients with TIA, or mild symptoms, or symptoms improved rapidly ,progressing stroke; 
+2. CT scan showed any bleeding lesions at enrollment; 
+3. Coma; 
+4. Undergoing thrombolytic therapy or other clinical trials;
+5. Seizures at the beginning of stroke; 
+6. Blood glucose level less than 2.7 mmol/L or more than 22.2 mmol/L. Blood pressure higher than 24.0/16.0 kPa, without decline after continues treatment; 
+7. Heart, lung, liver or kidney failure, severe anemia due to blood transfusion. Or have been diagnosed with the disease (such as psychosis), and difficult to complete the study for up to 1 year; 
+8. Patient or their guardians are unable or unwilling to sign an informed consent form.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>MRI score;NIHSS score;Rankin score;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>Ashworth spasticity scale score;Digital pain scale score;The Barthel index score;Safety indexes: blood, uring, stool routing test, liver and kidney function test, blood glucosis;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>No</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2014-07-17</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

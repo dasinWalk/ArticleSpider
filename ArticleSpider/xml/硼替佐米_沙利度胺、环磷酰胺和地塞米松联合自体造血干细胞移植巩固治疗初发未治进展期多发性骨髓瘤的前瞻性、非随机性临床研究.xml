@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-ONRC-13003502</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2013-08-22</date_registration>
+      <primary_sponsor>The First Affiliated Hospital of Zhejiang University</primary_sponsor>
+      <public_title>A multi-center, prospective, non-randomized clinical study of bortezomib / thalidomide, cyclophosphamide and dexamethasone combined with autologous hematopoietic stem cell transplantation in patients with de novo advanced multiple myeloma</public_title>
+      <acronym />
+      <scientific_title>A multi-center, prospective, non-randomized clinical study of bortezomib / thalidomide, cyclophosphamide and dexamethasone combined with autologous hematopoietic stem cell transplantation in patients with de novo advanced multiple myeloma</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2013-09-01</date_enrolment>
+      <type_enrolment />
+      <target_size>PCD chemo group:160;PCD plus ASCT group:40;TCD chemo group:160;TCD plus ASCT group:40;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=6058</url>
+      <study_type>Observational study</study_type>
+      <study_design>Non randomized control</study_design>
+      <phase>Other</phase>
+      <hc_freetext>Multiple Myeloma</hc_freetext>
+      <i_freetext>PCD chemo group:Chemotherapy;PCD plus ASCT group:Chemotherapy plus ASCT;TCD chemo group:Chemotherapy;TCD plus ASCT group:Chemotherapy plus ASCT  ;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Jingsong He</firstname>
+        <middlename />
+        <lastname />
+        <address>Building 2, 10th Floor, 79 Qingchun Road, Hangzhou, Zhejiang, China</address>
+        <city />
+        <country1 />
+        <zip>310003</zip>
+        <telephone>+86 13600547247</telephone>
+        <email>hjs2005@263.net</email>
+        <affiliation>The First Affiliated Hospital of Zhejiang University</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Zhen Cai</firstname>
+        <middlename />
+        <lastname />
+        <address>Building 2, 10th Floor, 79 Qingchun Road, Hangzhou, Zhejiang, China</address>
+        <city />
+        <country1 />
+        <zip>310003</zip>
+        <telephone>+86 13857190311</telephone>
+        <email>caizhen1@yahoo.com</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. aged 18 years to 70 years;
+2. In accordance with IMWG2003/WHO 2008 (V4) MM diagnostic criteria and with measurable indicators;
+3. The eastern cooperative oncology group fitness score (ECOG) &lt;=2 points, expected survival of more than three months;
+4. The patients are with "measurable disease": serum M protein &gt;=10g/L and/or 24-hour urine M protein &gt;=200mg;
+5. No active infectious diseases;
+6. The main organs without serious organic disease (except for renal dysfunction, caused by the disease);
+7. The patients have signed the informed consent.</inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax>70</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. The patients have received anti-myeloma therapy (not including radiotherapy, bisphosphonate therapy, or a single short-term glucocorticoidshormone [i.e., less than or equal to prednisone 40mg / day, 5 day dose]);
+2. The patients appear pain or peripheral neuropathy with two or more degree;
+3. The patients have a serious thrombotic events;
+4. The patients have a major surgery in 30 days;
+5. The patients have other malignancy, unless the disease are in a stable situation for more than 3 years;
+6. The patients are on borate, mannose, and thalidomide allergies;
+7. The patients have serious infectious diseases (not cured tuberculosis, pulmonary aspergillosis);
+8. The patients have epilepsy, dementia and other mental health exception demanding drug treatment;
+9. There are some stats in the subjects may effect the study or study assessing (i.e., drug abuse, or other medical, psychological or social status);
+10. The researchers believe that those who do not fit into this trial.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>Allover response rate;Complete response rate;Safety;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>Disease free survival;Progression free survival;Overall survival;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Self-financing</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2013-07-22</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

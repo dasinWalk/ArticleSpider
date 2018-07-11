@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-ONC-16009558</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2016-10-23</date_registration>
+      <primary_sponsor>Department of Hematology, Xiniao Hospital</primary_sponsor>
+      <public_title>CART cell bridging allogeneic hematopoietic stem cell transplantation for treatment of refractory / relapsed acute myeloid leukemia: non-blind, no- controlled, single center clinical trial  </public_title>
+      <acronym />
+      <scientific_title>CART cell bridging allogeneic hematopoietic stem cell transplantation for treatment of refractory / relapsed acute myeloid leukemia: non-blind, no- controlled, single center clinical trial  </scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2016-11-01</date_enrolment>
+      <type_enrolment />
+      <target_size>CART cells bridging allogeneic hematopoietic stem cell transplantation:22;</target_size>
+      <recruitment_status>Pending</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=16294</url>
+      <study_type>Observational study</study_type>
+      <study_design>Case series</study_design>
+      <phase>New Treatment Measure Clinical Study</phase>
+      <hc_freetext>Refractory / relapsed acute myeloid leukemia</hc_freetext>
+      <i_freetext>CART cells bridging allogeneic hematopoietic stem cell transplantation:CART cells bridging allogeneic hematopoietic stem cell transplantation;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Gao Lei</firstname>
+        <middlename />
+        <lastname />
+        <address>183 Xinqiao Main Street, Shapingba District, Chongqing</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13228689635</telephone>
+        <email>gaolei7765@163.com</email>
+        <affiliation>Department of Hematology, Xiniao Hospital</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Gao Lei</firstname>
+        <middlename />
+        <lastname />
+        <address>183 Xinqiao Main Street, Shapingba District, Chongqing</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13228689635</telephone>
+        <email>gaolei7765@163.com</email>
+        <affiliation>Department of Hematology, Xiniao Hospital</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Male and female aged under 55 years old;
+2. with refractory / relapsed acute myeloid leukemia and no effective treatment modality for selected patients; 
+3. estimated survival tiem less than 3 months;
+4. ECOG≤2 scores;
+5. No serious systemic organ dysfunction. </inclusion_criteria>
+      <agemin />
+      <agemax>55</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. Uncontrolled positive infection, HBV or HCV positive;
+2. Patients taked part in other cell immunotherapy trials.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>disease-Free survival of 1 years;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>Hematopoietic reconstitution time;ratio of GVHD;Complication of therapy;ratio of relapse;overall survival of 1years;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>The clinical research project of Xinqiao Hospital of Third Military Medical University </source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>1990-01-01</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

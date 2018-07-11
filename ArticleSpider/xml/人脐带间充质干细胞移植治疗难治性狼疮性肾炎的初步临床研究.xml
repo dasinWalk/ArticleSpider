@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-OPN-17011139</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2017-04-13</date_registration>
+      <primary_sponsor>Department of Nephrology; The First Affiliated Hospital of the Third Military Medical University</primary_sponsor>
+      <public_title>Human umbilical cord mesenchymal stem cell transplantation in refractory  lupus nephritis: a clinical study</public_title>
+      <acronym />
+      <scientific_title>Human umbilical cord mesenchymal stem cell transplantation in refractory  lupus nephritis: a clinical study</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2017-04-30</date_enrolment>
+      <type_enrolment />
+      <target_size>Treat group:11;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=18952</url>
+      <study_type>Observational study</study_type>
+      <study_design>Non randomized control</study_design>
+      <phase>Pilot study</phase>
+      <hc_freetext>Lupus Nephritis</hc_freetext>
+      <i_freetext>Treat group:umbilical cord mesenchymal stem cell transplantation;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Zhang Huhai</firstname>
+        <middlename />
+        <lastname />
+        <address>30 Gaotanyan Main Street, Shapingba District, Chongqing, China</address>
+        <city />
+        <country1 />
+        <zip>400038</zip>
+        <telephone>+86 13677696006</telephone>
+        <email>184215827@qq.com</email>
+        <affiliation>Department of Nephrology; the First Affiliated Hospital of the Third Military Medical University</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Zhao Hongwen</firstname>
+        <middlename />
+        <lastname />
+        <address>30 Gaotanyan Main Street, Shapingba District, Chongqing, China</address>
+        <city />
+        <country1 />
+        <zip>400038</zip>
+        <telephone>+86 13983360655</telephone>
+        <email>358984844@qq.com</email>
+        <affiliation>Department of Nephrology; the First Affiliated Hospital of the Third Military Medical University</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>(1) Aged 18-60 years old male and female;
+(2) Meet the Emendatory SLE diagnostic criteria of The American rheumatism association (1982);
+(3) Patient with pathologically confirmed Lupus nephritis III-IV-SIV-GV or III+VIV+ V type;
+(4) The Clinical diagnosis of refractory with lupus nephritis is confirmed (Proteinuria &gt; 1 g/d After 24 weeks of treatment or down less than 25%, compared with before treatment and exclusion of reversible factors; The SLEDAI score &gt; 8).</inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax>60</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>(1) With other autoimmune diseases, connective tissue diseases, amyloidosis;
+(2) The pulmonary artery pressure 50 mmHg or higher;
+(3) Any more complicated medical problems may interfere with the action or result in increased risk, such as malignant tumor, diabetes, blood disease, heart disease, liver disease, AIDS, viral hepatitis and other acquired and congenital immunodeficiency disease, or has a history of organ transplantation, etc;
+(4) Allergic to any culture cell component;
+(5) Clinically active infection;
+(6) Couldn't understand the potential risks and benefits of research, unable to follow-up assessment as required;
+(7) No capacity for civil conduct;
+(8) The history of drug or alcohol abuse;
+(9) Pregnancy or lactation;
+(10) Researchers think not appropriate for clinical subjects.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>24-hours proteinuria;Serum albumin;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>recurrence rate;remission rate;mortality;complement C3;dsDNA;Sm antibody;Serum creatine;eGFR-EPI;SLEDAI 评分;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>The First Affiliated Hospital of the Third Military Medical University</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>1990-01-01</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

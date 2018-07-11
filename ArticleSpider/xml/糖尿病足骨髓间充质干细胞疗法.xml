@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-TRC-10000912</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2010-06-24</date_registration>
+      <primary_sponsor>Third Military Medical University</primary_sponsor>
+      <public_title>Autologous transplantation of bone marrow  mesenchymal stem cells for diabetic foot</public_title>
+      <acronym />
+      <scientific_title>Autologous transplantation of bone marrow  mesenchymal stem cells for diabetic foot</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2004-08-01</date_enrolment>
+      <type_enrolment />
+      <target_size>MSC group:136;BMNC group:121;Control group:132;</target_size>
+      <recruitment_status>Completed</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=8626</url>
+      <study_type>Interventional study</study_type>
+      <study_design>Randomized parallel controlled trial</study_design>
+      <phase>Pilot study</phase>
+      <hc_freetext>diabetic foot</hc_freetext>
+      <i_freetext>MSC group:Mesenchymal stem cells in treatment of diabetic foot  ;BMNC group:Mononuclear stem cells in treatment of diabetic foot;Control group:Routine treatment of diabetic foot treatment;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Wuquan Deng</firstname>
+        <middlename />
+        <lastname />
+        <address>Department of Endocrinology, Southwest Hospital, Third Military Medical University</address>
+        <city />
+        <country1 />
+        <zip>400038</zip>
+        <telephone>+86 15823159001</telephone>
+        <email>dengwuquan@163.com</email>
+        <affiliation>Southwest Hospital affiliated to the Third Military Medical University</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Bing Chen</firstname>
+        <middlename />
+        <lastname />
+        <address>Department of Endocrinology, Southwest Hospital, Third Military Medical University</address>
+        <city />
+        <country1 />
+        <zip>400038</zip>
+        <telephone>+86 023 68765413</telephone>
+        <email>chenbing3@medmail.com.cn</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. signed informed consent, and date;
+2. age 18-70 years; diffuse vascular disease;
+3. refractory tissue ulceration;
+4. can not tolerate revascularization or  interventional surgery.</inclusion_criteria>
+      <agemin>30</agemin>
+      <agemax>75</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. highly allergic or who have history of severe allergies; 
+2. with shock or systemic failure, abnormal vital signs, and cannot cooperate; 
+3. advanced cancer; 
+4. severe systemic infections or local infection can not be controlled; 
+5. Disfunction of heart, lung, liver, kidney and other vital organs; 
+6. leukemia and other serious blood diseases; 
+7. positive serological tests such as AIDS, hepatitis B, syphilis, etc.; 
+8. deficiency of chromosomes or Gene and immune deficiency; 
+9. the patients whose expectations are too high, or do not meet the practical requirements and refused to sign the informed consent.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>cold sensation score;rest ABI;claudication distance;rest pain score;Wound healin;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>amputation rate of DF;tumor incidence;Recurrence rate of DF;mortality;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>The Clinical Research Fund of Southwest Hospital affiliated to the Third Military Medical University (SWH2005A109)</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2007-02-01</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

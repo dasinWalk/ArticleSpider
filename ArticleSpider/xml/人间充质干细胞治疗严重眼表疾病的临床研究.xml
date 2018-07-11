@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-OCB-15005972</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2014-10-14</date_registration>
+      <primary_sponsor>The eye insititute of Xiamen university</primary_sponsor>
+      <public_title>The clinical trial of human mesenchymal stem cells therapy for severe ocular surface diseases</public_title>
+      <acronym />
+      <scientific_title>The clinical trial of human mesenchymal stem cells therapy for severe ocular surface diseases</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2014-12-01</date_enrolment>
+      <type_enrolment />
+      <target_size>experimental group:20;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=9640</url>
+      <study_type>Observational study</study_type>
+      <study_design>Before-After control</study_design>
+      <phase>New Treatment Measure Clinical Study</phase>
+      <hc_freetext>severe ocular surface diseases</hc_freetext>
+      <i_freetext>experimental group:subconjunctival injection of mesenchymal stem cells, futher more, intrastromal injection of mesenchymal stem cells;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Juan Li</firstname>
+        <middlename />
+        <lastname />
+        <address>4th Floor, Chengyi Buld, Xiang-an campus of Xiamen Univ. South Xiang-an Rd, Xiamen, Fujian, CHINA</address>
+        <city />
+        <country1 />
+        <zip>361102</zip>
+        <telephone>+86 13606935390</telephone>
+        <email>lijuan20081121@163.com</email>
+        <affiliation>The eye institute of Xiamen university</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Wei Li</firstname>
+        <middlename />
+        <lastname />
+        <address>4th Floor, Chengyi Buld, Xiang-an campus of Xiamen Univ. South Xiang-an Rd, Xiamen, Fujian, CHINA</address>
+        <city />
+        <country1 />
+        <zip>361102</zip>
+        <telephone>+86 15960215161</telephone>
+        <email>wei1018@xmu.edu.cn</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>severe ocular surface disease, such as chemical and thermal burn，severe corneal infection, Stevens-Johnson syndrome</inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax>60</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. The chronic stage of severe ocular surface diseases, such as symblepharon，corneal conjunctivalization, corneal scarring;
+2. Pregnancy patients.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>vision;cornea fluorescein staining;slit lamp photography;the detection of inflammatory cytokines;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>ultrasound biomicroscopy（UBM）;IOP（intraocular pressure）;schirmer test;tear film break-up time;optical coherence tomography（OCT);impression cytology;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Chinese National Key Scientific Research Project(2013CB967003 [to WL])，the Fundamental Research Funds for the Central Universities of China (grants 2012121049 [to WL])</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2014-12-26</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

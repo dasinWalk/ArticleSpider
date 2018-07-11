@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-ONRC-12002956</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2012-12-31</date_registration>
+      <primary_sponsor>the First Affiliated Hospital of Zhejiang University School of Medicine</primary_sponsor>
+      <public_title>Imatinib Combined with Reduced-Intensity Allogeneic Hematopoietic Stem Cell Transplantation versus Imatinib Alone for Chronic Myeloid Leukemia in Chronic Phase</public_title>
+      <acronym />
+      <scientific_title>Imatinib Combined with Reduced-Intensity Allogeneic Hematopoietic Stem Cell Transplantation versus Imatinib Alone for Chronic Myeloid Leukemia in Chronic Phase</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2004-01-01</date_enrolment>
+      <type_enrolment />
+      <target_size>imatinib combined with reduced-intensity allogenei:50;imatinib:100;</target_size>
+      <recruitment_status>Completed</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=6599</url>
+      <study_type>Observational study</study_type>
+      <study_design>Non randomized control</study_design>
+      <phase>Post-market</phase>
+      <hc_freetext>chronic myeloid leukemia</hc_freetext>
+      <i_freetext>imatinib combined with reduced-intensity allogenei:imatinib combined with reduced-intensity allogenei;imatinib:imatinib alone;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Yanmin Zhao</firstname>
+        <middlename />
+        <lastname />
+        <address>79 Qingchun Road, Hangzhou, Zhejiang</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 15858199217</telephone>
+        <email>zjzhaoyanmin@163.com</email>
+        <affiliation>the First Affiliated Hospital of Zhejiang University School of Medicine</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>He Huang</firstname>
+        <middlename />
+        <lastname />
+        <address>79 Qingchun Road, Hangzhou, Zhejiang</address>
+        <city />
+        <country1 />
+        <zip />
+        <telephone>+86 13605714822</telephone>
+        <email>hehuangyu@126.com</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. gave informed consent;
+2. age less than 45 years;
+3. diagnosed with CML, as confirmed by the presence of the Philadelphia (Ph) chromosome or the BCR-ABL fusion gene;
+4. chronic phase</inclusion_criteria>
+      <agemin>12</agemin>
+      <agemax>45</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. severe irreversible comorbidity, such as renal, hepatic, pulmonary, or cardiac disease; 
+2. active infection;
+3. pregnancy or lactation.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>overall survival;progression-free survival;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>National Natural Science Foundation of China</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Not approved</status>
+        <approval_date>2013-08-26</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

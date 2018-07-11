@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-OPN-16009847</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2016-11-14</date_registration>
+      <primary_sponsor>Department of Hematology, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology </primary_sponsor>
+      <public_title>An open lable, single center, single arm clinical study of infusion of anti-CD19 CAR-T and anti-CD22 CAR-T therapy after autologous hematopoietic stem cell transplantation (auto-HSCT) for relapsed, refractory and high-risk B cell lymphoma</public_title>
+      <acronym />
+      <scientific_title>An open single center single arm clinical study of infusion of anti-CD19 CAR-T and anti-CD22 CAR-T therapy after autologous hematopoietic stem cell transplantation (auto-HSCT) for relapsed, refractory and high-risk B cell lymphoma</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2016-11-14</date_enrolment>
+      <type_enrolment />
+      <target_size>Treatment group:50;</target_size>
+      <recruitment_status>Recruiting</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=16773</url>
+      <study_type>Observational study</study_type>
+      <study_design>Non randomized control</study_design>
+      <phase>Pilot study</phase>
+      <hc_freetext>B cell lymphoma</hc_freetext>
+      <i_freetext>Treatment group:Chimeric Antigen Receptor T-Cell Immunotherapy;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Cao Yang</firstname>
+        <middlename />
+        <lastname />
+        <address>1095 Jiefang Avenue, Qiaokou District, Wuhan, Hubei, China </address>
+        <city />
+        <country1 />
+        <zip>430030</zip>
+        <telephone>+86 027-83663609</telephone>
+        <email>caoyangemma@163.com</email>
+        <affiliation>Department of Hematology, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Zhou Jianfeng</firstname>
+        <middlename />
+        <lastname />
+        <address>1095 Jiefang Avenue, Qiaokou District, Wuhan, Hubei, China </address>
+        <city />
+        <country1 />
+        <zip>430030</zip>
+        <telephone>+86 027-83663609</telephone>
+        <email>zhougene@medmail.com.cn</email>
+        <affiliation>Department of Hematology, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Voluntary participation in the clinical trials and sign the informed consent;
+2. To be aged 18 to 70 years male and femal;
+3. Patients with CD19+, CD22+ leukemia or lymphoma diagnosed by pathology and histology, meet the criteria of autologous hematopoietic stem cell transplantation, and patients are voluntary to accept through infusion of anti-CD19 CAR-T and anti-CD22 CAR-T cell therapy after HSCT;
+4. types of B cell malignancy: (1) B cell Acute lymphoblastic leukemia; (2) Indolent B cell lymphoma (CLL, FL, MZL, LPL, HCL); (3) Aggressive B cell lymphoma (DLBCL, BL, MCL); (4) Multiple myeloma; 
+5. Patients suitable to accept auto-HSCT, and meeting any of the following criteria:
+(1) Present residual disease or progressive disease after main therapy ; 
+(2) Relapse after CR1; 
+(3) Patients with high risk factors; 
+(4) Failure to achieve remission or relapse after other cell immunotherapy ; 
+(5) Eligible for allo-HSCT, but unable to implement;
+6. Patients with measurable lesions or with observable tumor foci; 
+7. Multiple organ function assessment: Creatinine &lt; 2.5 mg/dl; Aspartate transaminase-alanine transaminase ratio &lt; 3x normal; SiO2&gt;=95%; Bilirubin &lt; 2.0 mg/dl; LVEF&gt;40%; 
+8. Without history of accepting anti-cancer therapy, including chemotherapy, radiotherapy, immunotherapy (immune suppressive drugs treatment) within 4 weeks of screening; 
+9. Adequate venous access for apheresis; 
+10. ECOG score &lt;=2, Estimated survival of &gt;=3 months. </inclusion_criteria>
+      <agemin>18</agemin>
+      <agemax>70</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. Pregnancy and nursing females;
+2. Planning pregnancy within 1 year;
+3. Active hepatitis B, active hepatitis C, or any human immunodeficiency virus (HIV) infection at the time of screening;
+4. Systemic fungal, bacterial, viral, or other infection that is not controlled, at the time of screening;
+5. active HBV/HCV infected;
+6. any human immunodeficiency virus (HIV) infection;
+7. History of accepting systemic steroids treatments within 4 weeks;
+8. Allergic to any cytokines or antibodies;
+9. Participation in an investigational research study within 6 weeks before enrolled;
+10. History of accepting systemic steroids treatments within 4 weeks;
+11. History of mental disorders;
+12. Drug abuse and addiction;
+13. Other situations we think improper for the research. </exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>Safety;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Wuhan Bio –Raid Biotechnology Co.,Ltd. </source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2016-03-22</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

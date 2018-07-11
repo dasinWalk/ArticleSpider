@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-IPR-15005779</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2014-12-29</date_registration>
+      <primary_sponsor>First Affilited Hospital of Guangxi Medical University</primary_sponsor>
+      <public_title>Efficacy of different dosage of antithymocyte globulin in HLA-matched allogeneic hematopoietic stem cell transplantation for thalassemia major treatment: a multi-center, open, randomized, controlled clinical study</public_title>
+      <acronym />
+      <scientific_title>Efficacy of different dosage of antithymocyte globulin in HLA-matched allogeneic hematopoietic stem cell transplantation for thalassemia major treatment: a multi-center, open, randomized, controlled clinical study</scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2015-03-01</date_enrolment>
+      <type_enrolment />
+      <target_size>control group:50;experimental group :50;</target_size>
+      <recruitment_status>Pending</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=10208</url>
+      <study_type>Interventional study</study_type>
+      <study_design>Randomized parallel controlled trial</study_design>
+      <phase>IV (Phase IV study)</phase>
+      <hc_freetext>thalassemia major</hc_freetext>
+      <i_freetext>control group:Busulfan+fludarabine+cyclophosphamiade+antithymocyte globulin(10mg/kg);experimental group :Busulfan+fludarabine+cyclophosphamiade+antithymocyte globulin(8mg/kg);</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Zhongming Zhang</firstname>
+        <middlename />
+        <lastname />
+        <address>6 Shuangyong road, Qingxiu district, Nanning, Guangxi Zhuang Autonomous Region</address>
+        <city />
+        <country1 />
+        <zip>530021</zip>
+        <telephone>+86 15807801369</telephone>
+        <email>zzmmissyou@126.com</email>
+        <affiliation>the First Affilited Hospital of Guangxi Medical University</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Yongrong Lai</firstname>
+        <middlename />
+        <lastname />
+        <address>6 Shuangyong road, Qingxiu district, Nanning, Guangxi Zhuang Autonomous Region</address>
+        <city />
+        <country1 />
+        <zip>530021</zip>
+        <telephone>+86 13517711828</telephone>
+        <email>laiyongrong@263.net</email>
+        <affiliation />
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Age: 2 to 18 years old;
+2. Gender: Male or female;
+3. Thalassemia major;
+4. HLA-matched related hematopoietic stem cell transplantation;
+5. no sereve infection;
+6. In good general condition, ECOG score less than 1;
+7. Normal heart function: ejection fraction more than 50%;
+8. Normal liver and renal function: Serum bilirubin less than 35umol/L, AST/ALT less than 2 times the upper limit, serum creatinine under 2 times the upper limit;
+9. Enrolled subjects or their families signed informed consent.</inclusion_criteria>
+      <agemin>1</agemin>
+      <agemax>18</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. severe infection uncontrolled before transplantation;
+2. severe allergic on Antithymocyte globulin (anaphylactic shock or laryngeal edema);
+3. unrelated allogeneic hematopoietic stem cell transplantation;Hyplotype allogeneic hematopoietic stem cell transplantation; second transplantation, reduced-intensisty transplantation;
+4. Cardiac dysfunction (ejection fraction less than 50%);
+5. Renal insufficiency (serum creatinine more than 130umol/L);
+6. Hepatic dysfunction (total bilirubin more than 34umol/L, ALT, AST more than 2 times the upper limit of normal);
+7. Previously history of allogeneic hematopoietic stem cell transplantation;
+8. Other circumstances which do not meet the inclusion criteria.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>over-survival;disease-free survival;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome />
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>self-financing</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2014-02-11</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>

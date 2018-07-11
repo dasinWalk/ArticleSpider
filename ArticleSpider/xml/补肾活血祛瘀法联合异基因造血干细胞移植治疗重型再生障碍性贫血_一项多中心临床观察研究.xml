@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<trials subjects="1">
+  <Triall>
+    <main>
+      <UTRN />
+      <trial_id>ChiCTR-ONRC-13003670</trial_id>
+      <utrn />
+      <reg_name>ChiCTR</reg_name>
+      <date_registration>2013-10-09</date_registration>
+      <primary_sponsor>Zhejiang Provincial Hospital of Traditional Chinese Medicine</primary_sponsor>
+      <public_title>Effect of allogeneic hematopoietic stem cell transplantation combined with </public_title>
+      <acronym />
+      <scientific_title>Allogeneic hematopoietic stem cell transplantation combined with </scientific_title>
+      <Scientific_acronym />
+      <date_enrolment>2013-11-01</date_enrolment>
+      <type_enrolment />
+      <target_size>study group:20;</target_size>
+      <recruitment_status>Completed</recruitment_status>
+      <url>http://www.chictr.org.cn/showproj.aspx?proj=5890</url>
+      <study_type>Observational study</study_type>
+      <study_design>Non randomized control</study_design>
+      <phase>Other</phase>
+      <hc_freetext>aplastic anemia</hc_freetext>
+      <i_freetext>study group:allogeneic hematopoietic stem cell transplantation combined with "Kidney reinforcing and blood activating, stasis removing" method;</i_freetext>
+      <results_actual_enrolment />
+      <results_date_completed />
+      <results_url_link />
+      <results_summary />
+      <results_date_posted />
+      <results_date_first_publication />
+      <results_baseline_char />
+      <results_participant_flow />
+      <results_adverse_events />
+      <results_outcome_measures />
+      <results_url_protocol />
+      <results_IPD_plan />
+      <results_IPD_description />
+    </main>
+    <contacts>
+      <contact>
+        <type>Scientific</type>
+        <firstname>Wu Dijiong</firstname>
+        <middlename />
+        <lastname />
+        <address>54 Youdian Road, Hangzhou, Zhejiang, China</address>
+        <city />
+        <country1 />
+        <zip>310006</zip>
+        <telephone>+86 13989463963</telephone>
+        <email>wdj850@163.com</email>
+        <affiliation>Zhejiang Provincial Hospital of Traditional Chinese Medicine</affiliation>
+      </contact>
+      <contact>
+        <type>Public</type>
+        <firstname>Ye Baodong</firstname>
+        <middlename />
+        <lastname />
+        <address>54 Youdian Road, Hangzhou, Zhejiang, China</address>
+        <city />
+        <country1 />
+        <zip>310006</zip>
+        <telephone>+86 13588453501</telephone>
+        <email>13588453501@163.com</email>
+        <affiliation>Zhejiang Provincial Hospital of Traditional Chinese Medicine</affiliation>
+      </contact>
+    </contacts>
+    <countries>
+      <country2>China</country2>
+    </countries>
+    <criteria>
+      <inclusion_criteria>1. Meet the diagnosis of SAA-I or SAA-II;
+2. Did not participate in other clinical study;
+3. Aged from 6 to 50 years old.</inclusion_criteria>
+      <agemin>6</agemin>
+      <agemax>50</agemax>
+      <gender>Both</gender>
+      <exclusion_criteria>1. acute blood stagnation, pancytopenia caused by bone marrow fibrosis;
+2. patients with severe cardiovascular, hepatic, renal system and mental disease;
+3. patients complicated with severe arrhythmia (such as atrial fibrillation, paroxysmal ventricular tachycardia, atrial flutter);
+4. patients suffered from active peptic ulcer and other hemorrhagic disease;
+5. the pregnancy or ready for pregnant women, breastfeeding women;
+6. the allergic;
+7. participated in the last 3 months or is participating in other clinical trials.</exclusion_criteria>
+    </criteria>
+    <health_condition_code>
+      <hc_code />
+    </health_condition_code>
+    <health_condition_keyword>
+      <hc_keyword />
+    </health_condition_keyword>
+    <intervention_code>
+      <i_code>;</i_code>
+    </intervention_code>
+    <intervention_keyword>
+      <i_keyword />
+    </intervention_keyword>
+    <primary_outcome>
+      <prim_outcome>peripheral hemogram;TCM syndrome;myelogram;implantation rate;transplant complication;</prim_outcome>
+    </primary_outcome>
+    <secondary_outcome>
+      <sec_outcome>immunologic function;</sec_outcome>
+    </secondary_outcome>
+    <secondary_sponsor>
+      <sponsor_name />
+    </secondary_sponsor>
+    <secondary_ids>
+      <secondary_id>
+        <sec_id />
+        <issuing_authority />
+      </secondary_id>
+    </secondary_ids>
+    <source_support>
+      <source_name>Research Project for Practice Development of National TCM Clinical Research Bases</source_name>
+    </source_support>
+    <ethics_reviews>
+      <ethics_review>
+        <status>Approved</status>
+        <approval_date>2013-07-02</approval_date>
+        <contact_name />
+        <contact_address />
+        <contact_phone />
+        <contact_email />
+      </ethics_review>
+    </ethics_reviews>
+  </Triall>
+</trials>
