@@ -10,6 +10,7 @@ import json
 from scrapy.exporters import JsonItemExporter
 import MySQLdb
 import MySQLdb.cursors
+import cx_Oracle
 from twisted.enterprise import adbapi
 from scrapy.pipelines.files import FilesPipeline
 from scrapy import Request
@@ -109,7 +110,7 @@ class ArticleImagePipline(ImagesPipeline):
         if "front_image_url" in item:
             for ok, value in results:
                 image_file_path = value["path"]
-            item["front_image_path"] = image_file_path
+                item["front_image_path"] = image_file_path
 
         return item
 
@@ -120,7 +121,14 @@ class KjjysImagePipline(ImagesPipeline):
         if "front_image_url" in item:
             for ok, value in results:
                 image_file_path = value["path"]
-            item["front_image_path"] = image_file_path
+                if "front_image_path" in item:
+                    imagePath = item["front_image_path"]
+                    if imagePath == '--':
+                        item["front_image_path"] = image_file_path
+                    else:
+                        item["front_image_path"] = imagePath + ',' + image_file_path
+                else:
+                    item["front_image_path"] = image_file_path
         else:
             item["front_image_url"] = ''
 
@@ -148,3 +156,53 @@ class MyFilePipeline(FilesPipeline):
         path = path.replace(" ", "")
         path = path + ".xml"
         return join(basename(dirname(path)), basename(path))
+
+
+class MultipleTwistedPipline(object):
+    watch_map = {}
+    def __init__(self, dbpool, oracleparms):
+        self.dbpool = dbpool
+        self.oracleparms = oracleparms
+
+    @classmethod
+    def from_settings(cls, settings):
+        dbparms = dict(
+            host=settings["MYSQL_HOST"],
+            db=settings["MYSQL_DBNAME"],
+            user=settings["MYSQL_USER"],
+            passwd=settings["MYSQL_PASSWORD"],
+            charset='utf8',
+            cursorclass=MySQLdb.cursors.DictCursor,
+            use_unicode=True,
+        )
+        oracleparms = dict(
+            host=settings["ORACLE_HOST"],
+            db=settings["ORACLE_DBNAME"],
+            user=settings["ORACLE_USER"],
+            passwd=settings["ORACLE_PASSWORD"],
+            charset='utf8',
+            cursorclass=MySQLdb.cursors.DictCursor,
+            use_unicode=True,
+        )
+        dbpool = adbapi.ConnectionPool("MySQLdb", **dbparms)
+        return cls(dbpool, oracleparms)
+
+    def process_item(self, item, spider):
+        #使用twisted将mysql插入变成异步执行
+        query = self.dbpool.runInteraction(self.do_insert, item)
+        query.addErrback(self.handle_error, item, spider) #处理异常
+
+    def handle_error(self, failure, item, spider):
+        #处理异步插入的异常
+        print(failure)
+
+    def do_insert(self, cursor, item):
+        if len(self.watch_map) < 1:
+            alter_sql, db_type, task_id = item.get_init_sql()
+            if alter_sql != '':
+                cursor.execute(alter_sql)
+            self.watch_map[task_id] = '1'
+        #执行具体的插入
+        #根据不同的item 构建不同的sql语句并插入到mysql中
+        insert_sql, params = item.get_insert_sql()
+        cursor.execute(insert_sql, params)

@@ -13,6 +13,7 @@ from selenium import webdriver
 from scrapy.xlib.pydispatch import dispatcher
 from scrapy import signals
 
+
 class JobboleSpider(scrapy.Spider):
     name = "jobbole"
     allowed_domains = ["blog.jobbole.com"]

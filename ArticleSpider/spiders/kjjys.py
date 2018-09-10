@@ -10,6 +10,8 @@ from scrapy.xlib.pydispatch import dispatcher
 from scrapy import signals
 from ArticleSpider.utils.common import get_md5
 import datetime
+import platform
+from pyvirtualdisplay import Display
 
 
 def remove_comment_tags(value):
@@ -31,15 +33,27 @@ class KjjysSpider(scrapy.Spider):
         'User-Agent': "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36"
     }
 
-    def __init__(self):
-        self.browser = webdriver.Chrome(executable_path="E:/pythonDriver/chromedriver.exe")
+    def __init__(self, **kwargs):
+        sysstr = platform.system()
+        if sysstr == 'Windows':
+            self.browser = webdriver.Chrome(executable_path="E:/pythonDriver/chromedriver.exe")
+        else:
+            # self.browser = webdriver.Chrome(executable_path="/root/software/pydriver/chromedriver")
+            self.display = Display(visible=0, size=(800, 600))
+            self.display.start()
+            self.browser = webdriver.Chrome(executable_path="/usr/bin/chromedriver")
         super(KjjysSpider, self).__init__()
         dispatcher.connect(self.spider_closed, signals.spider_closed)
 
-    def spider_closed(self,spider):
+    def spider_closed(self, spider):
         #当爬虫退出时关闭chrom
         print("spider closed")
-        self.browser.quit()
+        sysstr = platform.system()
+        if sysstr == 'Windows':
+            self.browser.quit()
+        else:
+            self.browser.quit()
+            self.display.stop()
 
     def parse(self, response):
         """
@@ -50,8 +64,8 @@ class KjjysSpider(scrapy.Spider):
         if response.status == 404:
             self.fail_urls.append(response.url)
             self.crawler.stats.inc_value("failed_url")
-        #, 'http://www.nhfpc.gov.cn/qjjys/zcwj2/new_zcwj.shtml', 'http://www.nhfpc.gov.cn/qjjys/pgzdt/new_list.shtml'
-        if response.url in ['http://www.nhfpc.gov.cn/qjjys/pqt/new_list.shtml']:
+
+        if response.url in ['http://www.nhfpc.gov.cn/qjjys/pqt/new_list.shtml', 'http://www.nhfpc.gov.cn/qjjys/zcwj2/new_zcwj.shtml', 'http://www.nhfpc.gov.cn/qjjys/pgzdt/new_list.shtml']:
             #post_nodes = response.css(".zxxx_list a")
             post_nodes = response.css(".zxxx_list li")
             type_name = response.css(".index_title_h3.fl ::text").extract_first("")
@@ -61,11 +75,11 @@ class KjjysSpider(scrapy.Spider):
                 publish_date = remove_comment_tags(publish_date)
                 print("innerurl ===")
                 print(response.url)
-                # compare_date = '2018-06-21'
-                # compare_date = datetime.datetime.strptime(compare_date, "%Y-%m-%d").date()
-                # publishDate = datetime.datetime.strptime(publish_date, "%Y-%m-%d").date()
-                # if publishDate > compare_date:
-                yield Request(url=parse.urljoin(response.url, post_url), headers=self.headers, meta={"publish_date": publish_date, "type_name": type_name}, callback=self.parse_detail)
+                compare_date = datetime.datetime.now()
+                compare_date = datetime.datetime.strptime(compare_date.strftime("%Y-%m-%d"), "%Y-%m-%d").date()
+                publishDate = datetime.datetime.strptime(publish_date, "%Y-%m-%d").date()
+                if publishDate >= compare_date:
+                    yield Request(url=parse.urljoin(response.url, post_url), headers=self.headers, meta={"publish_date": publish_date, "type_name": type_name}, callback=self.parse_detail)
         else:
             post_nodes = response.css(".fr.index_more a")
             for post_node in post_nodes[0:3]:
@@ -148,7 +162,7 @@ class KjjysSpider(scrapy.Spider):
         item_loader = kjjysItemLoader(item=kjjysItem(), response=response)
 
         image_url = response.css("#xw_box img::attr(src)").extract()
-        new_image_url = ['http://wx3.sinaimg.cn/mw690/7cc829d3gy1fsrtjp2o93j20hs0audih.jpg']
+        new_image_url = []
         if len(image_url) > 0:
             for in_url in image_url:
                 in_url = parse.urljoin(response.url, in_url)

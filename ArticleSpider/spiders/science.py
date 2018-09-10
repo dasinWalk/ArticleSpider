@@ -14,6 +14,17 @@ import platform
 from pyvirtualdisplay import Display
 
 
+def get_my_content(url, value):
+    new_content = []
+    articleorign = '<p><a href="{0}" target="_blank"><span style="color: #0070c0; text-decoration: underline;">' \
+                   '原文链接</span></a></p></div>'.format(url)
+    for cvalue in value:
+        cvalue = cvalue[:-6]
+        cvalue = cvalue + articleorign
+        new_content.append(cvalue)
+    return new_content
+
+
 def remove_comment_tags(value):
     # 去掉tags中提取的评论
     if len(value) > 1:
@@ -22,14 +33,14 @@ def remove_comment_tags(value):
         return value[0]
 
 
-class kjxwzxSpider(scrapy.Spider):
-    name = 'kjxwzx'
-    allowed_domains = ['www.nhfpc.gov.cn']
-    start_urls = ['http://www.nhfpc.gov.cn/zhuz/xwzx/xwzx.shtml']
+class ScienceSpider(scrapy.Spider):
+    name = 'science'
+    allowed_domains = ['news.sciencenet.cn']
+    start_urls = ['http://news.sciencenet.cn/']
 
     headers = {
-        "HOST": "www.nhfpc.gov.cn",
-        "Referer": "http://www.nhfpc.gov.cn/zhuz/xwzx/xwzx.shtml",
+        "HOST": "www.news.sciencenet.cn",
+        "Referer": "http://news.sciencenet.cn/",
         'User-Agent': "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36"
     }
 
@@ -41,7 +52,7 @@ class kjxwzxSpider(scrapy.Spider):
             self.display = Display(visible=0, size=(800, 600))
             self.display.start()
             self.browser = webdriver.Chrome(executable_path="/usr/bin/chromedriver")
-        super(kjxwzxSpider, self).__init__()
+        super(ScienceSpider, self).__init__()
         dispatcher.connect(self.spider_closed, signals.spider_closed)
 
     def spider_closed(self,spider):
@@ -63,51 +74,43 @@ class kjxwzxSpider(scrapy.Spider):
         if response.status == 404:
             self.fail_urls.append(response.url)
             self.crawler.stats.inc_value("failed_url")
-        if response.url in ['http://www.nhfpc.gov.cn/bgt/gwywj2/new_list.shtml']:
-            post_nodes = response.css(".zxxx_list li")
-            type_name = response.css(".index_title_h3.fl ::text").extract_first("")
+        if response.url in ['http://news.sciencenet.cn/topnews.aspx','http://news.sciencenet.cn/indexyaowen.aspx']:
+            post_nodes = response.xpath("//*[@id='mleft3']/table/tbody/tr/td/table/tbody/tr[last()]")
+            type_name = response.css("#mleft2 ::text").extract_first("")
+            type_name = type_name.strip()
             for post_node in post_nodes:
                 post_url = post_node.css("a::attr(href)").extract_first("")
-                publish_date = post_node.css("span ::text").extract()
-                publish_date = remove_comment_tags(publish_date)
-                print("innerurl ===")
+                title = post_node.css(" a::text").extract_first("")
+                publish_date = post_node.xpath("td[3]/text()").extract_first("")
+                publish_date = publish_date.strip()
+                publish_date = publish_date.replace('/', '-')
                 compare_date = datetime.datetime.now()
-                compare_date = datetime.datetime.strptime(compare_date.strftime("%Y-%m-%d"), "%Y-%m-%d").date()
-                publishDate = datetime.datetime.strptime(publish_date, "%Y-%m-%d").date()
+                compare_date = datetime.datetime.strptime(compare_date.strftime("%Y-%m-%d %H:%M:%S"), "%Y-%m-%d %H:%M:%S").date()
+                publishDate = datetime.datetime.strptime(publish_date, "%Y-%m-%d %H:%M:%S").date()
                 if publishDate >= compare_date:
-                    yield Request(url=parse.urljoin(response.url, post_url), headers=self.headers, meta={"publish_date": publish_date, "type_name": type_name}, callback=self.parse_detail)
-        elif response.url in ['http://www.gov.cn/pushinfo/v150203/index.htm']:
-            post_nodes = response.css(".list_2 ul li")
-            type_name = response.css(".channel_tab .noline a::attr(href)").extract_first("")
-            for post_node in post_nodes:
-                post_url = post_node.css("a::attr(href)").extract_first("")
-                publish_date = post_node.css("span ::text").extract()
-                publish_date = remove_comment_tags(publish_date)
-                print("innqerurl ===")
-                compare_date = datetime.datetime.now()
-                compare_date = datetime.datetime.strptime(compare_date.strftime("%Y-%m-%d"), "%Y-%m-%d").date()
-                publishDate = datetime.datetime.strptime(publish_date, "%Y-%m-%d").date()
-                if publishDate >= compare_date:
-                    yield Request(url=parse.urljoin(response.url, post_url), headers=self.headers, meta={"publish_date": publish_date, "type_name": type_name}, callback=self.parse_detail)
-
+                    print("=======get it==========")
+                    yield Request(url=parse.urljoin(response.url, post_url), headers=self.headers, meta={"publish_date": publish_date, "type_name": type_name, "title": title}, callback=self.parse_detail)
         else:
-            post_urls = ['http://www.gov.cn/pushinfo/v150203/index.htm',
-                         'http://www.nhfpc.gov.cn/bgt/gwywj2/new_list.shtml']
-            for post_url in post_urls:
-                yield Request(url=post_url, headers=self.headers, callback=self.parse)
-
-        # 提取下一页并交给scrapy进行下载
-        # next_url = response.css(".next.page-numbers::attr(href)").extract_first("")
-        if response.url == "http://www.nhfpc.gov.cn/qjjys/new_index.shtml1":
-            yield Request(url=response.url, headers=self.headers, callback=self.parse)
+            post_nodes = response.css(".ltitbg a")
+            for post_node in post_nodes[0:3]:
+                post_url = post_node.css("::attr(href)").extract_first("")
+                print("out===url")
+                print(post_url)
+                yield Request(url=parse.urljoin(response.url, post_url), headers=self.headers, callback=self.parse)
 
     def parse_detail(self, response):
-        # 通过item loader加载item
+
         type_name = response.meta.get("type_name", "")
         publish_date = response.meta.get("publish_date", "")  # 发布时间
         item_loader = kjjysItemLoader(item=kjjysItem(), response=response)
+        image_url = response.css("#content1 img::attr(src)").extract()
+        title = response.meta.get("title", "")
+        title = title.strip()
 
-        image_url = response.css("#UCAP-CONTENT img::attr(src)").extract()
+        content = response.css("#content1").extract()
+        content = get_my_content(response.url, content)
+        content = "".join(content)
+
         new_image_url = []
         if len(image_url) > 0:
             for in_url in image_url:
@@ -123,14 +126,10 @@ class kjxwzxSpider(scrapy.Spider):
         # else:
         #     item_loader.add_value("front_image_url", [""])
         item_loader.add_value("source_net", self.start_urls[0])
-        item_loader.add_value("source_name", '中华人民共和国国家卫生健康委员会')
+        item_loader.add_value("source_name", '科学网')
         item_loader.add_value("type_name", type_name)
-        if type_name == '国务院文件':
-            item_loader.add_css("title", "div.tit ::text")
-            item_loader.add_xpath("content", "//*[@id='xw_box']")
-        else:
-            item_loader.add_css("title", ".article > h1 ::text")
-            item_loader.add_xpath("content", "//*[@id='UCAP-CONTENT']/p")
+        item_loader.add_value("title", title)
+        item_loader.add_value("content", content)
 
         item_loader.add_value("publish_time", publish_date)
         item_loader.add_value("crawl_time", datetime.datetime.now())

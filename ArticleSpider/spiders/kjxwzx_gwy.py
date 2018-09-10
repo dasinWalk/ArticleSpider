@@ -10,6 +10,8 @@ from scrapy.xlib.pydispatch import dispatcher
 from scrapy import signals
 from ArticleSpider.utils.common import get_md5
 import datetime
+import platform
+from pyvirtualdisplay import Display
 
 
 def get_real_date(value):
@@ -31,15 +33,26 @@ class kjxwzx_gwySpider(scrapy.Spider):
         'User-Agent': "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36"
     }
 
-    def __init__(self):
-        self.browser = webdriver.Chrome(executable_path="E:/pythonDriver/chromedriver.exe")
+    def __init__(self, **kwargs):
+        sysstr = platform.system()
+        if sysstr == 'Windows':
+            self.browser = webdriver.Chrome(executable_path="E:/pythonDriver/chromedriver.exe")
+        else:
+            self.display = Display(visible=0, size=(800, 600))
+            self.display.start()
+            self.browser = webdriver.Chrome(executable_path="/usr/bin/chromedriver")
         super(kjxwzx_gwySpider, self).__init__()
         dispatcher.connect(self.spider_closed, signals.spider_closed)
 
     def spider_closed(self,spider):
         #当爬虫退出时关闭chrom
         print("spider closed")
-        self.browser.quit()
+        sysstr = platform.system()
+        if sysstr == 'Windows':
+            self.browser.quit()
+        else:
+            self.browser.quit()
+            self.display.stop()
 
     def parse(self, response):
         """
@@ -64,8 +77,9 @@ class kjxwzx_gwySpider(scrapy.Spider):
             compare_date = datetime.datetime.strptime(compare_date.strftime("%Y-%m-%d"), "%Y-%m-%d").date()
             publishDate = datetime.datetime.strptime(publish_date, "%Y-%m-%d").date()
             if publishDate >= compare_date:
+                title = post_node.css("a::text").extract_first("")
                 yield Request(url=parse.urljoin(response.url, post_url), headers=self.headers,
-                              meta={"publish_date": publish_date, "type_name": type_name}, callback=self.parse_detail)
+                              meta={"publish_date": publish_date, "type_name": type_name, "title": title}, callback=self.parse_detail)
 
         # 提取下一页并交给scrapy进行下载
         # next_url = response.css(".next.page-numbers::attr(href)").extract_first("")
@@ -74,12 +88,13 @@ class kjxwzx_gwySpider(scrapy.Spider):
 
     def parse_detail(self, response):
         # 通过item loader加载item
+        title = response.meta.get("title", "")
         type_name = response.meta.get("type_name", "")
         publish_date = response.meta.get("publish_date", "")  # 发布时间
         item_loader = kjjysItemLoader(item=kjjysItem(), response=response)
 
         image_url = response.css("#UCAP-CONTENT img::attr(src)").extract()
-        new_image_url = ['http://wx3.sinaimg.cn/mw690/7cc829d3gy1fsrtjp2o93j20hs0audih.jpg']
+        new_image_url = []
         if len(image_url) > 0:
             for in_url in image_url:
                 in_url = parse.urljoin(response.url, in_url)
@@ -96,7 +111,7 @@ class kjxwzx_gwySpider(scrapy.Spider):
         item_loader.add_value("source_net", self.start_urls[0])
         item_loader.add_value("source_name", '中华人民共和国国家卫生健康委员会')
         item_loader.add_value("type_name", type_name)
-        item_loader.add_css("title", ".article.oneColumn.pub_border h1::text")
+        item_loader.add_value("title", title)
         item_loader.add_xpath("content", "//*[@id='UCAP-CONTENT']")
 
         item_loader.add_value("publish_time", publish_date)

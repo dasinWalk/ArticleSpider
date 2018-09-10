@@ -117,7 +117,14 @@ def get_mach_result(value):
         mach_obj = re.match("(.*?\.PNG)", value)
         if mach_obj:
             return False
-        return True
+    mach_obj = re.match("(.*?\.gif)", value)
+    if mach_obj:
+        return False
+    else:
+        mach_obj = re.match("(.*?\.GIF)", value)
+        if mach_obj:
+            return False
+    return True
 
 
 class JSPageMiddleware(object):
@@ -125,9 +132,8 @@ class JSPageMiddleware(object):
     def process_request(self, request, spider):
         mach_obj = get_mach_result(request.url)
 
-        if spider.name in ["kjjys", 'kjxwzx', 'kjxwzx_gwy', 'kxjsb_yw'] and 'jpg' not in request.url and 'JPG' not in request.url and mach_obj:
+        if spider.name in ["kjjys", 'kjxwzx', 'kjxwzx_gwy', 'kxjsb_yw', 'gjzrkx', 'zgkxb', 'gjypjg', 'science', 'pharmnet', 'common'] and 'jpg' not in request.url and 'JPG' not in request.url and mach_obj:
             spider.browser.get(request.url)
             import time
-            time.sleep(3)
-            print("访问:{0}".format(request.url))
+            time.sleep(2)
             return HtmlResponse(url=spider.browser.current_url, body=spider.browser.page_source, encoding="utf-8", request=request)

@@ -10,8 +10,12 @@ import datetime
 from scrapy.loader.processors import MapCompose, TakeFirst, Join
 from scrapy.loader import ItemLoader
 import re
+import json
 from w3lib.html import remove_tags
 from ArticleSpider.settings import SQL_DATETIME_FORMAT, SQL_DATE_FORMAT
+from ArticleSpider.utils.common import get_query_columns
+from ArticleSpider.utils.mysql import Mysql
+
 
 class ArticlespiderItem(scrapy.Item):
     # define the fields for your item here like:
@@ -314,8 +318,6 @@ class kjjysItem(scrapy.Item):
     crawl_time = scrapy.Field()
 
     def get_insert_sql(self):
-        print("front_image_url")
-        print(self["front_image_url"])
         insert_sql = """
             insert into technology(url, url_object_id, front_image_url, front_image_path, source_net, source_name,
             type_name, title, content, publish_time, crawl_time) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
@@ -327,4 +329,109 @@ class kjjysItem(scrapy.Item):
             ",".join(self["title"]), self["content"], self["publish_time"], self["crawl_time"].strftime(SQL_DATETIME_FORMAT)
         )
 
+        return insert_sql, params
+
+
+class PharmnetItemLoader(ItemLoader):
+    # 自定义itemloader
+    default_output_processor = TakeFirst()
+
+
+class PharmnetItem(scrapy.Item):
+    # 科技教育司信息
+    url = scrapy.Field()
+    url_object_id = scrapy.Field()
+    province = scrapy.Field()
+    city_name = scrapy.Field()
+    hospital_name = scrapy.Field()
+    grade = scrapy.Field()
+    type = scrapy.Field()
+    ifInsurance = scrapy.Field()
+    beds_num = scrapy.Field()
+    outpatient = scrapy.Field()
+    address = scrapy.Field()
+    zipcode = scrapy.Field()
+    telephone = scrapy.Field()
+    net_work = scrapy.Field()
+    bus_line = scrapy.Field()
+    equipment = scrapy.Field()
+    specialties = scrapy.Field()
+    hospital_introduce = scrapy.Field()
+    crawl_time = scrapy.Field()
+
+
+class CommonItemLoader(ItemLoader):
+    # 自定义itemloader
+    default_output_processor = TakeFirst()
+
+
+class CommonItem(scrapy.Item):
+    # 科技教育司信息
+    id = scrapy.Field()
+    url = scrapy.Field()
+    title = scrapy.Field()
+    content = scrapy.Field()
+    crawl_time = scrapy.Field()
+    fieldMap = scrapy.Field()
+    dbMap = scrapy.Field()
+
+    def get_init_sql(self):
+        field_map_json = self["fieldMap"]
+        db_map_json = self["dbMap"]
+        field_map = json.loads(field_map_json)
+        db_map = json.loads(db_map_json)
+        table_name = db_map["tableName"]
+        db_type = db_map["type"]
+        task_id = db_map["task_id"]
+        alter_sql = ""
+        alter_list = []
+        column_list = []
+        for mt in field_map:
+            column_list.append(mt)
+        records = Mysql.judge_column_exist(Mysql(), table_name=table_name, column_list=column_list)
+        for rec in field_map:
+            if rec not in records:
+                alter_list.append(rec)
+        alen = len(alter_list)
+        if alen > 0:
+            alter_sql = "alter table " + table_name + " add ("
+            for item in alter_list:
+                if item != alter_list[alen-1]:
+                    alter_sql = alter_sql + item + " text,"
+                else:
+                    alter_sql = alter_sql + item + " text)"
+        return alter_sql, db_type, task_id
+
+    def get_insert_sql(self):
+        field_map_json = self["fieldMap"]
+        db_map_json = self["dbMap"]
+        field_map = json.loads(field_map_json)
+        db_map = json.loads(db_map_json)
+        table_name = db_map["tableName"]
+        db_type = db_map["type"]
+        insert_sql = "insert into " + table_name + "(id, url, title, content, crawl_time,"
+        flen = len(field_map)
+        k = 0
+        if flen > 0:
+            for item in field_map:
+                k = k + 1
+                if k == flen:
+                    insert_sql = insert_sql + item + ") VALUES ("
+                else:
+                    insert_sql = insert_sql + item + ","
+        total = flen + 5
+        for i in range(total):
+            if i != total-1:
+                insert_sql = insert_sql + "%s,"
+            else:
+                insert_sql = insert_sql + "%s) ON DUPLICATE KEY UPDATE content=VALUES(content)"
+        param_map = {}
+        param_map["id"] = self["id"]
+        param_map["url"] = self["url"]
+        param_map["title"] = self["title"]
+        param_map["content"] = self["content"]
+        param_map["crawl_time"] = self["crawl_time"].strftime(SQL_DATETIME_FORMAT)
+        for mt in field_map:
+            param_map[mt] = field_map[mt]
+        params = tuple(param_map.values())
         return insert_sql, params

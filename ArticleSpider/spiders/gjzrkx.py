@@ -14,28 +14,35 @@ import platform
 from pyvirtualdisplay import Display
 
 
-def get_real_date(value):
-    # 去掉日期外面的括号
-    if len(value) > 1:
-        date = value[1].strip()
-        date = date.replace("(", "")
-        date = date.replace(")", "")
-        return date
-    else:
-        date = value[0].strip()
-        date = date.replace("(", "")
-        date = date.replace(")", "")
-        return date
+def get_my_content(url, value):
+    pattern = '.*?附件.*?:.*'
+    new_content = []
+    a = 1
+    b = 1
+    for pvalue in value:
+        b = b+1
+        match_obj = re.match(pattern, pvalue)
+        if match_obj:
+            a = b
+            print("有附件")
+        elif a == 1 or (b > a and 'href=' not in pvalue):
+            new_content.append(pvalue)
+
+    articleorign = '<p><a href="{0}" target="_blank"><span style="color: #0070c0; text-decoration: underline;">' \
+                   '原文链接</span></a></p>'.format(url)
+    new_content.append(articleorign)
+    return new_content
 
 
-class kxjsb_ywSpider(scrapy.Spider):
-    name = 'kxjsb_yw'
-    allowed_domains = ['www.most.gov.cn']
-    start_urls = ['http://www.most.gov.cn/yw/index.htm']
+class gjzrkxSpider(scrapy.Spider):
+    name = 'gjzrkx'
+    allowed_domains = ['www.nsfc.gov.cn']
+    start_urls = ['http://www.nsfc.gov.cn/publish/portal0/tab434/module1146/more.htm',
+                  'http://www.nsfc.gov.cn/publish/portal0/tab442/module1178/page2.htm']
 
     headers = {
-        "HOST": "http://www.most.gov.cn/",
-        "Referer": "http://www.most.gov.cn/yw/index.htm",
+        "HOST": "http://www.nsfc.gov.cn/",
+        "Referer": "http://www.nsfc.gov.cn/",
         'User-Agent': "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36"
     }
 
@@ -47,7 +54,7 @@ class kxjsb_ywSpider(scrapy.Spider):
             self.display = Display(visible=0, size=(800, 600))
             self.display.start()
             self.browser = webdriver.Chrome(executable_path="/usr/bin/chromedriver")
-        super(kxjsb_ywSpider, self).__init__()
+        super(gjzrkxSpider, self).__init__()
         dispatcher.connect(self.spider_closed, signals.spider_closed)
 
     def spider_closed(self,spider):
@@ -60,6 +67,7 @@ class kxjsb_ywSpider(scrapy.Spider):
             self.browser.quit()
             self.display.stop()
 
+
     def parse(self, response):
         """
                 1. 获取文章列表页中的文章url并交给scrapy下载后并进行解析
@@ -69,28 +77,26 @@ class kxjsb_ywSpider(scrapy.Spider):
         if response.status == 404:
             self.fail_urls.append(response.url)
             self.crawler.stats.inc_value("failed_url")
-        post_nodes = response.css("#push_table")
-        # type_name = response.css(".tit_s01 .tabg ::text").extract_first("")
-        type_name = '要闻'
+        post_nodes = response.css(".C_InfoList .clearfix")
+        type_name = '通知通告'
         for post_node in post_nodes:
-            post_url = post_node.css("a::attr(href)").extract_first("")
-            publish_date = post_node.css(".STYLE30 ::text").extract()
-            publish_date = get_real_date(publish_date)
+            post_url = post_node.css(".fl a::attr(href)").extract_first("")
+            publish_date = post_node.css(".fr ::text").extract_first("")
+            title = post_node.css(".fl a::text").extract_first("")
             print("innqerurl ===")
+            print(response.url)
             compare_date = datetime.datetime.now()
             compare_date = datetime.datetime.strptime(compare_date.strftime("%Y-%m-%d"), "%Y-%m-%d").date()
             publishDate = datetime.datetime.strptime(publish_date, "%Y-%m-%d").date()
             if publishDate >= compare_date:
                 yield Request(url=parse.urljoin(response.url, post_url), headers=self.headers,
-                              meta={"publish_date": publish_date, "type_name": type_name}, callback=self.parse_detail, dont_filter=True)
+                              meta={"publish_date": publish_date, "type_name": type_name, "title": title}, callback=self.parse_detail, dont_filter=True)
 
         # 提取下一页并交给scrapy进行下载
         # next_url = response.css(".next.page-numbers::attr(href)").extract_first("")
         if response.url == "http://www.most.gov.cn/yw/index.htm":
             next_url = 'http://www.most.gov.cn/yw/index_10032.htm'
-            special_url = 'http://www.most.gov.cn/yw/yw_push_2j.htm'
             yield Request(url=next_url, headers=self.headers, callback=self.parse, dont_filter=True)
-            yield Request(url=special_url, headers=self.headers, callback=self.parse, dont_filter=True)
 
     def parse_detail(self, response):
         # 通过item loader加载item
@@ -98,24 +104,10 @@ class kxjsb_ywSpider(scrapy.Spider):
         publish_date = response.meta.get("publish_date", "")  # 发布时间
         item_loader = kjjysItemLoader(item=kjjysItem(), response=response)
         image_url = response.css("#UCAP-CONTENT img::attr(src)").extract()
-        title = response.css(".h-news .h-title ::text").extract()
-        result = ""
-        content = response.css(".main-aticle").extract_first("")
-        if title:
-            result = "".join(title)
-            result = result.strip()
-        else:
-            title = response.css(".article.oneColumn.pub_border h1::text").extract()
-            if title:
-                result = "".join(title)
-                result = result.strip()
-                content = response.css("#UCAP-CONTENT p").extract()
-                content = "".join(content)
-            else:
-                title = response.css(".bd1 tr:nth-child(3) td:nth-child(2) ::text").extract()
-                content = response.css("#UCAP-CONTENT").extract_first("")
-                result = "".join(title)
-                result = result.strip()
+        title = response.meta.get("title", "")
+        content = response.css(".content_xilan p").extract()
+        content = get_my_content(response.url, content)
+        content = "".join(content)
 
         new_image_url = []
         if len(image_url) > 0:
@@ -132,9 +124,9 @@ class kxjsb_ywSpider(scrapy.Spider):
         # else:
         #     item_loader.add_value("front_image_url", [""])
         item_loader.add_value("source_net", self.start_urls[0])
-        item_loader.add_value("source_name", '中华人民共和国科学技术部')
+        item_loader.add_value("source_name", '国家自然科学基金委员会')
         item_loader.add_value("type_name", type_name)
-        item_loader.add_value("title", result)
+        item_loader.add_value("title", title)
         item_loader.add_value("content", content)
 
         item_loader.add_value("publish_time", publish_date)

@@ -1,5 +1,8 @@
 # -*- coding: utf-8 -*-
 import os
+import platform
+sysstr = platform.system()
+
 # Scrapy settings for ArticleSpider project
 #
 # For simplicity, this file contains only settings considered important or
@@ -70,13 +73,18 @@ ITEM_PIPELINES = {
     #'ArticleSpider.pipelines.JsonExporterPipeline': 2,
     #'ArticleSpider.pipelines.MyFilePipeline': 1
     # 'ArticleSpider.pipelines.ArticleImagePipline': 1,
-    'ArticleSpider.pipelines.MysqlTwistedPipline': 3,
-    'ArticleSpider.pipelines.KjjysImagePipline': 1,
+    #'ArticleSpider.pipelines.MysqlTwistedPipline': 3,
+    #'ArticleSpider.pipelines.KjjysImagePipline': 1,
+    'ArticleSpider.pipelines.MultipleTwistedPipline': 3,
 }
 IMAGES_URLS_FIELD = "front_image_url"
 project_dir = os.path.abspath(os.path.dirname(__file__))
-IMAGES_STORE = os.path.join(project_dir, 'images')
-FILES_STORE = os.path.join(project_dir, 'xml')
+#windows
+# IMAGES_STORE = os.path.join(project_dir, 'images')
+# FILES_STORE = os.path.join(project_dir, 'xml')
+#linux
+IMAGES_STORE = '/root/linuxShare/images'
+FILES_STORE = '/root/linuxShare/file'
 #IMAGES_MIN_HEIGHT = 100
 #IMAGES_MIN_WIDTH = 100
 # Enable and configure the AutoThrottle extension (disabled by default)
@@ -99,10 +107,17 @@ AUTOTHROTTLE_ENABLED = True
 #HTTPCACHE_DIR = 'httpcache'
 #HTTPCACHE_IGNORE_HTTP_CODES = []
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
+
+#windows
 MYSQL_HOST = "127.0.0.1"
 MYSQL_DBNAME = "rdf"
 MYSQL_USER = "root"
 MYSQL_PASSWORD = "skq123123"
 
+#linux
+# MYSQL_HOST = "10.1.85.36"
+# MYSQL_DBNAME = "dch"
+# MYSQL_USER = "root"
+# MYSQL_PASSWORD = "skq123123"
 SQL_DATETIME_FORMAT = "%Y-%m-%d %H:%M:%S"
 SQL_DATE_FORMAT = "%Y-%m-%d"
