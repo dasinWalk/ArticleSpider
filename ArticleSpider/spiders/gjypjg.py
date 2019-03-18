@@ -14,7 +14,7 @@ import platform
 from pyvirtualdisplay import Display
 
 
-
+# 国家药品监督管理局 现在网站已经变更了 http://www.nmpa.gov.cn/WS04/CL2042/ 爬取逻辑得重新修改
 def get_my_content(url, value):
     new_content = []
     articleorign = '<p><a href="{0}" target="_blank"><span style="color: #0070c0; text-decoration: underline;">' \

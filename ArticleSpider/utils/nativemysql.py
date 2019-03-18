@@ -11,25 +11,25 @@ import MySQLdb
 from ArticleSpider.utils import Config
 import sys
 from ArticleSpider.utils.common import get_query_columns
+import platform
 
 """  
 Config是一些数据库的配置文件  
 """
 
 
-class Mysql(object):
+class NativeMysql(object):
     """
     MYSQL数据库对象，负责产生数据库连接 , 此类中的连接采用连接池实现获取连接对象：conn = Mysql.getConn()
             释放连接对象;conn.close()或del conn
     """
     # 连接池对象
     __pool = None
-    __native_pool = None
 
-    def __init__(self, config):
+    def __init__(self):
         # 数据库构造函数，从连接池中取出连接，并生成操作游标
         try:
-            self._conn = Mysql.__getConn(config)
+            self._conn = NativeMysql.__getConn()
             self._cursor = self._conn.cursor()
         except Exception as e:
             error = 'Connect failed! ERROR (%s): %s' % (e.args[0], e.args[1])
@@ -37,20 +37,23 @@ class Mysql(object):
             sys.exit()
 
     @staticmethod
-    def __getConn(config):
+    def __getConn():
         """
         @summary: 静态方法，从连接池中取出连接
         @return MySQLdb.connection
         """
-        if Mysql.__pool is None:
-            if config is not None and len(config) > 0:
-                __pool = PooledDB(MySQLdb, 5, host=config['host'], user=config['userName'],
-                                  passwd=config['password'], db=config['dbName'], port=config['port'], charset="utf8")
-            else:
-                __pool = PooledDB(MySQLdb, 5, host=Config.MYSQL_HOST, user=Config.MYSQL_USER, passwd=Config.MYSQL_PASSWORD,
+        sys_str = platform.system()
+        if NativeMysql.__pool is None:
+            if sys_str == 'Windows':
+                __pool = PooledDB(MySQLdb, 5, host=Config.MYSQL_HOST, user=Config.MYSQL_USER,
+                                  passwd=Config.MYSQL_PASSWORD,
                                   db=Config.MYSQL_DBNAME, port=Config.MYSQL_DBPORT, charset="utf8")
-        return __pool.connection()
+            else:
+                __pool = PooledDB(MySQLdb, 5, host=Config.MYSQL_HOST_LX, user=Config.MYSQL_USER_LX,
+                                  passwd=Config.MYSQL_PASSWORD_LX,
+                                  db=Config.MYSQL_DBNAME_LX, port=Config.MYSQL_DBPORT_LX, charset="utf8")
 
+        return __pool.connection()
 
         # 针对读操作返回结果集
 
@@ -271,7 +274,7 @@ class Mysql(object):
         @return: result list/boolean 查询到的结果集
         """
 
-        count = self.__query(sql, parm)
+        count = self.__query(sql, param)
         if count > 0:
             result = self._cursor.fetchmany(num)
         else:
@@ -327,36 +330,13 @@ class Mysql(object):
         records = self._execute(query_sql)
         return len(records)
 
-    def create_table_by_name(self, db_map='', field_map=''):
-        table_name = db_map['tableName']
-        table_schema = db_map["dbName"]
+    def create_table_by_name(self, table_name=''):
         ct = self.judge_table_exist(table_name)
         if ct < 1:
             create_sql = "create table " + table_name + "(id VARCHAR(64) PRIMARY key, " \
                                                         "url VARCHAR(300), title VARCHAR(300), " \
                                                         "content longtext, crawl_time datetime);"
             self._execute(create_sql)
-        db_type = db_map["type"]
-        task_id = db_map["task_id"]
-        alter_sql = ""
-        alter_list = []
-        column_list = []
-        for mt in field_map:
-            column_list.append(mt)
-        records = self.judge_column_exist(table_schema=table_schema, table_name=table_name, column_list=column_list)
-        for rec in field_map:
-            if rec not in records:
-                alter_list.append(rec)
-        alen = len(alter_list)
-        if alen > 0:
-            alter_sql = "alter table " + table_name + " add ("
-            for item in alter_list:
-                if item != alter_list[alen - 1]:
-                    alter_sql = alter_sql + item + " text,"
-                else:
-                    alter_sql = alter_sql + item + " text)"
-        if alter_sql != '':
-            self._execute(alter_sql)
 
     def judge_column_exist(self, table_schema='', table_name='', column_list=''):
         record_list = []
@@ -367,3 +347,4 @@ class Mysql(object):
         for i in range(len(records)):
             record_list.append(records[i][0])
         return record_list
+

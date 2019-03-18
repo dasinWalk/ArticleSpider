@@ -21,7 +21,7 @@ def remove_comment_tags(value):
     else:
         return value[0]
 
-
+# 全国各省市医院信息及床位数 数据爬取
 class PharmnetSpider(scrapy.Spider):
     name = 'pharmnet'
     allowed_domains = ['www.pharmnet.com.cn']

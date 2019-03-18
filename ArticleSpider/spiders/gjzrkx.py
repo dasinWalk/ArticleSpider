@@ -13,7 +13,7 @@ import datetime
 import platform
 from pyvirtualdisplay import Display
 
-
+# 国家自然科学基金会通知公告数据爬取，获取第一页和第二页的最新数据 即获取当天的数据，不是当天的数据不采集入库
 def get_my_content(url, value):
     pattern = '.*?附件.*?:.*'
     new_content = []

@@ -27,6 +27,7 @@ def get_real_title(value):
     return value[0:index1]
 
 
+#中华人民共和国科学技术部 科技政策动态数据爬取
 class kxjsb_zcSpider(scrapy.Spider):
     name = 'kxjsb_zc'
     allowed_domains = ['www.most.gov.cn']

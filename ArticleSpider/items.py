@@ -22,8 +22,10 @@ class ArticlespiderItem(scrapy.Item):
     # name = scrapy.Field()
     pass
 
+
 def add_jobbole(value):
     return value + "-jobbole"
+
 
 def date_convert(value):
     try:
@@ -32,6 +34,7 @@ def date_convert(value):
         create_date = datetime.datetime.now().date()
     return create_date
 
+
 def get_nums(value):
     match_re = re.match(".*(\d+).*", value)
     if match_re:
@@ -39,6 +42,7 @@ def get_nums(value):
     else:
         nums = 0
     return nums
+
 
 def remove_comment_tags(value):
     #去掉tags中提取的评论
@@ -73,26 +77,6 @@ class ChictrItem(scrapy.Item):
     projectName = scrapy.Field()
     file_urls = scrapy.Field()
     xmlPath = scrapy.Field()
-
-
-def gen_suggests(index, info_tuple):
-    # 根据字符串生成搜索建议数组
-    used_words = set()
-    suggests = []
-    for text, weight in info_tuple:
-        if text:
-            # 调用es的analyze接口分析字符串
-            words = es.indices.analyze(index=index, analyzer="ik_max_word", params={'filter': ["lowercase"]},
-                                       body=text)
-            anylyzed_words = set([r["token"] for r in words["tokens"] if len(r["token"]) > 1])
-            new_words = anylyzed_words - used_words
-        else:
-            new_words = set()
-
-        if new_words:
-            suggests.append({"input": list(new_words), "weight": weight})
-
-    return suggests
 
 
 class JobBoleArticleItem(scrapy.Item):
@@ -130,28 +114,29 @@ class JobBoleArticleItem(scrapy.Item):
 
         return insert_sql, params
 
-    def save_to_es(self):
-        article = ArticleType()
-        article.title = self['title']
-        article.create_date = self["create_date"]
-        article.content = remove_tags(self["content"])
-        article.front_image_url = self["front_image_url"]
-        if "front_image_path" in self:
-            article.front_image_path = self["front_image_path"]
-        article.praise_nums = self["praise_nums"]
-        article.fav_nums = self["fav_nums"]
-        article.comment_nums = self["comment_nums"]
-        article.url = self["url"]
-        article.tags = self["tags"]
-        article.meta.id = self["url_object_id"]
+    # def save_to_es(self):
+    #     article = ArticleType()
+    #     article.title = self['title']
+    #     article.create_date = self["create_date"]
+    #     article.content = remove_tags(self["content"])
+    #     article.front_image_url = self["front_image_url"]
+    #     if "front_image_path" in self:
+    #         article.front_image_path = self["front_image_path"]
+    #     article.praise_nums = self["praise_nums"]
+    #     article.fav_nums = self["fav_nums"]
+    #     article.comment_nums = self["comment_nums"]
+    #     article.url = self["url"]
+    #     article.tags = self["tags"]
+    #     article.meta.id = self["url_object_id"]
+    #
+    #     article.suggest = gen_suggests(ArticleType._doc_type.index, ((article.title, 10), (article.tags, 7)))
+    #
+    #     article.save()
+    #
+    #     redis_cli.incr("jobbole_count")
+    #
+    #     return
 
-        article.suggest = gen_suggests(ArticleType._doc_type.index, ((article.title, 10), (article.tags, 7)))
-
-        article.save()
-
-        redis_cli.incr("jobbole_count")
-
-        return
 
 class ZhihuQuestionItem(scrapy.Item):
     # 知乎的问题 item
@@ -241,9 +226,11 @@ def handle_jobaddr(value):
     addr_list = [item.strip() for item in addr_list if item.strip() != "查看地图"]
     return "".join(addr_list)
 
+
 class LagouJobItemLoader(ItemLoader):
     # 自定义itemloader
     default_output_processor = TakeFirst()
+
 
 class LagouJobItem(scrapy.Item):
     # 拉勾网职位信息
@@ -375,12 +362,19 @@ class CommonItem(scrapy.Item):
     fieldMap = scrapy.Field()
     dbMap = scrapy.Field()
 
+    def get_task_id(self):
+        db_map_json = self["dbMap"]
+        db_map = json.loads(db_map_json)
+        task_id = db_map["task_id"]
+        return task_id + 'dog'
+
     def get_init_sql(self):
         field_map_json = self["fieldMap"]
         db_map_json = self["dbMap"]
         field_map = json.loads(field_map_json)
         db_map = json.loads(db_map_json)
         table_name = db_map["tableName"]
+        table_schema = db_map["dbName"]
         db_type = db_map["type"]
         task_id = db_map["task_id"]
         alter_sql = ""
@@ -388,11 +382,12 @@ class CommonItem(scrapy.Item):
         column_list = []
         for mt in field_map:
             column_list.append(mt)
-        records = Mysql.judge_column_exist(Mysql(), table_name=table_name, column_list=column_list)
+        records = Mysql.judge_column_exist(Mysql(db_map),table_schema=table_schema, table_name=table_name, column_list=column_list)
         for rec in field_map:
             if rec not in records:
                 alter_list.append(rec)
         alen = len(alter_list)
+        print(alter_list)
         if alen > 0:
             alter_sql = "alter table " + table_name + " add ("
             for item in alter_list:
@@ -426,12 +421,25 @@ class CommonItem(scrapy.Item):
             else:
                 insert_sql = insert_sql + "%s) ON DUPLICATE KEY UPDATE content=VALUES(content)"
         param_map = {}
-        param_map["id"] = self["id"]
-        param_map["url"] = self["url"]
-        param_map["title"] = self["title"]
-        param_map["content"] = self["content"]
-        param_map["crawl_time"] = self["crawl_time"].strftime(SQL_DATETIME_FORMAT)
+        try:
+            param_map["id"] = self["id"]
+            param_map["url"] = self["url"]
+            param_map["title"] = self["title"]
+            param_map["content"] = self["content"]
+            param_map["crawl_time"] = self["crawl_time"].strftime(SQL_DATETIME_FORMAT)
+        except Exception as e:
+            print("获取数据异常")
+            print(e)
         for mt in field_map:
             param_map[mt] = field_map[mt]
         params = tuple(param_map.values())
         return insert_sql, params
+
+
+class ChemyItem(scrapy.Item):
+    # 中国卫生经济周刊
+    art_num = scrapy.Field()
+    title_cn = scrapy.Field()
+    title_en = scrapy.Field()
+    field_map = scrapy.Field()
+    year = scrapy.Field()

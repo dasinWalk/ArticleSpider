@@ -9,6 +9,8 @@ import datetime
 from scrapy.selector import Selector
 from ArticleSpider.items import ChictrItem
 
+
+# 中国临床试验中心数据爬取
 class chictrSpider(scrapy.Spider):
     name = "chictr"
     allowed_domains = ['www.chictr.org.cn']

@@ -6,6 +6,9 @@
 # https://doc.scrapy.org/en/latest/topics/spider-middleware.html
 
 from scrapy import signals
+from fake_useragent import UserAgent
+from ArticleSpider.utils.crawl_xici_ip import GetIp
+import logging
 
 
 class ArticlespiderSpiderMiddleware(object):
@@ -132,8 +135,106 @@ class JSPageMiddleware(object):
     def process_request(self, request, spider):
         mach_obj = get_mach_result(request.url)
 
-        if spider.name in ["kjjys", 'kjxwzx', 'kjxwzx_gwy', 'kxjsb_yw', 'gjzrkx', 'zgkxb', 'gjypjg', 'science', 'pharmnet', 'common'] and 'jpg' not in request.url and 'JPG' not in request.url and mach_obj:
+        if spider.name in ["kjjys", 'kjxwzx', 'kjxwzx_gwy', 'kxjsb_yw', 'gjzrkx', 'zgkxb', 'gjypjg',
+                           'science', 'pharmnet', 'common'] and 'jpg' not in request.url and 'JPG' not in request.url and mach_obj:
             spider.browser.get(request.url)
             import time
             time.sleep(2)
             return HtmlResponse(url=spider.browser.current_url, body=spider.browser.page_source, encoding="utf-8", request=request)
+
+
+class NextPageMiddleware(object):
+    #通过chrom请求动态网页
+    def process_request(self, request, spider):
+        mach_obj = get_mach_result(request.url)
+        if spider.name in ['chemy', 'common'] and 'jpg' not in request.url and 'JPG' not in request.url and mach_obj:
+            meta = request.meta
+            print(meta)
+            spider.browser.get(request.url)
+            if 'next_year' in meta:
+                import time
+                time.sleep(1)
+                next_year = meta["next_year"]
+                index = meta["index"]
+                print(next_year)
+                try:
+                    spider.browser.find_element_by_css_selector('#year-list h2:nth-of-type({0}) '.format(index)).click()
+                except Exception as e:
+                    print(e)
+                    spider.browser.get(request.url)
+                    spider.browser.find_element_by_css_selector('#year-list h2:nth-of-type({0}) '.format(index)).click()
+            if 'next_month' in meta:
+                import time
+                time.sleep(1)
+                next_month = meta["next_month"]
+                print(next_month)
+                try:
+                    spider.browser.find_element_by_css_selector('#year-list div[style="display: block;"] span:nth-child({0})'.format(next_month)).click()
+                except Exception as e:
+                    print(e)
+                    spider.browser.get(request.url)
+                    spider.browser.find_element_by_css_selector(
+                        "#year-list div[style='display:block;'] span:nth-child('" + next_month + "') ").click()
+            if 'next_page' in meta:
+                import time
+                time.sleep(1)
+                next_page = meta["next_page"]
+                print(next_page)
+                try:
+                    spider.browser.find_element_by_css_selector('#page_article a[data-page="' + next_page + '"]').click()
+                except Exception as e:
+                    spider.browser.get(request.url)
+                    spider.browser.find_element_by_css_selector(
+                        '#page_article a[data-page="' + next_page + '"]').click()
+            import time
+            time.sleep(1)
+            return HtmlResponse(url=spider.browser.current_url, body=spider.browser.page_source, encoding="utf-8", request=request)
+
+
+class RandomUserAgentMiddleware(object):
+    #随机更换user-agent
+    def __init__(self, crawler):
+        super(RandomUserAgentMiddleware, self).__init__()
+        self.crawler = crawler
+        # self.ua = UserAgent(verify_ssl=False, use_cache_server=False)
+        # self.ua.update()
+        # self.ua_type = crawler.settings.get("RANDOM_UA_TYPE", "chrome")
+
+    @classmethod
+    def from_crawler(cls, crawler):
+        return cls(crawler)
+
+    def process_request(self, request, spider):
+        # def get_ua():
+        #     return getattr(self.ua, self.ua_type)
+        # user_agent = get_ua()
+        user_agent_list = self.crawler.settings.get('MY_USER_AGENT')
+        import random
+        user_agent = random.choice(user_agent_list)
+        request.headers.setdefault('User-Agent', user_agent)
+
+
+class RandomProxyMiddleware(object):
+    #动态设置ip代理
+    def process_request(self, request, spider):
+        get_ip = GetIp()
+        request.meta["proxy"] = get_ip.get_random_ip()
+
+
+class BlankPageMiddleware(object):
+    def process_response(self, request, response, spider):
+        text = response.text
+        # regx = ".*?<body>(.*)?</body>.*"
+        # match_obj = re.match(regx, text)
+        if text.__len__() < 100:
+            logging.info("重试" + text)
+            import time
+            time.sleep(2)
+            return self._retry(request, "retry", spider) or response
+        return response
+
+    def _retry(self, request, reason, spider):
+        retryreq = request.copy()
+        retryreq.dont_filter = True
+        retryreq.priority = request.priority
+        return retryreq

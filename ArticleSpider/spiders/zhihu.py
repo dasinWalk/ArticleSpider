@@ -13,6 +13,7 @@ from scrapy.loader import ItemLoader
 from ArticleSpider.items import ZhihuQuestionItem, ZhihuAnswerItem
 
 
+#测试知乎数据爬取
 class ZhihuSpider(scrapy.Spider):
     name = 'zhihu'
     allowed_domains = ['www.zhihu.com']

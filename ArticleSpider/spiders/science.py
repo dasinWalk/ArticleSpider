@@ -33,6 +33,7 @@ def remove_comment_tags(value):
         return value[0]
 
 
+# 科学网 头条和要闻 数据爬取
 class ScienceSpider(scrapy.Spider):
     name = 'science'
     allowed_domains = ['news.sciencenet.cn']

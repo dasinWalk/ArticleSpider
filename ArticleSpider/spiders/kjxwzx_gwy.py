@@ -21,7 +21,7 @@ def get_real_date(value):
     else:
         return value[0].strip()
 
-
+# 中华人民共和国国家卫生健康委员会数据爬取 现在网址已变更为http://www.nhc.gov.cn/ 需要重新修改爬虫逻辑
 class kjxwzx_gwySpider(scrapy.Spider):
     name = 'kjxwzx_gwy'
     allowed_domains = ['www.gov.cn']

@@ -22,6 +22,7 @@ def remove_comment_tags(value):
         return value[0]
 
 
+# 中华人民共和国国家卫生健康委员会数据爬取 现在网址已变更为http://www.nhc.gov.cn/ 需要重新修改爬虫逻辑
 class kjxwzxSpider(scrapy.Spider):
     name = 'kjxwzx'
     allowed_domains = ['www.nhfpc.gov.cn']

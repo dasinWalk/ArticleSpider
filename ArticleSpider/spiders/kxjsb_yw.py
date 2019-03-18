@@ -27,7 +27,7 @@ def get_real_date(value):
         date = date.replace(")", "")
         return date
 
-
+# 中华人民共和国科学技术部 要闻数据爬取
 class kxjsb_ywSpider(scrapy.Spider):
     name = 'kxjsb_yw'
     allowed_domains = ['www.most.gov.cn']

@@ -11,16 +11,49 @@ from scrapy.exporters import JsonItemExporter
 import MySQLdb
 import MySQLdb.cursors
 import cx_Oracle
+import logging
+from ArticleSpider.utils import Config
 from twisted.enterprise import adbapi
 from scrapy.pipelines.files import FilesPipeline
 from scrapy import Request
 from scrapy.exceptions import DropItem
 from urllib.parse import urlparse
 from os.path import basename, dirname, join
+from pymongo import MongoClient
+import time
+try:
+    from urllib.parse import quote_plus
+except ImportError:
+    from urllib import quote_plus
+from ArticleSpider.utils.RedisUtils import RedisHelper
+from ArticleSpider.utils.common import get_filter_str
+import os
+obj = RedisHelper()
 
 
 class ArticlespiderPipeline(object):
     def process_item(self, item, spider):
+        return item
+
+
+class TextWithEncodingPipeline(object):
+    def process_item(self, item, spider):
+        year = item["year"]
+        pwd = os.getcwd()
+        path_year = pwd + '/' + year
+        if not os.path.exists(year):
+            os.mkdir(path_year)
+        os.chdir(path_year)
+        file_name = get_filter_str(str(item["title_cn"])) + ".txt"
+        self.file = codecs.open(file_name, 'w', encoding='utf-8')
+        lines = item["title_cn"] + "\n"
+        lines = lines + item["title_en"] + "\n"
+        field_map = item["field_map"]
+        for fk in field_map:
+            lines = lines + fk + "：" + field_map[fk] + "\n"
+        self.file.write(lines)
+        self.file.close()
+        os.chdir(pwd)
         return item
 
 
@@ -61,10 +94,10 @@ class MysqlTwistedPipline(object):
     @classmethod
     def from_settings(cls, settings):
         dbparms = dict(
-            host = settings["MYSQL_HOST"],
-            db = settings["MYSQL_DBNAME"],
-            user = settings["MYSQL_USER"],
-            passwd = settings["MYSQL_PASSWORD"],
+            host=settings["MYSQL_HOST"],
+            db=settings["MYSQL_DBNAME"],
+            user=settings["MYSQL_USER"],
+            passwd=settings["MYSQL_PASSWORD"],
             charset='utf8',
             cursorclass=MySQLdb.cursors.DictCursor,
             use_unicode=True,
@@ -80,7 +113,7 @@ class MysqlTwistedPipline(object):
 
     def handle_error(self, failure, item, spider):
         #处理异步插入的异常
-        print (failure)
+        print(failure)
 
     def do_insert(self, cursor, item):
         #执行具体的插入
@@ -159,50 +192,116 @@ class MyFilePipeline(FilesPipeline):
 
 
 class MultipleTwistedPipline(object):
-    watch_map = {}
-    def __init__(self, dbpool, oracleparms):
-        self.dbpool = dbpool
-        self.oracleparms = oracleparms
+    watch_dog = ''
+    success = ''
+
+    def __init__(self, db_pool):
+        self.db_pool = db_pool
+        #self.oracleparms = oracleparms
+
+    # @classmethod
+    # def from_settings(cls, settings):
+    #     dbparms = dict(
+    #         host=settings["MYSQL_HOST"],
+    #         db=settings["MYSQL_DBNAME"],
+    #         user=settings["MYSQL_USER"],
+    #         passwd=settings["MYSQL_PASSWORD"],
+    #         charset='utf8',
+    #         cursorclass=MySQLdb.cursors.DictCursor,
+    #         use_unicode=True,
+    #     )
+    #     oracleparms = dict(
+    #         host=settings["ORACLE_HOST"],
+    #         db=settings["ORACLE_DBNAME"],
+    #         user=settings["ORACLE_USER"],
+    #         passwd=settings["ORACLE_PASSWORD"],
+    #         charset='utf8',
+    #         cursorclass=MySQLdb.cursors.DictCursor,
+    #         use_unicode=True,
+    #     )
+    #     dbpool = adbapi.ConnectionPool("MySQLdb", **dbparms)
+    #     return cls(dbpool, oracleparms)
 
     @classmethod
-    def from_settings(cls, settings):
-        dbparms = dict(
-            host=settings["MYSQL_HOST"],
-            db=settings["MYSQL_DBNAME"],
-            user=settings["MYSQL_USER"],
-            passwd=settings["MYSQL_PASSWORD"],
-            charset='utf8',
-            cursorclass=MySQLdb.cursors.DictCursor,
-            use_unicode=True,
-        )
-        oracleparms = dict(
-            host=settings["ORACLE_HOST"],
-            db=settings["ORACLE_DBNAME"],
-            user=settings["ORACLE_USER"],
-            passwd=settings["ORACLE_PASSWORD"],
-            charset='utf8',
-            cursorclass=MySQLdb.cursors.DictCursor,
-            use_unicode=True,
-        )
-        dbpool = adbapi.ConnectionPool("MySQLdb", **dbparms)
-        return cls(dbpool, oracleparms)
+    def from_crawler(cls, crawler):
+        db_pool = None
+        try:
+            db_map = crawler.spider.db_map
+            db_type = db_map['type']
+            ##1:mysql 2:oracle 3:mongodb 4:hdfs
+            if db_type == '1':
+                db_params = dict(
+                    host=db_map['host'],
+                    db=db_map['dbName'],
+                    port=db_map['port'],
+                    user=db_map['userName'],
+                    passwd=db_map['password'],
+                    charset='utf8',
+                    cursorclass=MySQLdb.cursors.DictCursor,
+                    use_unicode=True,
+                )
+                db_pool = adbapi.ConnectionPool("MySQLdb", **db_params)
+            elif db_type == '2':
+                dsn = db_map['host'] + "/" + db_map['dbName']
+                db_pool = adbapi.ConnectionPool("cx_oracle", user=db_map['userName'],
+                                                password=db_map['password'], dsn=dsn)
+            elif db_type == '3':
+                host = db_map['host']
+                user = db_map['userName']
+                passwd = db_map['password']
+                port = db_map['port']
+                mongodb_name = db_map['dbName']
+                table_name = db_map['tableName']
+                mongodb_uri = 'mongodb://' + host + ':' + port + '/'  # 没有账号密码验证
+                if user != '':
+                    mongodb_uri = "mongodb://%s:%s@%s" % (quote_plus(user), quote_plus(passwd), host)
+                client = MongoClient(mongodb_uri)  # 创建了与mongodb的连接
+                db = client[mongodb_name]
+                db_pool = db[table_name]  # 获取数据库中表的游标
+        except AttributeError as e:
+            print('AttributeError', e)
+        if db_pool is None:
+            db_params = dict(
+                host=Config.MYSQL_HOST,
+                db=Config.MYSQL_DBNAME,
+                port=Config.MYSQL_DBPORT,
+                user=Config.MYSQL_USER,
+                passwd=Config.MYSQL_PASSWORD,
+                charset='utf8',
+                cursorclass=MySQLdb.cursors.DictCursor,
+                use_unicode=True,
+                )
+            db_pool = adbapi.ConnectionPool("MySQLdb", **db_params)
+        return cls(db_pool)
 
     def process_item(self, item, spider):
         #使用twisted将mysql插入变成异步执行
-        query = self.dbpool.runInteraction(self.do_insert, item)
-        query.addErrback(self.handle_error, item, spider) #处理异常
+        if type(self.db_pool) == adbapi.ConnectionPool:
+            query = self.db_pool.runInteraction(self.do_insert, item)
+            query.addErrback(self.handle_error, item, spider) #处理异常
+        else:
+            self.db_pool.insert(dict(item))
 
+    # 处理异步插入的异常
     def handle_error(self, failure, item, spider):
-        #处理异步插入的异常
         print(failure)
+        logging.info(failure)
 
     def do_insert(self, cursor, item):
-        if len(self.watch_map) < 1:
-            alter_sql, db_type, task_id = item.get_init_sql()
-            if alter_sql != '':
-                cursor.execute(alter_sql)
-            self.watch_map[task_id] = '1'
-        #执行具体的插入
-        #根据不同的item 构建不同的sql语句并插入到mysql中
-        insert_sql, params = item.get_insert_sql()
-        cursor.execute(insert_sql, params)
+        try:
+            while self.watch_dog == '':
+                watch_dog = item.get_task_id()
+                rt = obj.set_lock(self.watch_dog, 'value')
+                if rt:
+                    if self.watch_dog == '':
+                        alter_sql, db_type, task_id = item.get_init_sql()
+                        if alter_sql != '':
+                            logging.info("添加新的字段成功")
+                            cursor.execute(alter_sql)
+                        self.watch_dog = watch_dog
+
+            insert_sql, params = item.get_insert_sql()
+            cursor.execute(insert_sql, params)
+        except Exception as e:
+            logging.info("插入数据异常")
+            logging.info(e)

@@ -25,6 +25,7 @@ def get_my_content(url, value):
     return new_content
 
 
+# 中国科学报社 最新动态数据爬取
 class zgkxbSpider(scrapy.Spider):
     name = 'zgkxb'
     allowed_domains = ['www.csd.cas.cn']
