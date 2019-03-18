@@ -1,0 +1,52 @@
+#!/bin/bash
+PORT=6800
+HOME="/var/scrapyd"
+BIN="/usr/local/python3/bin/scrapyd"
+ 
+pid=`netstat -lnopt | grep :$PORT | awk '/python/{gsub(/\/python/,"",$7);print $7;}'`
+start() {
+   if [ -n "$pid" ]; then
+      echo "server already start,pid:$pid"
+      return 0
+   fi
+ 
+   cd $HOME
+   nohup $BIN >> $HOME/scrapyd.log 2>&1 &
+   echo "start at port:$PORT"
+}
+ 
+stop() {
+   if [ -z "$pid" ]; then
+      echo "not find program on port:$PORT"
+      return 0
+   fi
+ 
+   #结束程序，使用讯号2，如果不行可以尝试讯号9强制结束
+   kill -9 $pid
+   echo "kill program use signal 9,pid:$pid"
+}
+ 
+status() {
+   if [ -z "$pid" ]; then
+      echo "not find program on port:$PORT"
+   else
+      echo "program is running,pid:$pid"
+   fi
+}
+ 
+case $1 in
+   start)
+      start
+   ;;
+   stop)
+      stop
+   ;;
+   status)
+      status
+   ;;
+   *)
+      echo "Usage: {start|stop|status}"
+   ;;
+esac
+ 
+exit 0
