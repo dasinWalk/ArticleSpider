@@ -5,12 +5,14 @@ from ArticleSpider.utils.nativemysql import NativeMysql
 import platform
 import requests
 from ArticleSpider.utils.common import get_spider_param
+from ArticleSpider.utils.RedisUtils import RedisHelper
 from ArticleSpider.utils.common import create_table_id, get_now_date
 import uuid
 import json
 import logging
 import pika
 
+obj = RedisHelper()
 
 credentials = pika.PlainCredentials('admin', '123456')
 connection = pika.BlockingConnection(pika.ConnectionParameters('10.1.85.35', '5672', '/', credentials))

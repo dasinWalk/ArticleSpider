@@ -130,19 +130,6 @@ def get_mach_result(value):
     return True
 
 
-class JSPageMiddleware(object):
-    #通过chrom请求动态网页
-    def process_request(self, request, spider):
-        mach_obj = get_mach_result(request.url)
-
-        if spider.name in ["kjjys", 'kjxwzx', 'kjxwzx_gwy', 'kxjsb_yw', 'gjzrkx', 'zgkxb', 'gjypjg',
-                           'science', 'pharmnet', 'common'] and 'jpg' not in request.url and 'JPG' not in request.url and mach_obj:
-            spider.browser.get(request.url)
-            import time
-            time.sleep(2)
-            return HtmlResponse(url=spider.browser.current_url, body=spider.browser.page_source, encoding="utf-8", request=request)
-
-
 class NextPageMiddleware(object):
     #通过chrom请求动态网页
     def process_request(self, request, spider):
@@ -219,6 +206,19 @@ class RandomProxyMiddleware(object):
     def process_request(self, request, spider):
         get_ip = GetIp()
         request.meta["proxy"] = get_ip.get_random_ip()
+
+
+class JSPageMiddleware(object):
+    #通过chrom请求动态网页
+    def process_request(self, request, spider):
+        mach_obj = get_mach_result(request.url)
+
+        if spider.name in ["kjjys", 'kjxwzx', 'kjxwzx_gwy', 'kxjsb_yw', 'gjzrkx', 'zgkxb', 'gjypjg',
+                           'science', 'pharmnet', 'common'] and 'jpg' not in request.url and 'JPG' not in request.url and mach_obj:
+            spider.browser.get(request.url)
+            import time
+            time.sleep(2)
+            return HtmlResponse(url=spider.browser.current_url, body=spider.browser.page_source, encoding="utf-8", request=request)
 
 
 class BlankPageMiddleware(object):

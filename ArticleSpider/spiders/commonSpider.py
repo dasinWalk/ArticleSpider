@@ -131,12 +131,23 @@ class CommonSpider(RedisSpider):#scrapy.Spider
         self.page_map = valuemap['pageMap']
         #创建表 初始化表字段
         task_id = self.db_map['task_id']
+        #删除redis中缓存的任务信息 start
+        obj.del_key(task_id)
+        obj.del_key(task_id + 'dog')
+        obj.del_key(task_id + 'node_list')
+        if obj.if_exist_key(task_id, 'success_num'):
+            obj.remove_hash("'" + task_id + "'", {'success_num'})
+        if obj.if_exist_key(task_id, 'failed_num'):
+            obj.remove_hash("'" + task_id + "'", {'failed_num'})
+        obj.set_value(task_id)
+        # 添加看门狗，第一个item时初始化字段用
+        obj.set_value(task_id + 'dog')
+        # 删除redis中缓存的任务信息 end
         self.task_id = task_id
         task_value = obj.inc_value(task_id)
         if task_value == 1:
             Mysql.create_table_by_name(Mysql(self.db_map), db_map=self.db_map, field_map=self.field_map)
-        self.start_urls.append(self.url_list.pop(0))
-        self.allowed_domains.append(self.url_list.pop(0))
+        # self.allowed_domains.append(self.url_list[1])
         if sysstr == 'Windows':
             self.browser = webdriver.Chrome(executable_path="E:/pythonDriver/chromedriver.exe")
         else:
@@ -178,16 +189,19 @@ class CommonSpider(RedisSpider):#scrapy.Spider
             p_node_list = self.node_list
         else:
             p_node_list = json.loads(p_node_list)
-        start_node = p_node_list.pop(0)
+        start_node = p_node_list.pop(0) #将第一步节点xpath 取出
+        # 将点击xpath路径信息 存入redis
         obj.set_list(self.task_id + 'node_list', json.dumps(p_node_list))
         post_nodes = response.xpath(start_node)
         last_page_count = response.meta.get("last_page_count", 0)
-        for post_node in post_nodes:
-            astart = post_node.css("a ::text").extract_first("")
-            post_url = post_node.css("a::attr(href)").extract_first("")
-            logging.info("start crawl data ===1" + post_url)
-            yield Request(url=parse.urljoin(response.url, post_url), headers=self.headers, meta={"astart": astart},
-                          callback=self.parse_middle)
+        try:
+            for post_node in post_nodes:
+                astart = post_node.css("a ::text").extract_first("")
+                post_url = post_node.css("a::attr(href)").extract_first("")
+                yield Request(url=parse.urljoin(response.url, post_url), meta={"astart": astart},
+                              callback=self.parse_middle)
+        except Exception as e:
+            print(e)
         #是否获取了下一页的节点
         next_node = response.meta.get("next_node", "")
         if next_node == '' and len(self.next_list) > 0:
@@ -239,16 +253,17 @@ class CommonSpider(RedisSpider):#scrapy.Spider
                                       meta={"next_node": next_node, "last_page_count": last_page_count,
                                             "last_page": last_page, "islast": islast}, callback=self.parse)
 
-    @retry
     def parse_middle(self, response):
         middle_count_json = response.meta.get("middle_count_json", "")
         middle_count_map = {}
         if middle_count_json == '':
+            # atext = "第一步点击热链接的内容 如 国务院文件" 键值对
             middle_count_map[get_atextname(len(middle_count_map))] = response.meta.get("astart", "")
         else:
             middle_count_map = json.loads(middle_count_json)
         p_node_list_key = self.task_id + 'node_list'
         logging.info("start crawl data 3===p_node_list_key" + p_node_list_key)
+        # 从redis 中取出扒取步骤对应的xpath 信息
         p_node_list = obj.get_value(p_node_list_key)
         if p_node_list is None:
             p_node_list = self.node_list
@@ -434,6 +449,7 @@ class CommonSpider(RedisSpider):#scrapy.Spider
         middle_ct_map = json.loads(middle_count_json)
         title = '-'
         content = '-'
+        #middle_ct_map 记录动态添加的字段和字段对应的值 如果要扒取的字段有title和content则 不处理
         for mitem in self.field_map:
             field_node = self.field_map[mitem]
             field_value = response.xpath(field_node+"/text()").extract_first("").strip()

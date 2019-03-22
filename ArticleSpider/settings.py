@@ -76,8 +76,8 @@ DOWNLOAD_DELAY = 3
 # 通用爬虫设置 不使用时先注释掉
 DOWNLOADER_MIDDLEWARES = {
    'ArticleSpider.middlewares.JSPageMiddleware': 10,
-   'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware': None,
-   'ArticleSpider.middlewares.RandomUserAgentMiddleware': 1,
+   #'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware': None,
+   #'ArticleSpider.middlewares.RandomUserAgentMiddleware': 1,
    'ArticleSpider.middlewares.BlankPageMiddleware': 3,
    #'ArticleSpider.middlewares.RandomProxyMiddleware': 2,
 }

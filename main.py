@@ -26,7 +26,7 @@ sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 # execute(["scrapy", "crawl", "gjypjg"])
 # execute(["scrapy", "crawl", "science"])
 # execute(["scrapy", "crawl", "pharmnet"])
-execute(["scrapy", "crawl", "chemy"])
+# execute(["scrapy", "crawl", "chemy"])
 
 #中国医药网
 # url_map = {}
@@ -94,60 +94,71 @@ execute(["scrapy", "crawl", "chemy"])
 # field_type['publish_time'] = 'date'
 # field_type['content'] = 'text'
 
-# url_map = {}
-# next_map = {}
-# field_map = {}
-# db_map = {}
-# node_map = {}
-# page_map = {}
-# field_type = {}
-# url_map['start_url'] = 'http://www.nhc.gov.cn/'
-# url_map['domain'] = 'www.nhc.gov.cn'
-#
-# node_map['start_node'] = "//html/body/div[@class='bgfff w1100 datenews']/div[@class='index_b mt25']/div[@class='index_b_l fl']/div[@class='tabBox mt20 mb15']/ul[@class='tabTag']/li/a[@class='tab_active']"
-# node_map['second_node'] = "//html/body/div[@class='w1060 bgfff p20']/div[@class='list']/ul[@class='zxxx_list']"
-#
-# next_map['a_url_next'] = ''
-# # 直接指定下一页的节点，翻页的话节点位置会发生变化
-# next_map['b_url_next'] = ''
-# # 1:mysql 2:oracle 3:mongo 4 hdfs
-# db_map['type'] = '1'
-# db_map['tableName'] = 'web_site_data4'
-# db_map['task_id'] = '8a81d5a36835caef016855c7ef1c0002'
-# db_map['host'] = '10.1.85.36'
-# db_map['port'] = 3306
-# db_map['dbName'] = 'test'
-# db_map['userName'] = 'root'
-# db_map['password'] = 'skq123123'
-#
-# # page_map['1_per_page'] = 8
-# # page_map['1_total_page'] = 125
-# # page_map['1_total_count'] = 1000
-# # page_map['1_total_node'] = ''
-# # page_map['1_total_page_node'] = ''
-#
-# field_map['ziduan1'] = "//html/body/div[@class='w1060 bgfff p20']/div[@class='list']/div[@class='tit']"
-# field_map['ziduan2'] = "//html/body/div[@class='w1060 bgfff p20']/div[@class='list']/div[@class='source']/span"
-#
-# # field_type['ziduan1'] = 'text'
-# # field_type['ziduan2'] = 'date'
-#
-# valueMap = {}
-# valueMap['crawl_id'] = 'f37d161cf3aa11e8b03cbca8a6e403d7'
-# valueMap['urlMap'] = url_map
-# valueMap['nextMap'] = next_map
-# valueMap['fieldMap'] = field_map
-# valueMap['dbMap'] = db_map
-# valueMap['nodeMap'] = node_map
-# valueMap['pageMap'] = page_map
-# valueMap['fieldType'] = field_type
-# jsonMap = json.dumps(valueMap)
+url_map = {}
+next_map = {}
+field_map = {}
+db_map = {}
+node_map = {}
+page_map = {}
+field_type = {}
+url_map['start_url'] = 'http://www.nhc.gov.cn/'
+url_map['domain'] = 'www.nhc.gov.cn'
+
+# 第一步点击的节点xpath 路径 http://www.nhc.gov.cn/ 国务院文件 现在前端获取的xpath路径有问题 需要修改
+node_map['start_node'] = "//html/body/div[@class='index_bg']/div[@class='w1180']/div[@class='inConbot']/div[@class='fl slideTxtBox dttzTab']/div[@class='bd']/div[1]/ul[@class='menu']/li[2]/a"
+# 点击进去 定位扒取列表xpath
+node_map['second_node'] = "//html/body/div[@class='w1024 mb50']/div[@class='list']/ul[@class='zxxx_list']"
+# node_map['third_node'] = "//html/body/div[@class='w1024 mb50']/div[@class='list']/ul[@class='zxxx_list']/li[1]/a" 详情列表热链接 xpath不需要
+
+# 定义翻页信息
+next_map['a_url_next'] = ''
+# 直接指定下一页的节点，翻页的话节点位置会发生变化
+next_map['b_url_next'] = "//html/body/div[@class='w1024 mb50']/div[@class='list']/div[@class='pagediv']"
+# 1:mysql 2:oracle 3:mongo 4 hdfs
+db_map['type'] = '1'
+db_map['tableName'] = 'web_site_data12'
+db_map['task_id'] = '40287e81699e055e01699e1bc8f80001'
+db_map['host'] = '10.1.85.36'
+db_map['port'] = 3306
+db_map['dbName'] = 'test'
+db_map['userName'] = 'root'
+db_map['password'] = 'skq123123'
+
+page_map['0_per_page'] = ''
+page_map['0_total_page'] = ''
+page_map['0_total_node'] = ''
+page_map['0_total_page_node'] = ''
+
+page_map['1_per_page'] = 24
+page_map['1_total_page'] = 19
+page_map['1_total_node'] = ''
+# 翻页的总条数信息 可选，如果没有的话 模拟点击下一页 直到没有下一页 则扒取完毕
+page_map['1_total_page_node'] = "//html/body/div[@class='w1024 mb50']/div[@class='list']/div[@class='pagediv']"
+
+# 扒取详情页字段xpath路径信息
+field_map['ziduan1'] = "//html/body/div[@class='w1024 mb50']/div[@class='list']/div[@class='tit']"
+field_map['ziduan2'] = "//html/body/div[@class='w1024 mb50']/div[@class='list']/div[@class='source']/span[1]"
+
+# 后续前端 如果能够判断出字段类型 可以传递对应的类型值 text为文字内容 date为日期类型
+# field_type['ziduan1'] = 'text'
+# field_type['ziduan2'] = 'date'
+
+valueMap = {}
+valueMap['crawl_id'] = 'f37d161cf3aa11e8b03cbca8a6e403d7'
+valueMap['urlMap'] = url_map
+valueMap['nextMap'] = next_map
+valueMap['fieldMap'] = field_map
+valueMap['dbMap'] = db_map
+valueMap['nodeMap'] = node_map
+valueMap['pageMap'] = page_map
+valueMap['fieldType'] = field_type
+jsonMap = json.dumps(valueMap)
 # myMap = {}
 # myMap["name"] = 'sara'
 # myMap["age"] = 7
 # myMap["class"] = 'first'
 
-#execute(["scrapy", "crawl", "common", '-avalue='+jsonMap])
+execute(["scrapy", "crawl", "common", '-avalue='+jsonMap])
 # if __name__ == "__main__":
 #     print("main")
 #     pool = multiprocessing.Pool(processes=3)
