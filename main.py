@@ -108,7 +108,8 @@ url_map['domain'] = 'www.nhc.gov.cn'
 node_map['start_node'] = "//html/body/div[@class='index_bg']/div[@class='w1180']/div[@class='inConbot']/div[@class='fl slideTxtBox dttzTab']/div[@class='bd']/div[1]/ul[@class='menu']/li[2]/a"
 # 点击进去 定位扒取列表xpath
 node_map['second_node'] = "//html/body/div[@class='w1024 mb50']/div[@class='list']/ul[@class='zxxx_list']"
-# node_map['third_node'] = "//html/body/div[@class='w1024 mb50']/div[@class='list']/ul[@class='zxxx_list']/li[1]/a" 详情列表热链接 xpath不需要
+# 详情列表热链接 xpath不需要 爬虫只需要到列表页即可
+# node_map['third_node'] = "//html/body/div[@class='w1024 mb50']/div[@class='list']/ul[@class='zxxx_list']/li[1]/a"
 
 # 定义翻页信息
 next_map['a_url_next'] = ''
@@ -117,7 +118,7 @@ next_map['b_url_next'] = "//html/body/div[@class='w1024 mb50']/div[@class='list'
 # 1:mysql 2:oracle 3:mongo 4 hdfs
 db_map['type'] = '1'
 db_map['tableName'] = 'web_site_data12'
-db_map['task_id'] = '40287e81699e055e01699e1bc8f80001'
+db_map['task_id'] = '8a81d5a369b42e4f0169be640323001a'
 db_map['host'] = '10.1.85.36'
 db_map['port'] = 3306
 db_map['dbName'] = 'test'
@@ -129,8 +130,8 @@ page_map['0_total_page'] = ''
 page_map['0_total_node'] = ''
 page_map['0_total_page_node'] = ''
 
-page_map['1_per_page'] = 24
-page_map['1_total_page'] = 19
+page_map['1_per_page'] = 10
+page_map['1_total_page'] = 10
 page_map['1_total_node'] = ''
 # 翻页的总条数信息 可选，如果没有的话 模拟点击下一页 直到没有下一页 则扒取完毕
 page_map['1_total_page_node'] = "//html/body/div[@class='w1024 mb50']/div[@class='list']/div[@class='pagediv']"
@@ -144,7 +145,7 @@ field_map['ziduan2'] = "//html/body/div[@class='w1024 mb50']/div[@class='list']/
 # field_type['ziduan2'] = 'date'
 
 valueMap = {}
-valueMap['crawl_id'] = 'f37d161cf3aa11e8b03cbca8a6e403d7'
+valueMap['crawl_id'] = '0681a572510611e9a52be0db55fe65dc'
 valueMap['urlMap'] = url_map
 valueMap['nextMap'] = next_map
 valueMap['fieldMap'] = field_map

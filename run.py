@@ -4,7 +4,6 @@ import os
 from ArticleSpider.utils.nativemysql import NativeMysql
 import platform
 import requests
-from ArticleSpider.utils.common import get_spider_param
 from ArticleSpider.utils.RedisUtils import RedisHelper
 from ArticleSpider.utils.common import create_table_id, get_now_date
 import uuid
@@ -101,10 +100,10 @@ def add_crawl_record(task_id):
     tid = create_table_id()
     create_time = get_now_date()
     sql = """
-          insert into crawl_record (id,task_id,create_time,start_time,crawl_num,in_db_num) 
-          values (%s, %s, %s, %s, %s, %s)
+          insert into crawl_record (id,task_id,create_time,start_time,crawl_num,in_db_num,history) 
+          values (%s, %s, %s, %s, %s, %s, %s)
         """
-    params = (tid, task_id, create_time, create_time, 0, 0)
+    params = (tid, task_id, create_time, create_time, 0, 0, 0)
     mysql2._execute_commit(sql, arg=params)
     return tid
 
